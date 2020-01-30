@@ -30,10 +30,10 @@
       "@id": "edam:topic_3948"
     },
     {
-      "@id": "edam:topic_3930"
+      "@id": "edam:topic_3510"
     },
     {
-      "@id": "edam:topic_3510"
+      "@id": "edam:topic_3930"
     }
   ],
   "sc:citation": "pubmed:25378316",
@@ -44,9 +44,9 @@
   "sc:isAccessibleForFree": true,
   "sc:name": "IMGT DomainDisplay",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:softwareHelp": {
     "@id": "http://www.imgt.org/3Dstructure-DB/doc/IMGTDomainGapAlign.shtml"
