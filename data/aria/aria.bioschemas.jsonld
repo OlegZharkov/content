@@ -10,19 +10,19 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btl589",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://doi.org/10.1007/978-1-61779-480-3_23",
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://doi.org/10.1007/s10858-015-9928-5",
+      "@id": "https://doi.org/10.1093/bioinformatics/19.2.315",
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/19.2.315",
+      "@id": "https://doi.org/10.1093/bioinformatics/btl589",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://doi.org/10.1007/s10858-015-9928-5",
       "@type": "sc:CreativeWork"
     },
     {
@@ -38,22 +38,22 @@
       "sc:additionalType": "Command-line tool",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0078"
-        },
-        {
           "@id": "edam:topic_0176"
         },
         {
-          "@id": "edam:topic_0081"
+          "@id": "edam:topic_0078"
         },
         {
           "@id": "edam:topic_3332"
         },
         {
-          "@id": "edam:topic_3306"
+          "@id": "edam:topic_0081"
         },
         {
           "@id": "edam:topic_0593"
+        },
+        {
+          "@id": "edam:topic_3306"
         },
         {
           "@id": "edam:topic_2275"
@@ -68,10 +68,10 @@
           "@id": "https://doi.org/10.1007/978-1-61779-480-3_23"
         },
         {
-          "@id": "https://doi.org/10.1093/bioinformatics/btl589"
+          "@id": "https://doi.org/10.1007/s10858-015-9928-5"
         },
         {
-          "@id": "https://doi.org/10.1007/s10858-015-9928-5"
+          "@id": "https://doi.org/10.1093/bioinformatics/btl589"
         },
         {
           "@id": "https://doi.org/10.1093/bioinformatics/19.2.315"
@@ -80,21 +80,21 @@
       "sc:description": "A software for automated NOE assignment and NMR structure calculation.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2476"
-        },
-        {
           "@id": "edam:operation_0477"
         },
         {
           "@id": "edam:operation_1844"
+        },
+        {
+          "@id": "edam:operation_2476"
         }
       ],
       "sc:isAccessibleForFree": true,
       "sc:license": "MIT",
       "sc:name": "ARIA",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "Institut Pasteur",
       "sc:softwareHelp": {

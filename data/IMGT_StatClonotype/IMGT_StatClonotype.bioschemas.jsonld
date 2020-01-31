@@ -56,10 +56,10 @@
   ],
   "sc:softwareHelp": [
     {
-      "@id": "http://www.imgt.org/StatClonotype/IMGTStatClonotypeDoc.html"
+      "@id": "http://www.imgt.org/StatClonotype/IMGTStatClonotypeDoc.html#upgrade"
     },
     {
-      "@id": "http://www.imgt.org/StatClonotype/IMGTStatClonotypeDoc.html#upgrade"
+      "@id": "http://www.imgt.org/StatClonotype/IMGTStatClonotypeDoc.html"
     }
   ],
   "sc:url": "http://www.imgt.org/StatClonotype/"
