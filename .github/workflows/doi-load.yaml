@@ -19,8 +19,8 @@ jobs:
       run: |
         sudo apt install python3-pip
         sudo apt install python3-setuptools
-        sudo pip3 install virtualenv 
-        sudo pip3 install ruamel.yaml
+        pip3 install ruamel.yaml
+        sudo pip3 install virtualenv
         virtualenv -p python3 venv
         . venv/bin/activate
         pip install wheel
