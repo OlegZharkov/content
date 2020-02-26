@@ -23,7 +23,7 @@ jobs:
         virtualenv -p python3 venv
         . venv/bin/activate	
         pip3 install setuptools wheel
-        pip3 install install ruamel.yaml
+        pip3 install ruamel.yaml
         pwd
         cd scripts/doi-collector
         python3 doi_collector.py {path}/data/
