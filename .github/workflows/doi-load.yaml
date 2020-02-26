@@ -12,18 +12,17 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: import bio.tools using the API
+    - name: spread doi among sources
       env:
         GITHUB_USER: ${{ secrets.GITHUB_USER }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         sudo apt install python3-pip
         sudo apt install python3-setuptools
-        pip3 install ruamel.yaml
         sudo pip3 install virtualenv
         virtualenv -p python3 venv
-        pip install wheel
-        pip install -r scripts/biotools-import/requirements.txt
+        . venv/bin/activate	
+        pip install install ruamel.yaml
         pwd
         cd scripts/doi-collector
         python doi_collector.py {path}/data/
