@@ -26,7 +26,7 @@ jobs:
         pip3 install ruamel.yaml
         pwd
         cd scripts/doi-collector
-        python3 doi_collector.py {path}/data/
+        python3 doi_collector.py $GITHUB_WORKSPACE/data/
         git config --local user.email "tpe-bot@github.com"
         git config --local user.name "Tools Platform Ecosystem bot"
         git commit -a -m "spread doi amongs sources"
