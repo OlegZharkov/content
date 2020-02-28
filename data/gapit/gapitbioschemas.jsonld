@@ -16,8 +16,8 @@
   "sc:name": "GAPIT",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.maizegenetics.net/gapit"
 }

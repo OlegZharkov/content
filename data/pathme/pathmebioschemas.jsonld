@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-019-2863-9",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/PathMe",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Daniel Domingo-Fernández",
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -34,10 +30,10 @@
           "@id": "edam:operation_3083"
         },
         {
-          "@id": "edam:operation_0277"
+          "@id": "edam:operation_3439"
         },
         {
-          "@id": "edam:operation_3439"
+          "@id": "edam:operation_0277"
         }
       ],
       "sc:license": "Apache-2.0",
@@ -48,6 +44,10 @@
         "Mac"
       ],
       "sc:url": "https://pathme.scai.fraunhofer.de/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-019-2863-9",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

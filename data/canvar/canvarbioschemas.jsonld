@@ -18,10 +18,10 @@
       ],
       "sc:citation": [
         "pubmed:28105316",
+        "pmcid:PMC5200944",
         {
           "@id": "https://doi.org/10.12688/F1000RESEARCH.10058.1"
-        },
-        "pmcid:PMC5200944"
+        }
       ],
       "sc:description": "Variant level frequency data from cancer germline sequencing studies.",
       "sc:featureList": [

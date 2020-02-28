@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Bionode Team",
   "sc:additionalType": [
-    "Web application",
     "Workflow",
     "Library",
+    "Web application",
     "Command-line tool"
   ],
   "sc:author": "Bionode Team",

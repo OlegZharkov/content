@@ -19,8 +19,8 @@
   "sc:name": "ComParaLogS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://biosrv.cab.unina.it/comparalogs/gene/search",
   "sc:version": "1"

@@ -22,8 +22,8 @@
   "sc:name": "SHAMAN",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "Institut Pasteur",
   "sc:url": "http://shaman.c3bi.pasteur.fr/"

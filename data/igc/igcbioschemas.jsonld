@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-3697-0386",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/igc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Liang-Bo Wang",
@@ -36,8 +32,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC5237550",
         "pubmed:28088185",
+        "pmcid:PMC5237550",
         {
           "@id": "https://doi.org/10.1186/s12859-016-1438-2"
         }
@@ -58,6 +54,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/iGC.html",
       "sc:version": "1.4.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-3697-0386",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1186/s12859-016-1438-2",

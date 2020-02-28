@@ -31,8 +31,8 @@
       },
       "sc:name": "OrthoVenn",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://www.bioinfogenome.net/OrthoVenn/"

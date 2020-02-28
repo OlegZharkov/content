@@ -15,8 +15,8 @@
   "sc:name": "AQUA-DUCT",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.aquaduct.pl/"
 }

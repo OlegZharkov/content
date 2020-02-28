@@ -27,8 +27,8 @@
       },
       "sc:name": "MaxReport",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://websdoor.net/bioinfo/maxreport/"

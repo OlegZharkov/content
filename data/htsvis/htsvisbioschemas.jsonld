@@ -16,8 +16,8 @@
   "sc:name": "HTSvis",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://htsvis.dkfz.de/HTSvis/"
 }

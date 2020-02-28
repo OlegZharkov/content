@@ -16,8 +16,8 @@
   "sc:name": "SLINK",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://watson.hgen.pitt.edu/docs/SLink.html"
 }

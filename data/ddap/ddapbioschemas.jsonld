@@ -19,8 +19,8 @@
   "sc:name": "DDAP",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://tylii.github.io/ddap"
 }

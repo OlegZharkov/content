@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/journal.pcbi.1005653",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/clic_pathway",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -17,8 +21,8 @@
         "Sarah E. Calvo"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -33,15 +37,11 @@
       },
       "sc:name": "CLIC",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://www.gene-clic.org/"
-    },
-    {
-      "@id": "https://doi.org/10.1371/journal.pcbi.1005653",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

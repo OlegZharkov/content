@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ450",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://orcid.org/0000-0002-7364-2202",
       "@type": "schema:Person"
     },
@@ -25,8 +21,8 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC6602512",
         "pubmed:31114925",
+        "pmcid:PMC6602512",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ450"
         }
@@ -46,11 +42,15 @@
       "sc:license": "Unlicense",
       "sc:name": "ImmuneRegulation",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://immuneregulation.mssm.edu"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ450",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

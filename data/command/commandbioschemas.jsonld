@@ -24,13 +24,13 @@
       "sc:description": "Web-based application used to download, collect and manage gene expression data from public databases.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3800"
+          "@id": "edam:operation_2495"
         },
         {
           "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3800"
         }
       ],
       "sc:license": "GPL-3.0",

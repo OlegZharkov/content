@@ -20,8 +20,8 @@
   "sc:name": "NCIgraph",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/NCIgraph.html",
   "sc:version": "1.22.0"

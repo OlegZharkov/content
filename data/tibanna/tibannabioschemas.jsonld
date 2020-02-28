@@ -15,8 +15,8 @@
     "Peter J. Park"
   ],
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "Software for scalable execution of portable pipelines on the cloud.",
   "sc:license": "MIT",

@@ -17,8 +17,8 @@
   "sc:name": "RibEx",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.ibt.unam.mx/biocomputo/RibEx.html"
 }

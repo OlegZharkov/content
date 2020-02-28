@@ -17,8 +17,8 @@
   "sc:name": "Holmes",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.cs.put.poznan.pl/mradom/Holmes/holmes.html"
 }

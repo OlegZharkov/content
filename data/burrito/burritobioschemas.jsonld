@@ -15,10 +15,10 @@
       "biotools:primaryContact": "Elhanan Borenstein",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC5837987",
         {
           "@id": "https://doi.org/10.3389/fmicb.2018.00365"
         },
+        "pmcid:PMC5837987",
         "pubmed:29545787"
       ],
       "sc:description": "Web-based tool for interactive exploration of metagenomic datasets, linking taxonomic and functional microbiome profiles.",
@@ -33,9 +33,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "BURRITO",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://elbo.gs.washington.edu/software_burrito.html"
     },

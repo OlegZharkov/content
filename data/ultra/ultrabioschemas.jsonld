@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Daniel Olson",
       "sc:citation": [
-        "pubmed:31080962",
         "pmcid:PMC6508075",
+        "pubmed:31080962",
         {
           "@id": "https://doi.org/10.1145/3233547.3233604"
         }
@@ -36,9 +36,9 @@
       "sc:license": "BSD-3-Clause",
       "sc:name": "ULTRA",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/TravisWheelerLab/ULTRA"
     }

@@ -18,8 +18,8 @@
   "sc:name": "cNMTF",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://lgl15.github.io/cnmtf_web/index.html"
 }

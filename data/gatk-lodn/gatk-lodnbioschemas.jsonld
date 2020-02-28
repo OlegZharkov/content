@@ -14,15 +14,11 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1186/s12859-016-1190-7",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/gatk-lodn",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Gastone Castellani",
         "Ítalo Faria do Valle",
+        "Gastone Castellani",
         {
           "@id": "http://orcid.org/0000-0003-3185-7456"
         }
@@ -52,10 +48,14 @@
       "sc:license": "Apache-1.0",
       "sc:name": "GATK-LODn",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://bitbucket.org/BBDA-UNIBO/wes-pipeline"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-016-1190-7",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

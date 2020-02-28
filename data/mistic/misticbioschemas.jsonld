@@ -17,8 +17,8 @@
   "sc:name": "MISTIC",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://mistic.leloir.org.ar"
 }

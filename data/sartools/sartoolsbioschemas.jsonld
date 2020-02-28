@@ -16,8 +16,8 @@
   "sc:name": "SARTools",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "Institut Pasteur",
   "sc:url": "https://github.com/PF2-pasteur-fr/SARTools",

@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/TOPAS-nBio",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Joost Verburg",
-        "Thomas Bortfeld"
+        "Thomas Bortfeld",
+        "Joost Verburg"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [

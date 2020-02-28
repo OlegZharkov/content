@@ -33,20 +33,20 @@
       "sc:description": "A system for the classification and annotation of protein sequences. It consists of a collection of manually curated family profiles for protein classification, and associated, manually created annotation rules that specify annotations that apply to family members. HAMAP is applied to bacterial, archaeal and eukaryotic proteins and used to annotate records in UniProtKB via UniProt's automatic annotation pipeline.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0338"
-        },
-        {
           "@id": "edam:operation_2995"
         },
         {
           "@id": "edam:operation_0361"
+        },
+        {
+          "@id": "edam:operation_0338"
         }
       ],
       "sc:name": "HAMAP",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",
       "sc:url": "http://hamap.expasy.org"

@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Jessica L. Larson",
-        "Gabriel Becker",
-        "Jason A. Hackney"
+        "Jason A. Hackney",
+        "Gabriel Becker"
       ],
       "edam:has_input": {
         "@id": "edam:data_2603"
@@ -24,8 +24,8 @@
         "@id": "edam:data_1270"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3316"
@@ -44,9 +44,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "ReportingTools",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ReportingTools.html",
       "sc:version": "2.14.0"

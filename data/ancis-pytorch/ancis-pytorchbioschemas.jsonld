@@ -11,12 +11,12 @@
   "@id": "https://bio.tools/ANCIS-Pytorch",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Menglin Jiang",
     "Qiaoying Huang",
-    "Dimitris N. Metaxas",
-    "Daniel J. Hoeppner",
     "Pengxiang Wu",
+    "Dimitris N. Metaxas",
     "Jingru Yi",
-    "Menglin Jiang"
+    "Daniel J. Hoeppner"
   ],
   "sc:additionalType": "Script",
   "sc:citation": "pubmed:31103790",

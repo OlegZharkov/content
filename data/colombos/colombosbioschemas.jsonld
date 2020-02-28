@@ -15,8 +15,8 @@
   "sc:name": "COLOMBOS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "Fondazione E. Mach",

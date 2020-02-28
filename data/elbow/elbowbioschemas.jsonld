@@ -22,8 +22,8 @@
   "sc:name": "ELBOW",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/ELBOW.html",
   "sc:version": "1.10.0"

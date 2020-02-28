@@ -17,8 +17,8 @@
   "sc:name": "K-Map",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://tanlab.ucdenver.edu/kMap/"
 }

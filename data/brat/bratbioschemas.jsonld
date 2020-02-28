@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/brat",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Pontus Stenetorp",
     "Sampo Pyysalo",
+    "Pontus Stenetorp",
     "Goran Topić"
   ],
   "sc:additionalType": "Web application",
@@ -21,9 +21,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "BRAT",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:url": "http://brat.nlplab.org/"
 }

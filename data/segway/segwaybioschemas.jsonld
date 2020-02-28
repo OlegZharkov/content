@@ -10,18 +10,18 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-4517-1562",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1038/nmeth.1937",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/segway",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
       "sc:author": [
+        "Eric Roberts",
         {
           "@id": "http://orcid.org/0000-0002-4517-1562"
-        },
-        "Eric Roberts"
+        }
       ],
       "sc:citation": [
         "pubmed:23221638",
@@ -36,15 +36,15 @@
       "sc:name": "Segway",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "University of Toronto",
-        "Princess Margaret Cancer Centre"
+        "Princess Margaret Cancer Centre",
+        "University of Toronto"
       ],
       "sc:url": "http://segway.hoffmanlab.org/",
       "sc:version": "1.4.0"
     },
     {
-      "@id": "https://doi.org/10.1038/nmeth.1937",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-4517-1562",
+      "@type": "schema:Person"
     }
   ]
 }

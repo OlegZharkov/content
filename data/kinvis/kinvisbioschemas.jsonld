@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/KinVis",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dr. Ehsan Ullah",
-    "Dr. Halima Bensmail"
+    "Dr. Halima Bensmail",
+    "Dr. Ehsan Ullah"
   ],
   "sc:additionalType": [
     "Web service",
@@ -24,8 +24,8 @@
   "sc:name": "KinVis",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://shiny-vis.qcri.org/public/kinvis/"
 }

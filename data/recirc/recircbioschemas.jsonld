@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "ReCirc",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://licpathway.net:8080/ReCirc/"

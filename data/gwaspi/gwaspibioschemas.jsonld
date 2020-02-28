@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Desktop application",
   "sc:author": [
-    "Arcadi Navarro Cuartiellas",
-    "Fernando Muñiz Fernando"
+    "Fernando Muñiz Fernando",
+    "Arcadi Navarro Cuartiellas"
   ],
   "sc:citation": "pubmed:21586520",
   "sc:contributor": [
@@ -24,8 +24,8 @@
   "sc:name": "Genome Wide Association Study pipeline (GWASpi)",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "upf.edu",

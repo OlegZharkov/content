@@ -17,8 +17,8 @@
   "sc:name": "EBI patent sequence database",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.ebi.ac.uk/patentdata/nr/"
 }

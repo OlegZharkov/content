@@ -15,8 +15,8 @@
   "sc:description": "Cell line integrated molecular authentication.",
   "sc:name": "CLIMA",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "IRCSS AOU San Martino IST",

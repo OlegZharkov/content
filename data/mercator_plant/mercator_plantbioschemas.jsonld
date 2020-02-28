@@ -17,8 +17,8 @@
   "sc:name": "Mercator",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://mapman.gabipd.org/web/guest/app/Mercator"
 }

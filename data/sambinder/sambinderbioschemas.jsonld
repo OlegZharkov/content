@@ -13,8 +13,8 @@
   "biotools:primaryContact": "G.P.S. Raghava",
   "sc:additionalType": [
     "Web application",
-    "Web service",
-    "Command-line tool"
+    "Command-line tool",
+    "Web service"
   ],
   "sc:description": "Web server for predicting SAM binding residues of a protein from its amino acid sequence.",
   "sc:license": "GPL-3.0",

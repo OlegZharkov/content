@@ -16,8 +16,8 @@
   "sc:name": "P-Binder",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://sites.google.com/site/guofeics/p-binder"
 }

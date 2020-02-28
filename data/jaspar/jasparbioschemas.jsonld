@@ -21,8 +21,8 @@
         {
           "@id": "http://orcid.org/0000-0001-5127-5459"
         },
-        "Albin Sandelin",
-        "Boris Lenhard"
+        "Boris Lenhard",
+        "Albin Sandelin"
       ],
       "sc:additionalType": [
         "Web application",
@@ -33,9 +33,9 @@
       "sc:license": "CC-BY-NC-4.0",
       "sc:name": "JASPAR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://jaspar.genereg.net/"
     }

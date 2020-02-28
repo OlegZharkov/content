@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Michael Hackenberg",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC6602500",
         "pubmed:31114926",
+        "pmcid:PMC6602500",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ415"
         }

@@ -18,8 +18,8 @@
   "sc:name": "PopNetD3",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://compsysbio.org/popnetd3"
 }

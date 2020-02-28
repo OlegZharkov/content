@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12911-016-0402-4",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/s2o",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Martin Dugas",
-        "Philipp Bruland"
+        "Philipp Bruland",
+        "Martin Dugas"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
@@ -32,14 +36,10 @@
       "sc:name": "S2O",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/s2o/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12911-016-0402-4",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

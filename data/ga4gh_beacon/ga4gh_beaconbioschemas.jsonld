@@ -19,8 +19,8 @@
   "sc:description": "A global search engine for genetic mutations.",
   "sc:name": "GA4GH Beacon",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://beacon-network.org//#/"

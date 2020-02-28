@@ -21,8 +21,8 @@
   "sc:name": "adsn",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://adsn.ddnetbio.com"
 }

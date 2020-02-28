@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/rescue-ese",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Will Fairbrother",
     "Gene Yeo",
+    "Will Fairbrother",
     "Ru-Fang Yeh"
   ],
   "sc:additionalType": "Web application",
@@ -20,8 +20,8 @@
   "sc:description": "Server for the identification of hexnucleotide exonic splicing enhancers (ESEs).  Also contains a list of 238 identified ESEs for human genes.",
   "sc:name": "Rescue-ESE",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://genes.mit.edu/burgelab/rescue-ese/"

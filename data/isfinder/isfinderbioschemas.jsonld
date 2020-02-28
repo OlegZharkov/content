@@ -17,8 +17,8 @@
   "sc:name": "ISfinder",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www-is.biotoul.fr"
 }

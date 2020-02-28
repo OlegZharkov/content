@@ -19,8 +19,8 @@
   "sc:name": "Align-GVGD",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://agvgd.hci.utah.edu/"
 }

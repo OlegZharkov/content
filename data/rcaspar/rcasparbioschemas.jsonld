@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/rcaspar",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Lars Kaderali",
-    "Douaa Mugahid"
+    "Douaa Mugahid",
+    "Lars Kaderali"
   ],
   "sc:additionalType": [
     "Library",

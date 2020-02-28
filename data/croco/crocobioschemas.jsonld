@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/croco",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Maximilian Telford",
     "Khalid Belkhir",
+    "Maximilian Telford",
     "Paul Simion"
   ],
   "sc:additionalType": "Command-line tool",
@@ -20,8 +20,8 @@
   "sc:name": "CroCo",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://gitlab.mbb.univ-montp2.fr/mbb/CroCo"
 }

@@ -17,8 +17,8 @@
   "sc:name": "ICEberg",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://db-mml.sjtu.edu.cn/ICEberg/"
 }

@@ -17,8 +17,8 @@
       },
       "sc:additionalType": [
         "Command-line tool",
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": "pubmed:15744535",
       "sc:description": "Neural network predictions for cleavage sites of the human proteasome.",

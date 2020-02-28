@@ -17,8 +17,8 @@
   "sc:name": "BiDaS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioserver-3.bioacademy.gr/Bioserver/BiDaS/"
 }

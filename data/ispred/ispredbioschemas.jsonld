@@ -17,8 +17,8 @@
   "sc:name": "ISPRED",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",
   "sc:url": "http://ispred4.biocomp.unibo.it/",

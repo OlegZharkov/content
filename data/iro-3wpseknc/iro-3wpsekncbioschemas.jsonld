@@ -16,8 +16,8 @@
   "sc:name": "iRO-3wPseKNC",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.hitsz.edu.cn/iRO-3wPseKNC/"
 }

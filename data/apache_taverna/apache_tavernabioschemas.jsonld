@@ -11,15 +11,15 @@
   "@id": "https://bio.tools/apache_taverna",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Apache Taverna mailing lists",
-    "Apache Taverna community"
+    "Apache Taverna community",
+    "Apache Taverna mailing lists"
   ],
   "sc:additionalType": [
-    "Workbench",
     "Desktop application",
-    "Web service",
     "Web application",
     "Command-line tool",
+    "Web service",
+    "Workbench",
     "Web API"
   ],
   "sc:author": "Apache Taverna community",
@@ -27,9 +27,9 @@
   "sc:license": "Apache-2.0",
   "sc:name": "Apache Taverna",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "Apache Software Foundation",

@@ -14,8 +14,8 @@
   "sc:description": "TCGA data mining tool.",
   "sc:name": "MEXPRESS",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "ugent.be",

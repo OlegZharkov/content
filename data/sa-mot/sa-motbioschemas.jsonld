@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/sa-mot",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Julien Maupetit",
     "Leslie Regad",
+    "Julien Maupetit",
     "Adrien Saladin"
   ],
   "sc:additionalType": "Web application",

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-3140-2809",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/genevalidator",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -30,10 +34,10 @@
           "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_0219"
+          "@id": "edam:topic_0654"
         },
         {
-          "@id": "edam:topic_0654"
+          "@id": "edam:topic_0219"
         }
       ],
       "sc:author": "WurmLab",
@@ -52,8 +56,8 @@
       "sc:license": "AGPL-3.0",
       "sc:name": "GeneValidator",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:softwareHelp": [
@@ -61,18 +65,14 @@
           "@id": "https://github.com/wurmlab/genevalidator/blob/master/README.md"
         },
         {
-          "@id": "https://github.com/wurmlab/genevalidator/blob/master/README.md#introduction"
+          "@id": "https://wurmlab.github.io/tools/genevalidator/"
         },
         {
-          "@id": "https://wurmlab.github.io/tools/genevalidator/"
+          "@id": "https://github.com/wurmlab/genevalidator/blob/master/README.md#introduction"
         }
       ],
       "sc:url": "https://wurmlab.github.io/tools/genevalidator/",
       "sc:version": "1.6.12"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-3140-2809",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/bioinformatics/btw015",

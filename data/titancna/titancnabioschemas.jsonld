@@ -19,8 +19,8 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4216928",
@@ -35,18 +35,18 @@
           "@id": "edam:operation_3202"
         },
         {
-          "@id": "edam:operation_2403"
+          "@id": "edam:operation_3228"
         },
         {
-          "@id": "edam:operation_3228"
+          "@id": "edam:operation_2403"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "TitanCNA",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/TitanCNA.html",
       "sc:version": "1.16.0"

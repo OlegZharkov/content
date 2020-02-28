@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/geneanswers",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Lei Huang",
-    "Gang Feng"
+    "Gang Feng",
+    "Lei Huang"
   ],
   "sc:additionalType": [
     "Library",

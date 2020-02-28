@@ -18,8 +18,8 @@
   "sc:name": "WebLogo",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://weblogo.berkeley.edu/"
 }

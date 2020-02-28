@@ -27,18 +27,18 @@
       ],
       "edam:has_output": [
         {
+          "@id": "edam:data_2955"
+        },
+        {
           "@id": "edam:data_2884"
         },
         {
           "@id": "edam:data_1017"
-        },
-        {
-          "@id": "edam:data_2955"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3168"
@@ -57,9 +57,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "FourCSeq",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/FourCSeq.html",
       "sc:version": "1.8.0"

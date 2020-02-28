@@ -15,8 +15,8 @@
   "sc:name": "RegulationSpotter",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://www.regulationspotter.org/"
 }

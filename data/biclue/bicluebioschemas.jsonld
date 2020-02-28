@@ -16,8 +16,8 @@
   "sc:name": "BiCluE",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "bmb.sdu.dk",
   "sc:url": "http://biclue.compbio.sdu.dk",

@@ -18,8 +18,8 @@
   "sc:name": "BEAN-counter",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/csbio/BEAN-counter"
 }
