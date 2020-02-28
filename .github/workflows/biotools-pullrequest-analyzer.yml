@@ -21,5 +21,10 @@ jobs:
         git fetch biotools-content${{ github.run_id }}
         git fetch origin
         python3 scripts/biotools-pullrequest-bot/biotools_pullrequest_analizer.py $GITHUB_WORKSPACE biotools-content${{ github.run_id }}/master origin/${{ github.head_ref }} > output.txt
-        cat output.txt
-
+        cat output.txt 
+    - uses: actions/checkout@master
+    - uses: harupy/comment-on-pr@master
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+          filename: output.txt
