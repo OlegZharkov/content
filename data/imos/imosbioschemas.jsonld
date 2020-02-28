@@ -33,9 +33,9 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "IMOS",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://github.com/Mosjava/IMOS"
     },

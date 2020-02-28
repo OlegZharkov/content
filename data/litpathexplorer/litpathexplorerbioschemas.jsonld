@@ -16,8 +16,8 @@
   "sc:name": "LitPathExplorer",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://nactem.ac.uk/LitPathExplorer_BI/"
 }

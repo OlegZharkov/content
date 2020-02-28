@@ -19,8 +19,8 @@
   "sc:name": "PANDA-view",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://sourceforge.net/projects/panda-view/"
 }

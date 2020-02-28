@@ -21,8 +21,8 @@
       "sc:name": "MORPH",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioinformatics.psb.ugent.be/webtools/morph/",
       "sc:version": "1"

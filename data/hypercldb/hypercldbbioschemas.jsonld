@@ -10,32 +10,28 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-4694-3883",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/hypercldb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Maria Assunta Manniello",
         {
           "@id": "http://orcid.org/0000-0003-4694-3883"
-        },
-        "Maria Assunta Manniello"
+        }
       ],
       "sc:additionalType": "Web application",
       "sc:author": [
+        "Beatrice Iannotta",
         "Domenico Marra",
         "Massimiliano Armento",
-        "Paolo Romano",
-        "Beatrice Iannotta"
+        "Paolo Romano"
       ],
       "sc:citation": [
+        "pubmed:18927105",
+        "pubmed:7763741",
         {
           "@id": "https://doi.org/10.1093/nar/gkn730"
         },
-        "pubmed:7763741",
-        "pmcid:PMC2686526",
-        "pubmed:18927105"
+        "pmcid:PMC2686526"
       ],
       "sc:contributor": [
         "Tiziana Ruzzon",
@@ -53,6 +49,10 @@
     {
       "@id": "https://doi.org/10.1093/nar/gkn730",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-4694-3883",
+      "@type": "schema:Person"
     }
   ]
 }

@@ -11,25 +11,25 @@
   "@id": "https://bio.tools/webnma",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Web service"
+    "Web service",
+    "Web application"
   ],
   "sc:author": [
     "Svenn H Grindhaug",
-    "Siv M Hollup",
-    "Sandhya P Tiwari",
-    "Gisle Salensminde",
-    "Tristan Cragnolini",
-    "Nathalie Reuter",
     "Edvin Fuglebakk",
+    "Sandhya P Tiwari",
+    "Kidane M Tekle",
+    "Nathalie Reuter",
+    "Tristan Cragnolini",
+    "Siv M Hollup",
     "Lars Skjærven",
-    "Kidane M Tekle"
+    "Gisle Salensminde"
   ],
   "sc:description": "Quick, automated computation and analysis of low-frequency normal modes for protein structures.",
   "sc:name": "WEBnma",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

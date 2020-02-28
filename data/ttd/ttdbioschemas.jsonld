@@ -17,8 +17,8 @@
   "sc:name": "TTD",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bidd.nus.edu.sg/group/cjttd/"
 }

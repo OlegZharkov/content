@@ -14,25 +14,25 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK BBSRC"
   ],
   "sc:description": "Find programs with similar function to a specified program.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "seealso",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/seealso.html",
   "sc:version": "r6"

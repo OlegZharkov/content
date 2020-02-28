@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Yu He",
   "sc:additionalType": [
-    "Command-line tool",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:description": "Tool to define and explore genomic regions with tissue or cell type-specific epigenomic features.",
   "sc:license": "Unlicense",

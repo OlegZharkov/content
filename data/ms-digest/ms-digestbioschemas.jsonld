@@ -18,8 +18,8 @@
   "sc:name": "MS-Digest",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://prospector.ucsf.edu/prospector/cgi-bin/msform.cgi?form=msdigest"
 }

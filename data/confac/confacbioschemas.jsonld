@@ -17,8 +17,8 @@
   "sc:name": "CONFAC",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://morenolab.whitehead.emory.edu/cgi-bin/confac/login.pl"
 }

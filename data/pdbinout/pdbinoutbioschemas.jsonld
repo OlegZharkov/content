@@ -17,8 +17,8 @@
   "sc:name": "PDBinout",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://pdbinout.ibch.poznan.pl/"
 }

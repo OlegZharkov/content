@@ -18,8 +18,8 @@
         "Library"
       ],
       "sc:citation": [
-        "pubmed:27214047",
         "pmcid:PMC4927377",
+        "pubmed:27214047",
         {
           "@id": "https://doi.org/10.1038/nmeth.3869"
         }
@@ -31,8 +31,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "dada2",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/dada2.html",

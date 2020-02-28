@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/cisgenome",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Hongkai Ji",
     "Admin",
-    "Wing Hung Wong"
+    "Wing Hung Wong",
+    "Hongkai Ji"
   ],
   "sc:additionalType": "Suite",
   "sc:citation": "pubmed:18978777",

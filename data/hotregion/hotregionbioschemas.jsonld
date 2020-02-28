@@ -17,8 +17,8 @@
   "sc:name": "HotRegion",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://prism.ccbb.ku.edu.tr/hotregion/"
 }

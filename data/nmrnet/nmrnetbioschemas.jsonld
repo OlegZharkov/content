@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/nmrnet",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Piotr Klukowski",
     "Michał J Walczak",
+    "Piotr Klukowski",
     "Adam Gonczarek"
   ],
   "sc:additionalType": "Desktop application",

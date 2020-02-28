@@ -13,15 +13,15 @@
       "@id": "https://bio.tools/crlmm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Benilton S Carvalho",
+        "Robert Scharpf",
         {
           "@id": "http://orcid.org/0000-0002-7383-0609"
-        },
-        "Benilton S Carvalho",
-        "Robert Scharpf"
+        }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:22523482",

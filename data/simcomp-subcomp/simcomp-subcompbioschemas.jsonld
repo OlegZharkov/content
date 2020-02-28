@@ -17,8 +17,8 @@
   "sc:name": "SIMCOMP-SUBCOMP",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.genome.jp/tools/simcomp/"
 }

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/tcof-db",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ulf Schaefer",
+    "Sebastian Schmeier",
     "Vladimir B. Bajic",
-    "Sebastian Schmeier"
+    "Ulf Schaefer"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20965969",

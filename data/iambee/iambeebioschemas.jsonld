@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-9998-2408",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ451",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/IAMBEE",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -41,19 +49,11 @@
       "sc:license": "Unlicense",
       "sc:name": "IAMBEE",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioinformatics.intec.ugent.be/iambee/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ451",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-9998-2408",
-      "@type": "schema:Person"
     }
   ]
 }

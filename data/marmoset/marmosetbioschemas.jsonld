@@ -21,8 +21,8 @@
   "sc:name": "MARMoSET",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.molgen.mpg.de/loosolab/MARMoSET_C"
 }

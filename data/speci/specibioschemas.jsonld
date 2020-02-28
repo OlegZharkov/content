@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SpecI",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": [
         "European Molecular Biology Laboratory (EMBL)",

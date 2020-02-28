@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/centomd",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -30,21 +30,21 @@
       "sc:description": "Genetic mutation database for rare diseases that enables to search, sort and filter genetic variants from clinically diagnosed individuals worldwide and make symptoms-based queries.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3197"
+        },
+        {
           "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_3661"
-        },
-        {
-          "@id": "edam:operation_3197"
         }
       ],
       "sc:license": "Proprietary",
       "sc:name": "CentoMD",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://www.centogene.com/mutation-database-centomd.html",
       "sc:version": "5.3"

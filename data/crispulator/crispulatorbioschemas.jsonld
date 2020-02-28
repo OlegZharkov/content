@@ -16,8 +16,8 @@
   "sc:name": "CRISPulator",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://crispulator.ucsf.edu/"
 }

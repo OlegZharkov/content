@@ -15,8 +15,8 @@
   "sc:name": "xMAN",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://liulab.dfci.harvard.edu/WEBSITE/software.htm",
   "sc:version": "20060925"

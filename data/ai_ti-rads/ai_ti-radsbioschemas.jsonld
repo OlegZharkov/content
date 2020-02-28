@@ -18,8 +18,8 @@
   "sc:name": "AI TI-RADS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://deckard.duhs.duke.edu/~ai-ti-rads"
 }

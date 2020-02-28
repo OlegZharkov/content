@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.4867.1",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/omicabel",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Library",
@@ -33,10 +37,6 @@
       "sc:name": "OmicABEL",
       "sc:operatingSystem": "Linux",
       "sc:url": "http://www.genabel.org/packages/OmicABEL"
-    },
-    {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.4867.1",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -20,8 +20,8 @@
   "sc:name": "codon congruence",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/ridgelab/codon_congruence"
 }

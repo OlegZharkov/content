@@ -16,8 +16,8 @@
   "sc:name": "ZoomOut",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioserver-3.bioacademy.gr/Bioserver/ZoomOut/"
 }

@@ -18,8 +18,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "SECISearch3  Seblastian",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

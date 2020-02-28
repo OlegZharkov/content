@@ -10,14 +10,22 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1073/pnas.1307202110",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-8717-6612",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/dexseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0001-8717-6612"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:24003148",
@@ -38,20 +46,12 @@
       "sc:license": "GPL-3.0",
       "sc:name": "DEXSeq",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DEXSeq.html",
       "sc:version": "1.20.1"
-    },
-    {
-      "@id": "https://doi.org/10.1073/pnas.1307202110",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-8717-6612",
-      "@type": "schema:Person"
     }
   ]
 }

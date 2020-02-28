@@ -19,8 +19,8 @@
   "sc:name": "GFSAT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://118.178.236.158/GFSAT/index.php"
 }

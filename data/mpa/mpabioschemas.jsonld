@@ -25,9 +25,9 @@
       "sc:license": "Other",
       "sc:name": "MPA",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": "ELIXIR-ITA-PADOVA",
       "sc:url": "http://www.medcomp.medicina.unipd.it/stefano/mpa/",

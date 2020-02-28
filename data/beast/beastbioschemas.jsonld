@@ -15,8 +15,8 @@
   "sc:name": "BEAST",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://beast.bio.ed.ac.uk/"
 }

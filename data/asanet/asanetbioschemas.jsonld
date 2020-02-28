@@ -16,8 +16,8 @@
   "sc:name": "AsANet",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://cab.unina.it/asanet/",
   "sc:version": "1"

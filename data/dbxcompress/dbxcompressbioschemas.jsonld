@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "EMBOSS Contributors",
     "UK MRC",
+    "EMBOSS Contributors",
     "Wellcome Trust"
   ],
   "sc:description": "Compress an uncompressed dbx index.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "dbxcompress",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

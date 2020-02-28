@@ -16,8 +16,8 @@
   "sc:name": "MIIC",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://cran.r-project.org/web/packages/miic/index.html"
 }

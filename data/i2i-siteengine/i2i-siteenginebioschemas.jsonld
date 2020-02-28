@@ -17,8 +17,8 @@
   "sc:name": "I2I-SiteEngine",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinfo3d.cs.tau.ac.il/I2I-SiteEngine/"
 }

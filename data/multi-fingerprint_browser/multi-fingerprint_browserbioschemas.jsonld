@@ -16,8 +16,8 @@
   "sc:name": "Multi-fingerprint Browser",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://dcb-reymond23.unibe.ch:8080/MCSS/"
 }

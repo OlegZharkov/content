@@ -16,8 +16,8 @@
   "sc:name": "iAMP-2L",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.jci-bioinfo.cn/iAMP-2L"
 }

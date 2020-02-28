@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/journal.pone.0103020",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "http://orcid.org/0000-0003-2681-4355",
       "@type": "schema:Person"
     },
@@ -17,13 +21,13 @@
       "@id": "https://bio.tools/the_ithanet_portal",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
+        "pubmed:19657830",
         "pubmed:25058394",
         "pmcid:PMC4109966",
-        "pubmed:19657830",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0103020"
         }
@@ -35,15 +39,11 @@
       "sc:name": "ITHANET",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "cing.ac.cy",
       "sc:url": "http://www.ithanet.eu"
-    },
-    {
-      "@id": "https://doi.org/10.1371/journal.pone.0103020",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

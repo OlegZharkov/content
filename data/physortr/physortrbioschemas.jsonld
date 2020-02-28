@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.7717/peerj.2038",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-3729-8176",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/physortr",
@@ -34,15 +34,15 @@
       "sc:license": "GPL-3.0",
       "sc:name": "PhySortR",
       "sc:operatingSystem": [
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/PhySortR/",
       "sc:version": "1.0.8"
     },
     {
-      "@id": "http://orcid.org/0000-0002-3729-8176",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.7717/peerj.2038",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

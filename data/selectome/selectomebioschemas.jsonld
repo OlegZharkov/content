@@ -18,10 +18,10 @@
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
         {
-          "@id": "edam:data_1075"
+          "@id": "edam:data_0842"
         },
         {
-          "@id": "edam:data_0842"
+          "@id": "edam:data_1075"
         },
         {
           "@id": "edam:data_1868"
@@ -56,8 +56,8 @@
       "sc:name": "Selectome",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",
       "sc:url": "http://selectome.unil.ch/"

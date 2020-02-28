@@ -15,8 +15,8 @@
   "sc:name": "DeltaG prediction",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "bils.se",
   "sc:url": "http://dgpred.cbr.su.se/",

@@ -20,8 +20,8 @@
   "sc:name": "FASTM (EBI)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "University of Virginia",

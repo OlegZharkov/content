@@ -19,8 +19,8 @@
   "sc:name": "IOmics",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://interpretomics.co/iomics"
 }

@@ -17,8 +17,8 @@
   "sc:name": "ChIP-Array",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://jjwanglab.org/chip-array/"
 }

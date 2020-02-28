@@ -27,9 +27,9 @@
       },
       "sc:name": "scHiCNorm",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://dna.cs.miami.edu/scHiCNorm/"
     },

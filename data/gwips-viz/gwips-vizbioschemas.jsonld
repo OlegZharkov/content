@@ -28,12 +28,12 @@
       "sc:name": "GWIPS-viz",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
-        "ucc.ie",
-        "School of Biochemistry & Cell Biology, University College Cork"
+        "School of Biochemistry & Cell Biology, University College Cork",
+        "ucc.ie"
       ],
       "sc:url": "http://gwips.ucc.ie"
     },

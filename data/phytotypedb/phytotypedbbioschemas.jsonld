@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/PhytoTypeDB",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC6301341",
@@ -33,17 +33,17 @@
           "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_0267"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_0267"
         }
       ],
       "sc:name": "PhytoTypeDB",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://phytotypedb.bio.unipd.it/"
     }

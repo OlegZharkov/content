@@ -19,8 +19,8 @@
   "sc:description": "Plot potential isochore features.",
   "sc:name": "isochore (EBI)",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "EMBL-EBI",

@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Christian Weichenberger",
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC4687148",
@@ -36,8 +36,8 @@
       "sc:name": "Dintor",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://dintor.eurac.edu/"
     }

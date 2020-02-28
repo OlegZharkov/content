@@ -22,10 +22,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC4966778",
         {
           "@id": "https://doi.org/10.1186/s12859-016-1158-7"
         },
+        "pmcid:PMC4966778",
         "pubmed:27473283"
       ],
       "sc:description": "DISMISS is a new software package that detects strand-associated DNA methylation from existing MeDIP-Seq analyses",
@@ -36,8 +36,8 @@
       "sc:name": "DISMISS",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://uhkniazi.github.io/dismiss/"
     }

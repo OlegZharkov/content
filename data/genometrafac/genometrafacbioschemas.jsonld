@@ -17,8 +17,8 @@
   "sc:name": "GenomeTraFaC",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://genometrafac.cchmc.org/genome-trafac/index.jsp"
 }

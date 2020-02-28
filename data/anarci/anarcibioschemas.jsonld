@@ -19,8 +19,8 @@
   "sc:name": "ANARCI",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/ANARCI.php"
 }

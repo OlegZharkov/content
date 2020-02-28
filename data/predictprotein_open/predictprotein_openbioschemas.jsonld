@@ -18,8 +18,8 @@
   ],
   "sc:contributor": [
     "Alexander von Humboldt foundation through the German Ministry for Research and Education",
-    "Laszlo Kajan",
-    "Edda Kloppmann"
+    "Edda Kloppmann",
+    "Laszlo Kajan"
   ],
   "sc:description": "Prediction of various aspects of protein structure and function. A user may submit a query to the server without registration.",
   "sc:funder": "Alexander von Humboldt foundation through the German Ministry for Research and Education",
@@ -31,8 +31,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "RostLab",
-    "Technische Universität München"
+    "Technische Universität München",
+    "RostLab"
   ],
   "sc:url": "http://ppopen.informatik.tu-muenchen.de/",
   "sc:version": "1.1.07"

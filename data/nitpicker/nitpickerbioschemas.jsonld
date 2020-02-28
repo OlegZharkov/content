@@ -33,9 +33,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "NITPicker",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/package=NITPicker",
       "sc:version": "1.0.1"

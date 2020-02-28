@@ -14,8 +14,8 @@
   "sc:contributor": [
     "UK BBSRC",
     "UK MRC",
-    "EMBOSS Contributors",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Create a consensus sequence from a multiple alignment.",
   "sc:funder": [
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "cons",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/cons.html",
   "sc:version": "r6"

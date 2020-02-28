@@ -21,8 +21,8 @@
   "sc:name": "ResponseNet",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://netbio.bgu.ac.il/respnet/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "CSA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://csa.project.cwi.nl"
 }

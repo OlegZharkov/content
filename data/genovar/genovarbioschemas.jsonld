@@ -17,8 +17,8 @@
   "sc:name": "Genovar",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://genovar.sourceforge.net/"
 }

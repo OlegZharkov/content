@@ -17,8 +17,8 @@
   "sc:name": "PSCP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://brl.uiu.ac.bd/PL/"
 }

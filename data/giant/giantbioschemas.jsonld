@@ -32,8 +32,8 @@
       "sc:name": "GIANT",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://giant.hgc.jp/"
     }

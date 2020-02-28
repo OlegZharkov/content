@@ -20,8 +20,8 @@
   "sc:name": "VaST",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://github.com/FofanovLab/VaST"
 }

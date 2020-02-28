@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/metacoder",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Niklaus J. Grünwald",
-    "GitHub Issues"
+    "GitHub Issues",
+    "Niklaus J. Grünwald"
   ],
   "sc:additionalType": "Library",
   "sc:description": "Package for easily parsing, manipulating, and graphing publication-ready plots of hierarchical data.",

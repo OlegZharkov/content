@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Jing Tang",
-    "Jianbo Fu",
     "Yunxia Wang",
-    "Feng Zhu"
+    "Feng Zhu",
+    "Jianbo Fu"
   ],
   "sc:additionalType": "Web application",
   "sc:description": "Analysis and Performance Assessment of Label-free Proteome Quantification.",

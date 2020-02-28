@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Roman Laskowski",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Tjaart de Beer",
     "Thornton Group",
+    "Tjaart de Beer",
     "Roman Laskowski"
   ],
   "sc:description": "Identifies small molecules likely to bind to given protein.",

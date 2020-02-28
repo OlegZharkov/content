@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
-    "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust",
-    "UK BBSRC"
+    "EMBOSS Contributors",
+    "UK MRC"
   ],
   "sc:description": "Needleman-Wunsch global alignment of two sequences.",
   "sc:funder": [
@@ -31,8 +31,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/needle.html",
   "sc:version": "r6"

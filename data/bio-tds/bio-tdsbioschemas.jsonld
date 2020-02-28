@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKW940",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/bio-tds",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Etienne Gnimpieba",
@@ -29,14 +33,10 @@
       "sc:name": "Bio-TDS",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://biotds.org/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKW940",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

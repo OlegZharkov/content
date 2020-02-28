@@ -14,14 +14,14 @@
   "sc:additionalType": "Web application",
   "sc:author": [
     "Mathieu Emily",
-    "Christian Delamarche",
-    "Anthony Talvas"
+    "Anthony Talvas",
+    "Christian Delamarche"
   ],
   "sc:description": "Prediction of amyloid fragments.",
   "sc:name": "MetAmyl",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "GenOuest",

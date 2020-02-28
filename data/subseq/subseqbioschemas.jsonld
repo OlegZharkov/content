@@ -15,15 +15,15 @@
     "Andrew J. Bass"
   ],
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Subsampling of high throughput sequencing count data for use in experiment design and analysis.",
   "sc:license": "MIT",
   "sc:name": "subSeq",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/subSeq.html",

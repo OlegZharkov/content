@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Filipa Tomé",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pmcid:PMC5353781",
         "pubmed:28331535",
+        "pmcid:PMC5353781",
         {
           "@id": "https://doi.org/10.1186/s13007-017-0163-9"
         }
@@ -33,8 +33,8 @@
       "sc:name": "rosettR",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://hredestig.github.io/rosettR/"
     }

@@ -15,8 +15,8 @@
   "sc:name": "Topology Data Bank of Transmembrane Proteins",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://toPDB.enzim.hu"
 }

@@ -17,8 +17,8 @@
   "sc:name": "PONGO",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://pongo.biocomp.unibo.it/"
 }

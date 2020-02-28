@@ -16,8 +16,8 @@
   "sc:description": "A modest Feature Finder to extract features in MS1 Data.",
   "sc:name": "MoFF",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ugent.be",

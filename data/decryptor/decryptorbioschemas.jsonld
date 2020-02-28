@@ -19,8 +19,8 @@
   "sc:name": "Decryptor",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "Palacky University Olomouc",
   "sc:url": "http://decryptor.imtm.cz/",

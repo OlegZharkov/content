@@ -14,10 +14,10 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
-          "@id": "http://orcid.org/0000-0002-6904-2319"
+          "@id": "http://orcid.org/0000-0002-3877-4170"
         },
         {
-          "@id": "http://orcid.org/0000-0002-3877-4170"
+          "@id": "http://orcid.org/0000-0002-6904-2319"
         }
       ],
       "sc:additionalType": [
@@ -45,7 +45,7 @@
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/dupRadar.html"
     },
     {
-      "@id": "http://orcid.org/0000-0002-6904-2319",
+      "@id": "http://orcid.org/0000-0002-3877-4170",
       "@type": "schema:Person"
     },
     {
@@ -53,7 +53,7 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-3877-4170",
+      "@id": "http://orcid.org/0000-0002-6904-2319",
       "@type": "schema:Person"
     }
   ]

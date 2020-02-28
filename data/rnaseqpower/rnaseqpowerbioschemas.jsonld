@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Terry M Therneau",
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "Sample size and power computation for RNA-seq studies.",
   "sc:license": "GPL-2.0",

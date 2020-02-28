@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK BBSRC",
     "UK MRC"
   ],
@@ -27,12 +27,12 @@
   "sc:name": "recoder",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/recoder.html",
   "sc:version": "r6"

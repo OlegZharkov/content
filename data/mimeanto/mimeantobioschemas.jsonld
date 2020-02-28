@@ -17,8 +17,8 @@
   "sc:name": "MIMEAnTo",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/maureensmith/MIMEAnTo"
 }

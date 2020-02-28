@@ -12,22 +12,22 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "Wellcome Trust",
-    "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK MRC",
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Generate server cache file for an Ensembl server.",
   "sc:funder": [
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "cacheensembl",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

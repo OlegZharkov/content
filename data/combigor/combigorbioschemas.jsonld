@@ -17,8 +17,8 @@
   "sc:name": "COMBIgor",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.COMBIgor.com"
 }

@@ -34,11 +34,11 @@
         "@id": "edam:topic_0602"
       },
       "sc:citation": [
+        "pubmed:28402475",
+        "pmcid:PMC5570150",
         {
           "@id": "https://doi.org/10.1093/NAR/GKX249"
-        },
-        "pubmed:28402475",
-        "pmcid:PMC5570150"
+        }
       ],
       "sc:description": "Identify and fix likely errors in user supplied 3D models of proteins via successive rounds of refinement.",
       "sc:featureList": [

@@ -19,8 +19,8 @@
   "sc:name": "PIPSA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://pipsa.h-its.org/pipsa/"
 }

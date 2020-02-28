@@ -17,8 +17,8 @@
   "sc:name": "PRED-TMBB",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.biol.uoa.gr/PRED-TMBB/"
 }

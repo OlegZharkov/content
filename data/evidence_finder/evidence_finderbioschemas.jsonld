@@ -15,8 +15,8 @@
   "sc:name": "Evidence Finder",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.nactem.ac.uk/UKPMCWS/EvidenceFinder.html"
 }

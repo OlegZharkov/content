@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:description": "Get ontology term(s) by id with common parent.",
   "sc:funder": [

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/metacomp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Peng Zhai",
     "Huaiqiu Zhu",
-    "Longshu Yang"
+    "Longshu Yang",
+    "Peng Zhai"
   ],
   "sc:additionalType": "Desktop application",
   "sc:description": "Tool for meta-omics comparative analysis.",
