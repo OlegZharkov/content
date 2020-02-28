@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "UK BBSRC",
-    "EMBOSS Contributors",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Replace tabs with spaces in an ASCII text file.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "notab",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

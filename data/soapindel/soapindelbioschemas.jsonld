@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1101/gr.132480.111",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/soapindel",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -32,6 +28,10 @@
       "sc:name": "SOAPindel",
       "sc:operatingSystem": "Linux",
       "sc:url": "http://soap.genomics.org.cn/index.html"
+    },
+    {
+      "@id": "https://doi.org/10.1101/gr.132480.111",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

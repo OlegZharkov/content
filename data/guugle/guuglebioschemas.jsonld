@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/guugle",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web API",
     "Command-line tool",
+    "Web API",
     "Web application"
   ],
   "sc:author": "Wolfgang Gerlach",

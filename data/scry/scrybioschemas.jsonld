@@ -14,8 +14,8 @@
   "sc:additionalType": [
     "Command-line tool",
     "SPARQL endpoint",
-    "Web API",
-    "Workbench"
+    "Workbench",
+    "Web API"
   ],
   "sc:author": "Bas Stringer",
   "sc:contributor": "Albert Meroño Peñuela",

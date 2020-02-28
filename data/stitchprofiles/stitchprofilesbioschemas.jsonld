@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Eivind Hovig",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Eivind Hovig",
     "Geir Ivar Jerstad",
+    "Eivind Hovig",
     "Eivind Tøstesen"
   ],
   "sc:contributor": "The Research Council of Norway",

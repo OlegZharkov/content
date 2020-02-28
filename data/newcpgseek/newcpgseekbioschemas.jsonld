@@ -14,21 +14,21 @@
   "sc:contributor": [
     "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK BBSRC"
   ],
   "sc:description": "Identify and report CpG-rich regions in nucleotide sequence(s).",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "newcpgseek",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

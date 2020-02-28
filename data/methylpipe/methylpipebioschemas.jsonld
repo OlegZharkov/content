@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-4650-8745"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4587815",
@@ -37,9 +37,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "methylPipe",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/methylPipe.html",
       "sc:version": "1.8.0"

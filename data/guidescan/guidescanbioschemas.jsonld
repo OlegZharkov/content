@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/guidescan",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Andrea Ventura",
     "Christina Leslie",
+    "Andrea Ventura",
     "Developers"
   ],
   "sc:additionalType": "Web application",
@@ -20,8 +20,8 @@
   "sc:name": "GuideScan",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.guidescan.com/",
   "sc:version": "1.0"

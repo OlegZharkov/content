@@ -17,8 +17,8 @@
   "sc:name": "MovieMaker",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://wishart.biology.ualberta.ca/moviemaker/"
 }

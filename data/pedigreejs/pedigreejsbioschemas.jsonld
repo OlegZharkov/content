@@ -17,8 +17,8 @@
   "sc:name": "pedigreejs",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://ccge-boadicea.github.io/pedigreejs/"
 }

@@ -15,8 +15,8 @@
   "sc:name": "BEReX",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://infos.korea.ac.kr/berex/",
   "sc:version": "1.0"

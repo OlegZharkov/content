@@ -20,8 +20,8 @@
   "sc:name": "SuperSweet",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioinformatics.charite.de/sweet/"
 }

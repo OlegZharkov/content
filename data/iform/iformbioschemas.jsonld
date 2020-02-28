@@ -27,8 +27,8 @@
       },
       "sc:name": "iFORM",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/wenjiegroup/iFORM"
     },

@@ -16,8 +16,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "Krait",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://github.com/lmdu/krait"

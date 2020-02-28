@@ -20,8 +20,8 @@
   "sc:license": "MIT",
   "sc:name": "DO-MS",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://do-ms.slavovlab.net"

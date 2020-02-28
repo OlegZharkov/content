@@ -19,8 +19,8 @@
   "sc:name": "ThreaDNA",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioinfo.insa-lyon.fr/prod.php"
 }

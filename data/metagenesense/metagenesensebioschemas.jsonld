@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/metagenesense",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Desktop application",
-        "Web application"
+        "Web application",
+        "Desktop application"
       ],
       "sc:citation": [
         "pmcid:PMC5405795",

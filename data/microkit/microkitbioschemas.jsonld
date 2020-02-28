@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/microkit",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Zexian Liu,",
     "Jian Ren",
-    "Yu Xue"
+    "Yu Xue",
+    "Zexian Liu,"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19783819",

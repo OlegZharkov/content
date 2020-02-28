@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
     "EMBOSS Contributors",
     "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust"
   ],
   "sc:description": "An Emboss tool that writes statistics for a sequence assembly",
@@ -27,8 +27,8 @@
   "sc:name": "infoassembly",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

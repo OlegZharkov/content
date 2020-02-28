@@ -15,8 +15,8 @@
   "sc:name": "PROTEO: Peptide evidence for the human genome",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "cnio.es",

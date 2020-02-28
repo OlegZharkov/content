@@ -17,8 +17,8 @@
   "sc:name": "mod_bio",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/lindenb/mod_bio"
 }

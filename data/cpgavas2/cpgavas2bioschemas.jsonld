@@ -27,21 +27,21 @@
       "sc:description": "Integrated plastome sequence annotator and analyzer.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0464"
+          "@id": "edam:operation_0526"
         },
         {
           "@id": "edam:operation_0484"
         },
         {
-          "@id": "edam:operation_0526"
+          "@id": "edam:operation_0464"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "CPGAVAS2",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.herbalgenomics.org/cpgavas2"
     },

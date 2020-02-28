@@ -21,8 +21,8 @@
   "sc:name": "HMRFBayesHiC",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.unc.edu/~yunmli/HMRFBayesHiC/"
 }

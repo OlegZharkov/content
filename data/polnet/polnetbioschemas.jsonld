@@ -18,8 +18,8 @@
   "sc:name": "PolNet",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/mobernabeu/polnet"
 }

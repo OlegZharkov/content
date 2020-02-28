@@ -17,8 +17,8 @@
   "sc:name": "Chinook",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.bcgsc.bc.ca/chinook/"
 }

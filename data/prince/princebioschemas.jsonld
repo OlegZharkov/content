@@ -17,8 +17,8 @@
   "sc:name": "PRince",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.facweb.iitkgp.ernet.in/~rbahadur/prince/home.html"
 }

@@ -33,8 +33,8 @@
       "sc:name": "micrographite",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "ELIXIR-ITA-PADOVA",
       "sc:url": "http://romualdi.bio.unipd.it/micrographite",

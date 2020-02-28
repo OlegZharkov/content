@@ -15,8 +15,8 @@
   "sc:name": "SSEA",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://cbcl.ics.uci.edu/SSEA/",
   "sc:version": "1.0"

@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0002-7364-2202",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/ImmuneRegulation",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -34,23 +30,27 @@
       "sc:description": "Web-based tool for identifying human immune regulatory elements.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3232"
-        },
-        {
           "@id": "edam:operation_0441"
         },
         {
           "@id": "edam:operation_3196"
+        },
+        {
+          "@id": "edam:operation_3232"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "ImmuneRegulation",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://immuneregulation.mssm.edu"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-7364-2202",
+      "@type": "schema:Person"
     }
   ]
 }

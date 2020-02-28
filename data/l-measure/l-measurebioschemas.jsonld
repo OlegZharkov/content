@@ -16,8 +16,8 @@
   "sc:name": "L-Measure",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://cng.gmu.edu:8080/Lm/"
 }

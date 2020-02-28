@@ -36,8 +36,8 @@
       "sc:name": "FFBSKAT",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://mga.bionet.nsc.ru/soft/FFBSKAT/"
     }

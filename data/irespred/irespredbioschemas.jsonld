@@ -16,8 +16,8 @@
   "sc:name": "IRESPred",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioinfo.net.in/IRESPred/"
 }

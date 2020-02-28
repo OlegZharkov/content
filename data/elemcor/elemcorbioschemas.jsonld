@@ -31,10 +31,10 @@
       "sc:description": "Software tool to correct LC-MS data in isotope labeling experiments.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3629"
+          "@id": "edam:operation_3638"
         },
         {
-          "@id": "edam:operation_3638"
+          "@id": "edam:operation_3629"
         },
         {
           "@id": "edam:operation_3632"

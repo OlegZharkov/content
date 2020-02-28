@@ -17,8 +17,8 @@
   "sc:name": "SiteSeer",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://rocky.bms.umist.ac.uk/SiteSeer/"
 }

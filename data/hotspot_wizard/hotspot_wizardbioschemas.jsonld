@@ -14,35 +14,35 @@
   "sc:author": [
     "Jiri Damborsky",
     "Jan Brezovsky",
-    "Jaroslav Bendl",
-    "Jan Stourac"
+    "Jan Stourac",
+    "Jaroslav Bendl"
   ],
   "sc:contributor": [
-    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
-    "Grant Agency of the Czech Republic [GA16-06096S]",
-    "Ondrej Vavra",
     "Brno University of Technology [FIT-S-14-2299 to M.M.]",
-    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]",
     "Eva Sebestova",
-    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
+    "European Commission REGPOT [316345]",
     "Milos Musil",
-    "Antonin Pavelka",
-    "European Commission REGPOT [316345]"
+    "Grant Agency of the Czech Republic [GA16-06096S]",
+    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
+    "Ondrej Vavra",
+    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
+    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]",
+    "Antonin Pavelka"
   ],
   "sc:description": "An automated design of mutations and smart libraries for engineering of protein function and stability and annotation of protein structures.",
   "sc:funder": [
-    "Brno University of Technology [FIT-S-14-2299 to M.M.]",
+    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
     "European Commission REGPOT [316345]",
-    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
-    "Grant Agency of the Czech Republic [GA16-06096S]",
     "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]",
-    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]"
+    "Grant Agency of the Czech Republic [GA16-06096S]",
+    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
+    "Brno University of Technology [FIT-S-14-2299 to M.M.]"
   ],
   "sc:name": "HotSpot Wizard",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "Loschmidt Laboratories",

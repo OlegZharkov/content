@@ -15,8 +15,8 @@
   "sc:description": "Remove PCR chimera in each sample.",
   "sc:name": "frogs_remove_chimera",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://frogs.toulouse.inra.fr/",

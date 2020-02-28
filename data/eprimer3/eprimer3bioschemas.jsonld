@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
     "UK MRC",
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK BBSRC"
   ],
   "sc:description": "Pick PCR primers and hybridization oligos.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "eprimer3",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

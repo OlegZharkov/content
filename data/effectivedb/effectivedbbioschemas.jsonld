@@ -28,16 +28,16 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_0797"
         },
         {
-          "@id": "edam:topic_0797"
+          "@id": "edam:topic_3510"
         },
         {
           "@id": "edam:topic_3174"
         },
         {
-          "@id": "edam:topic_3510"
+          "@id": "edam:topic_0080"
         }
       ],
       "sc:citation": [
@@ -50,17 +50,17 @@
       "sc:description": "Prediction of intact bacterial protein secretion systems and putative secreted proteins.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3092"
+          "@id": "edam:operation_3461"
         },
         {
-          "@id": "edam:operation_3461"
+          "@id": "edam:operation_3092"
         }
       ],
       "sc:isAccessibleForFree": true,
       "sc:name": "EffectiveDB",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": [

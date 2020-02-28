@@ -10,15 +10,19 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkw971",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/exac",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "ExAC Browser Support",
-        "Web error forum"
+        "Web error forum",
+        "ExAC Browser Support"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC5210650",
@@ -33,27 +37,23 @@
           "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_2421"
-        },
-        {
           "@id": "edam:operation_2403"
         },
         {
           "@id": "edam:operation_3436"
+        },
+        {
+          "@id": "edam:operation_2421"
         }
       ],
       "sc:license": "ODbL-1.0",
       "sc:name": "ExAC",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://exac.broadinstitute.org"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkw971",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

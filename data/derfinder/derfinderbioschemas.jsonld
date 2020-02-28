@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-2873-2671",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/biostatistics/kxt053",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-2873-2671",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/derfinder",
@@ -58,8 +58,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "derfinder",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/derfinder.html",

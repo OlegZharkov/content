@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-5902-6238",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/pigengene",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0001-5902-6238"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -43,6 +39,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Pigengene.html",
       "sc:version": "1.0.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-5902-6238",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1186/s12920-017-0253-6",

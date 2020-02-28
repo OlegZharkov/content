@@ -15,8 +15,8 @@
   "sc:name": "Europe PMC",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "EMBL-EBI Databases",
   "sc:url": "http://europepmc.org/"

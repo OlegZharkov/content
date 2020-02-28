@@ -18,8 +18,8 @@
   "sc:name": "SMUT",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://CRAN.R-project.org/package=SMUT"
 }

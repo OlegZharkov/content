@@ -38,9 +38,9 @@
       "sc:license": "CC-BY-NC-SA-4.0",
       "sc:name": "QuickNII",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://www.nitrc.org/projects/quicknii"
     }

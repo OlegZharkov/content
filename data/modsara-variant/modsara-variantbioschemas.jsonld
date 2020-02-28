@@ -32,9 +32,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "modSaRa",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://publichealth.yale.edu/c2s2/software/modSaRa/",
       "sc:version": "1.0"

@@ -17,8 +17,8 @@
   "sc:name": "3V",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://3vee.molmovdb.org"
 }

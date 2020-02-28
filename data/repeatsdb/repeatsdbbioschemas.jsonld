@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkw1268",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0003-4525-7793",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/repeatsdb",
@@ -34,8 +34,8 @@
         "@id": "edam:data_1255"
       },
       "sc:additionalType": [
-        "Database portal",
         "Web API",
+        "Database portal",
         "Web application"
       ],
       "sc:applicationSubCategory": [
@@ -47,34 +47,34 @@
         }
       ],
       "sc:citation": [
-        "pubmed:27928056",
+        "pmcid:PMC5389603",
         {
           "@id": "https://doi.org/10.1093/nar/gkw1268"
         },
-        "pmcid:PMC5389603"
+        "pubmed:27928056"
       ],
       "sc:description": "Database of annotated tandem repeat protein structures.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0570"
-        },
-        {
-          "@id": "edam:operation_2406"
+          "@id": "edam:operation_0224"
         },
         {
           "@id": "edam:operation_2996"
         },
         {
-          "@id": "edam:operation_0224"
+          "@id": "edam:operation_2406"
         },
         {
           "@id": "edam:operation_0564"
+        },
+        {
+          "@id": "edam:operation_0570"
         }
       ],
       "sc:name": "RepeatsDB",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
@@ -82,8 +82,8 @@
       "sc:version": "2.0"
     },
     {
-      "@id": "http://orcid.org/0000-0003-4525-7793",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/nar/gkw1268",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -15,15 +15,15 @@
     "John D. Storey"
   ],
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Subsampling of high throughput sequencing count data for use in experiment design and analysis.",
   "sc:license": "MIT",
   "sc:name": "subSeq",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/subSeq.html",

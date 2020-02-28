@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jack Zhu",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -35,8 +35,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "SRAdb",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SRAdb.html",

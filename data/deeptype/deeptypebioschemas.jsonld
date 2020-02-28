@@ -17,8 +17,8 @@
   "sc:name": "DeepType",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.acsu.buffalo.edu/~yijunsun/lab/DeepType.html"
 }

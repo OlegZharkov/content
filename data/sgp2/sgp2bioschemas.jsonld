@@ -16,8 +16,8 @@
     "Command-line tool"
   ],
   "sc:author": [
-    "Roderic Guigo",
     "Josep Abril",
+    "Roderic Guigo",
     "Genis Parra"
   ],
   "sc:description": "Program to predict genes by comparing anonymous genomic sequences from different species. It combines tblastx, a sequence similarity search program, with geneid, an ab initio gene prediction program.",

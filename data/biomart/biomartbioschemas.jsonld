@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1038/nprot.2009.97",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "http://orcid.org/0000-0002-0474-2218",
       "@type": "schema:Person"
     },
@@ -33,15 +37,11 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "biomaRt",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://bioconductor.org/packages/biomaRt/"
-    },
-    {
-      "@id": "https://doi.org/10.1038/nprot.2009.97",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

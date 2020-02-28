@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkw387",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/phaster",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Desktop application",
@@ -27,15 +31,11 @@
       "sc:license": "Other",
       "sc:name": "PHASTER",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://phaster.ca/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkw387",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

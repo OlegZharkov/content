@@ -15,8 +15,8 @@
   "sc:name": "UNITE rDNA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://unite.ut.ee/"
 }

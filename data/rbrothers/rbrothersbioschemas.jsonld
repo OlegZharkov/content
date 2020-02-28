@@ -17,8 +17,8 @@
   "sc:name": "rbrothers",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://evolmod.r-forge.r-project.org/#rbrothers"
 }

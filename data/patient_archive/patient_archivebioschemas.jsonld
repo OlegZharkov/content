@@ -10,11 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1016/j.ajhg.2015.05.020",
+      "@id": "https://doi.org/10.1093/database/bav005",
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://doi.org/10.1093/database/bav005",
+      "@id": "https://doi.org/10.1016/j.ajhg.2015.05.020",
       "@type": "sc:CreativeWork"
     },
     {
@@ -25,13 +25,13 @@
         "Workbench"
       ],
       "sc:citation": [
+        "pubmed:25725061",
         "pubmed:26119816",
         "pmcid:PMC4343077",
-        "pmcid:PMC4572507",
         {
           "@id": "https://doi.org/10.1093/database/bav005"
         },
-        "pubmed:25725061",
+        "pmcid:PMC4572507",
         {
           "@id": "https://doi.org/10.1016/j.ajhg.2015.05.020"
         }
@@ -42,10 +42,10 @@
           "@id": "edam:operation_3096"
         },
         {
-          "@id": "edam:operation_3280"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3280"
         }
       ],
       "sc:name": "KCCG Patient Archive",

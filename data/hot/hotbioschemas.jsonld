@@ -37,10 +37,10 @@
       "sc:description": "Examining the basis of high-occupancy target regions.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0445"
+          "@id": "edam:operation_0417"
         },
         {
-          "@id": "edam:operation_0417"
+          "@id": "edam:operation_0445"
         },
         {
           "@id": "edam:operation_3207"
@@ -49,8 +49,8 @@
       "sc:license": "Unlicense",
       "sc:name": "HOT",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://github.com/BIMSBbioinfo/HOT-or-not-examining-the-basis-of-high-occupancy-target-regions"

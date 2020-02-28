@@ -19,9 +19,9 @@
   "sc:description": "Pairwise structure alignment.",
   "sc:name": "DaliLite",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL-EBI",

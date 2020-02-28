@@ -31,8 +31,8 @@
       },
       "sc:name": "Scratch Protein Predictor",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://scratch.proteomics.ics.uci.edu/index.html"

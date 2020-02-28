@@ -21,8 +21,8 @@
   "sc:name": "PDID",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://biomine.cs.vcu.edu/servers/PDID/index.php"
 }

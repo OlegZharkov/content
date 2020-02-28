@@ -14,8 +14,8 @@
   "sc:contributor": [
     "UK BBSRC",
     "Wellcome Trust",
-    "EMBOSS Contributors",
-    "UK MRC"
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Write a sequence with masked regions.",
   "sc:funder": [
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "maskseq",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/maskseq.html",
   "sc:version": "r6"

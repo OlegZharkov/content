@@ -27,8 +27,8 @@
       },
       "sc:name": "Stradwin",
       "sc:operatingSystem": [
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://mi.eng.cam.ac.uk/~rwp/stradwin/",
       "sc:version": "5.3"

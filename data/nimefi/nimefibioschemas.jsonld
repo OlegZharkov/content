@@ -15,8 +15,8 @@
   "sc:name": "NIMEFI",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "ugent.be",
   "sc:url": "http://bioinformatics.intec.ugent.be/nimefi/nimefi/index.html",

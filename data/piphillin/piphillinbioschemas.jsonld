@@ -27,8 +27,8 @@
       },
       "sc:name": "Piphillin",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://secondgenome.com/solutions/resources/data-analysis-tools/piphillin/"

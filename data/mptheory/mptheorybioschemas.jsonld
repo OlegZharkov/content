@@ -17,8 +17,8 @@
   "sc:name": "MpTheory",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mptheory.scienze.univr.it/"
 }

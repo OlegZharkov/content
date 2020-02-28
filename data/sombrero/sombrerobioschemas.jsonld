@@ -14,8 +14,8 @@
   "sc:description": "Motif-finder that is based on the Self-Organizing Map neural network algorithm.",
   "sc:name": "SOMBRERO",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bioinf.nuigalway.ie/sombrero/",

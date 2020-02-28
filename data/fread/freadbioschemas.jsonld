@@ -15,8 +15,8 @@
   "sc:name": "FREAD",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://opig.stats.ox.ac.uk/webapps/fread/php/index.php",
   "sc:version": "3.0.1"

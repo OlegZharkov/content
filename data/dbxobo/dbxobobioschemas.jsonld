@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK BBSRC",
+    "EMBOSS Contributors",
     "UK MRC"
   ],
   "sc:description": "Index an obo ontology using b+tree indices.",
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "dbxobo",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

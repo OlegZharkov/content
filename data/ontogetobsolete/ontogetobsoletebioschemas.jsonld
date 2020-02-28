@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "EMBOSS Contributors",
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Get ontology ontology terms.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "ontogetobsolete",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

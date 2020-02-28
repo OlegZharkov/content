@@ -24,8 +24,8 @@
       "sc:name": "MetExplore",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.metexplore.fr/",
       "sc:version": "2.23.14"

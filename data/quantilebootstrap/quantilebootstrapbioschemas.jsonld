@@ -17,8 +17,8 @@
   "sc:license": "Unlicense",
   "sc:name": "QuantileBootstrap",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://github.com/owatson/QuantileBootstrap"

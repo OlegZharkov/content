@@ -12,23 +12,23 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "EMBOSS Contributors",
     "UK BBSRC"
   ],
   "sc:description": "Copy and reformat a codon usage table",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "codcopy",
   "sc:operatingSystem": [
-    "Windows",
+    "Linux",
     "Mac",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

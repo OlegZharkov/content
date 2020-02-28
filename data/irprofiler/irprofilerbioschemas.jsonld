@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Christos Maramis",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC5907363",
         "pubmed:29669518",
+        "pmcid:PMC5907363",
         {
           "@id": "https://doi.org/10.1186/s12859-018-2144-z"
         }
@@ -29,8 +29,8 @@
       "sc:name": "IRProfiler",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://irprofiler.med.auth.gr:8080/"
     },

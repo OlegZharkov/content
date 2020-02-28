@@ -24,8 +24,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SpecI",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": [

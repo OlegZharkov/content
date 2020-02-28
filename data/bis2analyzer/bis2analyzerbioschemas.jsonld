@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkx336",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/bis2analyzer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -36,6 +32,10 @@
       },
       "sc:name": "BIS2Analyzer",
       "sc:url": "http://www.lcqb.upmc.fr/BIS2Analyzer/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkx336",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "http://orcid.org/0000-0003-2098-5743",

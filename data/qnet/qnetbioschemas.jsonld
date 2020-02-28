@@ -16,8 +16,8 @@
   "sc:name": "QNet",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.uea.ac.uk/computing/qnet"
 }

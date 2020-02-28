@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkt142",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ripseeker",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Yue Li",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -36,11 +32,15 @@
       "sc:name": "RIPSeeker",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RIPSeeker.html",
       "sc:version": "1.14.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkt142",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

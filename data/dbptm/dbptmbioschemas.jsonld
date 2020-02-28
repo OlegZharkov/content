@@ -14,15 +14,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/nar/gkj083"
         },
-        "pubmed:16381945",
-        "pmcid:PMC1347446"
+        "pmcid:PMC1347446",
+        "pubmed:16381945"
       ],
       "sc:description": "An informative resource for protein post-translational modifications (PTMs).",
       "sc:featureList": {
@@ -30,9 +30,9 @@
       },
       "sc:name": "dbPTM",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://dbptm.mbc.nctu.edu.tw",
       "sc:version": "3.0"

@@ -10,19 +10,15 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12864-019-5536-1",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ImtRDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Viktor Shamansky",
-        "Konstantin Gunbin"
+        "Konstantin Gunbin",
+        "Viktor Shamansky"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Desktop application"
+        "Desktop application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -34,20 +30,24 @@
       "sc:description": "Database and software for mitochondrial imperfect interspersed repeats annotation.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_0237"
         },
         {
-          "@id": "edam:operation_0237"
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "ImtRDB",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioinfodbs.kantiana.ru/ImtRDB/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12864-019-5536-1",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

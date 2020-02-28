@@ -31,9 +31,9 @@
       },
       "sc:name": "Xtalk",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://graphspace.org/graphs/?query=tags:2015-bioinformatics-xtalk"
     }

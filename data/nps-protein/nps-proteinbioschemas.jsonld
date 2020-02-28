@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/nps-protein",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Raphael TERREUX",
-    "Gilbert DELEAGE"
+    "Gilbert DELEAGE",
+    "Raphael TERREUX"
   ],
   "sc:additionalType": "Web service",
   "sc:citation": "pubmed:10694887",

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/xchemexplorer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Rachael Skyner",
         "Tobias Krojer",
+        "Rachael Skyner",
         "Frank von Delft"
       ],
       "sc:additionalType": "Command-line tool",
@@ -31,8 +31,8 @@
       },
       "sc:name": "XChemExplorer",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://tkrojer.github.io/XChemExplorer/"
     },

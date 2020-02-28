@@ -17,8 +17,8 @@
   "sc:name": "longGWAS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://genetics.cs.ucla.edu/longGWAS/"
 }

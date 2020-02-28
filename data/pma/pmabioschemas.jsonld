@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s13104-018-3266-0",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/pma",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jessica Da Gama Duarte",
@@ -31,11 +27,15 @@
       },
       "sc:name": "PMA",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://sourceforge.net/projects/protein-microarray-analyser/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s13104-018-3266-0",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gku1158",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/oma",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Christophe Dessimoz",
@@ -25,16 +21,16 @@
           "@id": "edam:data_3671"
         },
         {
-          "@id": "edam:data_2974"
+          "@id": "edam:data_0842"
         },
         {
-          "@id": "edam:data_0842"
+          "@id": "edam:data_2974"
         }
       ],
       "sc:additionalType": [
-        "Web application",
+        "Desktop application",
         "Database portal",
-        "Desktop application"
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:25399418",
@@ -49,12 +45,16 @@
       },
       "sc:name": "OMA",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "SIB",
       "sc:url": "http://omabrowser.org/oma/home/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gku1158",
+      "@type": "sc:CreativeWork"
     }
   ]
 }
