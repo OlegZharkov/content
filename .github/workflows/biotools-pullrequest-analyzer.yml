@@ -23,4 +23,5 @@ jobs:
         pr_comment=$(python3 scripts/biotools-pullrequest-bot/biotools_pullrequest_analizer.py $GITHUB_WORKSPACE biotools-content${{ github.run_id }}/master origin/${{ github.head_ref }})
         $pr_comment > output.txt
         cat output.txt
+        cat output.txt
 
