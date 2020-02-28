@@ -28,6 +28,7 @@ jobs:
           name: output
           path: .github/workflows/output.txt
   comment:
+    needs: analize
     name: Add PR comments
     runs-on: ubuntu-latest
     steps:
