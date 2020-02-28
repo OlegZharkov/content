@@ -16,9 +16,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "LA-iMageS",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "SING Group, University of Vigo",

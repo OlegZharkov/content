@@ -16,8 +16,8 @@
   "sc:name": "LS-SNP",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://ls-snp.icm.jhu.edu/ls-snp-pdb/"
 }

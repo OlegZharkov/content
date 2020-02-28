@@ -18,13 +18,13 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1669"
+          "@id": "edam:data_2884"
         },
         {
           "@id": "edam:data_1772"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1669"
         }
       ],
       "sc:additionalType": [
@@ -39,10 +39,10 @@
           "@id": "edam:topic_0622"
         },
         {
-          "@id": "edam:topic_0659"
+          "@id": "edam:topic_3518"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_0659"
         },
         {
           "@id": "edam:topic_0203"
@@ -67,9 +67,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "mdgsa",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/mdgsa.html",
       "sc:version": "1.6.0"

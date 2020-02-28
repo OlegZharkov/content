@@ -17,8 +17,8 @@
   "sc:name": "PAT",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.kimlab.org/software/pat"
 }

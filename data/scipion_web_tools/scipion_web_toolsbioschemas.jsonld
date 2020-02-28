@@ -15,8 +15,8 @@
   "sc:description": "Technological development over Scipion framework software (REF), offering  access to predefined image processing workflows over the Web.",
   "sc:name": "SCIPION WEB TOOLS",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

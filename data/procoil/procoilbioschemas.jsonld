@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1074/mcp.M110.004994",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/procoil",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -37,16 +41,12 @@
       "sc:license": "GPL-2.0",
       "sc:name": "procoil",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/procoil.html",
       "sc:version": "2.2.0"
-    },
-    {
-      "@id": "https://doi.org/10.1074/mcp.M110.004994",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

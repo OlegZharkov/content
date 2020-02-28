@@ -14,18 +14,14 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gks241",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/r4rna",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0001-9203-6323"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC3384350",
@@ -47,11 +43,15 @@
       "sc:name": "R4RNA",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/R4RNA.html",
       "sc:version": "1.2.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gks241",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

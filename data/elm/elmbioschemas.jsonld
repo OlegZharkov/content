@@ -17,8 +17,8 @@
   "sc:name": "Eukaryotic linear motif resource (ELM)",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://elm.eu.org/"
 }

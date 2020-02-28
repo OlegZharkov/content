@@ -53,9 +53,9 @@
       "sc:license": "Other",
       "sc:name": "MHCcluster",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": {

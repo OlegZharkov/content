@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1002/MGG3.743",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/GPI-anchor_biosynthesis",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -33,27 +37,23 @@
       "sc:description": "Inherited glycophosphatidylinositol deficiency variant database.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0417"
-        },
-        {
           "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_3225"
+        },
+        {
+          "@id": "edam:operation_0417"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "GPI-anchor biosynthesis",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://www.gpibiosynthesis.org"
-    },
-    {
-      "@id": "https://doi.org/10.1002/MGG3.743",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

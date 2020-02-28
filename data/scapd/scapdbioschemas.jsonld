@@ -31,17 +31,17 @@
       "sc:description": "Database for human scaffold proteins.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2497"
+          "@id": "edam:operation_2414"
         },
         {
-          "@id": "edam:operation_2414"
+          "@id": "edam:operation_2497"
         }
       ],
       "sc:name": "ScaPD",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioinfo.wilmer.jhu.edu/ScaPD/"
     }

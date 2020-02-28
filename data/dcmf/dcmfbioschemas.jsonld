@@ -17,8 +17,8 @@
   "sc:name": "DCMF",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.slimsuite.unsw.edu.au/research/dcmf/"
 }

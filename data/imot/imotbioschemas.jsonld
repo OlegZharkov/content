@@ -17,8 +17,8 @@
   "sc:name": "iMOT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://caps.ncbs.res.in/imot/iMOTserver.html"
 }

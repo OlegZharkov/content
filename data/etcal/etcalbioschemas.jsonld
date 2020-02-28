@@ -17,8 +17,8 @@
   "sc:name": "ETCAL",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/kasprowski/etcal",
   "sc:version": "0.1"

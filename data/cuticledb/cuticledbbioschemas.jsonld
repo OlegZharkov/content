@@ -40,13 +40,13 @@
       },
       "sc:name": "CuticleDB",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": [
-        "University of Georgia",
-        "University of Athens"
+        "University of Athens",
+        "University of Georgia"
       ],
       "sc:url": "http://biophysics.biol.uoa.gr/cuticleDB/"
     }

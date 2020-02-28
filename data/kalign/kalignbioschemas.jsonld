@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Web Production",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Erik Sonnhammer",
-    "Web Production"
+    "Web Production",
+    "Erik Sonnhammer"
   ],
   "sc:description": "Fast and accurate multiple sequence alignment which handles large sequences.",
   "sc:name": "Kalign",
@@ -24,8 +24,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "EMBL-EBI",
-    "Stockholm Bioinformatics Center"
+    "Stockholm Bioinformatics Center",
+    "EMBL-EBI"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/msa/kalign/",
   "sc:version": "1"

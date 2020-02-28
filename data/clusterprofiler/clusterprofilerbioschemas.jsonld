@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-6485-8781",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/clusterprofiler",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -28,10 +24,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_0862"
+          "@id": "edam:data_1669"
         },
         {
-          "@id": "edam:data_1669"
+          "@id": "edam:data_0862"
         },
         {
           "@id": "edam:data_2884"
@@ -43,10 +39,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0092"
+          "@id": "edam:topic_3053"
         },
         {
-          "@id": "edam:topic_3053"
+          "@id": "edam:topic_0092"
         }
       ],
       "sc:citation": [
@@ -59,18 +55,18 @@
       "sc:description": "This package implements methods to analyze and visualize functional profiles (GO and KEGG) of gene and gene clusters.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2238"
+          "@id": "edam:operation_2436"
         },
         {
-          "@id": "edam:operation_2436"
+          "@id": "edam:operation_2238"
         }
       ],
       "sc:isAccessibleForFree": true,
       "sc:license": "Artistic-2.0",
       "sc:name": "clusterProfiler",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:softwareHelp": {
@@ -78,6 +74,10 @@
       },
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/clusterProfiler.html",
       "sc:version": "3.2.9"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-6485-8781",
+      "@type": "schema:Person"
     }
   ]
 }

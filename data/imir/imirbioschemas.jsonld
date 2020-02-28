@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-0538-8978",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1186/1471-2105-14-362",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/imir",
@@ -51,8 +51,8 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1186/1471-2105-14-362",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-0538-8978",
+      "@type": "schema:Person"
     }
   ]
 }

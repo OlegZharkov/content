@@ -15,8 +15,8 @@
   "sc:name": "ProtoNet",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.protonet.cs.huji.ac.il/"
 }

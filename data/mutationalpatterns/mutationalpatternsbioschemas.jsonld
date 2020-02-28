@@ -15,8 +15,8 @@
     "Francis Blokzijl"
   ],
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "An extensive toolset for the characterization and visualization of a wide range of mutational patterns in base substitution data.",
   "sc:license": "MIT",

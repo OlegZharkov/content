@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/nipredict",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jhih-Rong Lin",
-    "Jianjun Hu"
+    "Jianjun Hu",
+    "Jhih-Rong Lin"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:25043850",
@@ -20,8 +20,8 @@
   "sc:name": "NIpredict",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://mleg.cse.sc.edu/NIpredict/"
 }

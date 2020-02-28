@@ -17,8 +17,8 @@
   "sc:name": "PSEUDOVIEWER",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://pseudoviewer.inha.ac.kr/"
 }

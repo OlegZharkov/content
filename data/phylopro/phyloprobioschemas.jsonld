@@ -17,8 +17,8 @@
   "sc:name": "PhyloPro",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://compsysbio.org/phylopro/"
 }

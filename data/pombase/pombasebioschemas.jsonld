@@ -15,8 +15,8 @@
   "sc:name": "PomBase",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.pombase.org/"
 }

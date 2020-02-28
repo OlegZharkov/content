@@ -21,8 +21,8 @@
       "sc:name": "FuzzyClust",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "bmb.sdu.dk",
       "sc:url": "http://computproteomics.bmb.sdu.dk/Apps/FuzzyClust",

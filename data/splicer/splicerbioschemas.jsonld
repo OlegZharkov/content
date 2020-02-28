@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/splicer",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Johannes Waage",
-    "Kristoffer Vitting-Seerup"
+    "Kristoffer Vitting-Seerup",
+    "Johannes Waage"
   ],
   "sc:additionalType": [
     "Command-line tool",
@@ -23,8 +23,8 @@
   "sc:name": "spliceR",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/spliceR.html",
   "sc:version": "1.16.0"

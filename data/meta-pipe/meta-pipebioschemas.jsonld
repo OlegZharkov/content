@@ -15,8 +15,8 @@
     "Espen Robert Mikalsen",
     "Edvard Pedersen",
     "Tim Kahlke",
-    "Inge Alexander Raknes",
-    "Erik Hjerde"
+    "Erik Hjerde",
+    "Inge Alexander Raknes"
   ],
   "sc:description": "Metagenome and genome annotation tool. Used for prokaryota analysis on assembled contigs. It include gene prediction and domain annotation using MGA, Glimmer, BLAST and UniProt. Output formats supported are EMBL and TSV.",
   "sc:name": "Meta-pipe",

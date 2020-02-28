@@ -19,8 +19,8 @@
   ],
   "sc:description": "Read and write pairs from alignments.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",

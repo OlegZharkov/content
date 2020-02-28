@@ -20,8 +20,8 @@
   "sc:name": "MutationInfo",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.epga.gr/MutationInfo/",
   "sc:version": "1.3"

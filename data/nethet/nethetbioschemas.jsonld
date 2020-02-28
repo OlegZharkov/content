@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/nethet",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Nicolas Staedler",
-    "Frank Dondelinger"
+    "Frank Dondelinger",
+    "Nicolas Staedler"
   ],
   "sc:additionalType": [
     "Library",
@@ -22,9 +22,9 @@
   "sc:license": "GPL-2.0",
   "sc:name": "nethet",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/nethet.html",
   "sc:version": "1.6.0"

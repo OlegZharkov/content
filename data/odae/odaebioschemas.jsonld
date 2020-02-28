@@ -27,18 +27,18 @@
           "@id": "edam:operation_3559"
         },
         {
-          "@id": "edam:operation_3280"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3280"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "ODAE",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/ODAE-ontology/ODAE"
     },

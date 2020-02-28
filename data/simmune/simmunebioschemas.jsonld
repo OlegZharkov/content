@@ -19,8 +19,8 @@
   "sc:name": "Simmune",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.niaid.nih.gov/labsandresources/labs/aboutlabs/lsb/Pages/simmuneproject.aspx"
 }

@@ -16,8 +16,8 @@
   "sc:name": "First Person Bioimage",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://fpb.ceb.cam.ac.uk/"
 }

@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-2348-0778",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/mygenomebrowser",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -28,10 +24,10 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
+        "pubmed:28011789",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btw800"
         },
-        "pubmed:28011789",
         "pmcid:PMC5408841"
       ],
       "sc:description": "Web-based environment that provides biologists with a way to build, query and share their genome browsers.",
@@ -41,11 +37,15 @@
       "sc:license": "CECILL-B",
       "sc:name": "myGenomeBrowser",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://bbric-pipelines.toulouse.inra.fr/myGenomeBrowser"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-2348-0778",
+      "@type": "schema:Person"
     }
   ]
 }

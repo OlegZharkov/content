@@ -17,8 +17,8 @@
   "sc:name": "CNAtra",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/AISKhalil/CNAtra"
 }

@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "jaspextract",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

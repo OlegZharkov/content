@@ -17,8 +17,8 @@
   "sc:name": "AutismKB",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://autismkb.cbi.pku.edu.cn/"
 }

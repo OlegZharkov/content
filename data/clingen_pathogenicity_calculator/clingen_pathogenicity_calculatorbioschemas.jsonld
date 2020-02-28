@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s13073-016-0391-z",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/clingen_pathogenicity_calculator",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:28081714",
@@ -38,15 +42,11 @@
       "sc:license": "OSL-3.0",
       "sc:name": "ClinGen Pathogenicity Calculator",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://calculator.clinicalgenome.org/site/cg-calculator"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s13073-016-0391-z",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

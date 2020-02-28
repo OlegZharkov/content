@@ -20,8 +20,8 @@
   "sc:name": "HybridCheck",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://github.com/BenJWard/HybridCheck"
 }

@@ -17,8 +17,8 @@
   "sc:name": "Pathema",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://pathema.jcvi.org"
 }

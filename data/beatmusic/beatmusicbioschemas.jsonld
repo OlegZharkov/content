@@ -11,19 +11,19 @@
   "@id": "https://bio.tools/beatmusic",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Marianne Rooman",
-    "Jean Marc Kwasigroch",
     "Yves Dehouck",
-    "Dimitri Gilis"
+    "Dimitri Gilis",
+    "Marianne Rooman",
+    "Jean Marc Kwasigroch"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:23723246",
   "sc:description": "This program evaluates the change in binding affinity between proteins (or protein chains) caused by single-site mutations in their sequence.",
   "sc:name": "BeAtMuSiC",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://babylone.ulb.ac.be/beatmusic"
 }

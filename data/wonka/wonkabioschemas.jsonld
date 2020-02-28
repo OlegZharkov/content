@@ -28,8 +28,8 @@
       "sc:name": "WONKA",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://wonka.sgc.ox.ac.uk/WONKA/"
     },

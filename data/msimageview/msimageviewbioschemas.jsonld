@@ -15,8 +15,8 @@
   "sc:name": "MSImageView",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://ms-imaging.org/wp/msimageview/"
 }

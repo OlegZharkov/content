@@ -16,8 +16,8 @@
   "sc:name": "MOLGENIS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "UMC Groningen and collaborators",
   "sc:url": "https://molgenis.org",

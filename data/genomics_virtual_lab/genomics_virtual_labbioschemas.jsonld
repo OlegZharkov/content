@@ -15,8 +15,8 @@
   "sc:name": "Genomics Virtual Lab",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "Victorian Life Sciences Computation Initiative (VLSCI)",

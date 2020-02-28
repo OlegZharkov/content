@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/coremic",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Mark A. Williams",
-        "Richard R. Rodrigue"
+        "Richard R. Rodrigue",
+        "Mark A. Williams"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -34,9 +34,9 @@
       },
       "sc:name": "COREMIC",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://core-mic.com/",
       "sc:version": "2.0"

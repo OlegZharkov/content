@@ -16,8 +16,8 @@
   "sc:name": "Notung",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.cs.cmu.edu/~durand/Notung/"
 }

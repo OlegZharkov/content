@@ -21,8 +21,8 @@
   "sc:name": "Mirsynergy",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/Mirsynergy.html",
   "sc:version": "1.10.0"

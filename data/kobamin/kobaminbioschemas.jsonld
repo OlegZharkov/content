@@ -17,8 +17,8 @@
   "sc:license": "Unlicense",
   "sc:name": "KoBaMIN",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://chopra-modules.science.purdue.edu/modules/kobamin/html/"

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/binoculars",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:citation": [
         "pmcid:PMC4520292",
@@ -30,8 +30,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "BINoculars",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://github.com/id03/binoculars"

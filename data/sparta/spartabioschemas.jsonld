@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-016-0923-y",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/sparta",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Benjamin K. Johnson",
-        "Tracy K. Teal",
+        "Robert B. Abramovitch",
         "Matthew B. Scholz",
-        "Robert B. Abramovitch"
+        "Tracy K. Teal"
       ],
       "sc:additionalType": "Workflow",
       "sc:citation": [
@@ -31,16 +35,12 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "SPARTA",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://sparta.readthedocs.io/en/latest/",
       "sc:version": "1.0"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-016-0923-y",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

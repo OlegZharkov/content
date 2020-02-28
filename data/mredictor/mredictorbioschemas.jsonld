@@ -16,8 +16,8 @@
   "sc:name": "MREdictor",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://mredictor.hugef-research.org/"
 }

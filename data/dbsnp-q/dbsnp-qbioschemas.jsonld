@@ -17,8 +17,8 @@
   "sc:name": "dbSNP-Q",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://cgsmd.isi.edu/dbsnpq"
 }

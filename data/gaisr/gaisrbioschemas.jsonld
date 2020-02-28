@@ -15,8 +15,8 @@
   "sc:name": "GAISR",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/jsa-aerial/gaisr"
 }

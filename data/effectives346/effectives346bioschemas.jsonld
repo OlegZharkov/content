@@ -21,10 +21,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_0920"
+          "@id": "edam:data_0896"
         },
         {
-          "@id": "edam:data_0896"
+          "@id": "edam:data_0920"
         }
       ],
       "sc:additionalType": [
@@ -54,12 +54,12 @@
       "sc:name": "EffectiveS346",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
-        "AT-CUBE",
-        "CUBE - Computational Systems Biology"
+        "CUBE - Computational Systems Biology",
+        "AT-CUBE"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.effectivedb.org/method/effectives346"

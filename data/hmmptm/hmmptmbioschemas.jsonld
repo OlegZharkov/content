@@ -17,8 +17,8 @@
   "sc:name": "HMMpTM",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://aias.biol.uoa.gr/HMMpTM/"
 }

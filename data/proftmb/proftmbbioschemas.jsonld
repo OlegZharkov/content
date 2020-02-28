@@ -23,8 +23,8 @@
         "@id": "edam:data_0896"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -36,11 +36,11 @@
       ],
       "sc:author": "Henry Bigelow",
       "sc:citation": [
-        "pmcid:PMC1538807",
         {
           "@id": "https://doi.org/10.1093/nar/gkl262"
         },
-        "pubmed:16844988"
+        "pubmed:16844988",
+        "pmcid:PMC1538807"
       ],
       "sc:contributor": [
         "grant R01-LM07329-01 from the National Library of Medicine",
@@ -60,14 +60,14 @@
       "sc:license": "GPL-2.0",
       "sc:name": "PROFtmb",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:provider": [
-        "Columbia University",
         "Irvine Cancer Center",
-        "RostLab"
+        "RostLab",
+        "Columbia University"
       ],
       "sc:softwareHelp": {
         "@id": "https://rostlab.org/owiki/index.php/Proftmb"

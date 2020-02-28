@@ -31,8 +31,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "pcaGoPromoter",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/pcaGoPromoter.html",

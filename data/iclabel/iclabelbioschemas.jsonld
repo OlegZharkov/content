@@ -32,9 +32,9 @@
       "sc:license": "Unlicense",
       "sc:name": "ICLabel",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://iclabel.ucsd.edu/"
     }

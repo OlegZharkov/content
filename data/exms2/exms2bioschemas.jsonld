@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "ExMS2",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://hx2.med.upenn.edu/EXms/"

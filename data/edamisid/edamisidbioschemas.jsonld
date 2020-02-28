@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "UK BBSRC",
     "EMBOSS Contributors",
+    "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:description": "Find EDAM ontology terms by is_identifier_of relation.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "edamisid",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

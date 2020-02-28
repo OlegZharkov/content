@@ -16,8 +16,8 @@
   "sc:name": "SpotCaliper",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bigwww.epfl.ch/algorithms/spotcaliper/"
 }

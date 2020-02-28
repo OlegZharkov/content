@@ -27,9 +27,9 @@
       },
       "sc:name": "Aber-OWL",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://aber-owl.net/#/"
     },

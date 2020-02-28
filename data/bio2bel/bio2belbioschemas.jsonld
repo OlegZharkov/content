@@ -16,8 +16,8 @@
   "sc:license": "Apache-2.0",
   "sc:name": "Bio2BEL",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "https://github.com/bio2bel"

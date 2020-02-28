@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Stanislaw Dunin-Horkawicz",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC6499831",
         "pubmed:31053765",
+        "pmcid:PMC6499831",
         {
           "@id": "https://doi.org/10.1038/S41598-019-43189-4"
         }
@@ -36,8 +36,8 @@
       "sc:license": "Unlicense",
       "sc:name": "PiPred",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/labstructbioinf/PiPred"
     },

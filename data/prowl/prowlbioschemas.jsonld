@@ -17,8 +17,8 @@
   "sc:name": "PROWL",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://prowl.rockefeller.edu/"
 }

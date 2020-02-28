@@ -32,8 +32,8 @@
       "sc:name": "CisMiner",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://genome.ugr.es:9000/cisminer"
     }

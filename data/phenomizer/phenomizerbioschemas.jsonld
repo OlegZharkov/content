@@ -16,8 +16,8 @@
   "sc:name": "Phenomizer",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://compbio.charite.de/phenomizer"
 }

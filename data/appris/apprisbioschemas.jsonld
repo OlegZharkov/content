@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/appris",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Michael Tress",
-    "Jose Rodriguez"
+    "Jose Rodriguez",
+    "Michael Tress"
   ],
   "sc:additionalType": [
     "Web application",
@@ -30,8 +30,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "cnio.es",
     "CNIO",
+    "cnio.es",
     "INB"
   ],
   "sc:url": "http://appris.bioinfo.cnio.es/#/database",

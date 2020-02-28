@@ -17,8 +17,8 @@
   "sc:name": "MeV",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://mev.tm4.org/#/welcome"
 }

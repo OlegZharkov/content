@@ -17,8 +17,8 @@
   "sc:name": "DOMINE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://domine.utdallas.edu"
 }

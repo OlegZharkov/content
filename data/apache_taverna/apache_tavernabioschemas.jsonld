@@ -16,9 +16,9 @@
   ],
   "sc:additionalType": [
     "Workbench",
-    "Desktop application",
     "Web service",
     "Web application",
+    "Desktop application",
     "Command-line tool",
     "Web API"
   ],
@@ -32,8 +32,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "Apache Software Foundation",
-    "cs.manchester.ac.uk"
+    "cs.manchester.ac.uk",
+    "Apache Software Foundation"
   ],
   "sc:url": "http://taverna.incubator.apache.org/",
   "sc:version": "3"

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/frog",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Bug report",
     "General",
+    "Bug report",
     "Administrator"
   ],
   "sc:additionalType": "Web application",

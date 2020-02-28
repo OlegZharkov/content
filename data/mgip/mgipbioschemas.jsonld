@@ -20,8 +20,8 @@
   "sc:name": "MGIP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://mgip.biology.gatech.edu"
 }

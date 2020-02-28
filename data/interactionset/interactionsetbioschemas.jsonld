@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-3564-4813",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.12688/f1000research.8759.2",
       "@type": "sc:CreativeWork"
     },
@@ -24,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-3564-4813"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4890298",
@@ -41,12 +37,16 @@
       "sc:license": "GPL-3.0",
       "sc:name": "InteractionSet",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/InteractionSet.html",
       "sc:version": "1.2.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-3564-4813",
+      "@type": "schema:Person"
     }
   ]
 }

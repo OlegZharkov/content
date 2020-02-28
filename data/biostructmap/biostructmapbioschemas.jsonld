@@ -15,16 +15,16 @@
     "Andrew Guy"
   ],
   "sc:additionalType": [
-    "Web application",
     "Script",
+    "Web application",
     "Web service"
   ],
   "sc:description": "Python tool for integration of protein structure and sequence-based features.",
   "sc:license": "MIT",
   "sc:name": "BioStructMap",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "https://biostructmap.burnet.edu.au"

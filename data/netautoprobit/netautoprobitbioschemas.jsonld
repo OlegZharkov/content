@@ -16,8 +16,8 @@
   "sc:description": "Matlab software of network-based auto-probit method for protein function prediction.",
   "sc:name": "NetAutoProbit",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://math.bu.edu/people/kolaczyk/software.html"

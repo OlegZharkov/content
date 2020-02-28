@@ -16,8 +16,8 @@
   "sc:name": "Matapax",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://matapax.mpimp-golm.mpg.de/"
 }

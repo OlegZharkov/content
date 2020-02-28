@@ -31,8 +31,8 @@
       },
       "sc:name": "WGE",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://www.sanger.ac.uk/htgt/wge/"
