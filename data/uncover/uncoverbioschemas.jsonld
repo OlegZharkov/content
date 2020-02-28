@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1006802",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/UNCOVER",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -43,11 +39,15 @@
       "sc:license": "BSD-3-Clause",
       "sc:name": "UNCOVER",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/VandinLab/UNCOVER"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1006802",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

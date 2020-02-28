@@ -16,8 +16,8 @@
   "sc:name": "AOE",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://aoe.dbcls.jp/"
 }

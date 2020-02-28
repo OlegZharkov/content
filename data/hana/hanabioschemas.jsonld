@@ -23,8 +23,8 @@
   "sc:name": "HANA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "University of West Bohemia, Czech Republic",
   "sc:url": "http://ccy.zcu.cz/registr/CZ-HANA.html",

@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "RSpred",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "bils.se",

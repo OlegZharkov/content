@@ -17,8 +17,8 @@
   "sc:name": "DynamicProteomics DB",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.weizmann.ac.il/mcb/UriAlon/DynamProt/"
 }

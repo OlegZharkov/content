@@ -28,8 +28,8 @@
       "sc:name": "POETs",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/varnerlab/POETs.jl"
     },

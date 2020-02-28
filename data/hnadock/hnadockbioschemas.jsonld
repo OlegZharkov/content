@@ -32,21 +32,21 @@
       "sc:description": "Nucleic acid docking server for modeling RNA/DNA-RNA/DNA 3D complex structures.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3899"
-        },
-        {
           "@id": "edam:operation_0278"
         },
         {
           "@id": "edam:operation_0279"
+        },
+        {
+          "@id": "edam:operation_3899"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "HNADOCK",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://huanglab.phys.hust.edu.cn/hnadock/"
     }

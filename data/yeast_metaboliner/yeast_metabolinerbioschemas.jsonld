@@ -17,8 +17,8 @@
   "sc:name": "Yeast MetaboliNER",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://nactem7.mib.man.ac.uk/metaboliner/"
 }

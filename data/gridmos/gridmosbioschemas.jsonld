@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/gridmos",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "AlessandroBevilacqua",
     "AnnaTesei",
     "GiuliaPaganelli",
-    "AlessandroBevilacqua",
     "WainerZoli",
     "FilippoPiccinini"
   ],

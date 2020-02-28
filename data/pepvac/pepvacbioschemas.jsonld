@@ -17,8 +17,8 @@
   "sc:name": "PEPVAC",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://imed.med.ucm.es/PEPVAC/"
 }

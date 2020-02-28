@@ -27,19 +27,19 @@
       "sc:description": "Open-source web-based search and metadata organization of scientific literature.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0305"
-        },
-        {
           "@id": "edam:operation_2422"
         },
         {
           "@id": "edam:operation_3431"
+        },
+        {
+          "@id": "edam:operation_0305"
         }
       ],
       "sc:name": "PaperBot",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://paperbot.ai/"

@@ -27,9 +27,9 @@
       },
       "sc:name": "mutLBSgeneDB",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://bioinfo.uth.edu/mutLBSgeneDB/"
     },

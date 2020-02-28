@@ -17,8 +17,8 @@
   "sc:name": "CUDA-EC",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.nvidia.com/object/bio_info_life_sciences.html"
 }

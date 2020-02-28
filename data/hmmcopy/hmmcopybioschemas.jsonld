@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/hmmcopy",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Daniel Lai",
-    "Sohrab Shah"
+    "Sohrab Shah",
+    "Daniel Lai"
   ],
   "sc:additionalType": [
     "Command-line tool",
@@ -23,8 +23,8 @@
   "sc:name": "HMMcopy",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/HMMcopy.html",
   "sc:version": "1.16.0"

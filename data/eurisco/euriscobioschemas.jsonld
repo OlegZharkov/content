@@ -40,8 +40,8 @@
       "sc:name": "EURISCO",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "European Cooperative Programme for Plant Genetic Resources (ECPGR)",
-        "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben"
+        "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben",
+        "European Cooperative Programme for Plant Genetic Resources (ECPGR)"
       ],
       "sc:url": "http://eurisco.ecpgr.org",
       "sc:version": "1.4.3"

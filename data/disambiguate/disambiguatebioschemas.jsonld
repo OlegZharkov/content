@@ -29,10 +29,10 @@
       "sc:description": "Disambiguating two species in next generation sequencing data from grafted samples. Operates on DNA or RNA-seq alignments to the two species and separates the components at very high sensitivity and specificity.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3800"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3800"
         }
       ],
       "sc:license": "MIT",

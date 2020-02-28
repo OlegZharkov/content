@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12864-015-1676-0",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/degps",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Yan Lu",
@@ -28,15 +32,11 @@
       "sc:license": "Other",
       "sc:name": "deGPS",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/LL-LAB-MCW/deGPS"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12864-015-1676-0",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

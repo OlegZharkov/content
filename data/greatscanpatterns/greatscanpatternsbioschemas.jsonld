@@ -20,12 +20,12 @@
   "sc:name": "GREAT:SCAN:patterns",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "Institute of Systems and Synthetic Biology",
-    "issb.genopole.fr"
+    "issb.genopole.fr",
+    "Institute of Systems and Synthetic Biology"
   ],
   "sc:url": "https://absynth.issb.genopole.fr/Bioinformatics/tools/GREAT/patterns/",
   "sc:version": "1"

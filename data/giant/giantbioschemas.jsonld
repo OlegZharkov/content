@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/1471-2105-15-12",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/giant",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Kengo Kinoshita",
@@ -32,10 +36,6 @@
         "Mac"
       ],
       "sc:url": "https://giant.hgc.jp/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1471-2105-15-12",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

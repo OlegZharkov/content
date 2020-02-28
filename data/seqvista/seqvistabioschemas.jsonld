@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Martin Frith",
-    "Zhiping Weng",
+    "Tianhua Niu",
     "Zhenjun Hu",
-    "Tianhua Niu"
+    "Zhiping Weng"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:12513700",

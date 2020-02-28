@@ -20,8 +20,8 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "BRUSELAS",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bio-hpc.ucam.edu/Bruselas/"

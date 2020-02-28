@@ -11,12 +11,12 @@
   "@id": "https://bio.tools/JAL",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Chandra S. Verma",
-    "Minh N. Nguyen"
+    "Minh N. Nguyen",
+    "Chandra S. Verma"
   ],
   "sc:additionalType": [
-    "Command-line tool",
     "Web application",
+    "Command-line tool",
     "Web service"
   ],
   "sc:citation": "pubmed:31140800",
@@ -24,8 +24,8 @@
   "sc:license": "Unlicense",
   "sc:name": "JAL",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://mspc.bii.a-star.edu.sg/minhn/jal.html"

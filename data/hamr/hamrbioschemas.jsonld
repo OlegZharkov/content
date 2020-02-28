@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/HAMR",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web service",
     "Web application",
+    "Web service",
     "Command-line tool"
   ],
   "sc:citation": "pubmed:30539546",
@@ -20,9 +20,9 @@
   "sc:license": "MIT",
   "sc:name": "HAMR",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://tesla.pcbi.upenn.edu/hamr/",
   "sc:version": "1.2"

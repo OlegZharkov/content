@@ -16,8 +16,8 @@
   "sc:name": "Open PHACTS API",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "Open PHACTS Foundation",
   "sc:url": "https://dev.openphacts.org/docs/2.1",

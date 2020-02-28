@@ -17,8 +17,8 @@
   "sc:name": "Graphical Codon Usage Analyser",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://gcua.schoedl.de"
 }

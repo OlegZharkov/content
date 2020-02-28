@@ -15,8 +15,8 @@
   "sc:license": "BSD-3-Clause",
   "sc:name": "SeqAn",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "Freie Universität Berlin",

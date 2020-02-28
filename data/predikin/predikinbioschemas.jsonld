@@ -17,8 +17,8 @@
   "sc:name": "Predikin",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://predikin.biosci.uq.edu.au"
 }

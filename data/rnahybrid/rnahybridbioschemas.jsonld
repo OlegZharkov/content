@@ -20,12 +20,12 @@
   "sc:name": "RNAhybrid",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "BiBiServ",
-    "Bielefeld university"
+    "Bielefeld university",
+    "BiBiServ"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/rnahybrid",
   "sc:version": "2.2.1"

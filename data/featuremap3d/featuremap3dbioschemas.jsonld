@@ -20,8 +20,8 @@
   "sc:license": "Other",
   "sc:name": "FeatureMap3D",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://www.cbs.dtu.dk/services/FeatureMap3D/"

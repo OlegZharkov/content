@@ -17,8 +17,8 @@
     "Guy Yachdav"
   ],
   "sc:contributor": [
-    "Edda Kloppmann",
     "Laszlo Kajan",
+    "Edda Kloppmann",
     "Alexander von Humboldt foundation through the German Ministry for Research and Education"
   ],
   "sc:description": "Prediction of various aspects of protein structure and function. A user may submit a query to the server without registration.",
@@ -27,8 +27,8 @@
   "sc:name": "PredictProtein Open",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "Technische Universität München",

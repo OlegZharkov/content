@@ -37,9 +37,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "eNetXplorer",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/package=eNetXplorer",
       "sc:version": "1.0.2"

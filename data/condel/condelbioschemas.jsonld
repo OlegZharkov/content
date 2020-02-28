@@ -42,9 +42,9 @@
       ],
       "sc:name": "Condel",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bbglab.irbbarcelona.org/fannsdb/"
     }

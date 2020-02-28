@@ -31,8 +31,8 @@
       },
       "sc:name": "AlmostSignificant",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/bartongroup/AlmostSignificant"
     }

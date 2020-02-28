@@ -20,8 +20,8 @@
         "@id": "edam:data_1255"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {

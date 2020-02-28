@@ -18,9 +18,9 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Qiang Kou",
-        "Bernd Fischer",
+        "Steffen Neumann",
         "Laurent Gatto",
-        "Steffen Neumann"
+        "Bernd Fischer"
       ],
       "sc:additionalType": [
         "Library",

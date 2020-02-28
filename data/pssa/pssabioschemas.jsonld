@@ -15,9 +15,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "PSSA",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "http://pssa.itiud.org"
 }

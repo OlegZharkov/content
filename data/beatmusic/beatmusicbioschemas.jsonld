@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/beatmusic",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Yves Dehouck",
     "Dimitri Gilis",
     "Jean Marc Kwasigroch",
-    "Yves Dehouck",
     "Marianne Rooman"
   ],
   "sc:additionalType": "Web application",
@@ -22,8 +22,8 @@
   "sc:name": "BeAtMuSiC",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://babylone.ulb.ac.be/beatmusic"
 }

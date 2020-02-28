@@ -36,9 +36,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "universal TTSs",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/vanya-antonov/universal_tts"
     },

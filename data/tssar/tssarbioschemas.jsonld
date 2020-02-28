@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1471-2105-15-89",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/tssar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
       "sc:additionalType": [
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -34,11 +30,15 @@
       },
       "sc:name": "TSSAR",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://rna.tbi.univie.ac.at/TSSAR"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2105-15-89",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

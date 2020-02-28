@@ -16,8 +16,8 @@
   "sc:name": "Discovery Environment",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.cyverse.org/discovery-environment"
 }

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1110/ps.0239403",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0001-7885-4311",
       "@type": "schema:Person"
     },
@@ -28,10 +24,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
+        "pubmed:12717023",
         {
           "@id": "https://doi.org/10.1110/ps.0239403"
         },
-        "pubmed:12717023",
         "pubmed:18413329",
         "pmcid:PMC2323871"
       ],
@@ -45,6 +41,10 @@
       "sc:provider": "CBS",
       "sc:url": "http://cbs.dtu.dk/services/NetMHC/",
       "sc:version": "3.4"
+    },
+    {
+      "@id": "https://doi.org/10.1110/ps.0239403",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

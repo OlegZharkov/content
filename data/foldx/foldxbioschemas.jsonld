@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/foldx",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Luis Serrano",
     "Webmaster",
+    "Luis Serrano",
     "Javier Delgado"
   ],
   "sc:additionalType": "Web application",

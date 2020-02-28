@@ -37,9 +37,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "STINGRAY",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://stingray.biowebdb.org/"
     }

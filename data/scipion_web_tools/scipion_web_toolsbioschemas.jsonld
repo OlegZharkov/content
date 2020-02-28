@@ -15,13 +15,13 @@
   "sc:description": "Technological development over Scipion framework software (REF), offering  access to predefined image processing workflows over the Web.",
   "sc:name": "SCIPION WEB TOOLS",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
-    "INB",
     "ELIXIR-ES",
+    "INB",
     "cnb.csic.es"
   ],
   "sc:url": "http://scipion.cnb.csic.es/m/services/",

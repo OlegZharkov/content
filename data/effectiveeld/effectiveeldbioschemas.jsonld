@@ -37,8 +37,8 @@
       "sc:name": "EffectiveELD",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
         "CUBE - Computational Systems Biology",

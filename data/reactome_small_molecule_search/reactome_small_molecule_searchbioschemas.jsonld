@@ -17,8 +17,8 @@
   "sc:name": "Reactome Small Molecule Search",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "OICR",

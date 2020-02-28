@@ -16,8 +16,8 @@
   "sc:license": "MIT",
   "sc:name": "FractBias",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "https://genomevolution.org/CoGe/SynMap.pl"

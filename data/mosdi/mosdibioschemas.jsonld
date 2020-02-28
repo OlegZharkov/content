@@ -17,8 +17,8 @@
   "sc:name": "MoSDi",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://bitbucket.org/tobiasmarschall/mosdi"
 }

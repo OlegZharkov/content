@@ -15,11 +15,11 @@
       "biotools:primaryContact": "Alessia David",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC6597944",
         {
           "@id": "https://doi.org/10.1016/J.JMB.2019.04.043"
         },
-        "pubmed:31075275"
+        "pubmed:31075275",
+        "pmcid:PMC6597944"
       ],
       "sc:description": "Dynamic web application that enables the exploration and mapping of genetic variants onto experimental and predicted structures of proteins and protein complexes.",
       "sc:featureList": [

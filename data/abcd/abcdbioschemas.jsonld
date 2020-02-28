@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-5643-2668",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/abcd",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
@@ -38,14 +42,10 @@
       "sc:name": "AbCD",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://yunliweb.its.unc.edu/AbCD.html"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-5643-2668",
-      "@type": "schema:Person"
     }
   ]
 }

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/p-scan",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "V. V. Prabhu",
+    "P. J. Munson",
     "L. Young",
-    "P. J. Munson"
+    "V. V. Prabhu"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:10820484",
@@ -21,8 +21,8 @@
   "sc:name": "P-SCAN",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://abs.cit.nih.gov/pscan/"
 }

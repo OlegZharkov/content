@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/tmhmm",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
+    "Command-line tool",
     "Web service",
-    "Command-line tool"
+    "Web application"
   ],
   "sc:description": "Prediction of transmembrane helices in proteins.",
   "sc:license": "Other",

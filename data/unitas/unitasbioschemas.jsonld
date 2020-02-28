@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "unitas",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/unitas/files/"
     },

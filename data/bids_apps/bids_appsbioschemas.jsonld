@@ -15,8 +15,8 @@
   "sc:name": "BIDS Apps",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bids-apps.neuroimaging.io/"
 }

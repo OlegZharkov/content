@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/metacram",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Minji Kim",
-    "Xiejia Zhang"
+    "Xiejia Zhang",
+    "Minji Kim"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:26895947",

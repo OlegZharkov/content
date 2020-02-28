@@ -15,8 +15,8 @@
   "sc:description": "An aphid genome database.",
   "sc:name": "AphidBase",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "GenOuest",

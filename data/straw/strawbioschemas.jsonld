@@ -17,8 +17,8 @@
   "sc:name": "STRAW",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.publichealth.uga.edu/SpeciesTreeAnalysis/"
 }

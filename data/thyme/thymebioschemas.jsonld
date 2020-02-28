@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/thyme",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Peter Reilly",
-    "David Cantu"
+    "David Cantu",
+    "Peter Reilly"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:21045059",

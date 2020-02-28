@@ -30,8 +30,8 @@
       },
       "sc:name": "Crysalis",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://nmrcen.xmu.edu.cn/crysalis/"

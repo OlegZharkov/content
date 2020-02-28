@@ -18,16 +18,16 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Sam Ireland",
       "sc:additionalType": [
+        "Database portal",
         "Web application",
-        "Web API",
-        "Database portal"
+        "Web API"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/database/baz006"
         },
-        "pubmed:30722040",
-        "pmcid:PMC6361820"
+        "pmcid:PMC6361820",
+        "pubmed:30722040"
       ],
       "sc:description": "Database of zinc binding sites.",
       "sc:featureList": [
@@ -43,9 +43,9 @@
       ],
       "sc:name": "ZincBind",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://zincbind.bioinf.org.uk/"
     }

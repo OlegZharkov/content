@@ -15,8 +15,8 @@
   "sc:description": "Predicted transcription factors in completely sequenced genomes.",
   "sc:name": "Transcription factor prediction database (DBD)",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.transcriptionfactor.org/index.cgi"

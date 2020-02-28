@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/MAPS",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Ming Hu",
-        "Ivan Juric"
+        "Ivan Juric",
+        "Ming Hu"
       ],
       "sc:additionalType": "Script",
       "sc:citation": [
@@ -31,13 +31,13 @@
       "sc:description": "MAPS (Model-based Analysis of PLAC-Seq data) pipeline is a a set of multiple scripts used to analyze PLAC-Seq and HiChIP data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3222"
+          "@id": "edam:operation_3798"
         },
         {
           "@id": "edam:operation_2429"
         },
         {
-          "@id": "edam:operation_3798"
+          "@id": "edam:operation_3222"
         }
       ],
       "sc:name": "MAPS",

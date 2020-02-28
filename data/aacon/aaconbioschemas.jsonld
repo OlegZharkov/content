@@ -15,8 +15,8 @@
   "sc:name": "AACon",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.compbio.dundee.ac.uk/aacon/",
   "sc:version": "1"

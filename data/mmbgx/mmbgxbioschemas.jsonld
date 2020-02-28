@@ -17,8 +17,8 @@
   "sc:name": "MMBGX",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bgx.org.uk/software/mmbgx.html"
 }

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12864-018-4732-8",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/convaq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -17,8 +21,8 @@
         "Jan Baumbach"
       ],
       "sc:additionalType": [
-        "Library",
-        "Web application"
+        "Web application",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -33,15 +37,11 @@
       },
       "sc:name": "CoNVaQ",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://convaq.compbio.sdu.dk/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12864-018-4732-8",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

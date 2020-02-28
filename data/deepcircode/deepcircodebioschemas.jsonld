@@ -21,8 +21,8 @@
   "sc:name": "DeepCirCode",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/BioDataLearning/DeepCirCode"
 }

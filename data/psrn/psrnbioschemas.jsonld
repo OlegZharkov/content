@@ -30,18 +30,18 @@
           "@id": "edam:operation_3223"
         },
         {
-          "@id": "edam:operation_3800"
+          "@id": "edam:operation_3680"
         },
         {
-          "@id": "edam:operation_3680"
+          "@id": "edam:operation_3800"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "PSRN",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://syslab5.nchu.edu.tw/"
     },

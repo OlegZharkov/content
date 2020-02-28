@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Norberto Díaz-Díaz",
-    "Francisco Gómez Vela",
-    "José Antonio Lagares"
+    "José Antonio Lagares",
+    "Francisco Gómez Vela"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:25935118",

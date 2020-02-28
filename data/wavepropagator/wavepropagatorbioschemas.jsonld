@@ -29,8 +29,8 @@
       "sc:name": "WavePropaGator",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/samoylv/WPG"
     },

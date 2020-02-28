@@ -24,10 +24,10 @@
       "sc:description": "R package for population genetic simulation and numerical analysis.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3799"
         }
       ],
       "sc:license": "GPL-3.0",

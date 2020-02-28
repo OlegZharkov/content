@@ -16,8 +16,8 @@
   "sc:name": "DHcL",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://cropnet.pl/dhcl/"
 }

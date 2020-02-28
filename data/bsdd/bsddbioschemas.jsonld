@@ -17,8 +17,8 @@
   "sc:name": "BSDD",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://iris.physics.iisc.ernet.in/bsdd/"
 }

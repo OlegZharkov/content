@@ -13,9 +13,9 @@
   "biotools:primaryContact": "SUPPA Users group",
   "sc:additionalType": "Command-line tool",
   "sc:author": [
+    "Amadí­s Pagès",
     "JC Entizne",
     "Gael P. Alamancos",
-    "Amadí­s Pagès",
     "Miha Skalic"
   ],
   "sc:description": "This tool generates Alternative Splicing (AS) events from an annotation and calculates the PSI (\"Percentage Spliced In\") value for each event exploiting fast quantification of transcript abundances from multiple samples.",
@@ -27,8 +27,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "upf.edu",
-    "Pompeu Fabra University"
+    "Pompeu Fabra University",
+    "upf.edu"
   ],
   "sc:url": "https://bitbucket.org/regulatorygenomicsupf/suppa/",
   "sc:version": "1"
