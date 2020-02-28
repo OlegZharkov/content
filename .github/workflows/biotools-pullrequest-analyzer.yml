@@ -20,14 +20,13 @@ jobs:
         git remote add biotools-content${{ github.run_id }} https://github.com/bio-tools/content.git
         git fetch biotools-content${{ github.run_id }}
         git fetch origin
-        export pr_comment=$(python3 scripts/biotools-pullrequest-bot/biotools_pullrequest_analizer.py $GITHUB_WORKSPACE biotools-content${{ github.run_id }}/master origin/${{ github.head_ref }})
-        ### instruct GitHub Actions to populate variable on next step
-        echo "::set-env name=pr_comment::$pr_comment"
-    - uses: mshick/add-pr-comment@v1
-      with:
-        message: |
-         $pr_comment
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        allow-repeats: true
-        run: echo $pr_comment
+        pr_comment=$(python3 scripts/biotools-pullrequest-bot/biotools_pullrequest_analizer.py $GITHUB_WORKSPACE biotools-content${{ github.run_id }}/master origin/${{ github.head_ref }})
+        $pr_comment > output.txt
+        cat output.txt
+        - uses: actions/checkout@master
+        - uses: harupy/comment-on-pr@master
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          with:
+            filename: output.txt
 
