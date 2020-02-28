@@ -22,20 +22,20 @@ jobs:
         git fetch origin
         python3 scripts/biotools-pullrequest-bot/biotools_pullrequest_analizer.py $GITHUB_WORKSPACE biotools-content${{ github.run_id }}/master origin/${{ github.head_ref }} > .github/workflows/output.txt
         cat .github/workflows/output.txt
-    - name: Upload math result for job 1
+    - name: Upload output
       uses: actions/upload-artifact@v1
       with:
           name: output
           path: .github/workflows/output.txt
   comment:
-    name: Add checkout commands
+    name: Add PR comments
     runs-on: ubuntu-latest
     steps:
-      - name: Download math result for job 1
+      - name: Download output
         uses: actions/download-artifact@v1
         with:
           name: output
-      - name: Download math result for job 1  
+      - name: comment under pr  
         uses: harupy/comment-on-pr@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
