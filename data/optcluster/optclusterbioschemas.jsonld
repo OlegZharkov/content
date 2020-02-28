@@ -36,9 +36,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "optCluster",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/optCluster/index.html"
     }

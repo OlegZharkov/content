@@ -19,8 +19,8 @@
   "sc:name": "Maistas",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-SAPIENZA",
   "sc:url": "http://maistas.bioinformatica.crs4.it/",

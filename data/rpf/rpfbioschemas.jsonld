@@ -17,8 +17,8 @@
   "sc:name": "RPF",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://nmr.cabm.rutgers.edu/rpf"
 }

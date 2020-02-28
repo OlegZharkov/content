@@ -18,8 +18,8 @@
   "sc:description": "Predictor of Disulfide Connectivity in Proteins.",
   "sc:name": "DCON",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",

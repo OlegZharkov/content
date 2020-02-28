@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkq603",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/annovar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Kai Wang",
@@ -36,14 +40,10 @@
       "sc:name": "ANNOVAR",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://annovar.openbioinformatics.org/en/latest/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkq603",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -17,8 +17,8 @@
   "sc:name": "Phyrex",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.rossnes.org/phyrex/"
 }

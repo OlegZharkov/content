@@ -17,8 +17,8 @@
   "sc:name": "TaxMan",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.ibi.vu.nl/programs/taxmanwww/"
 }

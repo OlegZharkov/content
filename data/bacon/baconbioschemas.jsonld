@@ -10,22 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s13059-016-1131-9",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-8754-6158",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/bacon",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-8754-6158"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -41,12 +33,20 @@
       "sc:license": "GPL-2.0",
       "sc:name": "bacon",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/bacon.html",
       "sc:version": "1.2.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-8754-6158",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s13059-016-1131-9",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -19,8 +19,8 @@
   "sc:name": "RawTools",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/kevinkovalchik/RawTools",
   "sc:version": "1.4.1"

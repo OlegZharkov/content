@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/idna4mc",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Wei Chen",
-    "Hao Lin"
+    "Hao Lin",
+    "Wei Chen"
   ],
   "sc:additionalType": "Web application",
   "sc:description": "Identifying DNA 4-methylcytosine sites.",

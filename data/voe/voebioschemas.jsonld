@@ -16,9 +16,9 @@
   "sc:description": "A cross-platform portal for interactive data visualization.",
   "sc:name": "Visual Omics Explorer (VOE)",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://bcil.github.io/VOE/"
 }

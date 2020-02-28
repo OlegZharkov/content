@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/muscle",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web API",
-    "Command-line tool"
+    "Command-line tool",
+    "Web API"
   ],
   "sc:description": "This tool performs multiple sequence alignments of nucleotide or amino acid sequences.",
   "sc:license": "Other",

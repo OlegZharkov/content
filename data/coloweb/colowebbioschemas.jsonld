@@ -27,9 +27,9 @@
       },
       "sc:name": "ColoWeb",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://projects.insilico.us.com/ColoWeb/"
     },

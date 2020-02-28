@@ -18,8 +18,8 @@
   "sc:name": "EcoPrestMet",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://zampierigroup.shinyapps.io/EcoPrestMet"
 }

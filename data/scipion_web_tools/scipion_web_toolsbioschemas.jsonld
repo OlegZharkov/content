@@ -21,8 +21,8 @@
   ],
   "sc:provider": [
     "INB",
-    "cnb.csic.es",
-    "ELIXIR-ES"
+    "ELIXIR-ES",
+    "cnb.csic.es"
   ],
   "sc:url": "http://scipion.cnb.csic.es/m/services/",
   "sc:version": "1"

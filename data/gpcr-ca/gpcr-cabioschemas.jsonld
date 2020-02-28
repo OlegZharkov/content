@@ -17,8 +17,8 @@
   "sc:name": "GPCR-CA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.jci-bioinfo.cn/GPCR-CA"
 }

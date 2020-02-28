@@ -17,8 +17,8 @@
   "sc:name": "DARC site",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://darcsite.genzentrum.lmu.de/darc/"
 }

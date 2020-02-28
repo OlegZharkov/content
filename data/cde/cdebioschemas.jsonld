@@ -17,8 +17,8 @@
   "sc:name": "CDE",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://cde.nlm.nih.gov/home"
 }

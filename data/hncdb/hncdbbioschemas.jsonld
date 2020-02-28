@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.3389/FONC.2019.00371",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/HNCDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Zhixiang Zuo",
         "Xiaoqing Pei",
+        "Zhixiang Zuo",
         "Ankui Yang"
       ],
       "sc:additionalType": [
@@ -43,15 +47,11 @@
       "sc:license": "Unlicense",
       "sc:name": "HNCDB",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://hncdb.cancerbio.info"
-    },
-    {
-      "@id": "https://doi.org/10.3389/FONC.2019.00371",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

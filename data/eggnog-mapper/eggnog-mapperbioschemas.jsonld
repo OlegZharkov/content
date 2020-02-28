@@ -20,8 +20,8 @@
   "sc:name": "EggNOG-mapper",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "HD-HuB",

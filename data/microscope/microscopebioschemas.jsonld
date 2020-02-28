@@ -28,8 +28,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "MicroScope",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://microscopebioinformatics.org/"

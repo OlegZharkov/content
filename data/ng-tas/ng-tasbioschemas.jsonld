@@ -40,9 +40,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "NG-TAS",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/cclab-brca/NGTAS_pipeline"
     }

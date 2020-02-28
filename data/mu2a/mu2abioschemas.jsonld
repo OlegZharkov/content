@@ -17,8 +17,8 @@
   "sc:name": "MU2A",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://code.google.com/archive/p/mu2a/"
 }

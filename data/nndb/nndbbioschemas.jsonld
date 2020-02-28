@@ -17,8 +17,8 @@
   "sc:name": "NNDB",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://rna.urmc.rochester.edu/NNDB"
 }

@@ -18,8 +18,8 @@
   "sc:name": "BamTools",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/pezmaster31/bamtools"
 }

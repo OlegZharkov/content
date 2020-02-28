@@ -17,12 +17,12 @@
   "sc:name": "LA-iMageS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "Bioscope Group, University Nova of Lisbon",
     "GEPAM Group, University of Campinas",
+    "Bioscope Group, University Nova of Lisbon",
     "SING Group, University of Vigo"
   ],
   "sc:url": "http://www.la-images.net",

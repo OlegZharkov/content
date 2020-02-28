@@ -17,8 +17,8 @@
   "sc:name": "QUMA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://quma.cdb.riken.jp/"
 }

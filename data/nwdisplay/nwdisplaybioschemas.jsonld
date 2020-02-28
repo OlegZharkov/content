@@ -28,8 +28,8 @@
       "sc:description": "Display a phylogenetic tree as SVG.",
       "sc:name": "nwdisplay",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://cegg.unige.ch/newick_utils",

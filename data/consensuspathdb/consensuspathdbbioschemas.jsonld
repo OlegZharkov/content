@@ -16,8 +16,8 @@
   "sc:name": "ConsensusPathDB",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "Max-Planck-Institute for Molecular Genetics in Berlin",
   "sc:url": "http://cPDB.molgen.mpg.de/"

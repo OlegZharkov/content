@@ -17,15 +17,15 @@
   "sc:name": "BridgeDb",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "Maastricht University",
     "Manchester University",
     "Heroit Watt University",
-    "Gladstone Institutes",
-    "maastrichtuniversity.nl"
+    "Maastricht University",
+    "maastrichtuniversity.nl",
+    "Gladstone Institutes"
   ],
   "sc:url": "http://www.bridgedb.org/",
   "sc:version": "1"

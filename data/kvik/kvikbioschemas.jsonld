@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.6238.2",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/kvik",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
@@ -36,11 +32,15 @@
       "sc:license": "MIT",
       "sc:name": "Kvik",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://github.com/fjukstad/kvik"
+    },
+    {
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.6238.2",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

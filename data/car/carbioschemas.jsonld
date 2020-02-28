@@ -27,9 +27,9 @@
       },
       "sc:name": "CAR",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://genome.cs.nthu.edu.tw/CAR/"
     },

@@ -16,8 +16,8 @@
   "sc:name": "Mouse Atlas of Gene Expression",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.mouseatlas.org/mouseatlas_index_html"
 }

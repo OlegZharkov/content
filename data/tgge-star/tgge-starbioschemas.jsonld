@@ -17,8 +17,8 @@
   "sc:name": "TGGE-STAR",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.charite.de/bioinf/tgge/"
 }

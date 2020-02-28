@@ -17,8 +17,8 @@
   "sc:name": "FOLDALIGN",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://rth.dk/resources/foldalign/"
 }

@@ -10,14 +10,18 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-3659-2709",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/tcr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0003-3659-2709"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:26017500",
@@ -34,10 +38,6 @@
       "sc:name": "tcR",
       "sc:url": "http://imminfo.github.io/tcr/",
       "sc:version": "2.2.1.7"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-3659-2709",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1186/s12859-015-0613-1",

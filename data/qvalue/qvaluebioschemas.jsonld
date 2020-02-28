@@ -19,8 +19,8 @@
   "sc:license": "LGPL-2.0",
   "sc:name": "qvalue",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/qvalue.html",

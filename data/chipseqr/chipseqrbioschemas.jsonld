@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1471-2105-12-39",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/chipseqr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-3331-6496"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -47,6 +43,10 @@
     {
       "@id": "http://orcid.org/0000-0002-3331-6496",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2105-12-39",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

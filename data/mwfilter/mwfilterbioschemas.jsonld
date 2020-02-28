@@ -13,22 +13,22 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
-  ],
-  "sc:description": "Filter noisy data from molecular weights file.",
-  "sc:funder": [
     "UK BBSRC",
     "UK MRC",
     "Wellcome Trust"
   ],
+  "sc:description": "Filter noisy data from molecular weights file.",
+  "sc:funder": [
+    "Wellcome Trust",
+    "UK MRC",
+    "UK BBSRC"
+  ],
   "sc:license": "GPL-3.0",
   "sc:name": "mwfilter",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

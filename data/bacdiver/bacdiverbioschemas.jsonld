@@ -16,11 +16,11 @@
         "@id": "https://orcid.org/0000-0001-5135-5758"
       },
       "sc:additionalType": [
-        "Plug-in",
+        "Web service",
         "Command-line tool",
         "Script",
         "Library",
-        "Web service"
+        "Plug-in"
       ],
       "sc:description": "The DSMZ's Bacterial Diversity Metadatabase (BacDive) focuses on providing organism-linked information covering the multifarious aspects of bacterial biodiversity: taxonomic classification, morphology, physiology, cultivation, origin natural habitat and more, both for bacterial and archaeal strains. BacDiveR helps you investigate this data offline, and semi-automatically in R.",
       "sc:license": "MIT",

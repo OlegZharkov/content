@@ -45,9 +45,9 @@
       },
       "sc:name": "ARAMEMNON database of plant membrane proteins",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": "Botanical Institute  University of Cologne",
       "sc:url": "http://aramemnon.botanik.uni-koeln.de/"

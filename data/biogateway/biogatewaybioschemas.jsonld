@@ -18,8 +18,8 @@
   "sc:license": "Unlicense",
   "sc:name": "BioGateway",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://www.biogateway.eu/",

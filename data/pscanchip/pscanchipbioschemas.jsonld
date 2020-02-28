@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pscanchip",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Federico Zambelli",
-    "Giulio Pavesi"
+    "Giulio Pavesi",
+    "Federico Zambelli"
   ],
   "sc:additionalType": [
     "Web application",
@@ -23,8 +23,8 @@
   "sc:name": "PscanChIP",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "ELIXIR-ITA-MILANO",
   "sc:url": "http://www.beaconlab.it/pscan_chip_dev",

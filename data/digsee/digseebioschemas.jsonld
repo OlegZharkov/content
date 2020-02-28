@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "DigSee",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://gcancer.org/digsee"

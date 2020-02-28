@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12864-019-5536-1",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ImtRDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -39,15 +43,11 @@
       "sc:license": "Unlicense",
       "sc:name": "ImtRDB",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioinfodbs.kantiana.ru/ImtRDB/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12864-019-5536-1",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

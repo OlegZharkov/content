@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/TheoReTS",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Michael Rey",
     "Vladimir G. Tyuterev",
+    "Michael Rey",
     "Andrei Nikitin"
   ],
   "sc:additionalType": "Web application",
@@ -22,8 +22,8 @@
   "sc:name": "TheoReTS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://theorets.univ-reims.fr"
 }

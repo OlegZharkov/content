@@ -15,8 +15,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Aequatus",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://aequatus.tgac.ac.uk/"

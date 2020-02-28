@@ -21,8 +21,8 @@
   "sc:name": "INTEGRALL",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://integrall.bio.ua.pt/"
 }

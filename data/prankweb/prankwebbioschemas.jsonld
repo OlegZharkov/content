@@ -33,21 +33,21 @@
       "sc:description": "Web application for protein-ligand binding sites analysis and visualization | This repositary contains PrankWeb web application.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0445"
+          "@id": "edam:operation_0482"
         },
         {
           "@id": "edam:operation_2575"
         },
         {
-          "@id": "edam:operation_0482"
+          "@id": "edam:operation_0445"
         }
       ],
       "sc:license": "Apache-2.0",
       "sc:name": "PrankWeb",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://prankweb.cz/"
     },

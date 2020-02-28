@@ -20,8 +20,8 @@
   "sc:name": "mtDNA-Server",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://mtdna-server.uibk.ac.at/"
 }

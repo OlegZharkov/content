@@ -21,8 +21,8 @@
       "sc:name": "CompositeDriver",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/khuranalab/CompositeDriver",
       "sc:version": "0.2"

@@ -16,8 +16,8 @@
   "sc:name": "eRGA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.csc.kth.se/~vezzi/software/"
 }

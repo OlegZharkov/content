@@ -15,8 +15,8 @@
   "sc:description": "Search tool for similar RNA 3D substructures.",
   "sc:name": "R3D-BLAST2",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://140.114.85.168/R3D-BLAST2/"

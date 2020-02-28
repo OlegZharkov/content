@@ -16,8 +16,8 @@
   "sc:license": "Artistic-2.0",
   "sc:name": "MeV",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://mev.tm4.org/#/welcome"

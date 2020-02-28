@@ -19,8 +19,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "PastView",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://www.pastview.org"

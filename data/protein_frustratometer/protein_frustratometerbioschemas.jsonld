@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/protein_frustratometer",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Msc. Leandro G. Radusky",
     "Dr. Adrián G. Turjanski",
+    "Msc. Leandro G. Radusky",
     "Dr. Ignacio E. Sánchez"
   ],
   "sc:additionalType": "Web application",

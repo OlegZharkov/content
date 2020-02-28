@@ -32,9 +32,9 @@
       "sc:license": "Unlicense",
       "sc:name": "RegScan",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://www.geenivaramu.ee/en/tools/regscan",
       "sc:version": "0.5"

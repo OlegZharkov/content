@@ -16,8 +16,8 @@
   "sc:name": "EpiLog",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://epilog-tool.org/"
 }

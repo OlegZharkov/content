@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/re-music",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dr. Chuan Yi Tang",
-    "Dr. Chin Lung Lu"
+    "Dr. Chin Lung Lu",
+    "Dr. Chuan Yi Tang"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:15059840",
@@ -20,8 +20,8 @@
   "sc:name": "RE-MuSiC",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://genome.cs.nthu.edu.tw/RE-MUSIC/"
 }

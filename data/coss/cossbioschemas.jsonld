@@ -19,9 +19,9 @@
   "sc:license": "Unlicense",
   "sc:name": "COSS",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/compomics/COSS"
 }

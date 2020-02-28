@@ -16,8 +16,8 @@
   "sc:name": "ProTox",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://tox.charite.de/tox"
 }

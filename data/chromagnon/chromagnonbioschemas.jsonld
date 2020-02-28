@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1038/s41598-018-25922-7",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/chromagnon",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Atsushi Matsuda",
@@ -18,8 +22,8 @@
         {
           "@id": "https://doi.org/10.1038/s41598-018-25922-7"
         },
-        "pubmed:29765093",
-        "pmcid:PMC5954143"
+        "pmcid:PMC5954143",
+        "pubmed:29765093"
       ],
       "sc:description": "Image correction software for chromatic shifts in fluorescence microscopic images.",
       "sc:featureList": {
@@ -29,14 +33,10 @@
       "sc:name": "Chromagnon",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/macronucleus/chromagnon"
-    },
-    {
-      "@id": "https://doi.org/10.1038/s41598-018-25922-7",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

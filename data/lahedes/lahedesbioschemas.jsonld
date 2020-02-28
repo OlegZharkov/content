@@ -17,8 +17,8 @@
   "sc:name": "LAHEDES",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://homingendonuclease.net"
 }

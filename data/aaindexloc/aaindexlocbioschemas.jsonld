@@ -16,8 +16,8 @@
   "sc:name": "AAIndexLoc",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://aaindexloc.bii.a-star.edu.sg/"
 }

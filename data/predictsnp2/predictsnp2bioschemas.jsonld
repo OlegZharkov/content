@@ -12,17 +12,17 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
+    "Jaroslav Bendl",
     "Milos Musil",
     "Jan Stourac",
     "Jan Brezovsky",
-    "Jiri Damborsky",
-    "Jaroslav Bendl"
+    "Jiri Damborsky"
   ],
   "sc:contributor": [
-    "CESNET and the CERIT Scientific Cloud (LM2015042 and LM2015085; http://www.msmt.cz)",
     "Czech Ministry of Education of the Czech Republic (LO1214 and LQ1605; http://www.msmt.cz)",
-    "Jaroslav Zendulka",
+    "CESNET and the CERIT Scientific Cloud (LM2015042 and LM2015085; http://www.msmt.cz)",
     "European Union Framework Programme (REGPOT 316345; ec.europa.eu/research)",
+    "Jaroslav Zendulka",
     "European Commission within the Research Infrastructures programme of Horizon 2020",
     "Research and Application of Advanced Methods in ICT (FIT-S-14-2299; http://www.fit.vutbr.cz/)"
   ],
@@ -30,21 +30,21 @@
   "sc:funder": [
     "European Union Framework Programme (REGPOT 316345; ec.europa.eu/research)",
     "CESNET and the CERIT Scientific Cloud (LM2015042 and LM2015085; http://www.msmt.cz)",
-    "European Commission within the Research Infrastructures programme of Horizon 2020",
+    "Czech Ministry of Education of the Czech Republic (LO1214 and LQ1605; http://www.msmt.cz)",
     "Research and Application of Advanced Methods in ICT (FIT-S-14-2299; http://www.fit.vutbr.cz/)",
-    "Czech Ministry of Education of the Czech Republic (LO1214 and LQ1605; http://www.msmt.cz)"
+    "European Commission within the Research Infrastructures programme of Horizon 2020"
   ],
   "sc:name": "PredictSNP2",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "Masaryk University, Brno, Czech Republic",
+    "Loschmidt Laboratories",
     "Brno University of Technology, Brno, Czech Republic",
-    "International Centre for Clinical Research, Brno, Czech Republic",
-    "Loschmidt Laboratories"
+    "International Centre for Clinical Research, Brno, Czech Republic"
   ],
   "sc:url": "http://loschmidt.chemi.muni.cz/predictsnp2",
   "sc:version": "1.0"

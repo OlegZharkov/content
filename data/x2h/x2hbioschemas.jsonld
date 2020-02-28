@@ -11,11 +11,11 @@
   "@id": "https://bio.tools/X2H",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Yongzhuang Liu",
     "Qiuru Liu",
     "Jian Liu",
-    "Lei Zhang",
-    "Yongzhuang Liu",
-    "Shuhui Su"
+    "Shuhui Su",
+    "Lei Zhang"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:31094692",

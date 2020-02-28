@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "SEQprocess",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "https://github.com/omicsCore/SEQprocess"

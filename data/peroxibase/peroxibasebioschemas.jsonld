@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gks1083",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/peroxibase",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -39,11 +35,15 @@
       },
       "sc:name": "PeroxiBase peroxidase family database",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://peroxibase.toulouse.inra.fr/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gks1083",
+      "@type": "sc:CreativeWork"
     }
   ]
 }
