@@ -40,6 +40,7 @@ jobs:
       - name: copy output to workflow dir
         run:
          cat /home/runner/work/content/content/output/output.txt
+         mkdir -p .github/workflows/
          cp /home/runner/work/content/content/output/output.txt .github/workflows/output.txt 
       - name: comment under pr  
         uses: harupy/comment-on-pr@master
