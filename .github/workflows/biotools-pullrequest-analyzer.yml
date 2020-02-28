@@ -20,10 +20,24 @@ jobs:
         git remote add biotools-content${{ github.run_id }} https://github.com/bio-tools/content.git
         git fetch biotools-content${{ github.run_id }}
         git fetch origin
-        python3 scripts/biotools-pullrequest-bot/biotools_pullrequest_analizer.py $GITHUB_WORKSPACE biotools-content${{ github.run_id }}/master origin/${{ github.head_ref }} > $GITHUB_WORKSPACE/.github/workflows/output.txt
-    - uses: actions/checkout@master
-    - uses: harupy/comment-on-pr@master
-      env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        python3 scripts/biotools-pullrequest-bot/biotools_pullrequest_analizer.py $GITHUB_WORKSPACE biotools-content${{ github.run_id }}/master origin/${{ github.head_ref }} > .github/workflows/output.txt
+        cat .github/workflows/output.txt
+    - name: Upload math result for job 1
+      uses: actions/upload-artifact@v1
       with:
+          name: output
+          path: .github/workflows/output.txt
+  comment:
+    name: Add checkout commands
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download math result for job 1
+        uses: actions/download-artifact@v1
+        with:
+          name: output
+      - name: Download math result for job 1  
+        uses: harupy/comment-on-pr@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
           filename: output.txt
