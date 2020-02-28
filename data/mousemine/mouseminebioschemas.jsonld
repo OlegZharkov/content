@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1007/s00335-015-9573-z",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/mousemine",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web API",
-        "Web application"
+        "Web application",
+        "Web API"
       ],
       "sc:citation": [
         {
@@ -29,10 +33,6 @@
       },
       "sc:name": "MouseMine",
       "sc:url": "http://www.mousemine.org/mousemine/begin.do"
-    },
-    {
-      "@id": "https://doi.org/10.1007/s00335-015-9573-z",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

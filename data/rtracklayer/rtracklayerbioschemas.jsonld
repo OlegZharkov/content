@@ -55,8 +55,8 @@
       "sc:name": "rtracklayer",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/rtracklayer.html",
       "sc:version": "1.34.1"

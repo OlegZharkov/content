@@ -31,9 +31,9 @@
       },
       "sc:name": "Pclust",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://prodata.swmed.edu/pclust/server.cgi"
     }

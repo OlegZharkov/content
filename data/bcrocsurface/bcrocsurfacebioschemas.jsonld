@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Khanh To Duc",
       "sc:additionalType": [
-        "Library",
-        "Web application"
+        "Web application",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -35,9 +35,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "bcROCsurface",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://khanhtoduc.shinyapps.io/bcROCsurface_shiny/"
     }

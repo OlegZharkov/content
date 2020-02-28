@@ -35,8 +35,8 @@
       "sc:name": "VacSol",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/vacsol/"
     }

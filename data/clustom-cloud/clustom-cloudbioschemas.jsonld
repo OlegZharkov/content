@@ -17,9 +17,9 @@
       "@id": "https://bio.tools/clustom-cloud",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Jeongsu Oh",
+        "Kyuin Hwang",
         "Kyung Mo Kim",
-        "Kyuin Hwang"
+        "Jeongsu Oh"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
@@ -35,9 +35,9 @@
       },
       "sc:name": "CLUSTOM-CLOUD",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://clustomcloud.kopri.re.kr/"
     }

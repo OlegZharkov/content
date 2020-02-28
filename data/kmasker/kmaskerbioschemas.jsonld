@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0003-1073-6719",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/Kmasker",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -44,14 +40,18 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Kmasker",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://kmasker.ipk-gatersleben.de/",
       "sc:version": [
         "1.1.1",
         "1.1.0"
       ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-1073-6719",
+      "@type": "schema:Person"
     }
   ]
 }

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/graphweb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Laur Tooming",
     "Jüri Reimand",
+    "Laur Tooming",
     "Jaak Vilo"
   ],
   "sc:additionalType": "Web application",

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-9105-6381",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1371/journal.pone.0153160",
       "@type": "sc:CreativeWork"
     },
@@ -26,8 +30,8 @@
         "@id": "edam:data_3111"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3520"
@@ -47,15 +51,11 @@
       "sc:name": "SWATH2stats",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SWATH2stats.html",
       "sc:version": "1.4.1"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-9105-6381",
-      "@type": "schema:Person"
     }
   ]
 }

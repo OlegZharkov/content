@@ -15,8 +15,8 @@
   "sc:name": "ProteinsPlus",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://proteinsplus.zbh.uni-hamburg.de"
 }

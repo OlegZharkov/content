@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:author": [
+    "Ondrej Vavra",
     "Jan Plhak",
-    "Jiri Filipovic",
-    "Ondrej Vavra"
+    "Jiri Filipovic"
   ],
   "sc:contributor": [
-    "Sergio Manuel Marques",
-    "Jan Brezovsky",
-    "Jiri Damborsky",
     "Ludek Matyska",
-    "David Bednar"
+    "Jiri Damborsky",
+    "Jan Brezovsky",
+    "David Bednar",
+    "Sergio Manuel Marques"
   ],
   "sc:description": "Performs rapid analysis of transport processes in proteins. It models the transportation of a ligand from outside environment into the protein active or binding site and vice versa. It implements a novel algorithm to produce contiguous ligand trajectory and estimation of a binding energy along the pathway. The current version uses CAVER for pathway identification and heavily modified Autodock Vina as a docking engine.",
   "sc:license": "Proprietary",

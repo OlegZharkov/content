@@ -15,10 +15,10 @@
       "biotools:primaryContact": "PROSITE helpdesk",
       "sc:additionalType": "Database portal",
       "sc:citation": [
-        "pubmed:23161676",
         {
           "@id": "https://doi.org/10.1093/nar/gks1067"
         },
+        "pubmed:23161676",
         "pmcid:PMC3531220"
       ],
       "sc:description": "Consists of documentation entries describing protein domains, families and functional sites as well as associated patterns and profiles to identify them.",
@@ -39,8 +39,8 @@
       "sc:name": "PROSITE",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",
       "sc:url": "http://prosite.expasy.org"

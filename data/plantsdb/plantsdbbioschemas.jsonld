@@ -19,8 +19,8 @@
   "sc:name": "PlantsDB",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "hmgu",
   "sc:url": "http://pgsb.helmholtz-muenchen.de/plant/index.jsp"

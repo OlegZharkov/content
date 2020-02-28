@@ -15,8 +15,8 @@
     "Martina Kutmon"
   ],
   "sc:additionalType": [
-    "Web API",
     "Database portal",
+    "Web API",
     "Web service",
     "Web application"
   ],
@@ -24,9 +24,9 @@
   "sc:license": "Apache-2.0",
   "sc:name": "WikiPathways",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.wikipathways.org"
 }

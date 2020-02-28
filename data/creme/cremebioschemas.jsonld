@@ -17,8 +17,8 @@
   "sc:name": "CREME",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://creme.dcode.org/"
 }

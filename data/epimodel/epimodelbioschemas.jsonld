@@ -32,8 +32,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "EpiModel",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://www.epimodel.org/"

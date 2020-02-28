@@ -28,8 +28,8 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "ModelExplorer",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://almaaslab.nt.ntnu.no/index.php/resources/metabolic-modeling/",

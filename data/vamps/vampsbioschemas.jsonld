@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Contact form",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC3922339",
         "pubmed:24499292",
+        "pmcid:PMC3922339",
         {
           "@id": "https://doi.org/10.1186/1471-2105-15-41"
         }
@@ -27,8 +27,8 @@
       },
       "sc:name": "VAMPS",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://vamps.mbl.edu/"

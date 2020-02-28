@@ -41,9 +41,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "SpacePAC",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SpacePAC.html",
       "sc:version": "1.12.0"

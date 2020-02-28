@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pdbest",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Pires DE",
     "Gonçalves WR",
+    "Pires DE",
     "de Melo-Minardi RC"
   ],
   "sc:additionalType": "Desktop application",
@@ -21,8 +21,8 @@
   "sc:name": "PDBest",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.pdbest.dcc.ufmg.br/"
 }

@@ -36,9 +36,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Geneid",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": "Centre for Genomic Regulation (CRG), Parc de Recerca Biomedica (PRBB)",
       "sc:url": "http://genome.crg.es/software/geneid/index.html",

@@ -11,35 +11,35 @@
   "@id": "https://bio.tools/brisskit",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Shajid Issa",
-    "Dr Jonathan Tedds"
+    "Dr Jonathan Tedds",
+    "Shajid Issa"
   ],
   "sc:additionalType": [
-    "Web API",
-    "Database portal",
+    "Command-line tool",
     "Workbench",
     "Web application",
-    "Command-line tool"
+    "Web API",
+    "Database portal"
   ],
   "sc:author": [
-    "Dr Olly Butters (former Technical Lead)",
-    "Shajid Issa (Technical Lead)"
+    "Shajid Issa (Technical Lead)",
+    "Dr Olly Butters (former Technical Lead)"
   ],
   "sc:contributor": [
-    "Jisc",
-    "HEFCE UMF",
-    "Dr Jonathan Tedds (PI)"
-  ],
-  "sc:description": "Biomedical Research Software as a Service that enables biomedical & translational researchers to securely manage and combine datasets, typically for patient cohorts. A suite of cloud enabled & integrated open source applications can be accessed in a browser, which make it easier for researchers to manage their studies. Sensitive data can be secured and only accessible to those with permission.",
-  "sc:funder": [
+    "Dr Jonathan Tedds (PI)",
     "HEFCE UMF",
     "Jisc"
   ],
+  "sc:description": "Biomedical Research Software as a Service that enables biomedical & translational researchers to securely manage and combine datasets, typically for patient cohorts. A suite of cloud enabled & integrated open source applications can be accessed in a browser, which make it easier for researchers to manage their studies. Sensitive data can be secured and only accessible to those with permission.",
+  "sc:funder": [
+    "Jisc",
+    "HEFCE UMF"
+  ],
   "sc:name": "BRISSKit",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "University of Bristol",

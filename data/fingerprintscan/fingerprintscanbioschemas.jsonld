@@ -24,8 +24,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "University of Manchester",
-    "EMBL-EBI"
+    "EMBL-EBI",
+    "University of Manchester"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/pfa/fingerprintscan/",
   "sc:version": "1"

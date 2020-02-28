@@ -20,9 +20,9 @@
     "Linux"
   ],
   "sc:provider": [
-    "Mimas",
+    "NCBI",
     "EMBL-EBI",
-    "NCBI"
+    "Mimas"
   ],
   "sc:url": "http://plus.europepmc.org/emss/login/uls.cgi?rss=wt&url=/plus/menu.html",
   "sc:version": "1"

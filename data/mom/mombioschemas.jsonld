@@ -16,9 +16,9 @@
   "sc:description": "Short-read mapping",
   "sc:name": "MOM",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/hugheaves/MOM"
 }

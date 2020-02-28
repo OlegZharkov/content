@@ -21,8 +21,8 @@
         "Johannes Geiselmann"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:31185910",
@@ -43,9 +43,9 @@
       "sc:license": "Proprietary",
       "sc:name": "WellInverter",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://team.inria.fr/ibis/wellinverter/"
     }

@@ -31,9 +31,9 @@
       },
       "sc:name": "PlantTFcat",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://plantgrn.noble.org/PlantTFcat/"
     }

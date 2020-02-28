@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/mupro",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Pierre Baldi",
     "Jianlin Cheng",
-    "Paul Rigor"
+    "Paul Rigor",
+    "Pierre Baldi"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:16372356",
@@ -21,8 +21,8 @@
   "sc:name": "MUpro",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mupro.proteomics.ics.uci.edu/"
 }

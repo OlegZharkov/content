@@ -15,8 +15,8 @@
     "Thomas Eder"
   ],
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "An R package for the assessment of RNA-Seq normalization methods.",
   "sc:name": "NVT",

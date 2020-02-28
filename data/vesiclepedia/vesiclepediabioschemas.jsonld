@@ -16,8 +16,8 @@
   "sc:name": "Vesiclepedia",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://microvesicles.org/index.html"
 }

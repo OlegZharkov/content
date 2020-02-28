@@ -16,8 +16,8 @@
   "sc:name": "SCIPION WEB TOOLS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "cnb.csic.es",

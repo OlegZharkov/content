@@ -15,8 +15,8 @@
   "sc:name": "dictyExpress",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://dictyexpress.biolab.si/",
   "sc:version": "1.5"

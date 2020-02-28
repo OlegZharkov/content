@@ -10,14 +10,22 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-016-1455-1",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-6014-3498",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/multidataset",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-6014-3498"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -38,14 +46,6 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/MultiDataSet.html",
       "sc:version": "1.2.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-6014-3498",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-016-1455-1",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

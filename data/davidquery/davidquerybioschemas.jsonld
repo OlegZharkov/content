@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Roger Day",
   "sc:additionalType": [
-    "Command-line tool",
-    "Plug-in"
+    "Plug-in",
+    "Command-line tool"
   ],
   "sc:author": [
     "Alex Lisovich",

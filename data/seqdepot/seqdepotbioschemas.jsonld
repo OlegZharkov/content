@@ -15,8 +15,8 @@
   "sc:name": "SeqDepot",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://seqdepot.net/",
   "sc:version": "1"

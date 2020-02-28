@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Bas Stringer",
   "sc:additionalType": [
-    "Command-line tool",
     "SPARQL endpoint",
-    "Workbench",
-    "Web API"
+    "Command-line tool",
+    "Web API",
+    "Workbench"
   ],
   "sc:author": "Bas Stringer",
   "sc:contributor": "Albert Meroño Peñuela",
@@ -24,12 +24,12 @@
   "sc:name": "SCRY",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "Centre for Integrative Bioinformatics",
-    "Vrije Universiteit Amsterdam"
+    "Vrije Universiteit Amsterdam",
+    "Centre for Integrative Bioinformatics"
   ],
   "sc:url": "https://pypi.python.org/pypi/scry",
   "sc:version": "1.2.5"

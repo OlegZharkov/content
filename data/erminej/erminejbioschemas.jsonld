@@ -17,8 +17,8 @@
   "sc:name": "ErmineJ",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://chibi.ubc.ca/ermineJ"
 }

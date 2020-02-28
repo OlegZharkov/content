@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Stefan Hammer",
-    "Ivo L. Hofacker",
-    "Sven Findeiß"
+    "Sven Findeiß",
+    "Ivo L. Hofacker"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Flexible multiple target nucleic acid sequence design.",

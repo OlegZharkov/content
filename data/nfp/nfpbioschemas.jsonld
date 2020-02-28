@@ -29,8 +29,8 @@
       "sc:name": "NFP",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/NFP/index.html",
       "sc:version": "0.99.2"

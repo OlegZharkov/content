@@ -17,8 +17,8 @@
   "sc:name": "MPtopoQuerier",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://blanco.biomol.uci.edu/mptopo/"
 }

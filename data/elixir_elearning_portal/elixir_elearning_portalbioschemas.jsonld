@@ -15,8 +15,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "ELIXIR eLearning Portal",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "University of Ljubljana, Faculty of Medicine",

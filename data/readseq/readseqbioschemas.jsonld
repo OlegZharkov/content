@@ -20,8 +20,8 @@
   "sc:name": "Readseq",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "Indiana University",

@@ -17,8 +17,8 @@
   "sc:name": "DEEP",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.bioinf.med.uni-goettingen.de/services/deep/"
 }

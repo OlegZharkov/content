@@ -15,8 +15,8 @@
   "sc:name": "BioDataome",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://dataome.mensxmachina.org/"
 }

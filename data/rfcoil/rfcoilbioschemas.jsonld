@@ -16,8 +16,8 @@
   "sc:name": "RFCoil",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://protein.cau.edu.cn/RFCoil/"
 }

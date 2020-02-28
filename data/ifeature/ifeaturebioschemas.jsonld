@@ -15,8 +15,8 @@
     "Jiangning Song"
   ],
   "sc:additionalType": [
-    "Web application",
-    "Library"
+    "Library",
+    "Web application"
   ],
   "sc:description": "Python Toolkit and Web Server for Calculating a Wide Range of Structural and Physicochemical Feature Descriptors from Protein and Peptide Sequences.",
   "sc:name": "iFeature",

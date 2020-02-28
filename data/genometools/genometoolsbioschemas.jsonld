@@ -17,8 +17,8 @@
   "sc:name": "GenomeTools",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://genometools.org/"
 }

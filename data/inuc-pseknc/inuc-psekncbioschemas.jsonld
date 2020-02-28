@@ -17,8 +17,8 @@
   "sc:name": "iNuc-PseKNC",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://lin.uestc.edu.cn/server/iNuc-PseKNC"
 }

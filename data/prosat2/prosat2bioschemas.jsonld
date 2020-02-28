@@ -17,8 +17,8 @@
   "sc:name": "ProSAT2",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://projects.villa-bosch.de/dbase/ps2/"
 }

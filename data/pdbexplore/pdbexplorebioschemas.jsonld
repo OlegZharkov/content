@@ -20,8 +20,8 @@
   "sc:name": "PDBeXplore: sequence similarity search",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "EMBL-EBI",
   "sc:url": "http://pdbe.org/FASTA",

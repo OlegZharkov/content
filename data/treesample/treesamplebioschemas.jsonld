@@ -16,8 +16,8 @@
   "sc:name": "TreeSample",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://code.google.com/p/treesample/"
 }

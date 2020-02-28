@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "tagtog",
   "sc:additionalType": [
-    "Web application",
-    "Web API"
+    "Web API",
+    "Web application"
   ],
   "sc:author": [
     "Juan Miguel Cejuela",
@@ -23,8 +23,8 @@
   "sc:name": "tagtog",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "tagtog.net",
   "sc:url": "https://www.tagtog.net",

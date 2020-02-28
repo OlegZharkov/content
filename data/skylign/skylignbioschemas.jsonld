@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/1471-2105-15-7",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/skylign",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Skylign Support",
@@ -30,15 +34,11 @@
       },
       "sc:name": "Skylign",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://skylign.org/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1471-2105-15-7",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

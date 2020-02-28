@@ -16,8 +16,8 @@
   "sc:name": "Snakemake",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://snakemake.readthedocs.io/en/stable/index.html"
 }

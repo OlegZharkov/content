@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1016/j.str.2017.04.016",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/tomominer",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -28,10 +32,6 @@
       "sc:name": "TomoMiner",
       "sc:operatingSystem": "Linux",
       "sc:url": "http://web.cmb.usc.edu/people/alber/Software/tomominer/"
-    },
-    {
-      "@id": "https://doi.org/10.1016/j.str.2017.04.016",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

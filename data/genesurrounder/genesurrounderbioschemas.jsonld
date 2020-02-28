@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/GeneSurrounder",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Rosemary Braun",
-        "Sahil Shah"
+        "Sahil Shah",
+        "Rosemary Braun"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -39,9 +39,9 @@
       "sc:license": "Unlicense",
       "sc:name": "GeneSurrounder",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://github.com/sahildshah1/gene-surrounder"
     },

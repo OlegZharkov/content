@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Thomas Derrien",
-        "Valentin Wucher",
-        "Fabrice Legeai"
+        "Fabrice Legeai",
+        "Valentin Wucher"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -36,8 +36,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "FEELnc",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/tderrien/FEELnc",
       "sc:version": "0.1.1"

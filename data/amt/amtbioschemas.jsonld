@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Johannes Signer",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pmcid:PMC6362447",
         "pubmed:30766677",
+        "pmcid:PMC6362447",
         {
           "@id": "https://doi.org/10.1002/ece3.4823"
         }
@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "amt",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/package=amt",
       "sc:version": "0.0.6"

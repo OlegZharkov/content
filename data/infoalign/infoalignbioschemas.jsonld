@@ -13,15 +13,15 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
-  ],
-  "sc:description": "Display basic information about a multiple sequence alignment.",
-  "sc:funder": [
     "Wellcome Trust",
     "UK MRC",
     "UK BBSRC"
+  ],
+  "sc:description": "Display basic information about a multiple sequence alignment.",
+  "sc:funder": [
+    "UK BBSRC",
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "infoalign",
@@ -31,8 +31,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/infoalign.html",
   "sc:version": "r6"

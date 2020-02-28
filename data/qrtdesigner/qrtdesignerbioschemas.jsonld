@@ -15,8 +15,8 @@
   "sc:name": "qRTDesigner",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinfo.ut.ee/gwRTqPCR/",
   "sc:version": "1.2"

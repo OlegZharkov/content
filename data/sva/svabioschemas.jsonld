@@ -23,8 +23,8 @@
   "sc:license": "Artistic-2.0",
   "sc:name": "sva",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/sva.html",

@@ -28,8 +28,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:21261974",
         "pmcid:PMC3037855",
+        "pubmed:21261974",
         {
           "@id": "https://doi.org/10.1186/1471-2105-12-31"
         }
@@ -38,9 +38,9 @@
       "sc:license": "LGPL-2.1",
       "sc:name": "PileLine",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://sing.ei.uvigo.es/pileline/index.php/Main_Page"
     }

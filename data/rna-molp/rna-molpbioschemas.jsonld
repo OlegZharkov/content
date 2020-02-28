@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkx429",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/rna-molp",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jérôme Waldispühl",
@@ -43,10 +47,6 @@
       ],
       "sc:name": "RNA-MolP",
       "sc:url": "http://rnamoip.cs.mcgill.ca/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkx429",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

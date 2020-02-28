@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK MRC",
     "EMBOSS Contributors",
     "Wellcome Trust",
-    "UK MRC",
     "UK BBSRC"
   ],
   "sc:description": "Calculate approximate local pair-wise alignments of larger sequences.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "supermatcher",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

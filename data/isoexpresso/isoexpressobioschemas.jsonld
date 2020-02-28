@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/S12864-016-2852-6",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/isoexpresso",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -35,10 +31,14 @@
       "sc:name": "ISOexpresso",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://wiki.tgilab.org/ISOexpresso/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12864-016-2852-6",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

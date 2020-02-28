@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "GESPA",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/gespa/"
     }

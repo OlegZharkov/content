@@ -38,9 +38,9 @@
       "sc:license": "Unlicense",
       "sc:name": "CyTOF workflow",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://imlspenticton.uzh.ch/robinson_lab/cytofWorkflow"
     },

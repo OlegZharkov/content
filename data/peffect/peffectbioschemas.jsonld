@@ -14,8 +14,8 @@
   "sc:author": "Tatyana Goldberg",
   "sc:contributor": [
     "Alexander von Humboldt foundation through the German Federal Ministry for Education and Research",
-    "Yana Bromberg",
     "Ernst Ludwig Ehrlich Studienwerk",
+    "Yana Bromberg",
     "Burkhard Rost"
   ],
   "sc:description": "Prediction of type III effector proteins from protein sequence.",
@@ -27,9 +27,9 @@
   "sc:name": "pEffect",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "Technical University of Munich",
     "RostLab",
-    "Rutgers University"
+    "Rutgers University",
+    "Technical University of Munich"
   ],
   "sc:url": "https://rostlab.org/services/peffect/",
   "sc:version": "0.0.1"

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.3390/IJMS15021746",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/irspot-tncpseaac",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
@@ -32,10 +28,14 @@
       "sc:name": "iRSpot-TNCPseAAC",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.jci-bioinfo.cn/iRSpot-TNCPseAAC"
+    },
+    {
+      "@id": "https://doi.org/10.3390/IJMS15021746",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

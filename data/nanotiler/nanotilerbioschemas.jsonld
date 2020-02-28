@@ -17,8 +17,8 @@
   "sc:name": "NanoTiler",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://binkley2.ncifcrf.gov/users/bshapiro/software.html"
 }

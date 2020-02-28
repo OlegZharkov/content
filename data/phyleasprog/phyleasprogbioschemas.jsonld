@@ -17,8 +17,8 @@
   "sc:name": "PhyleasProg",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://phyleasprog.inra.fr"
 }

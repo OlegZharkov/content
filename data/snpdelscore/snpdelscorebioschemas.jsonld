@@ -16,8 +16,8 @@
   "sc:name": "SNPDelScore",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://www.ncbi.nlm.nih.gov/research/snpdelscore/"
 }

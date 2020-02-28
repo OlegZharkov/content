@@ -24,13 +24,13 @@
       "sc:description": "A tool for finding relevant genetic variants from high-throughput sequencing data based on functional annotation.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2403"
-        },
-        {
           "@id": "edam:operation_3226"
         },
         {
           "@id": "edam:operation_3672"
+        },
+        {
+          "@id": "edam:operation_2403"
         }
       ],
       "sc:name": "ANNOVAR",

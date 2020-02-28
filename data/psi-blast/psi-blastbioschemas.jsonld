@@ -21,8 +21,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "NCBI",
-    "EMBL-EBI"
+    "EMBL-EBI",
+    "NCBI"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/sss/psiblast/",
   "sc:version": "1"

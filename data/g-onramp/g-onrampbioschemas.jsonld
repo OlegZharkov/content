@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Jeremy Goecks",
-    "Luke Sargent",
     "Wilson Leung",
+    "Luke Sargent",
     "Sarah C.R. Elgin"
   ],
   "sc:additionalType": "Web application",

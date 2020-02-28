@@ -17,8 +17,8 @@
   "sc:name": "CABERNET",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bimib.disco.unimib.it/index.php/CABERNET"
 }

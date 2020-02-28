@@ -31,9 +31,9 @@
       },
       "sc:name": "ClinQC",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/clinqc/"
     }

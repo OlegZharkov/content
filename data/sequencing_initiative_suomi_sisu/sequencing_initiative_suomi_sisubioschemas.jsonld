@@ -17,8 +17,8 @@
   "sc:name": "Sequencing Initiative Suomi (SISu)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.sisuproject.fi/"
 }

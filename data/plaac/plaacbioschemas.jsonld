@@ -16,8 +16,8 @@
   "sc:name": "PLAAC",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://plaac.wi.mit.edu/"
 }

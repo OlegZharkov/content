@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "José B Pereira-Leal",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:24001185",
@@ -31,10 +31,10 @@
       "sc:description": "Data integration platform for molecular and clinical epidemiological analysis of tuberculosis.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_2421"
         },
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3197"
         },
         {
           "@id": "edam:operation_3461"
@@ -42,9 +42,9 @@
       ],
       "sc:name": "inTB",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.evocell.org/inTB"
     }

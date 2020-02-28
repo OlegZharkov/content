@@ -16,8 +16,8 @@
   "sc:name": "MERRILL",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.geos.ed.ac.uk/geosciences/research/projects/rockmag"
 }

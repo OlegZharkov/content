@@ -32,8 +32,8 @@
       ],
       "sc:name": "PHESANT",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/MRCIEU/PHESANT"
     },

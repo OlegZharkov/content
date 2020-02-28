@@ -15,8 +15,8 @@
   "sc:name": "MEMHDX",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "Institut Pasteur",
   "sc:url": "http://memhdx.c3bi.pasteur.fr/",

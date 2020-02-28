@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Support",
       "sc:additionalType": "Database portal",
       "sc:citation": [
-        "pmcid:PMC3855842",
         "pubmed:24324765",
+        "pmcid:PMC3855842",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PONE.0082210"
         }
@@ -32,9 +32,9 @@
       ],
       "sc:name": "INDIGO",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.cbrc.kaust.edu.sa/indigo/begin.do"
     },

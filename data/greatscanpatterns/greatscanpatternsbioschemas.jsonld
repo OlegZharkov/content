@@ -20,8 +20,8 @@
   "sc:name": "GREAT:SCAN:patterns",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "Institute of Systems and Synthetic Biology",

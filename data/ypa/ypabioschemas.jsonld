@@ -17,8 +17,8 @@
   "sc:name": "YPA",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://ypa.ee.ncku.edu.tw/"
 }

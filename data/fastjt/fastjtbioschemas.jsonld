@@ -14,18 +14,18 @@
   "sc:additionalType": "Library",
   "sc:author": [
     "Alexander Sibley",
-    "Ivo Shterev",
     "Jiaxing Lin",
-    "Kouros Owzar"
+    "Kouros Owzar",
+    "Ivo Shterev"
   ],
   "sc:citation": "pubmed:31195980",
   "sc:description": "R package for robust and efficient feature selection for machine learning and genome-wide association studies.",
   "sc:license": "GPL-3.0",
   "sc:name": "fastJT",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:url": "https://cran.r-project.org/package=fastJT",
   "sc:version": "1.0.4"

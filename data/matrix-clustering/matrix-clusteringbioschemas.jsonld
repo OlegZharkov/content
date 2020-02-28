@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Jacques van Helden",
-    "Morgane Thomas-Chollier",
-    "Jaime Castro-Mondragon"
+    "Jaime Castro-Mondragon",
+    "Morgane Thomas-Chollier"
   ],
   "sc:additionalType": [
     "Web application",

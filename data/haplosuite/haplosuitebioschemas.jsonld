@@ -16,8 +16,8 @@
   "sc:name": "Haplosuite",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.statgen.nus.edu.sg"
 }

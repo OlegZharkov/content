@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/shoremap",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Hequan Sun",
     "Korbinian Schneeberger",
-    "Contact form",
-    "Hequan Sun"
+    "Contact form"
   ],
   "sc:additionalType": "Suite",
   "sc:citation": "pubmed:19644454",

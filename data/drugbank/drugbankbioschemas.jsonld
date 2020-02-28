@@ -17,8 +17,8 @@
   "sc:name": "DrugBank",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://redpoll.pharmacy.ualberta.ca/drugbank/index.html"
 }

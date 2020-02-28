@@ -16,8 +16,8 @@
   "sc:name": "VOCS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://virology.uvic.ca/virology-ca-tools/vocs/"
 }

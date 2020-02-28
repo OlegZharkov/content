@@ -31,9 +31,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "oppar",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/oppar.html",
       "sc:version": "1.2.0"
