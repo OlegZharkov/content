@@ -16,8 +16,8 @@
   "sc:name": "POSTMan",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.uib.no/en/rg/probe/65847/postman"
 }

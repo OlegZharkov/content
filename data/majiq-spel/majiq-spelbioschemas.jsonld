@@ -20,8 +20,8 @@
   "sc:license": "Unlicense",
   "sc:name": "MAJIQ-SPEL",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://majiq.biociphers.org/majiq-spel",

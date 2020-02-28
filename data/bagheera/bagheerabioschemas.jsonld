@@ -15,8 +15,8 @@
   "sc:name": "Bagheera",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.motorprotein.de/bagheera"
 }

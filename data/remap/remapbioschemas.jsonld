@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Display restriction enzyme binding sites in a nucleotide sequence.",
@@ -27,8 +27,8 @@
   "sc:name": "remap",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

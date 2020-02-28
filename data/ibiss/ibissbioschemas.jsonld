@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "IBiSS",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://ibiss.igbmc.fr/"

@@ -13,26 +13,26 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "EMBOSS Contributors",
+    "UK BBSRC",
     "Wellcome Trust",
-    "UK BBSRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Replace tabs with spaces in an ASCII text file.",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "notab",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/notab.html",
   "sc:version": "r6"

@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mike Jiang",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC4148203",
@@ -35,9 +35,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "openCyto",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/openCyto.html",
       "sc:version": "1.12.1"

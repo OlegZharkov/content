@@ -17,8 +17,8 @@
   "sc:name": "Candida genome database CGD",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.candidagenome.org/"
 }

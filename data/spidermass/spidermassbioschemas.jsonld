@@ -18,8 +18,8 @@
   "sc:name": "SpiderMass",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://lababi.bioprocess.org/index.php/lababi-software/80-spidermass"
 }

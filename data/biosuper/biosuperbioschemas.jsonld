@@ -29,8 +29,8 @@
       "sc:name": "BioSuper",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://wwww-ablab.ucsd.edu/biosuper/"
     },

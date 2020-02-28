@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pintron",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Yuri Pirola",
     "Raffaella Rizzi",
+    "Yuri Pirola",
     "Paola Bonizzoni"
   ],
   "sc:additionalType": "Command-line tool",

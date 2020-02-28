@@ -15,8 +15,8 @@
   "sc:description": "Compare assembled transcripts to a reference annotation and track Cufflinks transcripts across multiple experiments.",
   "sc:name": "cuffcompare",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://cole-trapnell-lab.github.io/cufflinks/",

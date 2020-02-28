@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC",
     "EMBOSS Contributors"
   ],
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "hmoment",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/hmoment.html",
   "sc:version": "r6"

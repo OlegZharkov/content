@@ -17,8 +17,8 @@
   "sc:name": "PrediSi",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.predisi.de/"
 }

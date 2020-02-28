@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Mathew J Garnett",
-    "Thomas Cokelaer",
-    "Julio Saez-Rodriguez"
+    "Julio Saez-Rodriguez",
+    "Thomas Cokelaer"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Mining pharmacogenomic interactions in cancer.",

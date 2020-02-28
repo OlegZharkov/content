@@ -14,17 +14,13 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1093/BIOINFORMATICS/BTU176",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/svamp",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Lailatul Hidayah",
         {
           "@id": "http://orcid.org/0000-0003-1734-1007"
-        }
+        },
+        "Lailatul Hidayah"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
@@ -40,11 +36,15 @@
       },
       "sc:name": "SVAMP",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.cbrc.kaust.edu.sa/svamp/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/BIOINFORMATICS/BTU176",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

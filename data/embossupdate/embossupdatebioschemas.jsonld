@@ -12,23 +12,23 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC",
-    "EMBOSS Contributors"
-  ],
-  "sc:description": "Check for more recent updates to EMBOSS.",
-  "sc:funder": [
+    "EMBOSS Contributors",
     "UK BBSRC",
     "UK MRC",
     "Wellcome Trust"
   ],
+  "sc:description": "Check for more recent updates to EMBOSS.",
+  "sc:funder": [
+    "UK BBSRC",
+    "Wellcome Trust",
+    "UK MRC"
+  ],
   "sc:license": "GPL-3.0",
   "sc:name": "embossupdate",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

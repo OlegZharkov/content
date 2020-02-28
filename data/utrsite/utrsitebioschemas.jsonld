@@ -16,8 +16,8 @@
   "sc:name": "UTRSite",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "ELIXIR-ITA-CNR",
   "sc:url": "http://utrsite.ba.itb.cnr.it/"

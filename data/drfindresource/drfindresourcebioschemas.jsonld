@@ -14,25 +14,25 @@
   "sc:contributor": [
     "UK BBSRC",
     "UK MRC",
-    "EMBOSS Contributors",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Find public databases by resource.",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "drfindresource",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/drfindresource.html",
   "sc:version": "r6"

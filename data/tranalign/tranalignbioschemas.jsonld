@@ -13,21 +13,21 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK BBSRC",
     "UK MRC",
+    "UK BBSRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Generate an alignment of nucleic coding regions from aligned proteins.",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "tranalign",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

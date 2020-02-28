@@ -16,8 +16,8 @@
   "sc:name": "NASCA",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.cs.duke.edu/donaldlab/software/nasca/index.php"
 }

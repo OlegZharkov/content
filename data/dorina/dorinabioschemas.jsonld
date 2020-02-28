@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gku1180",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-0468-0117",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/dorina",
@@ -35,8 +35,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC4383974",
         "pubmed:25416797",
+        "pmcid:PMC4383974",
         {
           "@id": "https://doi.org/10.1093/nar/gku1180"
         }
@@ -49,26 +49,26 @@
       "sc:name": "doRiNA",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
-        "Max Delbrück Centre for Molecular Medicine",
-        "rnateam"
+        "rnateam",
+        "Max Delbrück Centre for Molecular Medicine"
       ],
       "sc:softwareHelp": [
         {
-          "@id": "http://dorina.mdc-berlin.de/tutorials"
+          "@id": "http://dorina.mdc-berlin.de/acknowledgements"
         },
         {
-          "@id": "http://dorina.mdc-berlin.de/acknowledgements"
+          "@id": "http://dorina.mdc-berlin.de/tutorials"
         }
       ],
       "sc:url": "http://dorina.mdc-berlin.de/"
     },
     {
-      "@id": "http://orcid.org/0000-0002-0468-0117",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/nar/gku1180",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

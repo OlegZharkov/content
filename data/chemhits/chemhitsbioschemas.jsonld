@@ -15,8 +15,8 @@
   "sc:name": "ChemHits",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "HITS",
   "sc:url": "http://sabio.h-its.org/chemHits/",

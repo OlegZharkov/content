@@ -17,8 +17,8 @@
   "sc:name": "DIALIGN",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://dialign.gobics.de"
 }

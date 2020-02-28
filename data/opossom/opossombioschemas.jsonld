@@ -21,8 +21,8 @@
   "sc:name": "oposSOM",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/oposSOM.html",
   "sc:version": "1.12.0"

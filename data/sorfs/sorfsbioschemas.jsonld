@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/sORFs",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -30,9 +30,9 @@
       "sc:description": "Repository of small open reading frames identified by ribosome profiling in a database of over 3 million sORFs across 78 datasets from six species.",
       "sc:name": "sORFs",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.sorfs.org/"
     }

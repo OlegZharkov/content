@@ -20,8 +20,8 @@
   "sc:name": "PROMO",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://acgt.cs.tau.ac.il/promo/"
 }

@@ -22,9 +22,9 @@
   "sc:license": "Unlicense",
   "sc:name": "RSAT Var-tools",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://rsat.eu"
 }

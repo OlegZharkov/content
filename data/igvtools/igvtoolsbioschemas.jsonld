@@ -17,10 +17,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
+        "pubmed:22517427",
         {
           "@id": "https://doi.org/10.1093/bib/bbs017"
         },
-        "pubmed:22517427",
         "pmcid:PMC3603213"
       ],
       "sc:description": "The igvtools utility provides a set of tools for pre-processing data files.",
@@ -35,9 +35,9 @@
       "sc:license": "MIT",
       "sc:name": "IGVtools",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://software.broadinstitute.org/software/igv/igvtools"
     },

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/3d-blast",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC1868941",
@@ -29,8 +29,8 @@
       },
       "sc:name": "3D-BLAST beta",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://3d-blast.life.nctu.edu.tw/",

@@ -15,8 +15,8 @@
   "sc:name": "FISH - profile search",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "bils.se",
   "sc:url": "http://babel.ucmp.umu.se/fish/hmmsearch.php",

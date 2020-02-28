@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/chronos",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Panos Balomenos",
-    "Anastasios Bezerianos"
+    "Anastasios Bezerianos",
+    "Panos Balomenos"
   ],
   "sc:additionalType": [
     "Library",

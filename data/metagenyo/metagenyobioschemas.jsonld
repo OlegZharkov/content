@@ -16,8 +16,8 @@
   "sc:name": "MetaGenyo",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinfo.genyo.es/metagenyo/"
 }

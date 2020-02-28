@@ -19,20 +19,20 @@
   ],
   "sc:description": "Draw a threshold dotplot of two sequences.",
   "sc:funder": [
-    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "dotmatcher",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/dotmatcher.html",
   "sc:version": "r6"

@@ -18,8 +18,8 @@
   "sc:description": "Prediction of topology and subcellular localization of Eukaryotic membrane proteins.",
   "sc:name": "MemPype",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",

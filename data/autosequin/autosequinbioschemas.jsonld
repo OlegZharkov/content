@@ -15,8 +15,8 @@
   "sc:name": "AutoSequin",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://indra.mullins.microbiol.washington.edu/perlscript/docs/AutoSequin.html"
 }

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btw535",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/immquant",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Irit Gat-Viks",
@@ -32,10 +28,14 @@
       "sc:license": "Other",
       "sc:name": "ImmQuant",
       "sc:operatingSystem": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://csgi.tau.ac.il/ImmQuant/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btw535",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

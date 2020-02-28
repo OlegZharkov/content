@@ -16,8 +16,8 @@
   "sc:name": "PowerGxE",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.hsph.harvard.edu/peter-kraft/software/"
 }

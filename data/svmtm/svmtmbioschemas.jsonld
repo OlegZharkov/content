@@ -20,8 +20,8 @@
   "sc:name": "SVMtm",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://ccb.imb.uq.edu.au/svmtm/svmtm_predictor.shtml"
 }

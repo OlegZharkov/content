@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Pablo Cordero (Site admin)",
     "Sungroh Yoon (PI)",
-    "Site admins: Hanjoo Kim (Site admin)",
-    "Rhiju Das (PI)"
+    "Rhiju Das (PI)",
+    "Site admins: Hanjoo Kim (Site admin)"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:23761448",
@@ -22,8 +22,8 @@
   "sc:name": "HiTRACE-Web",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://hitrace.org"
 }

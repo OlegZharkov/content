@@ -13,21 +13,21 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK BBSRC",
+    "EMBOSS Contributors",
     "UK MRC",
-    "EMBOSS Contributors"
+    "UK BBSRC"
   ],
   "sc:description": "An Emboss tool that writes statistics for a sequence assembly",
   "sc:funder": [
+    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "infoassembly",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

@@ -22,9 +22,9 @@
         "@id": "edam:data_3496"
       },
       "sc:additionalType": [
+        "Command-line tool",
         "Web application",
-        "Database portal",
-        "Command-line tool"
+        "Database portal"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0114"
@@ -46,7 +46,7 @@
       "sc:description": "Wrapper tool for rnpB gene prediction by combining speed of rnabob descriptor model and sensitivity of infernal covariance model.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0489"
+          "@id": "edam:operation_0346"
         },
         {
           "@id": "edam:operation_0349"
@@ -55,7 +55,7 @@
           "@id": "edam:operation_0362"
         },
         {
-          "@id": "edam:operation_0346"
+          "@id": "edam:operation_0489"
         }
       ],
       "sc:funder": "Austrian GEN-AU projects \"bioinformatics integration network III\"",
@@ -72,12 +72,12 @@
       "sc:url": "http://rna.tbi.univie.ac.at/bcheck/index.html"
     },
     {
-      "@id": "https://doi.org/10.1186/1471-2164-11-432",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0001-8683-7845",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2164-11-432",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

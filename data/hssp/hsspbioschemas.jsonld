@@ -14,8 +14,8 @@
   "sc:description": "Homology-derived secondary structure of proteins database.",
   "sc:name": "HSSP",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://swift.cmbi.ru.nl/gv/hssp/"

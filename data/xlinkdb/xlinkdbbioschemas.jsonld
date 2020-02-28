@@ -17,8 +17,8 @@
   "sc:name": "XLinkDB",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://xlinkdb.gs.washington.edu/xlinkdb/",
   "sc:version": "3.0"

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Christophe Béroud",
   "sc:additionalType": [
-    "Database portal",
-    "Web application"
+    "Web application",
+    "Database portal"
   ],
   "sc:description": "Universal Mutation Database (UMD) is a database for mutations. UMD-predictor is a tool that enables functional annotation of variants to find the relevant ones.",
   "sc:license": "Unlicense",

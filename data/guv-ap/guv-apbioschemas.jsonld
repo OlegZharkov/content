@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/GUV-AP",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Winfried Römer",
-    "Yves Mély"
+    "Yves Mély",
+    "Winfried Römer"
   ],
   "sc:additionalType": "Desktop application",
   "sc:description": "Multifunctional FIJI-based tool for quantitative image analysis of Giant Unilamellar Vesicles.",

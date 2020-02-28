@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pdbest",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "de Melo-Minardi RC",
     "Pires DE",
+    "de Melo-Minardi RC",
     "Gonçalves WR"
   ],
   "sc:additionalType": "Desktop application",

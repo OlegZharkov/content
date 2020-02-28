@@ -16,8 +16,8 @@
   "sc:name": "PMDB",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-SAPIENZA",
   "sc:url": "https://bioinformatics.cineca.it/PMDB/"

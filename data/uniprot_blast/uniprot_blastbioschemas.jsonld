@@ -22,8 +22,8 @@
   ],
   "sc:provider": [
     "EMBL-EBI",
-    "UniProt Consortium",
-    "NCBI"
+    "NCBI",
+    "UniProt Consortium"
   ],
   "sc:url": "http://www.uniprot.org/blast/",
   "sc:version": "1"

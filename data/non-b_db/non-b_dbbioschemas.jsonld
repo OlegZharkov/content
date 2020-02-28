@@ -17,8 +17,8 @@
   "sc:name": "Non-B DB",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://nonb-abcc.ncifcrf.gov/apps/nBMST/default/"
 }

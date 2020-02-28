@@ -16,8 +16,8 @@
   "sc:name": "PIGS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "ELIXIR-ITA-SAPIENZA",
   "sc:url": "http://circe.med.uniroma1.it/pigs/",

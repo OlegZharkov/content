@@ -41,9 +41,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "NanoDJ",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://github.com/genomicsITER/NanoDJ"
     },

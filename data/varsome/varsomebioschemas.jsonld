@@ -19,9 +19,9 @@
   "sc:description": "A search engine for human genomic variants.",
   "sc:name": "VarSome",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "https://varsome.com/"
 }

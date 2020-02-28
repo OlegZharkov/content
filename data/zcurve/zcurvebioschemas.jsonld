@@ -17,8 +17,8 @@
   "sc:name": "ZCURVE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://cefg.uestc.edu.cn/zcurve/"
 }

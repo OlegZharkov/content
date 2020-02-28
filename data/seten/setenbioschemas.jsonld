@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1261/RNA.059089.116",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/seten",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Sarath Chandra Janga",
-        "Gungor Budak"
+        "Gungor Budak",
+        "Sarath Chandra Janga"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -35,10 +31,14 @@
       "sc:name": "Seten",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.iupui.edu/~sysbio/seten/"
+    },
+    {
+      "@id": "https://doi.org/10.1261/RNA.059089.116",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

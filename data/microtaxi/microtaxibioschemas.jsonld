@@ -16,8 +16,8 @@
   "sc:name": "Microtaxi",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://metagenomics.iiserb.ac.in/microtaxi/"
 }

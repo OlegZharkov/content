@@ -21,8 +21,8 @@
   "sc:name": "IMGT, the international ImMunoGeneTics information system",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.imgt.org/"
 }

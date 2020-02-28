@@ -17,8 +17,8 @@
   "sc:name": "OBITools",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://git.metabarcoding.org/obitools/obitools/wikis/home"
 }

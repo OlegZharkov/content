@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Muhammad Rizwan",
       "sc:additionalType": [
-        "Workflow",
-        "Desktop application"
+        "Desktop application",
+        "Workflow"
       ],
       "sc:citation": [
         {
@@ -30,9 +30,9 @@
       },
       "sc:name": "VacSol",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/vacsol/"
     },

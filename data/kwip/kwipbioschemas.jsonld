@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1005727",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/kwip",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Kevin Murray",
@@ -57,10 +61,6 @@
         "@id": "https://kwip.readthedocs.io/en/latest/"
       },
       "sc:url": "https://github.com/kdmurray91/kwip"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1005727",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

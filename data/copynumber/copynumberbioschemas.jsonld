@@ -37,18 +37,18 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
+        {
+          "@id": "edam:topic_2269"
+        },
         {
           "@id": "edam:topic_3360"
         },
         {
           "@id": "edam:topic_2640"
-        },
-        {
-          "@id": "edam:topic_2269"
         }
       ],
       "sc:citation": [
@@ -71,8 +71,8 @@
       "sc:name": "copynumber",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/copynumber.html",
       "sc:version": "1.14.0"

@@ -35,8 +35,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "bumphunter",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/bumphunter.html",

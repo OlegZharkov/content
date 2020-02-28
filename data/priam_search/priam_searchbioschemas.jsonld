@@ -20,15 +20,15 @@
   "sc:description": "Sequence search utility to annotate enzyme genes and generate draft metabolic networks.",
   "sc:name": "PRIAM search",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
-    "Pole Rhone-Alpin de Bioinformatique",
-    "INRA",
     "Lyon 1 University",
-    "univ-lyon1.fr"
+    "Pole Rhone-Alpin de Bioinformatique",
+    "univ-lyon1.fr",
+    "INRA"
   ],
   "sc:url": "http://priam.prabi.fr/REL_MAR15/index_mar15.html"
 }

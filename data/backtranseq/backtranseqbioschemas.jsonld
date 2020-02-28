@@ -14,25 +14,25 @@
   "sc:contributor": [
     "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "Wellcome Trust"
   ],
   "sc:description": "Back-translate a protein sequence to a nucleotide sequence.",
   "sc:funder": [
-    "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "backtranseq",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/backtranseq.html",
   "sc:version": "r6"

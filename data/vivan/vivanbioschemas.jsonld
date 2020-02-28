@@ -17,8 +17,8 @@
   "sc:name": "ViVan",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://vivan.tau.ac.il/index.php"
 }

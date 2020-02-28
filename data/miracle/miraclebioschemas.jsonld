@@ -16,8 +16,8 @@
   "sc:description": "Web-application for handling reverse phase protein array chips.",
   "sc:name": "MIRACLE",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://nanocan.github.io/MIRACLE/"

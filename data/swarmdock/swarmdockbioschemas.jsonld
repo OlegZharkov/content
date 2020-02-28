@@ -15,8 +15,8 @@
   "sc:name": "SwarmDock",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bmm.cancerresearchuk.org/~SwarmDock/index.html"
 }

@@ -19,22 +19,22 @@
         "Catharina Olsen"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC3245161",
         "pubmed:22096235",
         {
           "@id": "https://doi.org/10.1093/nar/gkr1050"
-        }
+        },
+        "pmcid:PMC3245161"
       ],
       "sc:description": "Set of functions related to network inference combining genomic data and prior information extracted from biomedical literature and structured biological databases.",
       "sc:license": "Artistic-2.0",
       "sc:name": "predictionet",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/predictionet.html",

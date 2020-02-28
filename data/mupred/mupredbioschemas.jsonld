@@ -16,8 +16,8 @@
   "sc:name": "MUPRED",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://digbio.missouri.edu/mupred/"
 }

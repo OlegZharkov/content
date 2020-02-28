@@ -17,8 +17,8 @@
   "sc:name": "Vienna RNA Websuite",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://rna.tbi.univie.ac.at/"
 }

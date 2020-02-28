@@ -18,8 +18,8 @@
   "sc:name": "ThermoLabAnimal",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/ThermoLabAnimal/ThermoLabAnimal_FreeVersion"
 }

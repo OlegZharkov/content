@@ -17,8 +17,8 @@
   "sc:name": "NLR-parser",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://github.com/steuernb/NLR-Parser"
 }

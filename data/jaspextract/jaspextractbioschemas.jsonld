@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "EMBOSS Contributors",
     "Wellcome Trust",
+    "EMBOSS Contributors",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:description": "Extract data from JASPAR.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "jaspextract",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

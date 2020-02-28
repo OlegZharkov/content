@@ -15,8 +15,8 @@
   "sc:description": "Link grants to their articles.",
   "sc:name": "Europe PMC plus Grant Linking",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

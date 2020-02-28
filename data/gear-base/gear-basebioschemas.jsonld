@@ -15,8 +15,8 @@
     "Andreas E. Posch"
   ],
   "sc:additionalType": [
-    "Database portal",
-    "Web application"
+    "Web application",
+    "Database portal"
   ],
   "sc:description": "GEnetic Antibiotic Resistance and Susceptibility Database.",
   "sc:license": "Unlicense",

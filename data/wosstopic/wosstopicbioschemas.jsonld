@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "EMBOSS Contributors",
     "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Find programs by EDAM topic.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "wosstopic",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

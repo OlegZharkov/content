@@ -15,8 +15,8 @@
   "sc:description": "A comprehensive sequencing simulation and alignment tool evaluation suite.",
   "sc:name": "Seal",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://compbio.case.edu/seal/"

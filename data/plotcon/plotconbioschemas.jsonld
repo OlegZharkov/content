@@ -14,13 +14,13 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK BBSRC",
-    "EMBOSS Contributors",
-    "UK MRC"
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Plot conservation of a sequence alignment.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",

@@ -18,8 +18,8 @@
   "sc:name": "NetDA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://cdal.korea.ac.kr/NetDA/"
 }

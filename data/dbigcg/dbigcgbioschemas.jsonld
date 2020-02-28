@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC",
     "Wellcome Trust",
-    "EMBOSS Contributors"
+    "UK BBSRC"
   ],
   "sc:description": "Index a GCG formatted database.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "dbigcg",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

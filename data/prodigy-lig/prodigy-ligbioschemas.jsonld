@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/PRODIGY-LIG",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
+        "Web service",
         "Command-line tool",
-        "Web service"
+        "Web application"
       ],
       "sc:author": {
         "@id": "http://orcid.org/0000-0001-7369-1322"
@@ -24,15 +24,15 @@
       "sc:license": "Apache-2.0",
       "sc:name": "PRODIGY-LIG",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": [
+        "University of Utrecht",
         {
           "@id": "http://orcid.org/0000-0001-7369-1322"
-        },
-        "University of Utrecht"
+        }
       ],
       "sc:url": "http://milou.science.uu.nl/services/PRODIGY-LIG"
     },

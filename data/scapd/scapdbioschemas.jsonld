@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-017-1806-6",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/scapd",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jiang Qian",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -31,19 +27,23 @@
       "sc:description": "Database for human scaffold proteins.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2497"
+          "@id": "edam:operation_2414"
         },
         {
-          "@id": "edam:operation_2414"
+          "@id": "edam:operation_2497"
         }
       ],
       "sc:name": "ScaPD",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioinfo.wilmer.jhu.edu/ScaPD/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-017-1806-6",
+      "@type": "sc:CreativeWork"
     }
   ]
 }
