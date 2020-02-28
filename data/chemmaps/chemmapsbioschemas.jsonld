@@ -16,8 +16,8 @@
   "sc:name": "ChemMaps",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.chemmaps.com/"
 }

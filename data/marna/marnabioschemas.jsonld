@@ -29,8 +29,8 @@
       "sc:name": "MARNA web server",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
         "University Freiburg",

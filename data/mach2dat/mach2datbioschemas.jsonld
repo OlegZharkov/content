@@ -16,8 +16,8 @@
   "sc:name": "mach2dat",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://www.nitrc.org/projects/mach2dat/"
 }

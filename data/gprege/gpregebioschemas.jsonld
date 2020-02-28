@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Alfredo Kalaitzis",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC3116489",
@@ -36,8 +36,8 @@
       "sc:name": "gprege",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/gprege.html",
       "sc:version": "1.18.0"

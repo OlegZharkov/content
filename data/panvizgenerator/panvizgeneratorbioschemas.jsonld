@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Thomas Lin Pedersen",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "JavaScript based visualisation tool for functionaly annotated pangenomes. It is a companion for PanViz that facilitates the necessary data preprocessing step necessary to create a working PanViz visualization.",
   "sc:license": "GPL-2.0",
   "sc:name": "PanVizGenerator",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/PanVizGenerator.html",

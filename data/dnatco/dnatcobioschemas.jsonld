@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/dnatco",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:author": [
     "Bohdan Schneider",

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-018-2038-0",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/xenogi",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Eliot C. Bush",
@@ -32,15 +36,11 @@
       ],
       "sc:name": "xenoGI",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://siva.cs.hmc.edu/xgicgi/wxgi.py/form"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-018-2038-0",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

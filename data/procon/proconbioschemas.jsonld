@@ -20,10 +20,10 @@
       ],
       "sc:additionalType": "Desktop application",
       "sc:author": [
+        "PD Dr. Martin Eisenacher",
         {
           "@id": "http://orcid.org/0000-0002-1767-2343"
-        },
-        "PD Dr. Martin Eisenacher"
+        }
       ],
       "sc:citation": "pubmed:26182917",
       "sc:description": "Conversion tool written in Java for conversion of proteomics identification data into standard formats mzIdentML and Pride XML.",

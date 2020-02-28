@@ -17,8 +17,8 @@
   "sc:name": "CRISPR-ERA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://crispr-era.stanford.edu/"
 }

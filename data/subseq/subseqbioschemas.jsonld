@@ -15,8 +15,8 @@
     "Andrew J. Bass"
   ],
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "Subsampling of high throughput sequencing count data for use in experiment design and analysis.",
   "sc:license": "MIT",

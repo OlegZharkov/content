@@ -15,9 +15,9 @@
   "sc:description": "Intelligent prediction and association tool for genomic research.",
   "sc:name": "iPat",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:url": "http://zzlab.net/iPat/"
 }

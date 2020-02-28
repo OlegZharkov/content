@@ -17,8 +17,8 @@
   "sc:name": "PepSite",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://pepsite2.russelllab.org"
 }

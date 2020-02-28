@@ -31,8 +31,8 @@
       },
       "sc:name": "argyle",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/andrewparkermorgan/argyle"
     }

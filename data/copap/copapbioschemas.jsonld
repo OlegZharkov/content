@@ -17,8 +17,8 @@
   "sc:name": "CoPAP",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://copap.tau.ac.il/"
 }

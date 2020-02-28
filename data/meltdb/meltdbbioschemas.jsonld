@@ -21,8 +21,8 @@
   ],
   "sc:provider": [
     "CeBiTec",
-    "bigi",
-    "Bielefeld University"
+    "Bielefeld University",
+    "bigi"
   ],
   "sc:url": "http://meltdb.cebitec.uni-bielefeld.de",
   "sc:version": "2.0"

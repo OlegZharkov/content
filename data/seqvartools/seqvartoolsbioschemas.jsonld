@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/seqvartools",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Adrienne Stilp",
+    "Stephanie M. Gogarten",
     "Xiuwen Zheng",
-    "Stephanie M. Gogarten"
+    "Adrienne Stilp"
   ],
   "sc:additionalType": [
     "Library",

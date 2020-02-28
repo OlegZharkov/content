@@ -17,8 +17,8 @@
   "sc:name": "MICheck",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.genoscope.cns.fr/agc/tools/micheck/"
 }

@@ -11,15 +11,15 @@
   "@id": "https://bio.tools/ontologizer",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
+    "Command-line tool",
     "Desktop application",
-    "Command-line tool"
+    "Web application"
   ],
   "sc:description": "A Tool for Statistical Analysis and Visualization of High-Throughput Biological Data Using Gene Ontology.",
   "sc:name": "Ontologizer",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://ontologizer.de/"

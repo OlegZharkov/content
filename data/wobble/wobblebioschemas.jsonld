@@ -14,14 +14,14 @@
   "sc:contributor": [
     "UK MRC",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Plot third base position variability in a nucleotide sequence.",
   "sc:funder": [
+    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "wobble",
@@ -31,8 +31,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/wobble.html",
   "sc:version": "r6"

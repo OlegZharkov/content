@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-7336-8071"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC3333775",
@@ -38,8 +38,8 @@
       "sc:name": "RTopper",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RTopper.html",
       "sc:version": "1.20.0"

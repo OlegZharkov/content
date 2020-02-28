@@ -12,27 +12,27 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "EMBOSS Contributors",
+    "UK MRC"
   ],
   "sc:description": "Local multiple alignment of sequences.",
   "sc:funder": [
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "edialign",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/edialign.html",
   "sc:version": "r6"

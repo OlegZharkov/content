@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-016-0989-6",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/mdgsa",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "David Montaner",
@@ -22,26 +18,20 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1772"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1772"
         },
         {
           "@id": "edam:data_1669"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
-        {
-          "@id": "edam:topic_2640"
-        },
-        {
-          "@id": "edam:topic_0203"
-        },
         {
           "@id": "edam:topic_0622"
         },
@@ -50,6 +40,12 @@
         },
         {
           "@id": "edam:topic_0659"
+        },
+        {
+          "@id": "edam:topic_0203"
+        },
+        {
+          "@id": "edam:topic_2640"
         }
       ],
       "sc:citation": [
@@ -71,12 +67,16 @@
       "sc:license": "GPL-3.0",
       "sc:name": "mdgsa",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/mdgsa.html",
       "sc:version": "1.6.0"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-016-0989-6",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

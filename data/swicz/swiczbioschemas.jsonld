@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Jiří­ Vohradský",
-    "Ivan Janda"
+    "Ivan Janda",
+    "Jiří­ Vohradský"
   ],
   "sc:contributor": [
     "Jan Bobek",
-    "Urs Jenal",
-    "Karel Mikulik",
     "Marek Basler",
-    "Bjorn Grunenfelder"
+    "Bjorn Grunenfelder",
+    "Karel Mikulik",
+    "Urs Jenal"
   ],
   "sc:description": "A proteomics web database.",
   "sc:name": "SWICZ",

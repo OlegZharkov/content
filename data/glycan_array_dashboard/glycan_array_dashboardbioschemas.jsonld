@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "GLycan Array Dashboard",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://glycotoolkit.com/Tools/GLAD/",

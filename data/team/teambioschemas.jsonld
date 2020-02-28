@@ -16,8 +16,8 @@
   "sc:name": "TEAM",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://team.babelomics.org"
 }

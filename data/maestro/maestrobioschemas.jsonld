@@ -16,8 +16,8 @@
   "sc:name": "MAESTRO",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://biwww.che.sbg.ac.at/"
 }

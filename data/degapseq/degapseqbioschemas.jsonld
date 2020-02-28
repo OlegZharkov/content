@@ -14,25 +14,25 @@
   "sc:contributor": [
     "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK MRC"
   ],
   "sc:description": "Remove non-alphabetic (e.g. gap) characters from sequences.",
   "sc:funder": [
-    "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "degapseq",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/degapseq.html",
   "sc:version": "r6"

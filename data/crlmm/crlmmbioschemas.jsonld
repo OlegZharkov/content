@@ -18,14 +18,14 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Robert Scharpf",
+        "Benilton S Carvalho",
         {
           "@id": "http://orcid.org/0000-0002-7383-0609"
-        },
-        "Benilton S Carvalho"
+        }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC3329223",

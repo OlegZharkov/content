@@ -24,8 +24,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "University College Dublin",
-    "EMBL-EBI"
+    "EMBL-EBI",
+    "University College Dublin"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/phylogeny/clustalw2_phylogeny/",
   "sc:version": "1"

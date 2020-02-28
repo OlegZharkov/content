@@ -19,8 +19,8 @@
   "sc:name": "MemLoci",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",
   "sc:url": "https://mu2py.biocomp.unibo.it/memloci",

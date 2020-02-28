@@ -20,15 +20,15 @@
   "sc:description": "Scan one or more sequences with a simple frequency matrix.",
   "sc:funder": [
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "profit",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

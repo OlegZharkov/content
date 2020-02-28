@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/phossnp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Zhaolei Zhang",
     "Yu Xue",
+    "Zhaolei Zhang",
     "Jian Ren"
   ],
   "sc:additionalType": "Database portal",

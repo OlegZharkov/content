@@ -21,8 +21,8 @@
   "sc:name": "TVT viewer",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://elk.med.harvard.edu/gfy/www/modules/single_standard"
 }

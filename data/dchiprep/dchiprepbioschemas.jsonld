@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.7717/peerj.1981",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/dchiprep",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Bernd Klaus",
@@ -31,16 +35,12 @@
       "sc:license": "MIT",
       "sc:name": "DChIPRep",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DChIPRep.html",
       "sc:version": "1.4.0"
-    },
-    {
-      "@id": "https://doi.org/10.7717/peerj.1981",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

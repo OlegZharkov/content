@@ -21,8 +21,8 @@
   "sc:name": "NGL VIewer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "weirdbyte.de",
   "sc:url": "https://github.com/arose/ngl",

@@ -17,8 +17,8 @@
   "sc:name": "pevoSOAR",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://sts.bioe.uic.edu/pevosoar/"
 }

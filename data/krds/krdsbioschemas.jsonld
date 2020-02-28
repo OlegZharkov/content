@@ -16,8 +16,8 @@
   "sc:name": "KRDS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bcbl.kaist.ac.kr/KRDS/"
 }

@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "EMBOSS Contributors",
     "Wellcome Trust",
     "UK BBSRC",
-    "EMBOSS Contributors",
     "UK MRC"
   ],
   "sc:description": "Needleman-Wunsch global alignment of two sequences.",
@@ -27,8 +27,8 @@
   "sc:name": "needle",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

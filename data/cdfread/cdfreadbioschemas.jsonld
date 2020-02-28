@@ -15,8 +15,8 @@
   "sc:name": "cdfread",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://cdfread.sourceforge.net/"
 }

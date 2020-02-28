@@ -14,13 +14,13 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Identify protein-coding regions using Fickett TESTCODE statistic.",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
+    "UK BBSRC",
     "UK MRC"
   ],
   "sc:license": "GPL-3.0",
@@ -31,8 +31,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/tcode.html",
   "sc:version": "r6"

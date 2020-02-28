@@ -17,8 +17,8 @@
   "sc:name": "PolygenicPathways",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.polygenicpathways.co.uk"
 }

@@ -27,8 +27,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "Mendelian",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": "ugent.be",

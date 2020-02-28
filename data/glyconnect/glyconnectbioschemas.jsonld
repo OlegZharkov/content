@@ -17,8 +17,8 @@
   "sc:name": "GlyConnect",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://glyconnect.expasy.org/"
 }

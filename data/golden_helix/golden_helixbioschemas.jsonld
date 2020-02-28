@@ -18,8 +18,8 @@
   "sc:description": "Bioinformatic software provider and analytic service provider.",
   "sc:name": "Golden Helix",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.goldenhelix.com"

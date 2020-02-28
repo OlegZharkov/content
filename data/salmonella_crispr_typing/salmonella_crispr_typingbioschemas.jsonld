@@ -24,9 +24,9 @@
   ],
   "sc:provider": [
     "Enteric Bacterial Pathogens",
-    "Institut Pasteur",
     "C3BI",
-    "Bioinformatics and Biostatistics Hub"
+    "Bioinformatics and Biostatistics Hub",
+    "Institut Pasteur"
   ],
   "sc:url": "https://research.pasteur.fr/team/enteric-bacterial-pathogens/",
   "sc:version": "v.1.0.0"

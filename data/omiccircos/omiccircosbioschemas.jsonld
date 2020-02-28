@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Ying Hu",
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "R package for generating high-quality circular plots for omics data.",
   "sc:license": "GPL-2.0",

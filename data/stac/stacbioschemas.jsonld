@@ -30,8 +30,8 @@
       },
       "sc:name": "STAC",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://www.cbil.upenn.edu/STAC/",

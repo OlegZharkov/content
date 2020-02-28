@@ -16,8 +16,8 @@
   "sc:name": "CoMet",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://comet.gobics.de"
 }

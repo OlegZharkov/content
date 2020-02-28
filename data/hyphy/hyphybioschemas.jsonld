@@ -15,18 +15,18 @@
     "Command-line tool"
   ],
   "sc:author": [
-    "Sergei L Kosakovsky Pond",
+    "Steven Weaver",
     "Art FY Poon",
-    "Steven Weaver"
+    "Sergei L Kosakovsky Pond"
   ],
   "sc:citation": "pubmed:30298394",
   "sc:description": "Software package for the analysis of genetic sequences using techniques in phylogenetics, molecular evolution, and machine learning.",
   "sc:license": "Unlicense",
   "sc:name": "HyPhy",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://hyphy.org"
 }

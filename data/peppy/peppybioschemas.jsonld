@@ -16,8 +16,8 @@
   "sc:name": "Peppy",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.geneffects.com/peppy/"
 }

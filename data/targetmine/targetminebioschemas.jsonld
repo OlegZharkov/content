@@ -15,8 +15,8 @@
   "sc:name": "TargetMine",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://targetmine.mizuguchilab.org/",
   "sc:version": "20150831"

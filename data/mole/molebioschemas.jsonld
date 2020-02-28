@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mole",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Desktop application",
     "Command-line tool",
+    "Desktop application",
     "Web application"
   ],
   "sc:author": "Martin Petrek",
@@ -29,8 +29,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "Palacký University, Olomouc, Czech Republic",
-    "Masaryk University, Brno, Czech Republic"
+    "Masaryk University, Brno, Czech Republic",
+    "Palacký University, Olomouc, Czech Republic"
   ],
   "sc:url": "http://mole.chemi.muni.cz",
   "sc:version": "2.0"

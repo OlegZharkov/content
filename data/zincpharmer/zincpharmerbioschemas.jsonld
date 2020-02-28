@@ -17,8 +17,8 @@
   "sc:name": "ZINCPharmer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://zincpharmer.csb.pitt.edu"
 }

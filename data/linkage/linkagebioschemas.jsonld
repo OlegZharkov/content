@@ -19,8 +19,8 @@
   "sc:license": "Not licensed",
   "sc:name": "LINKAGE",
   "sc:operatingSystem": [
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.jurgott.org/linkage/LinkagePC.html"
 }

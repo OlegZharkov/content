@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
+    "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC",
-    "UK MRC"
+    "EMBOSS Contributors",
+    "UK BBSRC"
   ],
   "sc:description": "Find EDAM ontology terms by has_input relation.",
   "sc:funder": [
     "Wellcome Trust",
-    "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "edamhasinput",
@@ -31,8 +31,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/edamhasinput.html",
   "sc:version": "r6"

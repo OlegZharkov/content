@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Roberto Tagliaferri",
-        "Angela Serra",
-        "Paola Galdi"
+        "Paola Galdi",
+        "Angela Serra"
       ],
       "edam:has_input": {
         "@id": "edam:data_2603"
@@ -38,9 +38,9 @@
       },
       "sc:name": "CONDOP",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "ELIXIR-ITA-SALERNO",
       "sc:url": "https://cran.r-project.org/web/packages/CONDOP/index.html",

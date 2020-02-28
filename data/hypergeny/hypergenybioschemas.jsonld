@@ -18,8 +18,8 @@
   "sc:description": "HYPERbolic phyloGENY viewer allows hyperbolic visualisation of very large tree structures.",
   "sc:name": "HyperGeny",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ugent.be",

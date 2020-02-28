@@ -17,8 +17,8 @@
   "sc:name": "BiQ Analyzer HT",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://biq-analyzer-ht.bioinf.mpi-inf.mpg.de/"
 }

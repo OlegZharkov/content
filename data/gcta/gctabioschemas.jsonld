@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1016/j.ajhg.2010.11.011",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/gcta",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -40,6 +36,10 @@
       "sc:operatingSystem": "Linux",
       "sc:url": "http://cnsgenomics.com/software/gcta/",
       "sc:version": "1.91.7beta"
+    },
+    {
+      "@id": "https://doi.org/10.1016/j.ajhg.2010.11.011",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

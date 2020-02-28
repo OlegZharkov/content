@@ -19,9 +19,9 @@
   "sc:funder": "Deutsche Forschungsgemeinschaft (DFG)",
   "sc:name": "GFBio",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:url": "https://www.gfbio.org"
 }

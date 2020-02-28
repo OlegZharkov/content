@@ -19,8 +19,8 @@
   "sc:name": "xMWAS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://kuppal.shinyapps.io/xmwas/"
 }

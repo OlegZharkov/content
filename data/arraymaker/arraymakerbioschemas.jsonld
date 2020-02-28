@@ -16,8 +16,8 @@
   "sc:name": "ArrayMaker",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://github.com/cw2014/ArrayMaker/"
 }

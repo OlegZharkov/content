@@ -17,8 +17,8 @@
   "sc:name": "RNA Analyzer",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://rnaanalyzer.bioapps.biozentrum.uni-wuerzburg.de/"
 }

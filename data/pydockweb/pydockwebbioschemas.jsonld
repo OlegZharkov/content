@@ -25,8 +25,8 @@
         "Windows"
       ],
       "sc:provider": [
-        "bsc.es",
-        "Barcelona Supercomputing Center"
+        "Barcelona Supercomputing Center",
+        "bsc.es"
       ],
       "sc:url": "https://life.bsc.es/servlet/pydock/",
       "sc:version": "1"

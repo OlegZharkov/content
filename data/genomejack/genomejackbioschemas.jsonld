@@ -16,8 +16,8 @@
   "sc:name": "GenomeJack",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://genomejack.net/english/gj_browser.html"
 }

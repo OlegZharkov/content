@@ -15,16 +15,16 @@
   "sc:author": [
     "Gael P. Alamancos",
     "JC Entizne",
-    "Miha Skalic",
-    "Amadí­s Pagès"
+    "Amadí­s Pagès",
+    "Miha Skalic"
   ],
   "sc:description": "This tool generates Alternative Splicing (AS) events from an annotation and calculates the PSI (\"Percentage Spliced In\") value for each event exploiting fast quantification of transcript abundances from multiple samples.",
   "sc:license": "MIT",
   "sc:name": "SUPPA",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "Pompeu Fabra University",

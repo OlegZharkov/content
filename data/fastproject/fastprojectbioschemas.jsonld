@@ -28,8 +28,8 @@
       "sc:license": "Other",
       "sc:name": "FastProject",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/YosefLab/FastProject"

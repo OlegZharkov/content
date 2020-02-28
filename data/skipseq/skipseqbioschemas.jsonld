@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK BBSRC",
+    "EMBOSS Contributors",
     "UK MRC"
   ],
   "sc:description": "Read and write (return) sequences, skipping first few.",
@@ -27,8 +27,8 @@
   "sc:name": "skipseq",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

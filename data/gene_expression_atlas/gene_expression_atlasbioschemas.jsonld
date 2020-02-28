@@ -17,8 +17,8 @@
   "sc:name": "Gene Expression Atlas",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.ebi.ac.uk/gxa/"
 }

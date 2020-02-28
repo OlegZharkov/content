@@ -16,8 +16,8 @@
   "sc:name": "jump3",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://homepages.inf.ed.ac.uk/vhuynht/software.html"
 }

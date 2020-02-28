@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
+    "EMBOSS Contributors",
     "Wellcome Trust",
-    "UK BBSRC",
-    "EMBOSS Contributors"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:description": "Create random protein sequences.",
   "sc:funder": [
@@ -27,12 +27,12 @@
   "sc:name": "makeprotseq",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/makeprotseq.html",
   "sc:version": "r6"

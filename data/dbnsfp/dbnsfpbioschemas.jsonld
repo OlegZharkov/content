@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Xiaoming Liu",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -32,8 +32,8 @@
       "sc:license": "Unlicense",
       "sc:name": "dbNSFP",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://sites.google.com/site/jpopgen/dbNSFP",

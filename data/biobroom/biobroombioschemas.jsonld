@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/biobroom",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Andrew J. Bass",
-    "John D. Storey"
+    "John D. Storey",
+    "Andrew J. Bass"
   ],
   "sc:additionalType": [
     "Library",
@@ -22,8 +22,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "biobroom",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/biobroom.html",

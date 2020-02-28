@@ -27,13 +27,13 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1916"
-        },
-        {
           "@id": "edam:data_0872"
         },
         {
           "@id": "edam:data_1465"
+        },
+        {
+          "@id": "edam:data_1916"
         }
       ],
       "sc:additionalType": "Command-line tool",
@@ -46,17 +46,17 @@
         }
       ],
       "sc:author": [
+        "Sebastian Will",
         {
           "@id": "http://orcid.org/0000-0001-8231-3323"
-        },
-        "Sebastian Will"
+        }
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1261/rna.029041.111"
         },
-        "pmcid:PMC3334699",
-        "pubmed:22450757"
+        "pubmed:22450757",
+        "pmcid:PMC3334699"
       ],
       "sc:description": "Probabilistic structure-based multiple alignment of RNAs.",
       "sc:featureList": {
@@ -65,8 +65,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "LocARNA-P",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
         "rnateam",

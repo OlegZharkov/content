@@ -14,21 +14,21 @@
   "sc:contributor": [
     "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "Wellcome Trust"
   ],
   "sc:description": "Generate an alignment of nucleic coding regions from aligned proteins.",
   "sc:funder": [
+    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "tranalign",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

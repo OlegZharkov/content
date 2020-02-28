@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "DAS",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "bils.se",

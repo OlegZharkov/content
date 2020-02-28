@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/khmer",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Getting help guide",
     "khmer-project@idyll.org",
+    "Getting help guide",
     "Gitter Chat"
   ],
   "sc:additionalType": "Command-line tool",
@@ -25,8 +25,8 @@
   ],
   "sc:provider": [
     "University of California, Davis",
-    "ucdavis.edu",
-    "Michigan State University"
+    "Michigan State University",
+    "ucdavis.edu"
   ],
   "sc:url": "http://khmer.readthedocs.org/en/v2.0/",
   "sc:version": "2.0"

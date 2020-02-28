@@ -17,8 +17,8 @@
   "sc:name": "Plant Resistance Genes database (prgdb)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.prgdb.org"
 }

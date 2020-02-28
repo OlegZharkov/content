@@ -17,8 +17,8 @@
   "sc:name": "SEQATOMS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.bioinformatics.nl/tools/seqatoms"
 }

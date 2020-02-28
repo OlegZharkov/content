@@ -33,9 +33,9 @@
       "sc:license": "BSD-2-Clause",
       "sc:name": "PBrowse",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://pbrowse.victorchang.edu.au/"
     },

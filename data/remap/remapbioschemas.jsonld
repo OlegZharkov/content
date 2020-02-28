@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK MRC",
     "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Display restriction enzyme binding sites in a nucleotide sequence.",
@@ -27,12 +27,12 @@
   "sc:name": "remap",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/remap.html",
   "sc:version": "r6"

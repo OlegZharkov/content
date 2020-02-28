@@ -15,9 +15,9 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "PhenoGeneRanker",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/bozdaglab/PhenoGeneRanker"
 }

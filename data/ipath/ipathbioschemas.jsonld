@@ -32,13 +32,13 @@
       "sc:license": "GPL-3.0",
       "sc:name": "iPATH",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
-        "HD-HuB",
-        "European Molecular Biology Laboratory (EMBL)"
+        "European Molecular Biology Laboratory (EMBL)",
+        "HD-HuB"
       ],
       "sc:url": "http://pathways.embl.de/iPath2.cgi",
       "sc:version": "2.0"

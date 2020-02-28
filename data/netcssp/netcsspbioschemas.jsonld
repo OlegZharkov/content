@@ -17,8 +17,8 @@
   "sc:name": "NetCSSP",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://cssp2.sookmyung.ac.kr"
 }

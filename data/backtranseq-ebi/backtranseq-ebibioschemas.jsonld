@@ -23,8 +23,8 @@
   "sc:name": "backtranseq (EBI)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "EMBL-EBI",
   "sc:url": "http://www.ebi.ac.uk/Tools/st/emboss_backtranseq/",

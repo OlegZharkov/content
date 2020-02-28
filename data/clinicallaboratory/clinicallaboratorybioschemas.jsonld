@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.4103/jpi.jpi_65_16",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/clinicallaboratory",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Christopher Naugler",
@@ -37,6 +33,10 @@
         "Windows"
       ],
       "sc:url": "https://github.com/ClinicalLaboratory/Clinical-Laboratory"
+    },
+    {
+      "@id": "https://doi.org/10.4103/jpi.jpi_65_16",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

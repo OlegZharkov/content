@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Sjoerd Vosse",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Dimension Reduction for Array CGH Data with Minimal Information Loss.",
   "sc:license": "GPL-3.0",
   "sc:name": "CGHregions",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/CGHregions.html",

@@ -22,10 +22,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1636"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1636"
         }
       ],
       "sc:additionalType": [
@@ -34,10 +34,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_3320"
         },
         {
-          "@id": "edam:topic_3320"
+          "@id": "edam:topic_3170"
         }
       ],
       "sc:citation": [
@@ -54,9 +54,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "SGSeq",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SGSeq.html",
       "sc:version": "1.8.1"

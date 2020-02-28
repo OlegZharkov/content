@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "José B Pereira-Leal",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC3847221",

@@ -21,8 +21,8 @@
   "sc:license": "Unlicense",
   "sc:name": "MobilomeFINDER",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://db-mml.sjtu.edu.cn/MobilomeFINDER/"

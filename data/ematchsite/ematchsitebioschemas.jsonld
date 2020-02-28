@@ -18,10 +18,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:25232727",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1003829"
         },
+        "pubmed:25232727",
         "pmcid:PMC4168975"
       ],
       "sc:description": "Sequence Order-Independent Structure Alignments of Ligand Binding Pockets in Protein Models.",

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12880-019-0316-6",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/CoreSlicer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Louis Mullie",
@@ -18,10 +22,10 @@
         "Web application"
       ],
       "sc:citation": [
+        "pubmed:30744586",
         {
           "@id": "https://doi.org/10.1186/s12880-019-0316-6"
         },
-        "pubmed:30744586",
         "pmcid:PMC6371488"
       ],
       "sc:description": "Enables extraction of morphomic markers from CT images by non-technically skilled clinicians.",
@@ -29,14 +33,10 @@
       "sc:name": "CoreSlicer",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://coreslicer.com/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12880-019-0316-6",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

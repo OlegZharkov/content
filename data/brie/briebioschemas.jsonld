@@ -17,8 +17,8 @@
   "sc:name": "BRIE",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://brie.readthedocs.io/en/latest/index.html"
 }

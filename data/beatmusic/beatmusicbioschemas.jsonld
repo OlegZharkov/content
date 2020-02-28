@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Dimitri Gilis",
-    "Jean Marc Kwasigroch",
     "Yves Dehouck",
+    "Jean Marc Kwasigroch",
     "Marianne Rooman"
   ],
   "sc:additionalType": "Web application",
