@@ -38,8 +38,8 @@
       "sc:name": "STINGRAY",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://stingray.biowebdb.org/"
     }

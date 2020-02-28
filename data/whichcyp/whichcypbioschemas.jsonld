@@ -17,8 +17,8 @@
   "sc:name": "WhichCyp",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.farma.ku.dk/whichcyp/index.php"
 }

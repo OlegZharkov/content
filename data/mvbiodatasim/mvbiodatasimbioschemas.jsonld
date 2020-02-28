@@ -33,9 +33,9 @@
       },
       "sc:name": "MVBioDataSim",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": "ELIXIR-ITA-SALERNO",
       "sc:url": "http://elixir-italy.org/salerno/en/archives/servizi/mvbiodatasim",

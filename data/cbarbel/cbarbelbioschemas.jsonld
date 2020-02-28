@@ -17,8 +17,8 @@
   "sc:name": "The catfish genome database (cBARBEL)",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://catfishgenome.org"
 }

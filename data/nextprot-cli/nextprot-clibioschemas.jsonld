@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/nextprot-cli",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web API",
-    "Command-line tool",
     "SPARQL endpoint",
-    "Library"
+    "Library",
+    "Web API",
+    "Command-line tool"
   ],
   "sc:description": "This node module contains methods to access the neXtProt API as well as the SPARQL endpoint.",
   "sc:license": "GPL-2.0",

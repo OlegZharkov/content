@@ -14,8 +14,8 @@
   "sc:description": "A web server for the prediction of plant microRNA targets, including target mimics.",
   "sc:name": "TAPIR",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "PSB",

@@ -22,23 +22,23 @@
         {
           "@id": "https://doi.org/10.1093/NAR/GKW345"
         },
-        "pubmed:27131362",
-        "pmcid:PMC4987907"
+        "pmcid:PMC4987907",
+        "pubmed:27131362"
       ],
       "sc:description": "MicroRNA enrichment analysis and annotation.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_0361"
         },
         {
-          "@id": "edam:operation_0361"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:name": "miEAA",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://ccb-compute2.cs.uni-saarland.de/mieaa_tool/"
     }

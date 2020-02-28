@@ -18,18 +18,18 @@
     "Lukáš Pravda"
   ],
   "sc:contributor": [
-    "Michal Otyepka",
-    "Radka Svobodová Vařeková",
+    "Jaroslav Koča",
     "Veronika Navrátilová",
-    "Karel Berka",
-    "Jaroslav Koča"
+    "Radka Svobodová Vařeková",
+    "Michal Otyepka",
+    "Karel Berka"
   ],
   "sc:description": "A comprehensive resource of channels, pores and tunnels found in biomacromolecular structures deposited in the Protein Data Bank.",
   "sc:name": "ChannelsDB",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "http://ncbr.muni.cz/ChannelsDB/",
   "sc:version": "1.0"

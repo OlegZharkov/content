@@ -10,14 +10,18 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12864-016-3057-8",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/mergeomics",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Douglas Arneson",
       "sc:additionalType": [
-        "Suite",
         "Workflow",
-        "Web application",
-        "Library"
+        "Suite",
+        "Library",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:27612452",
@@ -34,14 +38,10 @@
       "sc:name": "Mergeomics",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://mergeomics.research.idre.ucla.edu/home.php"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12864-016-3057-8",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

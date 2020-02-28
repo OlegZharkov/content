@@ -14,8 +14,8 @@
   "sc:description": "CCP4 Molecular graphics package Topic: Crystallography.",
   "sc:name": "CCP4mg",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "Instruct",

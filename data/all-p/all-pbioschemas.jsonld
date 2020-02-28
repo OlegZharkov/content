@@ -16,8 +16,8 @@
   "sc:name": "ALL-P",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://pappso.inra.fr/bioinfo/all_p/index.php"
 }

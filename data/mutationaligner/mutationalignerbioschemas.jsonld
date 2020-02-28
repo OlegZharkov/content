@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
       "sc:additionalType": [
-        "Web API",
-        "Database portal"
+        "Database portal",
+        "Web API"
       ],
       "sc:citation": [
         {
@@ -35,8 +35,8 @@
       "sc:name": "MutationAligner",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.mutationaligner.org/"
     }

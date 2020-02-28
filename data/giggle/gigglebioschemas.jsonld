@@ -19,8 +19,8 @@
   "sc:name": "GIGGLE",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/ryanlayer/giggle"
 }

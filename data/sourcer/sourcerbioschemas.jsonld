@@ -16,8 +16,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "SourceR",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://cran.r-project.org/web/packages/sourceR/index.html"

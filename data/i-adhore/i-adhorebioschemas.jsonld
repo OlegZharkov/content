@@ -15,8 +15,8 @@
   "sc:name": "i-ADHoRE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "PSB",
   "sc:url": "http://bioinformatics.psb.ugent.be/software/details/i--ADHoRe",

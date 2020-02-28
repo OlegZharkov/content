@@ -16,8 +16,8 @@
   "sc:name": "HiPFSTA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/michaelmell/hipfsta"
 }

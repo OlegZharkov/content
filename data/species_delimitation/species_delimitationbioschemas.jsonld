@@ -16,8 +16,8 @@
   "sc:name": "Species Delimitation",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.fos.auckland.ac.nz/~howardross/software.html"
 }

@@ -24,13 +24,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "SGP2",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [
-    "crg.eu",
-    "Lab Roderic Guigo Group"
+    "Lab Roderic Guigo Group",
+    "crg.eu"
   ],
   "sc:url": "http://big.crg.cat/services/sgp2",
   "sc:version": "1.1"

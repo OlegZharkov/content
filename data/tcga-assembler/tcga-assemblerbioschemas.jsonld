@@ -16,8 +16,8 @@
   "sc:name": "TCGA-Assembler",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.compgenome.org/TCGA-Assembler/"
 }

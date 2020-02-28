@@ -14,8 +14,8 @@
   "sc:contributor": [
     "UK MRC",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Identify and report CpG-rich regions in nucleotide sequence(s).",
   "sc:funder": [

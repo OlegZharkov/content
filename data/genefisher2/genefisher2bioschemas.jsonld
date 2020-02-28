@@ -16,8 +16,8 @@
     "Web application"
   ],
   "sc:author": [
-    "Thomas Gatter",
     "Daniel Hagemeier",
+    "Thomas Gatter",
     "Chris Schleiermacher"
   ],
   "sc:citation": "pubmed:8877506",
@@ -25,13 +25,13 @@
   "sc:name": "genefisher2",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
+    "BiBiServ",
     "Bielefeld University",
-    "CeBiTec",
-    "BiBiServ"
+    "CeBiTec"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/genefisher2",
   "sc:version": "1"

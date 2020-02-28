@@ -26,8 +26,8 @@
       "sc:name": "chromDraw",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/chromDraw.html",
       "sc:version": "2.4.0"

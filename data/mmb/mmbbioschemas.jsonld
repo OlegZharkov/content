@@ -16,8 +16,8 @@
   "sc:name": "MMB",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://simtk.org/home/rnatoolbox"
 }

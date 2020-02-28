@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/hubba",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Chia-Hao Chin",
+    "Chung-Yen Lin",
     "Hsin-Hung Wu",
     "Shu-Hwa Chen",
-    "Chung-Yen Lin",
+    "Chia-Hao Chin",
     "Chin-Wen Ho"
   ],
   "sc:additionalType": "Web application",
@@ -22,8 +22,8 @@
   "sc:description": "Hub Objects Analyzer or Hubba is a web-based service for characterizing nodes of importance within a protein interactome data set.",
   "sc:name": "Hubba",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://hub.iis.sinica.edu.tw/Hubba"

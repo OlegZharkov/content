@@ -15,8 +15,8 @@
   "sc:name": "MuD",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "Instruct",
   "sc:url": "http://mud.tau.ac.il/",

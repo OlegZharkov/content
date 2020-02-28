@@ -29,9 +29,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "biomaRt",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://bioconductor.org/packages/biomaRt/"
     },

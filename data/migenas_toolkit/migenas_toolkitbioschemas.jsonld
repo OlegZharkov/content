@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/migenas_toolkit",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Markus Rampp",
     "MIGenAS support",
+    "Markus Rampp",
     "Hermann Lederer"
   ],
   "sc:additionalType": "Web application",

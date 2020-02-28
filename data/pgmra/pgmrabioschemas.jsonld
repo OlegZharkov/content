@@ -20,8 +20,8 @@
   "sc:name": "PGMRA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://phop.ugr.es/fenogeno"
 }

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/vapr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Adam Mark",
     "Amanda Birmingham",
+    "Adam Mark",
     "Kathleen Fisch"
   ],
   "sc:additionalType": "Command-line tool",

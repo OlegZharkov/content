@@ -16,8 +16,8 @@
   "sc:name": "Pycellerator",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/biomathman/pycellerator"
 }

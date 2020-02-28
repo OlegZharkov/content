@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mptp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Alexandros Stamatakis",
     "Paschalia Kapli",
+    "Alexandros Stamatakis",
     "Tomas Flouri"
   ],
   "sc:additionalType": "Web application",
@@ -20,8 +20,8 @@
   "sc:name": "mPTP",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mptp.h-its.org/#/tree"
 }

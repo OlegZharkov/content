@@ -17,8 +17,8 @@
   "sc:name": "TFcheckpoint",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.tfcheckpoint.org/"
 }

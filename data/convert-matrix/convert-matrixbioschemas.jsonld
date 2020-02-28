@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-8799-8584",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/convert-matrix",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,10 +31,10 @@
       },
       "sc:author": "Jacques van Helden",
       "sc:citation": [
-        "pubmed:18495751",
         {
           "@id": "https://doi.org/10.1093/nar/gkn304"
         },
+        "pubmed:18495751",
         "pmcid:PMC2447775"
       ],
       "sc:description": "Inter-conversions between various formats of position-specific scoring matrices (PSSM). The program also performs a statistical analysis of the original matrix to provide different position-specific scores (weight, frequencies, information contents), general statistics (marginal frequencies, total information content), and synthetic descriptions (strict and degenerate consensus).",
@@ -48,8 +44,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "convert-matrix",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "RSAT",
@@ -62,6 +58,10 @@
     {
       "@id": "https://doi.org/10.1093/nar/gkn304",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-8799-8584",
+      "@type": "schema:Person"
     }
   ]
 }

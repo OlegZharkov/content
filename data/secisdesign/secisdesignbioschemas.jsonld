@@ -29,8 +29,8 @@
       "sc:description": "Insert SECIS-elements in coding mRNAs.",
       "sc:name": "SECISDesign web server",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": [

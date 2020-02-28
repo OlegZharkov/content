@@ -17,8 +17,8 @@
   "sc:name": "TransFind",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://transfind.sys-bio.net/"
 }

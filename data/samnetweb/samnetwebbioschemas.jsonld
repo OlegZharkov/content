@@ -16,8 +16,8 @@
   "sc:name": "SAMNetWeb",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://fraenkel-nsf.csbi.mit.edu/samnetweb/"
 }

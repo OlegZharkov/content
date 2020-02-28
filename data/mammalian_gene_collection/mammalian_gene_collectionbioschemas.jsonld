@@ -18,8 +18,8 @@
   "sc:name": "Mammalian Gene Collection",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mgc.nci.nih.gov/"
 }

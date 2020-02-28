@@ -17,8 +17,8 @@
   "sc:name": "MDdMD",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://mmb.irbbarcelona.org/MDdMD"
 }

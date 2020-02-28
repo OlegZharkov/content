@@ -15,9 +15,9 @@
   "sc:description": "Quantifying peptide isotope precision and kinetic proteomics.",
   "sc:name": "DeuteRater",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "https://github.com/JC-Price/DeuteRater"
 }

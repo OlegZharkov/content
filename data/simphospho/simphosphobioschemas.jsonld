@@ -19,9 +19,9 @@
   "sc:license": "Unlicense",
   "sc:name": "SimPhospho",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "https://sourceforge.net/projects/simphospho/"
 }

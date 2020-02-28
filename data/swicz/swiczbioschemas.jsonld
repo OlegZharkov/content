@@ -16,18 +16,18 @@
     "Ivan Janda"
   ],
   "sc:contributor": [
-    "Marek Basler",
-    "Bjorn Grunenfelder",
     "Karel Mikulik",
     "Jan Bobek",
-    "Urs Jenal"
+    "Urs Jenal",
+    "Bjorn Grunenfelder",
+    "Marek Basler"
   ],
   "sc:description": "A proteomics web database.",
   "sc:name": "SWICZ",
   "sc:operatingSystem": "Windows",
   "sc:provider": [
-    "Biozentrum, Univ. Basel, Switzerland",
-    "Institute of Microbiology, Prague, Czech Republic"
+    "Institute of Microbiology, Prague, Czech Republic",
+    "Biozentrum, Univ. Basel, Switzerland"
   ],
   "sc:url": "http://proteom.biomed.cas.cz/"
 }

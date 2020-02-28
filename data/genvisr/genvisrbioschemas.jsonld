@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-1928-7139",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/genvisr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -20,8 +24,8 @@
         "Library"
       ],
       "sc:citation": [
-        "pubmed:27288499",
         "pmcid:PMC5039916",
+        "pubmed:27288499",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btw325"
         }
@@ -43,10 +47,6 @@
     {
       "@id": "https://doi.org/10.1093/bioinformatics/btw325",
       "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-1928-7139",
-      "@type": "schema:Person"
     }
   ]
 }

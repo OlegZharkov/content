@@ -17,8 +17,8 @@
   "sc:name": "DAMPD",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://apps.sanbi.ac.za/dampd/"
 }

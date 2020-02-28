@@ -20,12 +20,12 @@
   "sc:name": "FASTM (EBI)",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "University of Virginia",
-    "EMBL-EBI"
+    "EMBL-EBI",
+    "University of Virginia"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/sss/fastm/",
   "sc:version": "1"

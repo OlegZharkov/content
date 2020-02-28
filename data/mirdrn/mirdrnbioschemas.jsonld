@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "miRDRN",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://mirdrn.ncu.edu.tw/mirdrn/"

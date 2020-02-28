@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mobilomefinder",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Kumar Rajakumar",
     "Hong-Yu Ou",
+    "Kumar Rajakumar",
     "Zixin Deng"
   ],
   "sc:additionalType": "Web application",
@@ -21,9 +21,9 @@
   "sc:license": "Unlicense",
   "sc:name": "MobilomeFINDER",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "http://db-mml.sjtu.edu.cn/MobilomeFINDER/"
 }

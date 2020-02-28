@@ -21,8 +21,8 @@
         "Francisco Camara"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:author": "Roderic Guigo",
       "sc:citation": "pubmed:18428791",
@@ -36,8 +36,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Geneid",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "Centre for Genomic Regulation (CRG), Parc de Recerca Biomedica (PRBB)",

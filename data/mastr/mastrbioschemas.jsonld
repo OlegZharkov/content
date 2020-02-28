@@ -18,8 +18,8 @@
   "sc:description": "Multiple alignment and secondary structure prediction on a set of structural RNA sequences.",
   "sc:name": "MASTR",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "binf.ku.dk",

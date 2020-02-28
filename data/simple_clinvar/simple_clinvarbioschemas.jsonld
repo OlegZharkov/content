@@ -13,13 +13,13 @@
       "@id": "https://bio.tools/Simple_ClinVar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Marie Gramm",
         "Eduardo PÃ©rez-Palma",
-        "Dennis Lal",
-        "Marie Gramm"
+        "Dennis Lal"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:31114901",
@@ -34,18 +34,18 @@
           "@id": "edam:operation_3461"
         },
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3197"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "Simple ClinVar",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://simple-clinvar.broadinstitute.org/"
     },

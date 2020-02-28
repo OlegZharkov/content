@@ -18,8 +18,8 @@
   "sc:name": "UniProtKB",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "SIB Swiss Institute of Bioinformatics",
   "sc:url": "http://www.uniprot.org/uniprot/"

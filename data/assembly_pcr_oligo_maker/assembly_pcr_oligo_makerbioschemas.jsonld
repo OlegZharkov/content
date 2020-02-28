@@ -17,8 +17,8 @@
   "sc:name": "Assembly PCR Oligo Maker",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.yorku.ca/pjohnson/AssemblyPCRoligomaker.html"
 }

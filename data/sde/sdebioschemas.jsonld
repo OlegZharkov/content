@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "SDE",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://github.com/rowaniskandar/SDE"

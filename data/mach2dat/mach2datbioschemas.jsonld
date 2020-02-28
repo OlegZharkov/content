@@ -15,9 +15,9 @@
   "sc:license": "Not licensed",
   "sc:name": "mach2dat",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.nitrc.org/projects/mach2dat/"
 }

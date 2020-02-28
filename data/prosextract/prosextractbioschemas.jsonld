@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "UK MRC",
     "EMBOSS Contributors",
-    "Wellcome Trust"
+    "UK BBSRC",
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:description": "Process the PROSITE motif database for use by patmatmotifs.",
   "sc:funder": [
@@ -27,12 +27,12 @@
   "sc:name": "prosextract",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/prosextract.html",
   "sc:version": "r6"

@@ -13,9 +13,9 @@
   "biotools:primaryContact": "Pau Andrio",
   "sc:additionalType": [
     "Suite",
-    "Command-line tool",
+    "Workflow",
     "Library",
-    "Workflow"
+    "Command-line tool"
   ],
   "sc:description": "Python package to setup and run molecular dynamics simulations.",
   "sc:name": "PyMDSetup",

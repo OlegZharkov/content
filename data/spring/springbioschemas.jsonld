@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/spring",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ying Chih Lin",
     "Chin Lung Lu",
+    "Ying Chih Lin",
     "Chuan Yi Tang"
   ],
   "sc:additionalType": "Web application",

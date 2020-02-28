@@ -18,9 +18,9 @@
   "sc:description": "A Tool for Statistical Analysis and Visualization of High-Throughput Biological Data Using Gene Ontology.",
   "sc:name": "Ontologizer",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://ontologizer.de/"
 }

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ptgl",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ina Koch",
-    "Tim Schaefer"
+    "Tim Schaefer",
+    "Ina Koch"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19906706",
@@ -20,8 +20,8 @@
   "sc:name": "PTGL",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://ptgl.uni-frankfurt.de/"
 }

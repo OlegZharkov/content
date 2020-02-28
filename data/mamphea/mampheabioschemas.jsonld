@@ -15,8 +15,8 @@
   "sc:name": "MamPhEA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://evol.nhri.org.tw/phenome/index.jsp?platform=mmus"
 }

@@ -14,8 +14,8 @@
   "sc:description": "This consortium is an international collaboration between a group of major public interaction data providers.",
   "sc:name": "IMEx",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.imexconsortium.org/"

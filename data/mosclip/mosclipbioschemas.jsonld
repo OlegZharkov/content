@@ -18,8 +18,8 @@
   "sc:name": "MOSClip",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/cavei/MOSClip"
 }

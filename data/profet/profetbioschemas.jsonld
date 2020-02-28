@@ -15,9 +15,9 @@
   "sc:description": "Protein Feature Engineering Toolkit for Machine Learning.",
   "sc:name": "ProFET",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:url": "https://github.com/ddofer/ProFET"
 }

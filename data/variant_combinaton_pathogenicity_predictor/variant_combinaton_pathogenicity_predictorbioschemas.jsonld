@@ -26,8 +26,8 @@
       "sc:name": "Variant Combination Pathogenicity Predictor (VarCoPP)",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "Interuniversity Institute of Bioinformatics in Brussels",
       "sc:url": "http://varcopp.ibsquare.be",

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/framedp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Ludovic Cottret",
     "Erika Sallet",
     "Jérôme Gouzy",
-    "Ludovic Cottret",
     "Sébastien Carrere"
   ],
   "sc:additionalType": "Web application",

@@ -15,9 +15,9 @@
   "sc:description": "Fast and accurate prediction of protein-protein interactions (PPIs).",
   "sc:name": "PRISM",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "http://cosbi.ku.edu.tr/prism/"
 }

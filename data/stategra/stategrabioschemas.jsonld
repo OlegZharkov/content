@@ -16,15 +16,15 @@
     "Patricia Sebastián-León"
   ],
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "Classes and tools for multi-omics data integration.",
   "sc:license": "GPL-2.0",
   "sc:name": "STATegRa",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/STATegRa.html",

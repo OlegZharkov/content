@@ -17,8 +17,8 @@
   "sc:name": "Mouse Proteome Project",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://tap.med.utoronto.ca/mts/"
 }

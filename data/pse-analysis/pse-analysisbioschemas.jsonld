@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.18632/ONCOTARGET.14524",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/pse-analysis",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Bin Liu",
@@ -32,10 +36,6 @@
         "Windows"
       ],
       "sc:url": "http://bioinformatics.hitsz.edu.cn/Pse-Analysis/"
-    },
-    {
-      "@id": "https://doi.org/10.18632/ONCOTARGET.14524",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

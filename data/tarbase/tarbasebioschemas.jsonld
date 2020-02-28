@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkx1141",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://doi.org/10.1093/nar/gkr1161",
       "@type": "sc:CreativeWork"
     },
@@ -19,16 +23,16 @@
       "biotools:primaryContact": "Contact Form",
       "sc:additionalType": "Database portal",
       "sc:citation": [
-        {
-          "@id": "https://doi.org/10.1093/nar/gkr1161"
-        },
+        "pubmed:22135297",
         {
           "@id": "https://doi.org/10.1093/nar/gkx1141"
         },
+        {
+          "@id": "https://doi.org/10.1093/nar/gkr1161"
+        },
+        "pmcid:PMC5753203",
         "pubmed:29156006",
-        "pubmed:22135297",
-        "pmcid:PMC3245116",
-        "pmcid:PMC5753203"
+        "pmcid:PMC3245116"
       ],
       "sc:description": "Reference database devoted to the indexing of experimentally supported microRNA (miRNA) targets. Comprehensive cataloging of the miRNA interactome that enables the browsing of interactions through different filtering combinations.",
       "sc:featureList": [
@@ -39,10 +43,10 @@
           "@id": "edam:operation_2436"
         },
         {
-          "@id": "edam:operation_2428"
+          "@id": "edam:operation_0463"
         },
         {
-          "@id": "edam:operation_0463"
+          "@id": "edam:operation_2428"
         },
         {
           "@id": "edam:operation_3431"
@@ -50,16 +54,12 @@
       ],
       "sc:name": "TarBase v8",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.microrna.gr/tarbase",
       "sc:version": "8"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkx1141",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

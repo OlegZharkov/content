@@ -16,8 +16,8 @@
   "sc:name": "DPVweb database of plant viruses",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "Rothamsted Research",
   "sc:url": "http://www.dpvweb.net/"

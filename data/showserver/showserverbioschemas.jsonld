@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "Wellcome Trust",
     "UK MRC",
     "EMBOSS Contributors",
-    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:description": "Display information on configured servers.",
@@ -27,8 +27,8 @@
   "sc:name": "showserver",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

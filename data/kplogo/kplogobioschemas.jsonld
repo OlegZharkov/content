@@ -24,15 +24,15 @@
         "@id": "http://orcid.org/0000-0003-0369-5269"
       },
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/nar/gkx323"
         },
-        "pubmed:28460012",
-        "pmcid:PMC5570168"
+        "pmcid:PMC5570168",
+        "pubmed:28460012"
       ],
       "sc:description": "Probability-based logo tool for integrated detection and visualization of position-specific ultra-short motifs from a set of aligned sequences.",
       "sc:featureList": {
