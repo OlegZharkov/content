@@ -17,8 +17,8 @@
   "sc:name": "Protinfo",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://protinfo.compbio.buffalo.edu/"
 }

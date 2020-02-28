@@ -11,12 +11,12 @@
   "@id": "https://bio.tools/manta",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Chris Berthiaume",
-    "Adrian Marchetti"
+    "Adrian Marchetti",
+    "Chris Berthiaume"
   ],
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "Tools for robust comparative metatranscriptomics.",
   "sc:license": "Artistic-2.0",

@@ -34,20 +34,20 @@
       "sc:description": "Pipeline for fast and accurate gene and allele typing in bacterial sequencing data based on database preprocessing.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3227"
-        },
-        {
           "@id": "edam:operation_1812"
         },
         {
           "@id": "edam:operation_3840"
+        },
+        {
+          "@id": "edam:operation_3227"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "BacTag",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://git.lumc.nl/l.khachatryan/BacTag"

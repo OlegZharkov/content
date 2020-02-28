@@ -17,8 +17,8 @@
   "sc:name": "GPSDB",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://gpsdb.expasy.org/"
 }

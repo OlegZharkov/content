@@ -29,8 +29,8 @@
       "sc:name": "AESOP",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://aesop.readthedocs.io/en/latest/index.html"
     },

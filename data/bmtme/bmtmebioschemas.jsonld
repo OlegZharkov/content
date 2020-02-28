@@ -18,8 +18,8 @@
   "sc:name": "BMTME",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://cran.r-project.org/package=BMTME"
 }

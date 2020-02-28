@@ -27,8 +27,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Gene Sculpt Suite",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://www.genesculpt.org"

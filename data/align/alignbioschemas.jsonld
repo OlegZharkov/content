@@ -20,9 +20,9 @@
       "sc:description": "Pairwise alignment tool.",
       "sc:name": "ALIGN",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": [
         "ELIXIR-ITA-PADOVA",

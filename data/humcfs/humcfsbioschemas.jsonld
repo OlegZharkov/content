@@ -20,8 +20,8 @@
   "sc:name": "HumCFS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://webs.iiitd.edu.in/raghava/humcfs/index.html"
 }

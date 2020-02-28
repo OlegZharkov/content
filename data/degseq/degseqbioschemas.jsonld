@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Likun Wang",
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "R package to identify differentially expressed genes from RNA-Seq data.",
   "sc:license": "GPL-2.0",
   "sc:name": "DEGseq",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/DEGseq.html",

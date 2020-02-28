@@ -15,8 +15,8 @@
   "sc:description": "Simulation of stochastic multidimensional Gene Regulatory Networks (GRNs).",
   "sc:name": "SELANSI",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://sites.google.com/view/selansi"

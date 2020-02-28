@@ -15,8 +15,8 @@
   "sc:name": "HUGE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.kazusa.or.jp/huge/"
 }

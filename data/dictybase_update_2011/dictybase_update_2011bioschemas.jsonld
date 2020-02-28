@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkq1103",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/dictybase_update_2011",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Database portal",
@@ -24,15 +28,11 @@
       "sc:name": "dictyBase update 2011",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "Center for Genetic Medicine, Northwestern University",
       "sc:url": "http://www.dictybase.org"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkq1103",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

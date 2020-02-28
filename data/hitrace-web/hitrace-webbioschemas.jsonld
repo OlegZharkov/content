@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/hitrace-web",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Site admins: Hanjoo Kim (Site admin)",
-    "Pablo Cordero (Site admin)",
     "Sungroh Yoon (PI)",
+    "Pablo Cordero (Site admin)",
+    "Site admins: Hanjoo Kim (Site admin)",
     "Rhiju Das (PI)"
   ],
   "sc:additionalType": "Web application",

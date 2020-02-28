@@ -17,8 +17,8 @@
   "sc:name": "WoPPER",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://wopper.ba.itb.cnr.it/"
 }

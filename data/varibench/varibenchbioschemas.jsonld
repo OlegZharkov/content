@@ -16,8 +16,8 @@
   "sc:name": "VariBench",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://structure.bmc.lu.se/VariBench/"
 }

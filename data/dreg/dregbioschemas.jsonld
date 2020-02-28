@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
     "UK MRC",
+    "UK BBSRC",
     "EMBOSS Contributors",
     "Wellcome Trust"
   ],
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "dreg",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/dreg.html",
   "sc:version": "r6"

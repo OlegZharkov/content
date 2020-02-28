@@ -17,8 +17,8 @@
   "sc:name": "HexServer",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://hexserver.loria.fr/"
 }

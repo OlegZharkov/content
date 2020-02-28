@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/HyPhy",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
-    "Desktop application"
+    "Desktop application",
+    "Command-line tool"
   ],
   "sc:author": [
     "Steven Weaver",
@@ -24,9 +24,9 @@
   "sc:license": "Unlicense",
   "sc:name": "HyPhy",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://hyphy.org"
 }

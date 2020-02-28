@@ -29,8 +29,8 @@
       "sc:name": "MONGKIE",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://yjjang.github.io/mongkie/"
     },

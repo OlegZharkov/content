@@ -17,8 +17,8 @@
   "sc:name": "GSA-SNP",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://gsa.muldas.org"
 }

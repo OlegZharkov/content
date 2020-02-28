@@ -17,8 +17,8 @@
   "sc:name": "Cistrome",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.cistrome.org/Cistrome/Cistrome_Project.html#"
 }

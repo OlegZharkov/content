@@ -16,8 +16,8 @@
   "sc:name": "LASER",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://genome.sph.umich.edu/wiki/LASER"
 }

@@ -18,8 +18,8 @@
   "sc:name": "ReMap",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://tagc.univ-mrs.fr/remap/index.php",
   "sc:version": "1"

@@ -27,9 +27,9 @@
       },
       "sc:name": "chromVAR",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/GreenleafLab/chromVAR"
     },

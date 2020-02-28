@@ -28,8 +28,8 @@
         }
       ],
       "sc:citation": [
-        "pubmed:23197656",
         "pmcid:PMC3531188",
+        "pubmed:23197656",
         {
           "@id": "https://doi.org/10.1093/nar/gks1234"
         }
@@ -40,8 +40,8 @@
       },
       "sc:name": "TIGRFAMS  protein family database",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": "J Craig Venter Institute",

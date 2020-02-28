@@ -13,21 +13,21 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "Wellcome Trust",
     "UK BBSRC",
+    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Find programs by keywords in their short description.",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
+    "UK BBSRC",
     "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "wossname",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

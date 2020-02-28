@@ -20,8 +20,8 @@
   "sc:name": "Web 3DNA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://w3dna.rutgers.edu"
 }

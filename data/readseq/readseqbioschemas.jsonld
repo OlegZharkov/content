@@ -19,9 +19,9 @@
   "sc:description": "Convert biosequences between a selection of common biological sequence formats.",
   "sc:name": "Readseq",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBL-EBI",

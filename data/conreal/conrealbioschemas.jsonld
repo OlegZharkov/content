@@ -17,8 +17,8 @@
   "sc:name": "CONREAL",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://conreal.niob.knaw.nl/"
 }

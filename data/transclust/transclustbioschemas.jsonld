@@ -20,9 +20,9 @@
         "@id": "http://orcid.org/0000-0002-0282-0462"
       },
       "sc:additionalType": [
-        "Command-line tool",
         "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:author": "Jan Baumbach",
       "sc:citation": "pubmed:20508635",
@@ -30,8 +30,8 @@
       "sc:name": "TransClust",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "bmb.sdu.dk",
       "sc:url": "https://transclust.compbio.sdu.dk/main_page/index.php",

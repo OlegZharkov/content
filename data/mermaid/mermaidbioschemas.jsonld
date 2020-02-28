@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ416",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/MERMAID",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Alejandro Giorgetti",
@@ -40,11 +36,15 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "MERMAID",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://molsim.sci.univr.it/mermaid/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ416",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

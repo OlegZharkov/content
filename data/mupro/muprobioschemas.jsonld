@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mupro",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jianlin Cheng",
     "Paul Rigor",
+    "Jianlin Cheng",
     "Pierre Baldi"
   ],
   "sc:additionalType": "Web application",

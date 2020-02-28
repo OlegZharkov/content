@@ -21,12 +21,12 @@
   "sc:name": "PRIAM search",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "univ-lyon1.fr",
     "INRA",
+    "univ-lyon1.fr",
     "Lyon 1 University",
     "Pole Rhone-Alpin de Bioinformatique"
   ],

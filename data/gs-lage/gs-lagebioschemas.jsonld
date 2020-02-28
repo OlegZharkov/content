@@ -15,8 +15,8 @@
   "sc:name": "GS-LAGE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://lage.sookmyung.ac.kr/"
 }

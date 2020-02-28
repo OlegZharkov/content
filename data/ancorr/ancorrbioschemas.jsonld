@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ancorr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Galina Kravatskaya",
     "Youri Kravatsky",
+    "Galina Kravatskaya",
     "Vladimir Chechetkin"
   ],
   "sc:additionalType": "Web service",
@@ -20,8 +20,8 @@
   "sc:description": "Webserver/tool for evaluation coordinate and ordinal correlations between genomic tracks and/or expression or protein binding profiles.",
   "sc:name": "AnCorr",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://ancorr.eimb.ru"

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-0538-8978",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "http://orcid.org/0000-0003-0455-2083",
       "@type": "schema:Person"
     },
@@ -22,10 +26,10 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
-          "@id": "http://orcid.org/0000-0002-0538-8978"
+          "@id": "http://orcid.org/0000-0003-0455-2083"
         },
         {
-          "@id": "http://orcid.org/0000-0003-0455-2083"
+          "@id": "http://orcid.org/0000-0002-0538-8978"
         }
       ],
       "sc:additionalType": "Command-line tool",
@@ -49,10 +53,6 @@
       "sc:provider": "ELIXIR-ITA-SALERNO",
       "sc:url": "http://www.labmedmolge.unisa.it/italiano/home/imir",
       "sc:version": "1"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0538-8978",
-      "@type": "schema:Person"
     }
   ]
 }

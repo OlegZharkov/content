@@ -17,8 +17,8 @@
   "sc:name": "metaDBSite",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://projects.biotec.tu-dresden.de/metadbsite/"
 }

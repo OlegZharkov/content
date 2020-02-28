@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Jeff Martin",
-    "Xiandong Meng",
     "David Gilbert",
+    "Xiandong Meng",
     "Zhong Wang"
   ],
   "sc:additionalType": "Workflow",

@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Jakub Galgonek",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Jakub Galgonek",
-    "Jiří Vondrášek"
+    "Jiří Vondrášek",
+    "Jakub Galgonek"
   ],
   "sc:contributor": [
     "David Jakubec",
@@ -24,9 +24,9 @@
   "sc:license": "Other",
   "sc:name": "Amino Acids Interactions Web Server",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://bioinfo.uochb.cas.cz/INTAA/",
   "sc:version": "1.0"

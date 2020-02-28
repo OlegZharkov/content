@@ -16,8 +16,8 @@
   "sc:name": "PSAMM",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://zhanglab.github.io/psamm/"
 }

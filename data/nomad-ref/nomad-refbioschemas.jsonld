@@ -17,8 +17,8 @@
   "sc:name": "NOMAD-Ref",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://lorentz.immstr.pasteur.fr/nomad-ref.php"
 }

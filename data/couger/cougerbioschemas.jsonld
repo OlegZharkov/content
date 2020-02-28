@@ -22,8 +22,8 @@
   "sc:name": "COUGER",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://couger.oit.duke.edu"
 }

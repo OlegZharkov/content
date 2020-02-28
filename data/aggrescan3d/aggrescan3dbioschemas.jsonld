@@ -20,8 +20,8 @@
   "sc:license": "MIT",
   "sc:name": "Aggrescan3D",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://biocomp.chem.uw.edu.pl/A3D/"

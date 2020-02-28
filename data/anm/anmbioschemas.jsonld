@@ -16,8 +16,8 @@
   "sc:name": "ANM",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://anm.csb.pitt.edu/"
 }

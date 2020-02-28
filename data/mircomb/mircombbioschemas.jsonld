@@ -31,17 +31,17 @@
       "sc:description": "Analyse miRNA-mRNA Interactions. Examples across Five Digestive Cancers.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2478"
+          "@id": "edam:operation_2497"
         },
         {
-          "@id": "edam:operation_2497"
+          "@id": "edam:operation_2478"
         }
       ],
       "sc:name": "MiRComb",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://mircomb.sourceforge.net/"
     }

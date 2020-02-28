@@ -30,8 +30,8 @@
       },
       "sc:name": "eMatchSite",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://brylinski.cct.lsu.edu/ematchsite"

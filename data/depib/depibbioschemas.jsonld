@@ -10,11 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-8689-2083",
+      "@id": "https://orcid.org/0000-0003-3237-7382",
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0003-3237-7382",
+      "@id": "https://orcid.org/0000-0002-8689-2083",
       "@type": "schema:Person"
     },
     {
@@ -23,10 +23,10 @@
       "biotools:primaryContact": "Eric Charpentier",
       "sc:additionalType": "Workflow",
       "sc:author": [
-        "Erwan Delage",
         {
           "@id": "https://orcid.org/0000-0003-3237-7382"
         },
+        "Erwan Delage",
         "Eric Charpentier",
         {
           "@id": "https://orcid.org/0000-0002-8689-2083"

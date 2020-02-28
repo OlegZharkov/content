@@ -27,8 +27,8 @@
       },
       "sc:name": "Calis-p",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/calis-p/"
     },

@@ -16,8 +16,8 @@
   "sc:name": "SCMMTP",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://iclab.life.nctu.edu.tw/iclab_webtools/SCMMTP/"
 }

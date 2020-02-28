@@ -16,8 +16,8 @@
   "sc:name": "Trnascan-SE",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://trna.ucsc.edu/tRNAscan-SE/"
 }

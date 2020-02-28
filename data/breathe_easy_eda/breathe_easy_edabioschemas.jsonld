@@ -16,8 +16,8 @@
   "sc:name": "Breathe Easy EDA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/johnksander/BreatheEasyEDA"
 }

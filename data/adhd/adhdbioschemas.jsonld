@@ -17,8 +17,8 @@
   "sc:name": "ADHD",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://ufrgs.br/prodah/adhd-calculator/"
 }

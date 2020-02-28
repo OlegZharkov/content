@@ -16,8 +16,8 @@
   "sc:name": "NGS-QC Generator",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.ngs-qc.org/"
 }

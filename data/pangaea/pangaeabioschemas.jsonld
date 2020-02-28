@@ -15,8 +15,8 @@
   "sc:name": "PANGAEA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.pangaea.de/"
 }

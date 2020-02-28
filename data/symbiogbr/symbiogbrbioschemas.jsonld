@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/1472-6785-13-7",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/symbiogbr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Linda Tonk",
-        "Pim Bongaerts"
+        "Pim Bongaerts",
+        "Linda Tonk"
       ],
       "sc:additionalType": "Database portal",
       "sc:citation": [
@@ -35,10 +39,6 @@
         "Linux"
       ],
       "sc:url": "http://www.symbiogbr.org"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1472-6785-13-7",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

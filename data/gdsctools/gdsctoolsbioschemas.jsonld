@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/gdsctools",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Mathew J Garnett",
     "Julio Saez-Rodriguez",
+    "Mathew J Garnett",
     "Thomas Cokelaer"
   ],
   "sc:additionalType": "Command-line tool",

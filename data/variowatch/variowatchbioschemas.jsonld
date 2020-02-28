@@ -17,8 +17,8 @@
   "sc:name": "VarioWatch",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://grch38.genepipe.ncgm.sinica.edu.tw/variowatch/main.do"
 }

@@ -15,10 +15,10 @@
       "biotools:primaryContact": "Tae-Hyuk Ahn",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
+        "pmcid:PMC6022641",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/bty243"
         },
-        "pmcid:PMC6022641",
         "pubmed:29950021"
       ],
       "sc:description": "Gene Length-Dependent Expression Analysis Tool in Neuronal Cells.",
@@ -27,9 +27,9 @@
       },
       "sc:name": "LONGO",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/biohpc/longo"
     },

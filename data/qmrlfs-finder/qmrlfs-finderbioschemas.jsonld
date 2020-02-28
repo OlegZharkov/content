@@ -17,9 +17,9 @@
       "@id": "https://bio.tools/qmrlfs-finder",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Thidathip Wongsurawat",
         "Vladimir Kuznetsov",
-        "Piroon Jenjaroenpun",
-        "Thidathip Wongsurawat"
+        "Piroon Jenjaroenpun"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -40,9 +40,9 @@
       ],
       "sc:name": "QmRLFS-finder",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://rloop.bii.a-star.edu.sg/?pg=qmrlfs-finder"
     }

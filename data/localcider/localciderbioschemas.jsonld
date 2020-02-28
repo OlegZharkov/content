@@ -37,8 +37,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "localCIDER",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://github.com/Pappulab/localCIDER"

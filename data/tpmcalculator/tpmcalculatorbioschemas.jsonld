@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Lorinc Pongor",
+    "Leonardo Mariño-Ramírez",
     "Roberto Vera Alvarez",
-    "David Landsman",
-    "Leonardo Mariño-Ramírez"
+    "David Landsman"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Software to quantify mRNA abundance of genomic features.",

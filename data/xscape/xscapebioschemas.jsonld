@@ -19,8 +19,8 @@
   "sc:name": "Xscape",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.cs.hmc.edu/~hadas/xscape/"
 }

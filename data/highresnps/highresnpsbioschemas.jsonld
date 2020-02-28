@@ -17,8 +17,8 @@
   "sc:name": "HighResNPS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://HighResNPS.com"
 }

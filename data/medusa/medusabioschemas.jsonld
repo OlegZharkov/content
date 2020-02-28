@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/medusa",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Marco Galardini",
     "Emanuele Bosi",
+    "Marco Galardini",
     "Marco Fondi"
   ],
   "sc:additionalType": [

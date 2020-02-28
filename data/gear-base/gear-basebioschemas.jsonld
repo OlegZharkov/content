@@ -22,9 +22,9 @@
   "sc:license": "Unlicense",
   "sc:name": "GEAR-base",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "https://gear-base.com"
 }

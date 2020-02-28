@@ -10,17 +10,13 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/DATABASE/BAW043",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/bronco",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Kyubum Lee",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pubmed:27074804",
         "pmcid:PMC4830473",
+        "pubmed:27074804",
         {
           "@id": "https://doi.org/10.1093/DATABASE/BAW043"
         }
@@ -36,6 +32,10 @@
         "Mac"
       ],
       "sc:url": "http://infos.korea.ac.kr/bronco/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/DATABASE/BAW043",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

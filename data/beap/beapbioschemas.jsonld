@@ -17,8 +17,8 @@
   "sc:name": "BEAP",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.animalgenome.org/bioinfo/tools/beap/"
 }

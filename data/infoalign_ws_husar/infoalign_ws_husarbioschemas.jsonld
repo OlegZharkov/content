@@ -15,8 +15,8 @@
   "sc:name": "infoalign WS (husar)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://genius.embnet.dkfz-heidelberg.de/menu/hobit/embdoc/infoalign.html",
   "sc:version": "1"

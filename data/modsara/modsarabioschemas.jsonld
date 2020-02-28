@@ -17,8 +17,8 @@
   "sc:name": "modSaRa",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://c2s2.yale.edu/software/modSaRa/"
 }

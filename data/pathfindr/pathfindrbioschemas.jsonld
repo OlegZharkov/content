@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0001-5980-8002",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/pathfindR",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "https://orcid.org/0000-0003-2090-3621"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:author": [
         {
@@ -44,6 +40,10 @@
     },
     {
       "@id": "https://orcid.org/0000-0003-2090-3621",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-5980-8002",
       "@type": "schema:Person"
     }
   ]

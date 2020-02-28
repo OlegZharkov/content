@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/imgt",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
+    "Ontology",
     "Web application",
     "Bioinformatics portal",
-    "Ontology",
     "Database portal"
   ],
   "sc:citation": "pubmed:25378316",

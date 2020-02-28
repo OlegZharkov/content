@@ -40,9 +40,9 @@
       "sc:license": "Unlicense",
       "sc:name": "PhyreRisk",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://phyrerisk.bc.ic.ac.uk"
     }

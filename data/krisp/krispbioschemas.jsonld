@@ -27,21 +27,21 @@
       "sc:description": "Bioinformatics Software Applications and Online Databases and Tools.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
-        },
-        {
           "@id": "edam:operation_0552"
         },
         {
           "@id": "edam:operation_3478"
+        },
+        {
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:license": "Other",
       "sc:name": "krisp",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.krisp.org.za/tools.php"
     },

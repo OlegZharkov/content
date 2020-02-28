@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Giacomina Bruttomesso",
       "sc:additionalType": [
-        "Web application",
-        "Plug-in"
+        "Plug-in",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -36,9 +36,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "CentiScaPe",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://www.cbmc.it/~scardonig/centiscape/centiscape.php",
       "sc:version": "2.2"

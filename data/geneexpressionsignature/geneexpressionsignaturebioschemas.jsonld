@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Lu Han",
-    "Fei Li",
-    "Yang Cao"
+    "Yang Cao",
+    "Fei Li"
   ],
   "sc:additionalType": [
     "Command-line tool",

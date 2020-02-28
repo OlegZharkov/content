@@ -17,8 +17,8 @@
   "sc:name": "PHYLIP",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://evolution.genetics.washington.edu/phylip.html"
 }

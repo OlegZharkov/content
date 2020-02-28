@@ -17,8 +17,8 @@
   "sc:name": "MethylomeDB",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.neuroepigenomics.org/methylomedb/index.html"
 }

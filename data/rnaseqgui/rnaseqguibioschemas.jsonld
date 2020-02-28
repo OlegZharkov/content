@@ -19,8 +19,8 @@
   "sc:name": "RNASeqGUI",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinfo.na.iac.cnr.it/RNASeqGUI/"
 }

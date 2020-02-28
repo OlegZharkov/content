@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "UK BBSRC",
     "EMBOSS Contributors",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:description": "Identify proteins with specified sequence word composition.",
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "oddcomp",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": [

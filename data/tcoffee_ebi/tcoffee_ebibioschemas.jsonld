@@ -19,13 +19,13 @@
   "sc:description": "Multiple sequence alignment that combines several alignment methods.",
   "sc:name": "T-Coffee EBI",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "CRG",
-    "EMBL-EBI"
+    "EMBL-EBI",
+    "CRG"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/msa/tcoffee/",
   "sc:version": "1"

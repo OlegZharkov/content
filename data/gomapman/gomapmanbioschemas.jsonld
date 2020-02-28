@@ -13,20 +13,20 @@
   "sc:additionalType": "Database portal",
   "sc:author": "Živa Ramšak",
   "sc:contributor": [
-    "Igor Mozetič",
-    "Kristina Gruden",
     "Ana Rotter",
-    "Špela Baebler",
+    "Matej Korbar",
     "Björn Usadel",
-    "Matej Korbar"
+    "Igor Mozetič",
+    "Špela Baebler",
+    "Kristina Gruden"
   ],
   "sc:description": "GoMapMan is an open web-accessible resource for gene functional annotations in the plant sciences. It was developed to facilitate improvement, consolidation and visualization of gene annotations across several plant species.",
   "sc:license": "CC-BY-NC-SA-3.0",
   "sc:name": "GoMapMan",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "National Institute of Biology, Slovenia",

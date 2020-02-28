@@ -20,8 +20,8 @@
   "sc:name": "GPSy",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://gpsy.genouest.org/"
 }

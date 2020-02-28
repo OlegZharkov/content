@@ -16,8 +16,8 @@
   "sc:name": "Colib read",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://colibread.inria.fr/"
 }

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-5018-8078",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1038/modpathol.2008.111",
       "@type": "sc:CreativeWork"
     },
@@ -37,12 +33,16 @@
       },
       "sc:name": "Frida",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bui3.win.ad.jhu.edu/frida/",
       "sc:version": "1.1.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-5018-8078",
+      "@type": "schema:Person"
     }
   ]
 }

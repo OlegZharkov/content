@@ -14,15 +14,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Paul Shannon",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1186/1471-2105-14-217"
         },
-        "pmcid:PMC3751905",
-        "pubmed:23837656"
+        "pubmed:23837656",
+        "pmcid:PMC3751905"
       ],
       "sc:description": "Interactvive viewing and exploration of graphs, connecting R to Cytoscape.",
       "sc:featureList": [
@@ -37,8 +37,8 @@
       "sc:name": "RCytoscape",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RCytoscape.html",
       "sc:version": "1.24.1"

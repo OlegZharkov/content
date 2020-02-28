@@ -19,8 +19,8 @@
   "sc:name": "MGmapper",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://cge.cbs.dtu.dk/services/MGmapper/"
 }
