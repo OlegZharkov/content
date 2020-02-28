@@ -11,13 +11,13 @@
   "@id": "https://bio.tools/SECLAF",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Vince Grolmusz",
-    "Balázs Szalkai"
+    "Balázs Szalkai",
+    "Vince Grolmusz"
   ],
   "sc:additionalType": [
-    "Command-line tool",
     "Web application",
-    "Web service"
+    "Web service",
+    "Command-line tool"
   ],
   "sc:description": "Webserver and deep neural network design tool for hierarchical biological sequence classification.",
   "sc:license": "Unlicense",

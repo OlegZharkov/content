@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKX421",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/xsult",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
@@ -26,23 +30,19 @@
           "@id": "edam:operation_0267"
         },
         {
-          "@id": "edam:operation_0302"
+          "@id": "edam:operation_2488"
         },
         {
-          "@id": "edam:operation_2488"
+          "@id": "edam:operation_0302"
         }
       ],
       "sc:name": "XSuLT",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://structure.bioc.cam.ac.uk/xsult/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKX421",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -17,8 +17,8 @@
   "sc:name": "The GRID",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.thebiogrid.org/"
 }

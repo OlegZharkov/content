@@ -17,17 +17,17 @@
       },
       "sc:additionalType": [
         "Script",
-        "Library",
         "Command-line tool",
-        "Web service",
-        "Plug-in"
+        "Plug-in",
+        "Library",
+        "Web service"
       ],
       "sc:description": "The DSMZ's Bacterial Diversity Metadatabase (BacDive) focuses on providing organism-linked information covering the multifarious aspects of bacterial biodiversity: taxonomic classification, morphology, physiology, cultivation, origin natural habitat and more, both for bacterial and archaeal strains. BacDiveR helps you investigate this data offline, and semi-automatically in R.",
       "sc:license": "MIT",
       "sc:name": "BacDiveR: A Programmatic Interface For BacDive",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://tibhannover.github.io/BacDiveR/",

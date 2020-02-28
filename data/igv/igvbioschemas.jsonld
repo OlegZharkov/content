@@ -20,9 +20,9 @@
   "sc:license": "LGPL-2.1",
   "sc:name": "IGV",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "http://www.broadinstitute.org/igv/"
 }

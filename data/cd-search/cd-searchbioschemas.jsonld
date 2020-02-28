@@ -17,8 +17,8 @@
   "sc:name": "CD-Search",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi"
 }

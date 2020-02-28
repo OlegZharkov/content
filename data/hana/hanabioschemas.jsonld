@@ -15,9 +15,9 @@
     "Web application"
   ],
   "sc:author": [
-    "Miloš Fetter",
     "Daniel Georgiev",
-    "Lucie Houdová"
+    "Lucie Houdová",
+    "Miloš Fetter"
   ],
   "sc:description": "Haplotype analyzer for the Czech population.",
   "sc:name": "HANA",

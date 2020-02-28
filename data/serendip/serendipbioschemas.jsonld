@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/SeRenDIP",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Q. Hou",
     "K. Anton Feenstra",
-    "Paul de Geest"
+    "Paul de Geest",
+    "Q. Hou"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:31116381",

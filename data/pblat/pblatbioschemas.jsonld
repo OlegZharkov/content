@@ -28,17 +28,17 @@
       "sc:description": "Multithread blat algorithm speeding up aligning sequences to genomes.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0302"
+          "@id": "edam:operation_3198"
         },
         {
-          "@id": "edam:operation_3198"
+          "@id": "edam:operation_0302"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "pblat",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/icebert/pblat"
     }

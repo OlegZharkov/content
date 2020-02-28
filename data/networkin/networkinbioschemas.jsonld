@@ -46,8 +46,8 @@
       "sc:name": "NetworKIN",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": {

@@ -16,8 +16,8 @@
   "sc:name": "FUSION",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://protein.rnet.missouri.edu/FUSION/"
 }

@@ -14,15 +14,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
       "sc:additionalType": [
-        "Database portal",
-        "Web API"
+        "Web API",
+        "Database portal"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/NAR/GKV1132"
         },
-        "pmcid:PMC4702822",
-        "pubmed:26590264"
+        "pubmed:26590264",
+        "pmcid:PMC4702822"
       ],
       "sc:description": "This enables you to explore mutation hotspots identified in protein domains from more than 5000 patients across 22 cancer types.",
       "sc:featureList": {
@@ -31,8 +31,8 @@
       "sc:name": "MutationAligner",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.mutationaligner.org/"
     },

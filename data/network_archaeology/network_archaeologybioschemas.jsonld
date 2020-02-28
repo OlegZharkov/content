@@ -17,8 +17,8 @@
   "sc:name": "Network Archaeology",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://cbcb.umd.edu/NetArch/"
 }

@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0001-8187-1980",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/proteome-pi",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,10 +31,10 @@
           "@id": "edam:topic_0121"
         },
         {
-          "@id": "edam:topic_0123"
+          "@id": "edam:topic_3520"
         },
         {
-          "@id": "edam:topic_3520"
+          "@id": "edam:topic_0123"
         }
       ],
       "sc:citation": [
@@ -56,14 +52,18 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "Proteome-pI",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:softwareHelp": {
         "@id": "http://isoelectricpointdb.org/statistics.html"
       },
       "sc:url": "http://isoelectricpointdb.org/"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-8187-1980",
+      "@type": "schema:Person"
     }
   ]
 }

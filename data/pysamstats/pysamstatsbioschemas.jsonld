@@ -15,8 +15,8 @@
   "sc:license": "Not licensed",
   "sc:name": "pysamstats",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://github.com/alimanfoo/pysamstats"

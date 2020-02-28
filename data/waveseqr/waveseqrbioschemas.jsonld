@@ -16,8 +16,8 @@
   "sc:name": "WaveSeqR",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://rdrr.io/rforge/WaveSeqR/"
 }

@@ -11,13 +11,13 @@
   "@id": "https://bio.tools/appris",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Michael Tress",
-    "Jose Rodriguez"
+    "Jose Rodriguez",
+    "Michael Tress"
   ],
   "sc:additionalType": [
-    "Database portal",
     "Web application",
-    "Web API"
+    "Web API",
+    "Database portal"
   ],
   "sc:author": "Jose Rodriguez",
   "sc:contributor": "ISCIII",

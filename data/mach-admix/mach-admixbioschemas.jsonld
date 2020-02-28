@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:23074066",
         "pmcid:PMC3524415",
+        "pubmed:23074066",
         {
           "@id": "https://doi.org/10.1002/gepi.21690"
         }
@@ -39,9 +39,9 @@
       "sc:license": "Not licensed",
       "sc:name": "MaCH-Admix",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://yunliweb.its.unc.edu//MaCH-Admix/index.php"
     }

@@ -20,8 +20,8 @@
   "sc:name": "MapView",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://evolution.sysu.edu.cn/mapview/"
 }

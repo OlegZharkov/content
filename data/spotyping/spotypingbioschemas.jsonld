@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Rick Twee-Hee Ong",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:26883915",
         "pmcid:PMC4756441",
+        "pubmed:26883915",
         {
           "@id": "https://doi.org/10.1186/S13073-016-0270-7"
         }

@@ -17,8 +17,8 @@
   "sc:name": "HapCHAT",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://hapchat.algolab.eu"
 }

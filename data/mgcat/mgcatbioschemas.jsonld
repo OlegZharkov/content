@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1471-2105-7-433",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/mgcat",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Desktop application",
@@ -30,11 +26,15 @@
       },
       "sc:name": "M-GCAT 2.0 beta",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://alggen.lsi.upc.es/recerca/align/mgcat/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2105-7-433",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

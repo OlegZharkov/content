@@ -16,8 +16,8 @@
   "sc:name": "MNI",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://dibernardo.tigem.it/softwares/mode-of-action-by-network-inference-mni"
 }

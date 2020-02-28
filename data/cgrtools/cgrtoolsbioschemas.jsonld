@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Ramil Nugmanov",
-    "Alexandre Varnek",
-    "Timur Madzhidov"
+    "Timur Madzhidov",
+    "Alexandre Varnek"
   ],
   "sc:additionalType": "Library",
   "sc:author": "Ramil Nugmanov",

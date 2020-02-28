@@ -28,8 +28,8 @@
       "sc:license": "CECILL-2.1",
       "sc:name": "ropls",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ropls.html",

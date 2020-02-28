@@ -17,8 +17,8 @@
   "sc:name": "SWISS-MODEL",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://swissmodel.expasy.org/"
 }

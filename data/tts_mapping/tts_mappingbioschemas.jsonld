@@ -16,8 +16,8 @@
   "sc:name": "TTS mapping",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://ggeda.bii.a-star.edu.sg/~piroonj/TTS_mapping/TTS_mapping.php"
 }

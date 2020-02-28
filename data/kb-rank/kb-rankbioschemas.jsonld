@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1007/s10969-012-9125-7",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/kb-rank",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "William McLaughlin",
@@ -36,12 +32,16 @@
       "sc:funder": "5U01 GM093324-02",
       "sc:name": "KB-Rank",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": "The Commonwealth Medical College",
       "sc:url": "http://protein.tcmc.edu/kb-rank"
+    },
+    {
+      "@id": "https://doi.org/10.1007/s10969-012-9125-7",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

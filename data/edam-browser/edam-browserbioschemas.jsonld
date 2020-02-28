@@ -21,8 +21,8 @@
   "sc:name": "EDAM-Browser",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/IFB-ElixirFr/edam-browser",
   "sc:version": "1.0"

@@ -17,8 +17,8 @@
   "sc:name": "MPI Toolkit",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://toolkit.tuebingen.mpg.de"
 }

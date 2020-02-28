@@ -19,8 +19,8 @@
   "sc:name": "pyfasta",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/brentp/pyfasta/"
 }

@@ -23,8 +23,8 @@
   "sc:description": "A web application to define, extract, and analyze structural patterns or biomolecular complexes in real-time.",
   "sc:name": "PatternQuery",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "Masaryk University, Brno, Czech Republic",

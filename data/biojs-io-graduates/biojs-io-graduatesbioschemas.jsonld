@@ -15,8 +15,8 @@
   "sc:description": "Graduate parser for BioJS.",
   "sc:name": "biojs-io-graduates",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "BioJS",

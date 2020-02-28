@@ -14,15 +14,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "H. Tronnolone",
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC6292648",
         "pubmed:30507938",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1006629"
-        }
+        },
+        "pmcid:PMC6292648"
       ],
       "sc:description": "Tool for analysis of the morphology of microbial colonies.",
       "sc:featureList": [

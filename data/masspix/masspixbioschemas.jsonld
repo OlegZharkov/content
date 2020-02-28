@@ -24,16 +24,16 @@
       "sc:description": "Processes high resolution mass spectrometry imaging data, performs multivariate statistics (PCA, clustering) and lipid identification.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3214"
+          "@id": "edam:operation_3443"
         },
         {
-          "@id": "edam:operation_3443"
+          "@id": "edam:operation_3214"
         }
       ],
       "sc:name": "massPix",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/hallz/massPix"

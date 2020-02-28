@@ -36,9 +36,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "GGtools",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GGtools.html",
       "sc:version": "5.10.0"

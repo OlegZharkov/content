@@ -19,8 +19,8 @@
   "sc:name": "PatternLab",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://pcarvalho.com/patternlab/"
 }

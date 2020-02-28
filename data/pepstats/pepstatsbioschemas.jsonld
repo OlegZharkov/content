@@ -13,15 +13,15 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "Wellcome Trust",
-    "UK BBSRC",
-    "UK MRC"
-  ],
-  "sc:description": "Calculate statistics of protein properties.",
-  "sc:funder": [
     "UK BBSRC",
     "UK MRC",
     "Wellcome Trust"
+  ],
+  "sc:description": "Calculate statistics of protein properties.",
+  "sc:funder": [
+    "UK MRC",
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "pepstats",

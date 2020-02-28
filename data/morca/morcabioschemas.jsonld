@@ -17,8 +17,8 @@
   "sc:name": "mORCA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "uma.es",
   "sc:url": "http://bitlab-es.com/morca/",

@@ -17,8 +17,8 @@
   "sc:name": "Sinbase",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://ocri-genomics.org/Sinbase/"
 }

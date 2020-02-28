@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/sccmecfinder",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Scientific Support",
-        "Technical support"
+        "Technical support",
+        "Scientific Support"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -31,8 +31,8 @@
       "sc:name": "SCCmecFinder",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://cge.cbs.dtu.dk/services/SCCmecFinder/"
     },

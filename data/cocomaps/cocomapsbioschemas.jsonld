@@ -22,8 +22,8 @@
       "sc:name": "CoCoMaps",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "ELIXIR-ITA-SALERNO",
       "sc:url": "https://www.molnac.unisa.it/BioTools/cocomaps/",

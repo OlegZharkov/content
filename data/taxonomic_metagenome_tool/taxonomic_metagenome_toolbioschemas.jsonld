@@ -16,8 +16,8 @@
   "sc:name": "Taxonomic metagenome tool",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "ELIXIR-NO",
   "sc:url": "https://galaxy-uit.bioinfo.no/root/index",

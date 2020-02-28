@@ -19,20 +19,20 @@
   ],
   "sc:description": "Uncompress a compressed dbx index.",
   "sc:funder": [
-    "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust",
-    "UK BBSRC"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "dbxuncompress",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/dbxuncompress.html",
   "sc:version": "r6"

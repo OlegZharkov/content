@@ -15,8 +15,8 @@
   "sc:name": "EuropePMC",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://europepmc.org",
   "sc:version": "1"

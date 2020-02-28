@@ -43,9 +43,9 @@
       "sc:license": "Unlicense",
       "sc:name": "myDGR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://omics.informatics.indiana.edu/myDGR"
     }

@@ -16,8 +16,8 @@
   "sc:name": "ProTSAV",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.scfbio-iitd.res.in/software/proteomics/protsav.jsp"
 }

@@ -37,9 +37,9 @@
       "sc:license": "CECILL-B",
       "sc:name": "myGenomeBrowser",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://bbric-pipelines.toulouse.inra.fr/myGenomeBrowser"
     },

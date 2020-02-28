@@ -16,8 +16,8 @@
   "sc:name": "SMAL",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://haddock6.sfsu.edu/smal/"
 }

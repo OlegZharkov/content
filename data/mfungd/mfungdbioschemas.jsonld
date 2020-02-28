@@ -15,8 +15,8 @@
   "sc:name": "MIPS mouse functional genome database (MfunGD)",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bio2rdf.org/describe/?uri=http://bio2rdf.org/lsr:mfungd"
 }

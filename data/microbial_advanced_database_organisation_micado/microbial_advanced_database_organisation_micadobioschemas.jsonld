@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/microbial_advanced_database_organisation_micado",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Annie Gendrault-Jacquemard",
-    "Hélène Chiapello"
+    "Hélène Chiapello",
+    "Annie Gendrault-Jacquemard"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:9283758",

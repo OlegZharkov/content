@@ -32,9 +32,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Transposons",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://github.com/AlexShein/transposons/"
     }

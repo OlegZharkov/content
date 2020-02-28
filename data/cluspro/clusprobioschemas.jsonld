@@ -17,8 +17,8 @@
   "sc:name": "ClusPro",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://cluspro.bu.edu/login.php"
 }

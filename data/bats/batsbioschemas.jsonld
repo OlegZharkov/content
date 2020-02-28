@@ -20,8 +20,8 @@
   "sc:name": "BATS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.math.unipa.it/~raffaele/BATS/index.html"
 }

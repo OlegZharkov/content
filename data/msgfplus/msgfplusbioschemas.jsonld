@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Thomas Lin Pedersen",
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "This package contains function to perform peptide identification using MS-GF+.",
   "sc:license": "GPL-2.0",

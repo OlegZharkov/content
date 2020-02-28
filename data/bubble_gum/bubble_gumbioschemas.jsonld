@@ -17,8 +17,8 @@
   "sc:name": "Bubble GUM",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.ciml.univ-mrs.fr/applications/BubbleGUM/index.html"
 }

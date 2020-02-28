@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-1461-0988",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1093/nar/gkr245",
       "@type": "sc:CreativeWork"
     },
@@ -31,10 +35,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0121"
+          "@id": "edam:topic_0622"
         },
         {
-          "@id": "edam:topic_0622"
+          "@id": "edam:topic_0121"
         },
         {
           "@id": "edam:topic_0080"
@@ -60,17 +64,13 @@
       "sc:name": "T-Coffee (SIB)",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.tcoffee.org/Projects/tcoffee/"
       },
       "sc:url": "http://tcoffee.vital-it.ch/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-1461-0988",
-      "@type": "schema:Person"
     }
   ]
 }

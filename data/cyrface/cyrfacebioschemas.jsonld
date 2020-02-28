@@ -18,8 +18,8 @@
   "sc:name": "Cyrface",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.ebi.ac.uk/saezrodriguez/cyrface/"
 }

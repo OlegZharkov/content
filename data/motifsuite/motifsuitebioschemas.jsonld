@@ -14,8 +14,8 @@
   "sc:description": "Probabilistic motif detection.",
   "sc:name": "MotifSuite",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "ugent.be",

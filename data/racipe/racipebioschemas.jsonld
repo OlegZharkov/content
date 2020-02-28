@@ -32,8 +32,8 @@
       "sc:license": "Apache-2.0",
       "sc:name": "RACIPE",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://github.com/simonhb1990/RACIPE-1.0",

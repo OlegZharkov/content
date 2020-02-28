@@ -24,8 +24,8 @@
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -49,9 +49,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "Cardinal",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Cardinal.html",
       "sc:version": "1.6.0"

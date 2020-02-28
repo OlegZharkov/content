@@ -15,8 +15,8 @@
   "sc:name": "abi2xml",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://abi2xml.sourceforge.net/",
   "sc:version": "1.2"

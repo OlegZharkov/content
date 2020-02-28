@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "Green listed",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://greenlisted.cmm.ki.se/"

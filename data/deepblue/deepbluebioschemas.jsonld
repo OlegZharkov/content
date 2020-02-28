@@ -34,8 +34,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "Max Planck Institute for Informatics",
-    "mpi-inf.mpg.de"
+    "mpi-inf.mpg.de",
+    "Max Planck Institute for Informatics"
   ],
   "sc:url": "http://deepblue.mpi-inf.mpg.de/"
 }

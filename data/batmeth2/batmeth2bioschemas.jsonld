@@ -22,10 +22,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC6343306",
         {
           "@id": "https://doi.org/10.1186/s12859-018-2593-4"
         },
+        "pmcid:PMC6343306",
         "pubmed:30669962"
       ],
       "sc:description": "Integrated package for bisulfite DNA methylation data analysis with Indel-sensitive mapping.",

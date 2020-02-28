@@ -17,8 +17,8 @@
   "sc:name": "MAGNET",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://magnet.case.edu"
 }

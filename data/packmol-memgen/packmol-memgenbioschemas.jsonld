@@ -17,8 +17,8 @@
   "sc:name": "PACKMOL-Memgen",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://ambermd.org/AmberTools.php"
 }

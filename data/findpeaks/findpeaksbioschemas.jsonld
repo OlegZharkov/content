@@ -17,8 +17,8 @@
   "sc:name": "FindPeaks 4.0 (Vancouver Short Read Package)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://vancouvershortr.sourceforge.net/"
 }

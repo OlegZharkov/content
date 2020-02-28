@@ -16,8 +16,8 @@
   "sc:description": "Comparative hub for plant genome and gene family data and analysis.",
   "sc:name": "Phytozome",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.phytozome.net/"

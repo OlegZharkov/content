@@ -20,10 +20,10 @@
       "sc:additionalType": "Desktop application",
       "sc:citation": [
         "pmcid:PMC3853218",
+        "pubmed:24564609",
         {
           "@id": "https://doi.org/10.1186/1471-2105-14-S16-S4"
-        },
-        "pubmed:24564609"
+        }
       ],
       "sc:description": "A fast and user-friendly platform for profiling cellular phenotypes.",
       "sc:featureList": {
@@ -32,8 +32,8 @@
       "sc:name": "cellXpress",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.cellxpress.org/"
     }

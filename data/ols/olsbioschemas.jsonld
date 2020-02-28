@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ols",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Web API"
+    "Web API",
+    "Web application"
   ],
   "sc:author": [
     "Simon Jupp",
@@ -23,8 +23,8 @@
   "sc:name": "Ontology Lookup Service",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "EMBL-EBI",
   "sc:url": "http://www.ebi.ac.uk/ols/",

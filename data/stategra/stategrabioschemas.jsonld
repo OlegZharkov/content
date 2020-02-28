@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Patricia Sebastián-León",
-    "David Gomez-Cabrero",
-    "Gordon Ball"
+    "Gordon Ball",
+    "David Gomez-Cabrero"
   ],
   "sc:additionalType": [
     "Library",

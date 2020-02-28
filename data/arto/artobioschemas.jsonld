@@ -16,8 +16,8 @@
   "sc:name": "ARTO",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinfo.cs.technion.ac.il/people/zohar/ARTO/"
 }

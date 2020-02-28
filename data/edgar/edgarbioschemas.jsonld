@@ -15,8 +15,8 @@
     "Giulia Babbi"
   ],
   "sc:additionalType": [
-    "Web application",
-    "Database portal"
+    "Database portal",
+    "Web application"
   ],
   "sc:description": "A database of Disease-Gene Associations with annotated Relationships among genes.",
   "sc:license": "CC-BY-4.0",

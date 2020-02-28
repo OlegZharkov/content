@@ -28,10 +28,10 @@
       "sc:description": "Web tool for organizing, annotating and curating genes, diseases, molecules and other concepts from PubMed records.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:name": "PubTerm",

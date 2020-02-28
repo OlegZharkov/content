@@ -15,8 +15,8 @@
   "sc:name": "MSFileReader_Python_bindings",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/frallain/MSFileReader_Python_bindings"
 }

@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "HHrep",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://toolkit.tuebingen.mpg.de/#/tools/hhpred"

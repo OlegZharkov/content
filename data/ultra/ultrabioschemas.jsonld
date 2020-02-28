@@ -32,9 +32,9 @@
       "sc:license": "BSD-3-Clause",
       "sc:name": "ULTRA",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/TravisWheelerLab/ULTRA"
     },

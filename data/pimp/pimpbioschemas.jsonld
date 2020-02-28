@@ -17,8 +17,8 @@
   "sc:name": "PiMP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://polyomics.mvls.gla.ac.uk/"
 }

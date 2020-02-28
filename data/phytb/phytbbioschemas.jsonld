@@ -17,9 +17,9 @@
       "@id": "https://bio.tools/phytb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Clark TG",
         "Coll F",
-        "Benavente ED"
+        "Benavente ED",
+        "Clark TG"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [

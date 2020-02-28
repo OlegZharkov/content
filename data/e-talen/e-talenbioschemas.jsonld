@@ -28,8 +28,8 @@
       "sc:name": "E-TALEN",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.e-talen.org/E-TALEN/"
     },

@@ -15,8 +15,8 @@
     "Riccardo Romoli"
   ],
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Fragment-level analysis of gas chromatography - mass spectrometry metabolomics data.",
   "sc:license": "GPL-2.0",

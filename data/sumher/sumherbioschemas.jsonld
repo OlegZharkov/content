@@ -18,8 +18,8 @@
   "sc:name": "SumHer",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://dougspeed.com/sumher/"
 }

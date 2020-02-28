@@ -18,8 +18,8 @@
   "sc:name": "Quetzal",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://becheler.github.io/pages/quetzal.html"
 }

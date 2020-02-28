@@ -36,8 +36,8 @@
       ],
       "sc:name": "RNA CoMPASS",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://rnacompass.sourceforge.net/"
     }
