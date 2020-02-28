@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-7786-2109",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/pydocksaxs",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
@@ -35,11 +31,11 @@
         "@id": "http://orcid.org/0000-0001-7786-2109"
       },
       "sc:citation": [
-        "pmcid:PMC4489248",
         "pubmed:25897115",
         {
           "@id": "https://doi.org/10.1093/nar/gkv368"
-        }
+        },
+        "pmcid:PMC4489248"
       ],
       "sc:description": "Web server for rigid-body protein-protein docking that combines computational and experimental information.",
       "sc:featureList": {
@@ -48,9 +44,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "pyDockSAXS",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": [
         "Barcelona Supercomputing Center",
@@ -73,6 +69,10 @@
     {
       "@id": "https://doi.org/10.1093/nar/gkv368",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-7786-2109",
+      "@type": "schema:Person"
     }
   ]
 }

@@ -10,22 +10,18 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/S13059-019-1699-Y",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/CellTag",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "https://orcid.org/0000-0001-8561-4340"
       },
       "sc:additionalType": [
-        "Script",
-        "Workflow"
+        "Workflow",
+        "Script"
       ],
       "sc:citation": [
-        "pmcid:PMC6509836",
         "pubmed:31072405",
+        "pmcid:PMC6509836",
         {
           "@id": "https://doi.org/10.1186/S13059-019-1699-Y"
         }
@@ -45,15 +41,19 @@
       "sc:license": "MIT",
       "sc:name": "CellTag",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://github.com/morris-lab/CellTag-Classifier"
     },
     {
       "@id": "https://orcid.org/0000-0001-8561-4340",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S13059-019-1699-Y",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

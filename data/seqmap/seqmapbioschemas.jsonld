@@ -17,8 +17,8 @@
   "sc:name": "SeqMap",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www-personal.umich.edu/~jianghui/seqmap/"
 }

@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/geneclust",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Kim-Anh Do",
-    "Bradley Broom",
+    "Paul Roebuck",
     "Rumiana Nikolova",
-    "Paul Roebuck"
+    "Kim-Anh Do",
+    "Bradley Broom"
   ],
   "sc:additionalType": "Library",
   "sc:citation": "pubmed:19390667",

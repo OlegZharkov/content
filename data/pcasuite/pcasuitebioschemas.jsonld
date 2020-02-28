@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "S. H. Raza",
-    "Y. Sharma",
-    "Institute for Research in Biomedicine Barcelona"
+    "Institute for Research in Biomedicine Barcelona",
+    "Y. Sharma"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:19163366",

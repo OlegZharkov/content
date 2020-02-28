@@ -17,8 +17,8 @@
   "sc:name": "iS-CellR",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/immcore/iS-CellR"
 }

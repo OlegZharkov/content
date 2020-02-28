@@ -19,9 +19,9 @@
   "sc:description": "Multi-rate Poisson tree processes for single-locus species delimitation under maximum likelihood and Markov chain Monte Carlo.",
   "sc:name": "mPTP",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "http://mptp.h-its.org/#/tree"
 }

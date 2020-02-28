@@ -17,8 +17,8 @@
   "sc:name": "rpiCOO",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://biocool.ir/softs/rpicool.html"
 }

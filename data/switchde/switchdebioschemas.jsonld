@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Kieran Campbell",
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "Inference and detection of switch-like differential expression across single-cell RNA-seq trajectories.",
   "sc:license": "GPL-2.0",

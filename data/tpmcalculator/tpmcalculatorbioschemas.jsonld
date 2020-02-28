@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "David Landsman",
-    "Roberto Vera Alvarez",
     "Leonardo Mariño-Ramírez",
+    "Roberto Vera Alvarez",
     "Lorinc Pongor"
   ],
   "sc:additionalType": "Command-line tool",

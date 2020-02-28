@@ -14,8 +14,8 @@
   "sc:description": "The largest integrated microbial knowledge base.",
   "sc:name": "StrainInfo",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "ugent.be",

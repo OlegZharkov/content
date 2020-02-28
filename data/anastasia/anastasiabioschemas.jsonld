@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/anastasia",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Theodoros Koutsandreas",
+    "Eleftherios Pilalis",
     "Aristotelis Chatziioannou",
-    "Eleftherios Pilalis"
+    "Theodoros Koutsandreas"
   ],
   "sc:additionalType": [
     "Desktop application",

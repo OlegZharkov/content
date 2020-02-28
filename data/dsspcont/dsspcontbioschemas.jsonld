@@ -18,8 +18,8 @@
   "sc:name": "DSSPcont",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.cbs.dtu.dk/services/DSSPcont/"
 }

@@ -16,8 +16,8 @@
   "sc:name": "APPEX",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.appex.kr/appex/"
 }

@@ -19,8 +19,8 @@
   "sc:name": "NeuroPID",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://neuropid.cs.huji.ac.il"
 }

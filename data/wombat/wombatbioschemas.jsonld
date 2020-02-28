@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-2663-9059",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1631/jzus.2007.B0815",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-2663-9059",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/wombat",
@@ -26,10 +26,10 @@
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
         "pmcid:PMC2064953",
-        "pubmed:17973343",
         {
           "@id": "https://doi.org/10.1631/jzus.2007.B0815"
-        }
+        },
+        "pubmed:17973343"
       ],
       "sc:description": "Program to facilitate analyses fitting a linear, mixed model via restricted maximum likelihood (REML).",
       "sc:featureList": {
@@ -39,8 +39,8 @@
       "sc:name": "Wombat",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://didgeridoo.une.edu.au/km/wombat.php"
     }

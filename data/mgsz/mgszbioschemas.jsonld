@@ -17,8 +17,8 @@
   "sc:name": "mGSZ",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://ekhidna.biocenter.helsinki.fi/downloads/pashupati/mGSZ.html"
 }

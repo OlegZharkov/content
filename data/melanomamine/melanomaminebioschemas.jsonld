@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/melanomamine",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Martin Krallinger",
-    "Andrés Cañada"
+    "Andrés Cañada",
+    "Martin Krallinger"
   ],
   "sc:additionalType": "Web application",
   "sc:author": [
@@ -27,9 +27,9 @@
     "Windows"
   ],
   "sc:provider": [
-    "Spanish Cancer Research Center",
     "cnio.es",
-    "Spanish National Bioinformatics Institute"
+    "Spanish National Bioinformatics Institute",
+    "Spanish Cancer Research Center"
   ],
   "sc:url": "http://melanomamine.bioinfo.cnio.es/",
   "sc:version": "0.1"

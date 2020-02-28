@@ -17,8 +17,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Xeva",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "https://github.com/bhklab/Xeva"

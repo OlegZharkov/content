@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/CGRtools",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Ramil Nugmanov",
     "Timur Madzhidov",
-    "Alexandre Varnek",
-    "Ramil Nugmanov"
+    "Alexandre Varnek"
   ],
   "sc:additionalType": "Library",
   "sc:author": "Ramil Nugmanov",

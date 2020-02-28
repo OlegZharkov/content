@@ -20,8 +20,8 @@
   "sc:description": "Identify and report CpG-rich regions in nucleotide sequence(s).",
   "sc:funder": [
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "cpgreport",

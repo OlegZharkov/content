@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Marc Monot",
-    "David Bikard",
-    "Julian Garneau"
+    "Julian Garneau",
+    "David Bikard"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Determining Bacteriophage Termini and Packaging using NGS data.",

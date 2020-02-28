@@ -10,24 +10,20 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-5127-5459",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/jaspar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Albin Sandelin",
-        "Wyeth Wasserman",
         "Boris Lenhard",
         {
           "@id": "http://orcid.org/0000-0001-5127-5459"
-        }
+        },
+        "Wyeth Wasserman",
+        "Albin Sandelin"
       ],
       "sc:additionalType": [
         "Web API",
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:description": "The high-quality transcription factor binding profile database.",
       "sc:license": "CC-BY-NC-4.0",
@@ -38,6 +34,10 @@
         "Linux"
       ],
       "sc:url": "http://jaspar.genereg.net/"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-5127-5459",
+      "@type": "schema:Person"
     }
   ]
 }

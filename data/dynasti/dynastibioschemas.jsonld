@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0003-3669-6313",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.3390/METABO9050085",
       "@type": "sc:CreativeWork"
     },
@@ -21,8 +25,8 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:31052310",
         "pmcid:PMC6572260",
+        "pubmed:31052310",
         {
           "@id": "https://doi.org/10.3390/METABO9050085"
         }
@@ -30,10 +34,10 @@
       "sc:description": "Dynamic Retention Time Database for Steroidomics.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3633"
+          "@id": "edam:operation_3454"
         },
         {
-          "@id": "edam:operation_3454"
+          "@id": "edam:operation_3633"
         }
       ],
       "sc:license": "Unlicense",
@@ -44,10 +48,6 @@
         "Mac"
       ],
       "sc:url": "https://dynasti.vital-it.ch"
-    },
-    {
-      "@id": "https://orcid.org/0000-0003-3669-6313",
-      "@type": "schema:Person"
     }
   ]
 }

@@ -17,8 +17,8 @@
   "sc:name": "euGenes",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://iubio.bio.indiana.edu:8089/"
 }

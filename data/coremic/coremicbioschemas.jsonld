@@ -30,9 +30,9 @@
       },
       "sc:name": "COREMIC",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://core-mic.com/",
       "sc:version": "2.0"

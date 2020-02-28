@@ -16,8 +16,8 @@
   "sc:name": "PeakAnalyzer",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.bioinformatics.org/peakanalyzer/wiki/"
 }

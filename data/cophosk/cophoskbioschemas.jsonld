@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/CoPhosK",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Marzieh Ayati",
-        "Mark R. Chance"
+        "Mark R. Chance",
+        "Marzieh Ayati"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:author": [
@@ -26,28 +26,28 @@
         "Mehmet Koyuturk"
       ],
       "sc:citation": [
-        "pmcid:PMC6411229",
         "pubmed:30811403",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1006678"
-        }
+        },
+        "pmcid:PMC6411229"
       ],
       "sc:description": "Method for Co-phosphorylation-based Kinase-substrate interaction prediction (CophosK).",
       "sc:featureList": [
+        {
+          "@id": "edam:operation_3501"
+        },
         {
           "@id": "edam:operation_3639"
         },
         {
           "@id": "edam:operation_0417"
-        },
-        {
-          "@id": "edam:operation_3501"
         }
       ],
       "sc:name": "CoPhosK",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://compbio.case.edu/omics/software/cophosk/index.html"
     }

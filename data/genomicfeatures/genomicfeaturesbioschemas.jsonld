@@ -30,9 +30,6 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_1017"
-        },
-        {
           "@id": "edam:data_3134"
         },
         {
@@ -40,6 +37,9 @@
         },
         {
           "@id": "edam:data_2048"
+        },
+        {
+          "@id": "edam:data_1017"
         }
       ],
       "sc:additionalType": [
@@ -48,21 +48,21 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3071"
-        },
-        {
           "@id": "edam:topic_3169"
         },
         {
           "@id": "edam:topic_3170"
+        },
+        {
+          "@id": "edam:topic_3071"
         }
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1003118"
         },
-        "pmcid:PMC3738458",
-        "pubmed:23950696"
+        "pubmed:23950696",
+        "pmcid:PMC3738458"
       ],
       "sc:description": "A set of tools and methods for making and manipulating transcript centric annotations. With these tools the user can easily download the genomic locations of the transcripts, exons and CDS of a given organism, from either the UCSC Genome Browser or a BioMart database. This information is then stored in a local database that keeps track of the relationship between transcripts, exons, CDS and genes.",
       "sc:featureList": [
@@ -76,9 +76,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "GenomicFeatures",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html",
       "sc:version": "1.26.2"

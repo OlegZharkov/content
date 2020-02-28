@@ -19,8 +19,8 @@
   "sc:description": "Calculate statistics of protein properties.",
   "sc:name": "pepstats (EBI)",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "EMBL-EBI",

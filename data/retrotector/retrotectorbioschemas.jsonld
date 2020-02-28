@@ -15,8 +15,8 @@
   "sc:name": "RetroTector",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "bils.se",
   "sc:url": "http://retrotector.neuro.uu.se/",

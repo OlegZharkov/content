@@ -28,9 +28,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "chngpt",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/chngpt/",
       "sc:version": "2018.6-2"

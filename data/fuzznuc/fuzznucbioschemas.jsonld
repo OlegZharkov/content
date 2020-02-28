@@ -14,20 +14,20 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Search for patterns in nucleotide sequences.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "fuzznuc",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

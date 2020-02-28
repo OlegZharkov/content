@@ -28,10 +28,10 @@
           "@id": "edam:topic_3169"
         },
         {
-          "@id": "edam:topic_0769"
+          "@id": "edam:topic_3518"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_0769"
         }
       ],
       "sc:citation": [
@@ -44,20 +44,20 @@
       "sc:description": "Single script that automatically handles sequence alignment, read extension, binned counts, normalisation, pseudocount addition and final ratio file generation.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3435"
-        },
-        {
           "@id": "edam:operation_3222"
         },
         {
           "@id": "edam:operation_3798"
+        },
+        {
+          "@id": "edam:operation_3435"
         }
       ],
       "sc:license": "GPL-2.0",
       "sc:name": "damidseq_pipeline",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://owenjm.github.io/damidseq_pipeline/"
     },

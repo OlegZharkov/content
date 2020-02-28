@@ -15,12 +15,12 @@
   "sc:name": "BacDive",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "bacdive",
-    "Leibniz-Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH"
+    "Leibniz-Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH",
+    "bacdive"
   ],
   "sc:url": "http://bacdive.dsmz.de"
 }

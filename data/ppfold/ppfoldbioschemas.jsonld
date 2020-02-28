@@ -15,8 +15,8 @@
   "sc:description": "Predicts the consensus secondary structure of RNA alignments.",
   "sc:name": "PPfold",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "birc.au.dk",

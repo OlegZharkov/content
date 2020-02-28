@@ -16,8 +16,8 @@
   "sc:name": "OpenSWATH",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.openswath.org",
   "sc:version": "OpenMS 2.4.0"

@@ -11,19 +11,19 @@
   "@id": "https://bio.tools/brisskit",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Shajid Issa",
-    "Dr Jonathan Tedds"
+    "Dr Jonathan Tedds",
+    "Shajid Issa"
   ],
   "sc:additionalType": [
-    "Workbench",
     "Web application",
+    "Command-line tool",
     "Web API",
-    "Database portal",
-    "Command-line tool"
+    "Workbench",
+    "Database portal"
   ],
   "sc:author": [
-    "Dr Olly Butters (former Technical Lead)",
-    "Shajid Issa (Technical Lead)"
+    "Shajid Issa (Technical Lead)",
+    "Dr Olly Butters (former Technical Lead)"
   ],
   "sc:contributor": [
     "Jisc",
@@ -37,9 +37,9 @@
   ],
   "sc:name": "BRISSKit",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "University of Bristol",

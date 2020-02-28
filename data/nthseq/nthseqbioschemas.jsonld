@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK BBSRC",
-    "Wellcome Trust"
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Write to file a single sequence from an input stream of sequences.",
   "sc:funder": [
+    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "nthseq",

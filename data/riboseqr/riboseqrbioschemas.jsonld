@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Thomas J. Hardcastle",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Plotting functions, frameshift detection and parsing of sequencing data from ribosome profiling experiments.",
   "sc:license": "GPL-3.0",
   "sc:name": "riboSeqR",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/riboSeqR.html",

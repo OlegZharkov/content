@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:description": "Draw a helical wheel diagram for a protein sequence.",
   "sc:funder": [
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "pepwheel",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Support",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:23418540",
         "pmcid:PMC3572035",
+        "pubmed:23418540",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PONE.0056228"
         }

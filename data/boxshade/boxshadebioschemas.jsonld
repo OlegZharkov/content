@@ -15,8 +15,8 @@
   "sc:name": "BoxShade",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://embnet.vital-it.ch/software/BOX_form.html"
 }

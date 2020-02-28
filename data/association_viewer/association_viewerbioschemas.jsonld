@@ -16,8 +16,8 @@
   "sc:name": "Association Viewer",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://associationviewer.vital-it.ch/"
 }

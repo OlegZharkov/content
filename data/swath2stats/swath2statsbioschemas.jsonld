@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-9105-6381",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/swath2stats",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -22,8 +26,8 @@
         "@id": "edam:data_3111"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3520"
@@ -42,16 +46,12 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SWATH2stats",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SWATH2stats.html",
       "sc:version": "1.4.1"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-9105-6381",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1371/journal.pone.0153160",

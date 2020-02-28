@@ -28,10 +28,10 @@
       "sc:description": "PHEnome Scan ANalysis Tool (pheWAS, Mendelian randomisation (MR)-pheWAS etc.) in UK Biobank.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3208"
+          "@id": "edam:operation_2403"
         },
         {
-          "@id": "edam:operation_2403"
+          "@id": "edam:operation_3208"
         }
       ],
       "sc:name": "PHESANT",

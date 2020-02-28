@@ -15,8 +15,8 @@
   "sc:name": "PASSIM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://passim.sourceforge.net/"
 }

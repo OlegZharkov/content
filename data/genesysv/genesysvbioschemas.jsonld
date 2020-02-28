@@ -19,10 +19,10 @@
       "biotools:primaryContact": "Center for Computational Research",
       "sc:additionalType": "Web service",
       "sc:citation": [
-        "pubmed:30704396",
         {
           "@id": "https://doi.org/10.1186/s12859-019-2636-5"
         },
+        "pubmed:30704396",
         "pmcid:PMC6357466"
       ],
       "sc:description": "Genome exploration open source tool for variants generated from high-throughput sequencing projects.",
@@ -31,10 +31,10 @@
           "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_3227"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3227"
         }
       ],
       "sc:license": "GPL-2.0",

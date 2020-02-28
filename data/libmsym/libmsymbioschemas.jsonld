@@ -17,8 +17,8 @@
   "sc:name": "libmsym",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/mcodev31/libmsym"
 }

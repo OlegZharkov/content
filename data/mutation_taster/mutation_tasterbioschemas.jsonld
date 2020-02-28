@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mutation_taster",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dominik Seelow",
-    "Jana Marie Schwarz"
+    "Jana Marie Schwarz",
+    "Dominik Seelow"
   ],
   "sc:additionalType": [
     "Web application",

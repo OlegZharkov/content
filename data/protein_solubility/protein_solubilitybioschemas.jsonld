@@ -20,9 +20,9 @@
   "sc:license": "Unlicense",
   "sc:name": "protein solubility",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:url": "https://github.com/xiaomizhou616/protein_solubility"
 }

@@ -16,8 +16,8 @@
   "sc:name": "DAS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "bils.se",
   "sc:url": "https://tmdas.bioinfo.se/DAS/index.html",

@@ -19,9 +19,9 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "eDAL - electronic data archive library",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://edal.ipk-gatersleben.de/",
   "sc:version": "2.5.7"

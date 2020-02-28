@@ -25,8 +25,8 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -37,8 +37,8 @@
         }
       ],
       "sc:citation": [
-        "pubmed:27218464",
         "pmcid:PMC4878813",
+        "pubmed:27218464",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0156132"
         }
@@ -50,9 +50,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "SGSeq",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SGSeq.html",
       "sc:version": "1.8.1"

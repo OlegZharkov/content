@@ -14,23 +14,27 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0001-8231-3323",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/inforna",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Anke Busch",
         {
           "@id": "http://orcid.org/0000-0001-8231-3323"
-        }
+        },
+        "Anke Busch"
       ],
       "edam:has_input": {
         "@id": "edam:data_0880"
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2968"
+          "@id": "edam:data_2044"
         },
         {
-          "@id": "edam:data_2044"
+          "@id": "edam:data_2968"
         }
       ],
       "sc:additionalType": "Web application",
@@ -38,14 +42,14 @@
         "@id": "edam:topic_0080"
       },
       "sc:author": [
+        "Anke Busch",
         {
           "@id": "http://orcid.org/0000-0001-8231-3323"
-        },
-        "Anke Busch"
+        }
       ],
       "sc:citation": [
-        "pubmed:17452349",
         "pmcid:PMC1933236",
+        "pubmed:17452349",
         {
           "@id": "https://doi.org/10.1093/nar/gkm218"
         }
@@ -58,22 +62,18 @@
       "sc:name": "INFORNA Sequence Design",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:softwareHelp": {
         "@id": "http://rna.informatik.uni-freiburg.de/Help.jsp"
       },
       "sc:url": "http://rna.informatik.uni-freiburg.de/INFORNA/",
       "sc:version": "2.2.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-8231-3323",
-      "@type": "schema:Person"
     }
   ]
 }

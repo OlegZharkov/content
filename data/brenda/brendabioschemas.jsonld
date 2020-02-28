@@ -16,8 +16,8 @@
   "sc:funder": "BMBF",
   "sc:name": "BRENDA",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

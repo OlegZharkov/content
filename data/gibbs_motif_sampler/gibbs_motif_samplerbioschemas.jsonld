@@ -17,8 +17,8 @@
   "sc:name": "Gibbs Motif Sampler",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://ccmbweb.ccv.brown.edu/gibbs/gibbs.html"
 }

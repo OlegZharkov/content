@@ -13,26 +13,26 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:description": "Index the EDAM ontology using b+tree indices.",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "dbxedam",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/dbxedam.html",
   "sc:version": "r6"

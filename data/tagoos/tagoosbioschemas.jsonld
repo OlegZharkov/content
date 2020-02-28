@@ -15,9 +15,9 @@
   "sc:license": "Unlicense",
   "sc:name": "TAGOOS",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "https://github.com/aitgon/tagoos"
 }

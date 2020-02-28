@@ -18,8 +18,8 @@
   "sc:license": "Unlicense",
   "sc:name": "Ferret",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://limousophie35.github.io/Ferret/"

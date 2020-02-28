@@ -34,8 +34,8 @@
       "sc:name": "GeneRegionScan",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GeneRegionScan.html",
       "sc:version": "1.30.0"

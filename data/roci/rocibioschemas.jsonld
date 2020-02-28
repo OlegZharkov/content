@@ -19,13 +19,13 @@
   "sc:name": "Roci",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "CeBiTec",
+    "BiBiServ",
     "Bielefeld University",
-    "BiBiServ"
+    "CeBiTec"
   ],
   "sc:url": "https://bibiserv.cebitec.uni-bielefeld.de/roci",
   "sc:version": "1"

@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
+    "UK BBSRC",
     "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Find and retrieve EMBOSS db data files.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "embossdata",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

@@ -17,8 +17,8 @@
   "sc:name": "3DTF",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://gene-regulation.com/pub/programs/3dtf/"
 }

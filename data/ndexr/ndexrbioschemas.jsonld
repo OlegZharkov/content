@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/ndexr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Frank Kramer",
-    "Dexter Pratt",
     "Florian Auer",
+    "Dexter Pratt",
+    "Frank Kramer",
     "Alex Ishkin"
   ],
   "sc:additionalType": "Library",

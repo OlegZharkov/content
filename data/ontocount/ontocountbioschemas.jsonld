@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK BBSRC",
     "EMBOSS Contributors",
+    "UK BBSRC",
     "UK MRC"
   ],
   "sc:description": "Count ontology term(s).",
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "ontocount",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/ontocount.html",
   "sc:version": "r6"

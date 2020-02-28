@@ -17,8 +17,8 @@
   "sc:name": "ToppCluster",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://toppcluster.cchmc.org"
 }

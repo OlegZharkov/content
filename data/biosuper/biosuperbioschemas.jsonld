@@ -28,8 +28,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "BioSuper",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://wwww-ablab.ucsd.edu/biosuper/"

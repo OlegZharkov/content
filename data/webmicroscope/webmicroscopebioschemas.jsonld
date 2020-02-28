@@ -16,8 +16,8 @@
   "sc:description": "Platform for virtual microscopy.",
   "sc:name": "WebMicroscope",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "FIMM",

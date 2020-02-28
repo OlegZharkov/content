@@ -19,16 +19,16 @@
   ],
   "sc:description": "Local multiple alignment of sequences.",
   "sc:funder": [
+    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "edialign",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

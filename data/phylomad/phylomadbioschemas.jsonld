@@ -17,8 +17,8 @@
   "sc:name": "PhyloMAd",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/duchene/phylomad"
 }

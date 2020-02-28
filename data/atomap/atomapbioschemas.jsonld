@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-7981-5293",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1186/s40679-017-0042-5",
       "@type": "sc:CreativeWork"
     },
@@ -35,15 +39,11 @@
       "sc:name": "Atomap",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://atomap.org/",
       "sc:version": "0.1.2"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-7981-5293",
-      "@type": "schema:Person"
     }
   ]
 }

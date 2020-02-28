@@ -13,26 +13,26 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:description": "Find tandem repeats in nucleotide sequences.",
   "sc:funder": [
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "equicktandem",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/equicktandem.html",
   "sc:version": "r6"

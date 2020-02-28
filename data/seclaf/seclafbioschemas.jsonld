@@ -23,9 +23,9 @@
   "sc:license": "Unlicense",
   "sc:name": "SECLAF",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://pitgroup.org/seclaf/"
 }

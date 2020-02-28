@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Calculate statistics of protein properties.",

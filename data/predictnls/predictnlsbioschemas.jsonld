@@ -28,10 +28,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_3510"
         },
         {
-          "@id": "edam:topic_3510"
+          "@id": "edam:topic_0080"
         }
       ],
       "sc:author": "Murat Cokol",
@@ -60,8 +60,8 @@
       "sc:name": "PredictNLS",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "Columbia University",
-        "RostLab"
+        "RostLab",
+        "Columbia University"
       ],
       "sc:softwareHelp": {
         "@id": "https://rostlab.org/owiki/index.php/PredictNLS"

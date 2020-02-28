@@ -21,8 +21,8 @@
   "sc:name": "BLAT",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://genome.ucsc.edu/cgi-bin/hgBlat?command=start"
 }

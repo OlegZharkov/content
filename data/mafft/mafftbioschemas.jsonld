@@ -19,9 +19,9 @@
   "sc:license": "BSD-Source-Code",
   "sc:name": "MAFFT",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "http://mafft.cbrc.jp/alignment/server/index.html"
 }

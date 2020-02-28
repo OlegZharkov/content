@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC",
-    "UK MRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Alter the name or description of a sequence.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "descseq",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

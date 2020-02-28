@@ -16,8 +16,8 @@
   "sc:description": "Search against small molecules stored in Malaria Data database.",
   "sc:name": "Malaria Data Small Molecule Search",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "EMBL-EBI",

@@ -17,8 +17,8 @@
   "sc:name": "ResiCon",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://dworkowa.imdik.pan.pl/EP/ResiCon/"
 }

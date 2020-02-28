@@ -19,8 +19,8 @@
   "sc:name": "SMOPT",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://figshare.com/articles/SMOPT/5346169/1"
 }

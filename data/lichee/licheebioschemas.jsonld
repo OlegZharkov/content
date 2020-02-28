@@ -16,8 +16,8 @@
   "sc:name": "LICHeE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://viq854.github.io/lichee/"
 }

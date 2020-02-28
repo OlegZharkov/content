@@ -17,8 +17,8 @@
   "sc:name": "SEARCHGTr",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://clustermine360.ca/antiSMASH/Sequences/116/searchgtr/"
 }

@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK BBSRC",
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC",
     "UK MRC"
   ],
   "sc:description": "Search all sequence databases for an entry and retrieve it.",

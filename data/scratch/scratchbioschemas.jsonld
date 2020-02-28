@@ -27,7 +27,7 @@
       "sc:description": "Suite of protein structure software and servers for the prediction of secondary structure, solvent accessibility, disulphide bridges, stability effects of single amino acid mutations, disordered regions, domains, beta-residue and beta-strand pairings, amino acid contact maps, and tertiary structure.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2488"
+          "@id": "edam:operation_0267"
         },
         {
           "@id": "edam:operation_0303"
@@ -36,14 +36,14 @@
           "@id": "edam:operation_0471"
         },
         {
-          "@id": "edam:operation_0267"
+          "@id": "edam:operation_2488"
         }
       ],
       "sc:license": "Other",
       "sc:name": "SCRATCH",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://scratch.proteomics.ics.uci.edu/explanation.html"
