@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "SplicingViewer team",
-    "Qi Liu",
     "Huabin Hou",
+    "Qi Liu",
     "Linglin Zhou"
   ],
   "sc:additionalType": "Desktop application",

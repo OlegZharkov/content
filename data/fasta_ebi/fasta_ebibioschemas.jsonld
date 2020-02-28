@@ -20,8 +20,8 @@
   "sc:name": "FASTA (EBI)",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "University of Virginia",

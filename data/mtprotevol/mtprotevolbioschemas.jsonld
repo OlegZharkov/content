@@ -39,9 +39,9 @@
       ],
       "sc:name": "mtProtEvol",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioinfodbs.kantiana.ru/mtProtEvol/"
     }

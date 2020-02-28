@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/jali",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
+    "Web API",
     "Command-line tool",
-    "Web application",
-    "Web API"
+    "Web application"
   ],
   "sc:author": "Jens Stoye",
   "sc:description": "Alignment method for comparing a protein sequence to a protein family, represented by a multiple alignment. It can also be used for sensitive protein database searches. The algorithm is a generalization of the Smith-Waterman algorithm.",
@@ -24,8 +24,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "Bielefeld University",
     "BiBiServ",
+    "Bielefeld University",
     "CeBiTec"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/jali",

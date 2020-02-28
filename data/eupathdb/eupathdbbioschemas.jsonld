@@ -17,8 +17,8 @@
   "sc:name": "Eukaryotic Pathongen Database Resources (EuPathDB)",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://EuPathDB.org"
 }

@@ -15,8 +15,8 @@
   "sc:name": "UIcluster",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://genome.uiowa.edu/home.old/pubsoft/clustering/index.html",
   "sc:version": "3.0.5"

@@ -37,8 +37,8 @@
       "sc:name": "Geneid",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "Centre for Genomic Regulation (CRG), Parc de Recerca Biomedica (PRBB)",
       "sc:url": "http://genome.crg.es/software/geneid/index.html",

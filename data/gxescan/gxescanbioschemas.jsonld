@@ -17,8 +17,8 @@
   "sc:name": "GxEscan",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://biostats.usc.edu/software"
 }

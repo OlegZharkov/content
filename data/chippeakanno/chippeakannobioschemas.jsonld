@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/chippeakanno",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jianhong Ou",
-    "Lihua Julie Zhu"
+    "Lihua Julie Zhu",
+    "Jianhong Ou"
   ],
   "sc:additionalType": [
     "Library",
@@ -24,8 +24,8 @@
   "sc:name": "ChIPpeakAnno",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html",
   "sc:version": "3.8.7"

@@ -28,8 +28,8 @@
       "sc:name": "iSulf-Cys",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://app.aporc.org/iSulf-Cys/"
     },

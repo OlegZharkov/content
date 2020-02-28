@@ -16,8 +16,8 @@
   "sc:name": "Spotlite",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://cancer.unc.edu/majorlab/software.php"
 }

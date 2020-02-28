@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/nar/gku463",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/chipenrich",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Raymond G. Cavalcante",
@@ -22,10 +26,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1276"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1276"
         }
       ],
       "sc:additionalType": [
@@ -34,15 +38,15 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3572"
+          "@id": "edam:topic_3169"
         },
         {
-          "@id": "edam:topic_3169"
+          "@id": "edam:topic_3572"
         }
       ],
       "sc:citation": [
-        "pmcid:PMC4117744",
         "pubmed:24878920",
+        "pmcid:PMC4117744",
         {
           "@id": "https://doi.org/10.1093/nar/gku463"
         }
@@ -57,16 +61,12 @@
       "sc:license": "GPL-3.0",
       "sc:name": "chipenrich",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/chipenrich.html",
       "sc:version": "1.12.0"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gku463",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

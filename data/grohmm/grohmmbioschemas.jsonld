@@ -23,8 +23,8 @@
       "biotools:primaryContact": [
         "Venkat Malladi",
         "Tulip Nandu",
-        "Anusha Nagari",
-        "W. Lee Kraus"
+        "W. Lee Kraus",
+        "Anusha Nagari"
       ],
       "edam:has_input": [
         {
@@ -36,28 +36,28 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1017"
         },
         {
           "@id": "edam:data_2048"
         },
         {
-          "@id": "edam:data_3002"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_1017"
+          "@id": "edam:data_3002"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3308"
+          "@id": "edam:topic_3168"
         },
         {
-          "@id": "edam:topic_3168"
+          "@id": "edam:topic_3308"
         }
       ],
       "sc:citation": [
@@ -73,18 +73,18 @@
       "sc:description": "A pipeline for the analysis of GRO-seq data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2478"
+          "@id": "edam:operation_0415"
         },
         {
-          "@id": "edam:operation_0415"
+          "@id": "edam:operation_2478"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "groHMM",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/groHMM.html",
       "sc:version": "1.8.0"

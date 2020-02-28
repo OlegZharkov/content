@@ -19,9 +19,9 @@
   "sc:license": "Unlicense",
   "sc:name": "MAGenTA",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "https://vanopijnenlab.github.io/MAGenTA/"
 }

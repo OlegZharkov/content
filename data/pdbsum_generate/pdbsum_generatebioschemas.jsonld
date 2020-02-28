@@ -20,8 +20,8 @@
   "sc:description": "Generate a full set of PDBsum structural analyses.",
   "sc:name": "PDBsum Generate",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "EMBL-EBI",

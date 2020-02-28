@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-4694-3883",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/nar/gkn730",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-4694-3883",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/clima_2",
@@ -31,23 +31,23 @@
           "@id": "edam:data_2892"
         },
         {
-          "@id": "edam:data_0006"
+          "@id": "edam:data_1691"
         },
         {
-          "@id": "edam:data_1691"
+          "@id": "edam:data_0006"
         }
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:author": "Paolo Romano",
       "sc:citation": [
-        "pmcid:PMC2686526",
+        "pubmed:18927105",
         {
           "@id": "https://doi.org/10.1093/nar/gkn730"
         },
-        "pubmed:18927105"
+        "pmcid:PMC2686526"
       ],
       "sc:contributor": [
         "Ottavia Aresu",

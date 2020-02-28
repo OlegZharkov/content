@@ -44,27 +44,27 @@
           "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2423"
-        },
-        {
-          "@id": "edam:operation_3501"
-        },
-        {
           "@id": "edam:operation_3197"
         },
         {
           "@id": "edam:operation_3196"
         },
         {
+          "@id": "edam:operation_2423"
+        },
+        {
           "@id": "edam:operation_3233"
+        },
+        {
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:license": "Other",
       "sc:name": "MetaRanker",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "CBS",
       "sc:url": "http://cbs.dtu.dk/services/MetaRanker/",

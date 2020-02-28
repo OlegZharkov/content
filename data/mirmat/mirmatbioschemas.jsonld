@@ -20,8 +20,8 @@
   "sc:name": "MiRmat",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://mcube.nju.edu.cn/jwang/lab/soft/MiRmat/index.html"
 }

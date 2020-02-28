@@ -16,8 +16,8 @@
   "sc:name": "STEGO",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/dschlauch/stego"
 }

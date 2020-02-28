@@ -17,8 +17,8 @@
   "sc:name": "biojs-vis-feature",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "BioJS",
   "sc:url": "https://github.com/ljgarcia/biojs-vis-feature",

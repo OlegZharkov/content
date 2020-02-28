@@ -17,8 +17,8 @@
   "sc:name": "PipeAlign2",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.lbgi.fr/pipealign"
 }

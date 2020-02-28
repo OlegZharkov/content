@@ -14,8 +14,8 @@
   "sc:description": "Predicts the pathogenicity of amino acid substitutions.",
   "sc:name": "PON-P2",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "bils.se",

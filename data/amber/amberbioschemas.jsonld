@@ -16,8 +16,8 @@
   "sc:name": "AMBER",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://ambermd.org/"
 }

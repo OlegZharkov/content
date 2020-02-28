@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/isoem",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Sahar Al Seesi",
-    "Alex Zelikovsky",
+    "Igor Mandric",
     "Ion Mandoiu",
-    "Igor Mandric"
+    "Sahar Al Seesi",
+    "Alex Zelikovsky"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:21504602",

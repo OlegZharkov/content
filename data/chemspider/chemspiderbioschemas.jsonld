@@ -14,8 +14,8 @@
   "sc:description": "Various search options for searching the ChemSpider database.",
   "sc:name": "ChemSpider",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.chemspider.com/",

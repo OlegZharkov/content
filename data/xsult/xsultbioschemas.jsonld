@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKX421",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/xsult",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:28510698",
         "pmcid:PMC5793734",
+        "pubmed:28510698",
         {
           "@id": "https://doi.org/10.1093/NAR/GKX421"
         }
@@ -34,15 +38,11 @@
       ],
       "sc:name": "XSuLT",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://structure.bioc.cam.ac.uk/xsult/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKX421",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

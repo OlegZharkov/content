@@ -42,8 +42,8 @@
       "sc:name": "EffectiveCCBD",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "AT-CUBE",
       "sc:softwareHelp": {

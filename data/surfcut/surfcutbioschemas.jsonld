@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/S12915-019-0657-1",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://orcid.org/0000-0003-3643-3978",
       "@type": "schema:Person"
     },
@@ -25,8 +21,8 @@
       },
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pmcid:PMC6509810",
         "pubmed:31072374",
+        "pmcid:PMC6509810",
         {
           "@id": "https://doi.org/10.1186/S12915-019-0657-1"
         }
@@ -48,6 +44,10 @@
         "Mac"
       ],
       "sc:url": "https://github.com/sverger/SurfCut"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12915-019-0657-1",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

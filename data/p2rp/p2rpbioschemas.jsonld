@@ -27,9 +27,9 @@
       },
       "sc:name": "Predicted Prokaryotic Regulatory Proteins (P2RP)",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://www.p2rp.org/index.php?PHPSESSID=a025bb831c57e0ec4c48933ac0685725"
     },

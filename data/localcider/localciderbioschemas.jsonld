@@ -14,13 +14,17 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-4155-5729",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/localcider",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Rohit V. Pappu",
         {
           "@id": "http://orcid.org/0000-0002-4155-5729"
-        },
-        "Rohit V. Pappu"
+        }
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -38,14 +42,10 @@
       "sc:name": "localCIDER",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/Pappulab/localCIDER"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4155-5729",
-      "@type": "schema:Person"
     }
   ]
 }

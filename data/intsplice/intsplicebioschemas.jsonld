@@ -16,8 +16,8 @@
   "sc:name": "IntSplice",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.med.nagoya-u.ac.jp/neurogenetics/IntSplice/"
 }

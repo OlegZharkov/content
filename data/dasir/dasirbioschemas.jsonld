@@ -22,8 +22,8 @@
   "sc:description": "R package for programmatic retrieval of information from DAS servers.",
   "sc:name": "DASiR",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "BioConductor",

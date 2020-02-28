@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Bas Stringer",
   "sc:additionalType": [
-    "SPARQL endpoint",
-    "Web API",
     "Command-line tool",
-    "Workbench"
+    "Workbench",
+    "SPARQL endpoint",
+    "Web API"
   ],
   "sc:author": "Bas Stringer",
   "sc:contributor": "Albert Meroño Peñuela",

@@ -17,8 +17,8 @@
   "sc:name": "G-SESAME",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.clemson.edu/G-SESAME"
 }

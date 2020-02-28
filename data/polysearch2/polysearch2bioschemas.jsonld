@@ -27,9 +27,9 @@
       },
       "sc:name": "PolySearch2",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://polysearch.cs.ualberta.ca/"
     },

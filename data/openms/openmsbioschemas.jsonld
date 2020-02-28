@@ -19,12 +19,12 @@
   "sc:name": "OpenMS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "ETH Zürich",
     "Eberhard-Karls-Universität Tübingen",
+    "ETH Zürich",
     "Freie Universität Berlin"
   ],
   "sc:url": "http://www.openms.de",

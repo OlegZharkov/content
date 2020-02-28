@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-018-2459-9",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/GLUE",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -30,24 +34,20 @@
           "@id": "edam:operation_0564"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_0499"
         },
         {
-          "@id": "edam:operation_0499"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:license": "AGPL-3.0",
       "sc:name": "GLUE",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://tools.glue.cvr.ac.uk/#/home"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-018-2459-9",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

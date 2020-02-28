@@ -15,8 +15,8 @@
   "sc:name": "Ensemble NMF",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://mlg.ucd.ie/nmf",
   "sc:version": "0.91"

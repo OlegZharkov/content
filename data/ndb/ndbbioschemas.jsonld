@@ -17,8 +17,8 @@
   "sc:name": "Nucleic Acid Database (NDB)",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://ndbserver.rutgers.edu/"
 }

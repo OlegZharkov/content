@@ -17,8 +17,8 @@
   "sc:name": "oGNM",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://ignm.ccbb.pitt.edu/GNM_Online_Calculation.htm"
 }

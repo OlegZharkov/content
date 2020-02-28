@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:25349885",
         "pmcid:PMC4251038",
+        "pubmed:25349885",
         {
           "@id": "https://doi.org/10.1186/1471-2105-15-S11-S10"
         }

@@ -18,10 +18,10 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Suite",
       "sc:citation": [
+        "pmcid:PMC4863143",
         {
           "@id": "https://doi.org/10.1038/srep25749"
         },
-        "pmcid:PMC4863143",
         "pubmed:27167008"
       ],
       "sc:contributor": {
@@ -35,8 +35,8 @@
       "sc:name": "miARma-Seq",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://miarmaseq.idoproteins.com/",
       "sc:version": "1.7.2"

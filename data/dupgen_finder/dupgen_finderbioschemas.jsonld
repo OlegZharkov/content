@@ -27,8 +27,8 @@
       },
       "sc:name": "DupGen_finder",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/qiao-xin/DupGen_finder"
     },

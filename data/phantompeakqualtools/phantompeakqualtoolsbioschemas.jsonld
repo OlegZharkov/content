@@ -39,10 +39,10 @@
       "sc:description": "This package computes quick but highly informative enrichment and quality measures for ChIP-seq/DNase-seq/FAIRE-seq/MNase-seq data. It can also be used to obtain robust estimates of the predominant fragment length or characteristic tag shift values in these assays.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3218"
+          "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3218"
         }
       ],
       "sc:license": "MIT",

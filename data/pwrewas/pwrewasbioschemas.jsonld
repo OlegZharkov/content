@@ -18,8 +18,8 @@
   "sc:name": "pwrEWAS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://biostats-shinyr.kumc.edu/pwrEWAS/"
 }

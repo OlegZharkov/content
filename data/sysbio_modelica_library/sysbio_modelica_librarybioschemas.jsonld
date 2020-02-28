@@ -13,10 +13,10 @@
   "biotools:primaryContact": "Miha Moškon",
   "sc:additionalType": "Library",
   "sc:author": [
-    "Miha Moškon",
-    "Damjana Rozman",
     "Miha Mraz",
-    "Tanja Cvitanović"
+    "Tanja Cvitanović",
+    "Miha Moškon",
+    "Damjana Rozman"
   ],
   "sc:contributor": [
     "Adviti Naik",

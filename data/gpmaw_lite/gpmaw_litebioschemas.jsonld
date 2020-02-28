@@ -16,8 +16,8 @@
   "sc:name": "GPMAW lite",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.alphalyse.com/gpmaw_lite.html"
 }

@@ -16,8 +16,8 @@
   "sc:name": "lncRNAtor",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://lncrnator.ewha.ac.kr/"
 }

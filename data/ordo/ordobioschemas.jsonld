@@ -21,8 +21,8 @@
   "sc:name": "ORDO",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "Inserm US14",
   "sc:url": "http://www.ebi.ac.uk/ols/ontologies/ordo",

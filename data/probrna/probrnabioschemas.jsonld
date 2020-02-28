@@ -16,8 +16,8 @@
   "sc:name": "ProbRNA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://hkbic.cuhk.edu.hk/software/probrna"
 }

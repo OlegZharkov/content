@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ancorr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Galina Kravatskaya",
     "Vladimir Chechetkin",
+    "Galina Kravatskaya",
     "Youri Kravatsky"
   ],
   "sc:additionalType": "Web service",

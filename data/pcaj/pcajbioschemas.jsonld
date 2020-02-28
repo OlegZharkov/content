@@ -15,8 +15,8 @@
   "sc:name": "PCAj",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://kumasakanatsuhiko.jp/projects/pcaj/"
 }

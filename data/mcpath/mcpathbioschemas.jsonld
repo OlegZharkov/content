@@ -17,8 +17,8 @@
   "sc:name": "MCPath",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://safir.prc.boun.edu.tr/clbet_server"
 }

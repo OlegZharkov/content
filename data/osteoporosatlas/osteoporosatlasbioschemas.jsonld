@@ -17,8 +17,8 @@
         "Dong Li"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:31086734",
@@ -40,8 +40,8 @@
       "sc:name": "OsteoporosAtlas",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://biokb.ncpsb.org/osteoporosis/"
     },

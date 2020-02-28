@@ -33,19 +33,19 @@
       "sc:license": "CECILL-B",
       "sc:name": "myGenomeBrowser",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://bbric-pipelines.toulouse.inra.fr/myGenomeBrowser"
     },
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btw800",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-2348-0778",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btw800",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

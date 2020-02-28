@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/epiScanpy",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Maria Colomé-Tatché",
-    "Fabian J. Theis"
+    "Fabian J. Theis",
+    "Maria Colomé-Tatché"
   ],
   "sc:additionalType": "Library",
   "sc:description": "Epigenomics Single Cell Analysis in Python.",
@@ -20,8 +20,8 @@
   "sc:name": "epiScanpy",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/colomemaria/epiScanpy"
 }

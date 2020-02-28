@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/oligoclasses",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Benilton Carvalho",
-    "Robert Scharpf"
+    "Robert Scharpf",
+    "Benilton Carvalho"
   ],
   "sc:additionalType": [
     "Library",
@@ -22,9 +22,9 @@
   "sc:license": "GPL-2.0",
   "sc:name": "oligoClasses",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/oligoClasses.html",
   "sc:version": "1.36.0"

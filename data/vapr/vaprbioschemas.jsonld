@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/vapr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Amanda Birmingham",
     "Adam Mark",
-    "Kathleen Fisch"
+    "Kathleen Fisch",
+    "Amanda Birmingham"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Efficient population-scale variant analysis and prioritization.",

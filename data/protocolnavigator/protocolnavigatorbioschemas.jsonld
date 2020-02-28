@@ -16,8 +16,8 @@
   "sc:name": "ProtocolNavigator",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://protocolnavigator.org/"
 }

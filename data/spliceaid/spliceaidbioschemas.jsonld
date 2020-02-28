@@ -21,8 +21,8 @@
       "sc:name": "SpliceAid",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.introni.it/splicing.html"
     },

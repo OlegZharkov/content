@@ -17,8 +17,8 @@
   "sc:name": "ModMap",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://acgt.cs.tau.ac.il/modmap/"
 }

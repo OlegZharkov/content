@@ -14,8 +14,8 @@
   "sc:description": "Identifies microbial operational taxonomic units (OTUs) from metagenomic data.",
   "sc:name": "PhylOTU",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://github.com/sharpton/PhylOTU"

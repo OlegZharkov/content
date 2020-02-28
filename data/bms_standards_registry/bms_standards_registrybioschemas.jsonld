@@ -19,8 +19,8 @@
   "sc:name": "BMS standards registry",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://molgenis08.target.rug.nl",
   "sc:version": "1"

@@ -28,8 +28,8 @@
       "sc:name": "Phenobook",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://getphenobook.com/"
     },

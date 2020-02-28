@@ -17,8 +17,8 @@
   "sc:name": "PREX",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.csb.wfu.edu/prex/"
 }

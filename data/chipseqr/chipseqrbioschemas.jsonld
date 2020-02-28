@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-3331-6496"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -37,9 +37,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "ChIPseqR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ChIPseqR.html",
       "sc:version": "1.28.0"

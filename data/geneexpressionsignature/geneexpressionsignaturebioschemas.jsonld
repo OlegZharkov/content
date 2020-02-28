@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/geneexpressionsignature",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Yang Cao",
+    "Lu Han",
     "Fei Li",
-    "Lu Han"
+    "Yang Cao"
   ],
   "sc:additionalType": [
     "Library",
@@ -24,8 +24,8 @@
   "sc:name": "GeneExpressionSignature",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/GeneExpressionSignature.html",
   "sc:version": "1.20.0"

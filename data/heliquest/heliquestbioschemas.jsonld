@@ -17,8 +17,8 @@
   "sc:name": "HELIQUEST",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://heliquest.ipmc.cnrs.fr"
 }

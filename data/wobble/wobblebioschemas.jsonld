@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
     "UK BBSRC",
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK MRC"
   ],
   "sc:description": "Plot third base position variability in a nucleotide sequence.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "wobble",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

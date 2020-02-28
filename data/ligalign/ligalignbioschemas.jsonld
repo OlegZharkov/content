@@ -17,8 +17,8 @@
   "sc:name": "LigAlign",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://compbio.cs.toronto.edu/ligalign/"
 }

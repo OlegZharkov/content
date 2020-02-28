@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/appris",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Michael Tress",
-    "Jose Rodriguez"
+    "Jose Rodriguez",
+    "Michael Tress"
   ],
   "sc:additionalType": [
     "Web API",
@@ -25,9 +25,9 @@
   "sc:funder": "ISCIII",
   "sc:name": "APPRIS",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "cnio.es",

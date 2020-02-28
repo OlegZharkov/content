@@ -17,8 +17,8 @@
   "sc:name": "FPBioimage",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://fpb.ceb.cam.ac.uk/"
 }

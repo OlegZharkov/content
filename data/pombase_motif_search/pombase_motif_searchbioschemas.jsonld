@@ -16,9 +16,9 @@
   "sc:description": "Search PomBase protein set for a given motif.",
   "sc:name": "PomBase Motif search",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "Sanger Institute",

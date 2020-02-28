@@ -19,8 +19,8 @@
   "sc:description": "A Node.js wrapper for the Burrow-Wheeler Aligner (BWA).",
   "sc:name": "bionode-bwa",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://github.com/bionode/bionode-bwa",

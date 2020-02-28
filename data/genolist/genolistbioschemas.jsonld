@@ -21,10 +21,10 @@
           "@id": "edam:data_1868"
         },
         {
-          "@id": "edam:data_2739"
+          "@id": "edam:data_1026"
         },
         {
-          "@id": "edam:data_1026"
+          "@id": "edam:data_2739"
         }
       ],
       "edam:has_output": [
@@ -38,18 +38,18 @@
       "sc:additionalType": "Database portal",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0797"
+          "@id": "edam:topic_0621"
         },
         {
-          "@id": "edam:topic_0621"
+          "@id": "edam:topic_0797"
         }
       ],
       "sc:citation": [
-        "pubmed:18032431",
         {
           "@id": "https://doi.org/10.1093/nar/gkm1042"
         },
-        "pmcid:PMC2238853"
+        "pmcid:PMC2238853",
+        "pubmed:18032431"
       ],
       "sc:description": "An integrated environment for the analysis of microbial genomes.",
       "sc:featureList": {

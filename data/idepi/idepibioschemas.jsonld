@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "IDEPI",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/veg/idepi"
     }

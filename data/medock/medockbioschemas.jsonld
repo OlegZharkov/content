@@ -17,8 +17,8 @@
   "sc:name": "MEDock",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://medock.ee.ncku.edu.tw/"
 }

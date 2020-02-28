@@ -15,8 +15,8 @@
   "sc:name": "FaST-LMM",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.microsoft.com/en-us/research/project/fastlmm/"
 }

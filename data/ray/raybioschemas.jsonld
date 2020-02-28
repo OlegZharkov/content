@@ -14,10 +14,10 @@
   "sc:additionalType": "Command-line tool",
   "sc:author": "Sébastien Boisvert",
   "sc:contributor": [
-    "Élénie Godzaridis",
-    "Frédéric Raymond",
     "Jacques Corbeil",
+    "Élénie Godzaridis",
     "Canadian Institutes of Health Research (CIHR), and other",
+    "Frédéric Raymond",
     "François Laviolette"
   ],
   "sc:description": "De novoassembly of single genomes and metagenomes. Also analyses microbe abundance and performs taxonomic profiling as well as making gene ontology profiling. It can also compare genomic content between samples.",
@@ -25,16 +25,16 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Ray",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
+    "1065, av. de la Médecine, Québec (Québec), G1V 0A6, Canada",
     "Infectious Diseases Research Center, CHUQ Research Center",
     "NTNU",
-    "Department of Molecular Medicine, Faculty of Medicine, Laval University",
     "Faculty of Medicine, Laval University, 1050, av. de la Médecine, Québec (Québec), G1V 0A6, Canada",
-    "1065, av. de la Médecine, Québec (Québec), G1V 0A6, Canada"
+    "Department of Molecular Medicine, Faculty of Medicine, Laval University"
   ],
   "sc:url": "http://denovoassembler.sourceforge.net",
   "sc:version": "2.3.1"

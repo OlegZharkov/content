@@ -16,13 +16,13 @@
   "sc:name": "EMMA2",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "CeBiTec",
+    "bigi",
     "Bielefeld University",
-    "bigi"
+    "CeBiTec"
   ],
   "sc:url": "http://emma.cebitec.uni-bielefeld.de",
   "sc:version": "2.8.2"

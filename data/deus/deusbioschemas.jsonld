@@ -22,8 +22,8 @@
   "sc:name": "DEUS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://ibis.helmholtz-muenchen.de/deus/"
 }

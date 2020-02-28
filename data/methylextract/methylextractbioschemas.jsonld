@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Ricardo Lebrón",
-    "Michael Hackenberg",
     "Guillermo Barturen",
+    "Michael Hackenberg",
     "José L. Oliver"
   ],
   "sc:additionalType": "Command-line tool",

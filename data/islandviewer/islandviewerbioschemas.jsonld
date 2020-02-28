@@ -17,8 +17,8 @@
   "sc:name": "IslandViewer 4",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.pathogenomics.sfu.ca/islandviewer/"
 }

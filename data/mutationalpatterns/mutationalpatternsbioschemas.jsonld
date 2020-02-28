@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mutationalpatterns",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Roel Janssen",
-    "Francis Blokzijl"
+    "Francis Blokzijl",
+    "Roel Janssen"
   ],
   "sc:additionalType": [
     "Command-line tool",
@@ -22,9 +22,9 @@
   "sc:license": "MIT",
   "sc:name": "MutationalPatterns",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html",
   "sc:version": "1.0.0"

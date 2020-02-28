@@ -19,8 +19,8 @@
   "sc:name": "ESP",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://evs.gs.washington.edu/EVS/"
 }

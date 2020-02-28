@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/genegeneinter",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Magalie Houee-Bigot",
-    "Mathieu Emily"
+    "Mathieu Emily",
+    "Magalie Houee-Bigot"
   ],
   "sc:additionalType": [
     "Library",
@@ -23,8 +23,8 @@
   "sc:name": "GeneGeneInteR",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/GeneGeneInteR.html",
   "sc:version": "1.0.0"

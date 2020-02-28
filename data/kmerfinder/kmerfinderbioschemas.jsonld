@@ -19,9 +19,9 @@
       "biotools:primaryContact": "Ole Lund",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC3911411",
         "pubmed:24172157",
         "pubmed:24574292",
+        "pmcid:PMC3911411",
         {
           "@id": "https://doi.org/10.1128/JCM.02452-13"
         }

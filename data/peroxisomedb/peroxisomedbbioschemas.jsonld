@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/peroxisomedb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Agatha Schlüter",
-        "Aurora Pujol"
+        "Aurora Pujol",
+        "Agatha Schlüter"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -33,16 +33,16 @@
           "@id": "edam:operation_0477"
         },
         {
-          "@id": "edam:operation_0324"
+          "@id": "edam:operation_0554"
         },
         {
-          "@id": "edam:operation_0554"
+          "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_3092"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_0324"
         }
       ],
       "sc:license": "Unlicense",

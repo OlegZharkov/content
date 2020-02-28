@@ -19,9 +19,9 @@
   "sc:license": "Unlicense",
   "sc:name": "PROMO",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "http://acgt.cs.tau.ac.il/promo/"
 }

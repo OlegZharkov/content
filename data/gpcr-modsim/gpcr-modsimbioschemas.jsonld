@@ -16,8 +16,8 @@
   "sc:name": "GPCR-ModSim",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://open.gpcr-modsim.org/"
 }

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/Open_Targets",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Database portal",
+    "Web service",
     "Web application",
-    "Web service"
+    "Database portal"
   ],
   "sc:citation": [
     "pmcid:PMC5210543",
@@ -23,9 +23,9 @@
   "sc:license": "Unlicense",
   "sc:name": "Open Targets",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "https://www.opentargets.org/"
 }

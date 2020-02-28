@@ -20,8 +20,8 @@
   "sc:name": "BNBR",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/siamakz/BNBR"
 }

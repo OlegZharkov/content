@@ -18,14 +18,14 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "cropPAL",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
-    "The University of Western Australia",
     "unimelb.edu.au",
-    "ARC Centre of Excellence in Plant Energy Biology"
+    "ARC Centre of Excellence in Plant Energy Biology",
+    "The University of Western Australia"
   ],
   "sc:url": "http://crop-pal.org/"
 }

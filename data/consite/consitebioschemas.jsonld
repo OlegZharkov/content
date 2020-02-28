@@ -17,8 +17,8 @@
   "sc:name": "Consite",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://consite.genereg.net/"
 }

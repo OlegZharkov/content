@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1101/gr.094052.109",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/admixture",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -31,10 +35,6 @@
         "Linux"
       ],
       "sc:url": "http://software.genetics.ucla.edu/admixture/"
-    },
-    {
-      "@id": "https://doi.org/10.1101/gr.094052.109",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

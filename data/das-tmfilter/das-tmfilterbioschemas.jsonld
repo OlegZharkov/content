@@ -17,8 +17,8 @@
   "sc:name": "DAS-TMfilter",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://mendel.imp.ac.at/sat/DAS/DAS.html"
 }

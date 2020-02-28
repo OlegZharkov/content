@@ -17,8 +17,8 @@
   "sc:name": "STREAM",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://stream.imb.uq.edu.au/"
 }

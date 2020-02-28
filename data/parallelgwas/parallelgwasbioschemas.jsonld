@@ -17,8 +17,8 @@
   "sc:name": "parallelGWAS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://en.osdn.jp/projects/parallelgwas/"
 }

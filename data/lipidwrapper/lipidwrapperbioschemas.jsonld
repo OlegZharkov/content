@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1003720",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/lipidwrapper",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Rommie E. Amaro",
@@ -36,14 +40,10 @@
       "sc:name": "LipidWrapper",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://rocce-vm0.ucsd.edu/data/sw/hosted/lipidwrapper/"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1003720",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

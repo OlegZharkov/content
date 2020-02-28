@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkt1126",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/centrosomedb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Joan Segura",
@@ -45,6 +41,10 @@
       ],
       "sc:provider": "cnb.csic.es",
       "sc:url": "http://centrosome.cnb.csic.es/human/centrosome"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkt1126",
+      "@type": "sc:CreativeWork"
     }
   ]
 }
