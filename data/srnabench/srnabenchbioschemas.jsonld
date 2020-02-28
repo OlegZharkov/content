@@ -27,18 +27,18 @@
           "@id": "edam:operation_3792"
         },
         {
-          "@id": "edam:operation_0463"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_0463"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "sRNAbench",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://bioinfo5.ugr.es/srnatoolbox/srnabench/"
     },

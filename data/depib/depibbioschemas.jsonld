@@ -15,13 +15,13 @@
       "biotools:primaryContact": "Eric Charpentier",
       "sc:additionalType": "Workflow",
       "sc:author": [
+        {
+          "@id": "https://orcid.org/0000-0002-8689-2083"
+        },
+        "Erwan Delage",
         "Eric Charpentier",
         {
           "@id": "https://orcid.org/0000-0003-3237-7382"
-        },
-        "Erwan Delage",
-        {
-          "@id": "https://orcid.org/0000-0002-8689-2083"
         }
       ],
       "sc:citation": "pubmed:30977188",

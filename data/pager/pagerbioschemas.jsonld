@@ -31,9 +31,9 @@
       },
       "sc:name": "PAGER",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://discovery.informatics.uab.edu/PAGER/"
     }

@@ -20,12 +20,12 @@
   "sc:name": "Pratt",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL-EBI",
-    "University of Bergen"
+    "University of Bergen",
+    "EMBL-EBI"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/pfa/pratt/",
   "sc:version": "1"

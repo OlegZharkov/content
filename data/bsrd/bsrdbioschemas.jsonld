@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/bsrd",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Hoi Shan KWAN",
-        "Lei LI"
+        "Lei LI",
+        "Hoi Shan KWAN"
       ],
       "sc:additionalType": "Database portal",
       "sc:citation": [
@@ -30,9 +30,9 @@
       },
       "sc:name": "BSRD",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://kwanlab.bio.cuhk.edu.hk/BSRD/"
     },

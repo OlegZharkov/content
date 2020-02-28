@@ -36,8 +36,8 @@
       "sc:license": "Not licensed",
       "sc:name": "Oryzabase",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://shigen.nig.ac.jp/rice/oryzabase/"

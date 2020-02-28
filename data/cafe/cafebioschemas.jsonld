@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Sander Bollen",
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "Detection and visualizations of gross chromosomal aberrations using Affymetrix expression microarrays as input.",
   "sc:license": "GPL-3.0",
   "sc:name": "CAFE",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/CAFE.html",

@@ -19,8 +19,8 @@
   "sc:name": "Altered Pathway Analyzer",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinfo.icgeb.res.in/APA/",
   "sc:version": "3.0"

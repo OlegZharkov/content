@@ -17,8 +17,8 @@
   "sc:name": "iHSP-PseRAAAC",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://lin.uestc.edu.cn/server/iHSP-PseRAAAC"
 }

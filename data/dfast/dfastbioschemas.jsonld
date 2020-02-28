@@ -20,8 +20,8 @@
   "sc:name": "DFAST",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://dfast.nig.ac.jp/"
 }

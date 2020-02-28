@@ -17,8 +17,8 @@
   "sc:name": "CAPIU",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.mpimp-golm.mpg.de/research-projects-publications/tools-services/capiu"
 }

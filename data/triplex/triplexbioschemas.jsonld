@@ -29,8 +29,8 @@
       "sc:name": "triplex",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/triplex.html",
       "sc:version": "1.14.0"

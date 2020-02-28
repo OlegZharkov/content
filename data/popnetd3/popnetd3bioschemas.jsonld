@@ -17,8 +17,8 @@
   "sc:license": "Unlicense",
   "sc:name": "PopNetD3",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://compsysbio.org/popnetd3"

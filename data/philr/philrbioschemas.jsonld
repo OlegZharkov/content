@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-3063-2098"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {

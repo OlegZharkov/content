@@ -16,8 +16,8 @@
   "sc:name": "GeneGenie",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://g.gene-genie.appspot.com"
 }

@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/beatmusic",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dimitri Gilis",
     "Yves Dehouck",
+    "Marianne Rooman",
     "Jean Marc Kwasigroch",
-    "Marianne Rooman"
+    "Dimitri Gilis"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:23723246",

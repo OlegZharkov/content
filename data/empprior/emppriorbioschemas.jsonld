@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-016-1132-4",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/empprior",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -47,6 +43,10 @@
     {
       "@id": "http://orcid.org/0000-0002-1447-8633",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-016-1132-4",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

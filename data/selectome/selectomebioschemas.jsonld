@@ -21,10 +21,10 @@
           "@id": "edam:data_1075"
         },
         {
-          "@id": "edam:data_1868"
+          "@id": "edam:data_0842"
         },
         {
-          "@id": "edam:data_0842"
+          "@id": "edam:data_1868"
         }
       ],
       "edam:has_output": [
@@ -32,10 +32,10 @@
           "@id": "edam:data_0916"
         },
         {
-          "@id": "edam:data_0872"
+          "@id": "edam:data_2093"
         },
         {
-          "@id": "edam:data_2093"
+          "@id": "edam:data_0872"
         }
       ],
       "sc:additionalType": "Database portal",

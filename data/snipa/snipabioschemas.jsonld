@@ -16,8 +16,8 @@
   "sc:name": "SNiPA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://snipa.helmholtz-muenchen.de/snipa/"
 }

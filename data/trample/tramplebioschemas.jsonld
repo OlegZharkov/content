@@ -17,8 +17,8 @@
   "sc:name": "TRAMPLE",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://gpcr.biocomp.unibo.it/biodec/"
 }

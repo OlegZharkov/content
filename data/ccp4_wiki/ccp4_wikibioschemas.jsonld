@@ -15,8 +15,8 @@
   "sc:name": "CCP4 Wiki",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "Instruct",
   "sc:url": "http://ccp4wiki.org"

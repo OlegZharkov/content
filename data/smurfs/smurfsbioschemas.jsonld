@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/smurfs",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Souparno Ghosh",
-    "Joshua Mayer"
+    "Joshua Mayer",
+    "Souparno Ghosh"
   ],
   "sc:additionalType": "Script",
   "sc:description": "Sequential feature selection and inference using multi-variate random forests.",

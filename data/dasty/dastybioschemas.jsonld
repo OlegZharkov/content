@@ -23,8 +23,8 @@
   "sc:description": "Visualization and integration of protein sequence feature annotations via DAS.",
   "sc:name": "DASty",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "EMBL-EBI",

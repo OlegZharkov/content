@@ -16,9 +16,9 @@
   ],
   "sc:author": "David Sehnal",
   "sc:contributor": [
-    "Deepti Jaiswal",
     "Radka Svobodová Vařeková",
     "Lukáš Pravda",
+    "Deepti Jaiswal",
     "Crina-Maria Ionescu"
   ],
   "sc:description": "A web application for validation of annotation of ligands and \nresidues.",

@@ -18,8 +18,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "RNAsamba",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://rnasamba.lge.ibi.unicamp.br/",

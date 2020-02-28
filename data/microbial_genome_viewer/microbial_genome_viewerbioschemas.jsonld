@@ -17,8 +17,8 @@
   "sc:name": "Microbial Genome Viewer",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.cmbi.ru.nl/MGV/"
 }

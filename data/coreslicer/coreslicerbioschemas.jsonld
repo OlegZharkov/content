@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12880-019-0316-6",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/CoreSlicer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Louis Mullie",
@@ -32,11 +28,15 @@
       "sc:license": "MIT",
       "sc:name": "CoreSlicer",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://coreslicer.com/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12880-019-0316-6",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

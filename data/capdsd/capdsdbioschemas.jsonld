@@ -17,8 +17,8 @@
   "sc:name": "capDSD",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://dsd.cs.tufts.edu/capdsd/"
 }

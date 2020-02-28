@@ -15,8 +15,8 @@
   "sc:name": "pdb-tools",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://code.google.com/p/pdb-tools/",
   "sc:version": "0.2.1"

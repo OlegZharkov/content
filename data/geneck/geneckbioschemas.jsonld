@@ -33,8 +33,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "GeNeCK",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://lce.biohpc.swmed.edu/geneck",

@@ -17,8 +17,8 @@
   "sc:name": "The Osprey Network Visualization System",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://biodata.mshri.on.ca/osprey"
 }

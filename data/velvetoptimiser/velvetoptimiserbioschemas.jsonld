@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/velvetoptimiser",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Australia",
+    "Simon Gladman",
     "Torsten Seemann",
-    "Simon Gladman"
+    "Australia"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:author": [
@@ -28,8 +28,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "unimelb.edu.au",
-    "University of Melbourne"
+    "University of Melbourne",
+    "unimelb.edu.au"
   ],
   "sc:url": "https://github.com/Slugger70/VelvetOptimiser",
   "sc:version": "2.2.5"

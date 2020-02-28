@@ -22,23 +22,23 @@
         "Dennis Lal"
       ],
       "sc:additionalType": [
-        "Web service",
-        "Web application"
+        "Web application",
+        "Web service"
       ],
       "sc:citation": [
+        "pubmed:31114901",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ411"
         },
-        "pmcid:PMC6602488",
-        "pubmed:31114901"
+        "pmcid:PMC6602488"
       ],
       "sc:description": "Interactive web server to explore and retrieve gene and disease variants aggregated in ClinVar database.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_3436"
         },
         {
           "@id": "edam:operation_3461"
@@ -48,8 +48,8 @@
       "sc:name": "Simple ClinVar",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://simple-clinvar.broadinstitute.org/"
     }

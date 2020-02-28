@@ -16,8 +16,8 @@
   "sc:name": "pLink-SS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://pfind.ict.ac.cn/software/pLink/2014/pLink-SS.html"
 }

@@ -11,12 +11,12 @@
   "@id": "https://bio.tools/Collector",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Oriol L. Massaguer",
-    "Manuel Pastor"
+    "Manuel Pastor",
+    "Oriol L. Massaguer"
   ],
   "sc:additionalType": [
-    "Desktop application",
     "Web service",
+    "Desktop application",
     "Web application"
   ],
   "sc:description": "Tool that allows extracting from the Open PHACTS Discovery platform series of compounds annotated with experimental data that can be used directly for building QSAR predictive models.",
@@ -24,8 +24,8 @@
   "sc:name": "Collector",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://phi.upf.edu/collector/"
 }

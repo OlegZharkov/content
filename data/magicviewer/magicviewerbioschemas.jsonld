@@ -11,11 +11,11 @@
   "@id": "https://bio.tools/magicviewer",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Zhongsheng Sun",
-    "Huabin Hou",
-    "Linglin Zhou",
     "Jinyu Wu",
-    "Erle Zhu"
+    "Linglin Zhou",
+    "Huabin Hou",
+    "Erle Zhu",
+    "Zhongsheng Sun"
   ],
   "sc:additionalType": "Desktop application",
   "sc:description": "Large-scale short reads and sequencing depth visualization.",

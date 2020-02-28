@@ -16,10 +16,10 @@
       "sc:additionalType": "Library",
       "sc:citation": [
         "pmcid:PMC6546077",
-        "pubmed:31183256",
         {
           "@id": "https://doi.org/10.7717/peerj.7008"
-        }
+        },
+        "pubmed:31183256"
       ],
       "sc:description": "R package for QTL mapping using longitudinal phenotypes.",
       "sc:featureList": [
@@ -37,8 +37,8 @@
       "sc:name": "Funmap2",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/wzhy2000/Funmap2",
       "sc:version": "2.4.2"

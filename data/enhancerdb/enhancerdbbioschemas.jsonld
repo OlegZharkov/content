@@ -10,17 +10,21 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/database/bay141",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/EnhancerDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Z. Guo",
       "sc:additionalType": [
-        "Database portal",
+        "Web API",
         "Web application",
-        "Web API"
+        "Database portal"
       ],
       "sc:citation": [
-        "pmcid:PMC6344666",
         "pubmed:30689845",
+        "pmcid:PMC6344666",
         {
           "@id": "https://doi.org/10.1093/database/bay141"
         }
@@ -39,15 +43,11 @@
       ],
       "sc:name": "EnhancerDB",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://lcbb.swjtu.edu.cn/EnhancerDB/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/database/bay141",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Marco Galardini",
-    "Emanuele Bosi",
-    "Marco Fondi"
+    "Marco Fondi",
+    "Emanuele Bosi"
   ],
   "sc:additionalType": [
     "Web application",

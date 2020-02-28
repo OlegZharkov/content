@@ -16,16 +16,16 @@
     "Olivier Sallou"
   ],
   "sc:contributor": [
-    "Lydie Lane",
     "Paula P. Duek",
-    "Olivier Collin"
+    "Olivier Collin",
+    "Lydie Lane"
   ],
   "sc:description": "A gene expression-based prioritization system to help investigators to determine in which human tissues they should look for an unseen protein.",
   "sc:name": "PepPSy",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "http://peppsy.genouest.org"
 }

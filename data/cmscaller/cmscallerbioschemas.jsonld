@@ -15,8 +15,8 @@
   "sc:description": "Consensus molecular subtyping of colorectal cancer pre-clinical models.",
   "sc:name": "CMScaller",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://github.com/Lothelab/CMScaller"

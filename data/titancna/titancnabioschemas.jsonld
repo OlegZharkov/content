@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1101/gr.180281.114",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/titancna",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -19,8 +23,8 @@
         "Sohrab P Shah"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:25060187",
@@ -44,9 +48,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "TitanCNA",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/TitanCNA.html",
       "sc:version": "1.16.0"
@@ -54,10 +58,6 @@
     {
       "@id": "http://orcid.org/0000-0001-7578-7272",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1101/gr.180281.114",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -14,8 +14,8 @@
   "sc:description": "Visualizing millions of cells.",
   "sc:name": "FlowSOM",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "ugent.be",

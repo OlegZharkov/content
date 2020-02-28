@@ -15,9 +15,9 @@
     "Dr. Paul Ramsland"
   ],
   "sc:additionalType": [
-    "Web service",
     "Script",
-    "Web application"
+    "Web application",
+    "Web service"
   ],
   "sc:description": "Python tool for integration of protein structure and sequence-based features.",
   "sc:license": "MIT",

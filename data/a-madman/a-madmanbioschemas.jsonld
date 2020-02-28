@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/a-madman",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Andrea Bisognin",
-    "Stefania Bortoluzzi"
+    "Stefania Bortoluzzi",
+    "Andrea Bisognin"
   ],
   "sc:additionalType": [
     "Command-line tool",
@@ -22,8 +22,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "A-MADMAN",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-PADOVA",

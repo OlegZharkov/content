@@ -17,8 +17,8 @@
   "sc:name": "Clustergrammer",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://maayanlab.github.io/CCLE_Clustergrammer/"
 }

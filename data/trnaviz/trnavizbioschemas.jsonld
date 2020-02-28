@@ -30,17 +30,17 @@
       "sc:description": "Web application for exploring and visualizing tRNA sequence features.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0464"
+          "@id": "edam:operation_1812"
         },
         {
-          "@id": "edam:operation_1812"
+          "@id": "edam:operation_0464"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "tRNAviz",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://trna.ucsc.edu/tRNAviz/summary/"

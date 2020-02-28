@@ -20,9 +20,9 @@
     "Windows"
   ],
   "sc:provider": [
-    "bigi",
+    "Bielefeld University",
     "CeBiTec",
-    "Bielefeld University"
+    "bigi"
   ],
   "sc:url": "http://emma.cebitec.uni-bielefeld.de",
   "sc:version": "2.8.2"

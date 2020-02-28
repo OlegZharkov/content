@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC",
-    "EMBOSS Contributors"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Get ontology term(s) by id with common parent.",
   "sc:funder": [
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "ontogetsibs",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/ontogetsibs.html",
   "sc:version": "r6"

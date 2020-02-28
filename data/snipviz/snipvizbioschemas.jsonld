@@ -28,9 +28,9 @@
       "sc:license": "Apache-2.0",
       "sc:name": "SnipViz",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/yeastrc/snipviz"
     },

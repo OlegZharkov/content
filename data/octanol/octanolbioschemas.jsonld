@@ -13,15 +13,15 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC",
-    "EMBOSS Contributors"
+    "UK BBSRC"
   ],
   "sc:description": "Draw a White-Wimley protein hydropathy plot.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "octanol",

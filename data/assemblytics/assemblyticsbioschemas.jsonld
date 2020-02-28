@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "Assemblytics",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://assemblytics.com/"

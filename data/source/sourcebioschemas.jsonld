@@ -17,8 +17,8 @@
   "sc:name": "SOURCE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://source.stanford.edu"
 }

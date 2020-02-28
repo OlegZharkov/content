@@ -18,8 +18,8 @@
   "sc:description": "Explorable, interactive human proteome database, including MS/MS data.",
   "sc:name": "ProteomicsDB",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://www.proteomicsdb.org/"

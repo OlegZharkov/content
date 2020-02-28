@@ -15,8 +15,8 @@
   "sc:name": "GOrilla",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://cbl-gorilla.cs.technion.ac.il"
 }

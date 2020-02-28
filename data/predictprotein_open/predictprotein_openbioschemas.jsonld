@@ -13,8 +13,8 @@
   "biotools:primaryContact": "PredictProtein Help Desk",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Laszlo Kajan",
-    "Guy Yachdav"
+    "Guy Yachdav",
+    "Laszlo Kajan"
   ],
   "sc:contributor": [
     "Alexander von Humboldt foundation through the German Ministry for Research and Education",
@@ -26,9 +26,9 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "PredictProtein Open",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
     "RostLab",

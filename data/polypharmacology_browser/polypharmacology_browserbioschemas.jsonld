@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/PolyPharmacology_Browser",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Prof. Jean Louis Reymond",
-        "Mahendra Awale"
+        "Mahendra Awale",
+        "Prof. Jean Louis Reymond"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -38,9 +38,9 @@
       ],
       "sc:name": "PPB",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://gdbtools.unibe.ch:8080/PPB/"
     },

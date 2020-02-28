@@ -24,8 +24,8 @@
       },
       "sc:additionalType": [
         "Web application",
-        "Command-line tool",
-        "Web API"
+        "Web API",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -57,8 +57,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "REPuter",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "BiBiServ",
       "sc:softwareHelp": {

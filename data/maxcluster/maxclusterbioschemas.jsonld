@@ -26,9 +26,9 @@
       },
       "sc:name": "MaxCluster",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.sbg.bio.ic.ac.uk/~maxcluster"
     },

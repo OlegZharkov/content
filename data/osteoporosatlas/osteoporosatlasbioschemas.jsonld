@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/OsteoporosAtlas",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Dong Li",
-        "Yang Li"
+        "Yang Li",
+        "Dong Li"
       ],
       "sc:additionalType": [
         "Web application",
@@ -30,10 +30,10 @@
       "sc:description": "Human osteoporosis-related gene database.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_2495"
         }
       ],
       "sc:license": "Unlicense",

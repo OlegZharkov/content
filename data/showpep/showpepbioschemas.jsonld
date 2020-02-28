@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC",
     "EMBOSS Contributors",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:description": "Display protein sequences with features in pretty format.",
   "sc:funder": [
-    "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "showpep",

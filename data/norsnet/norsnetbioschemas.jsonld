@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/norsnet",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:author": "Avner Schlessinger",
   "sc:citation": "pubmed:17658943",
@@ -27,8 +27,8 @@
   "sc:name": "NorsNet",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "University of California San Diego",
     "Columbia University",
+    "University of California San Diego",
     "RostLab"
   ],
   "sc:url": "http://ppopen.informatik.tu-muenchen.de/",

@@ -20,8 +20,8 @@
   "sc:name": "RIscoper",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.rna-society.org/riscoper/"
 }

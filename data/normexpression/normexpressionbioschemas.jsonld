@@ -33,9 +33,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "NormExpression",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/NormExpression/index.html"
     },

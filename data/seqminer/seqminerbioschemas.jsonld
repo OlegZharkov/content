@@ -16,8 +16,8 @@
   "sc:name": "seqMINER",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bips.u-strasbg.fr/seqminer/tiki-index.php"
 }

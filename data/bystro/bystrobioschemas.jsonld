@@ -16,8 +16,8 @@
   "sc:name": "Bystro",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://bystro.io/"
 }

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-1448-2509",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.3389/fgene.2015.00092",
       "@type": "sc:CreativeWork"
     },
@@ -52,6 +48,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/normalize450K.html",
       "sc:version": "1.2.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-1448-2509",
+      "@type": "schema:Person"
     }
   ]
 }

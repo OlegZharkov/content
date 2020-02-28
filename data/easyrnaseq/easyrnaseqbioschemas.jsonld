@@ -35,9 +35,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "easyRNASeq",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/easyRNASeq.html",
       "sc:version": "2.10.0"

@@ -20,9 +20,9 @@
   "sc:license": "GPL-2.0",
   "sc:name": "methylGSA",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "https://bioconductor.org/packages/methylGSA"
 }

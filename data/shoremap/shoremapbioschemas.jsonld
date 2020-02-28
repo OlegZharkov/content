@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/shoremap",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Korbinian Schneeberger",
+    "Contact form",
     "Hequan Sun",
-    "Contact form"
+    "Korbinian Schneeberger"
   ],
   "sc:additionalType": "Suite",
   "sc:citation": "pubmed:19644454",
@@ -21,8 +21,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "SHOREmap",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://1001genomes.org/software/shoremap.html"

@@ -12,14 +12,14 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Desktop application",
-    "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:description": "HYPERbolic phyloGENY viewer allows hyperbolic visualisation of very large tree structures.",
   "sc:name": "HyperGeny",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "ugent.be",

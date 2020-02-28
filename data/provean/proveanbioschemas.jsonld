@@ -16,8 +16,8 @@
   "sc:name": "PROVEAN",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://provean.jcvi.org/index.php"
 }

@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Process the REBASE database for use by restriction enzyme applications.",
@@ -27,8 +27,8 @@
   "sc:name": "rebaseextract",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

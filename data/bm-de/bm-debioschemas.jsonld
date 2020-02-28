@@ -17,8 +17,8 @@
   "sc:name": "BM-DE",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://health.bsd.uchicago.edu/yji/soft.html"
 }

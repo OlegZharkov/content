@@ -19,8 +19,8 @@
   "sc:name": "EGA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "EMBL-EBI Databases",
   "sc:url": "https://ega-archive.org/"

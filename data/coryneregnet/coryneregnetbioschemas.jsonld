@@ -26,20 +26,20 @@
       "sc:description": "Reference database and analysis platform for corynebacterial transcription factors and gene regulatory networks.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3439"
+        },
+        {
           "@id": "edam:operation_0338"
         },
         {
           "@id": "edam:operation_2497"
-        },
-        {
-          "@id": "edam:operation_3439"
         }
       ],
       "sc:name": "CoryneRegNet",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": "bmb.sdu.dk",
       "sc:url": "http://www.coryneregnet.de"

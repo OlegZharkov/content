@@ -21,8 +21,8 @@
         "Johannes Geiselmann"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -34,18 +34,18 @@
       "sc:description": "Web application for the analysis of fluorescent reporter gene data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_1812"
         },
         {
-          "@id": "edam:operation_1812"
+          "@id": "edam:operation_3799"
         }
       ],
       "sc:license": "Proprietary",
       "sc:name": "WellInverter",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://team.inria.fr/ibis/wellinverter/"
     }

@@ -17,8 +17,8 @@
         "Nadia Davidson"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -34,8 +34,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "GOseq",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/goseq.html",

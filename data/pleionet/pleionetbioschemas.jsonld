@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "PleioNet",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://www.pleionet.com/"

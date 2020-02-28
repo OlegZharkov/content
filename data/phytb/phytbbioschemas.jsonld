@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Coll F",
-        "Clark TG",
-        "Benavente ED"
+        "Benavente ED",
+        "Clark TG"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
@@ -35,8 +35,8 @@
       },
       "sc:name": "PhyTB",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/phylotrack/"

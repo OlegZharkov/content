@@ -15,8 +15,8 @@
   "sc:name": "PageMan",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://mapman.gabipd.org/web/guest/pageman",
   "sc:version": "0.12"

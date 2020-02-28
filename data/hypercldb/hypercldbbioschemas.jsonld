@@ -24,23 +24,23 @@
       ],
       "sc:additionalType": "Web application",
       "sc:author": [
-        "Beatrice Iannotta",
-        "Paolo Romano",
         "Domenico Marra",
-        "Massimiliano Armento"
+        "Massimiliano Armento",
+        "Paolo Romano",
+        "Beatrice Iannotta"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/nar/gkn730"
         },
+        "pubmed:7763741",
         "pmcid:PMC2686526",
-        "pubmed:18927105",
-        "pubmed:7763741"
+        "pubmed:18927105"
       ],
       "sc:contributor": [
-        "Leonardo Santi",
         "Tiziana Ruzzon",
         "Ottavia Aresu",
+        "Leonardo Santi",
         "Barbara Parodi"
       ],
       "sc:description": "The hypertextual version of the Cell Line Database (CLDB), which is not directly accessible, a collection of information on human and animal cell lines available from some of the main European cell banks and many Italian research laboratories",

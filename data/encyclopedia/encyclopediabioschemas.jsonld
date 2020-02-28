@@ -18,8 +18,8 @@
   "sc:name": "EncyclopeDIA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://bitbucket.org/searleb/encyclopedia/",
   "sc:version": "0.8.1"

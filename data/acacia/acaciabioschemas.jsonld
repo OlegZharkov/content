@@ -17,8 +17,8 @@
   "sc:name": "ACACIA",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://gitlab.com/psc_santos/ACACIA"
 }
