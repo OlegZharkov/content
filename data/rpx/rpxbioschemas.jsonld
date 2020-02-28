@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Laurent Gatto",
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "This package implements an interface to proteomics data submitted to the ProteomeXchange consortium.",
   "sc:license": "GPL-2.0",
   "sc:name": "rpx",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/rpx.html",

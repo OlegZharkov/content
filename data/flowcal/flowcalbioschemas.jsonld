@@ -18,8 +18,8 @@
         {
           "@id": "https://doi.org/10.1021/acssynbio.5b00284"
         },
-        "pubmed:27110723",
-        "pmcid:PMC5556937"
+        "pmcid:PMC5556937",
+        "pubmed:27110723"
       ],
       "sc:description": "A Python package that can be used to calibrate flow cytometry data as well as automatically gate data, calculate common statistics, and produce publication quality plots.",
       "sc:featureList": {
@@ -28,8 +28,8 @@
       "sc:license": "MIT",
       "sc:name": "FlowCal",
       "sc:operatingSystem": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/taborlab/FlowCal",
       "sc:version": "1.2.0"

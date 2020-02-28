@@ -16,8 +16,8 @@
   "sc:name": "LifeWatchGreece MicroCT vLab",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://microct.portal.lifewatchgreece.eu/",
   "sc:version": "1"

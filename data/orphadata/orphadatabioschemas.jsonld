@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Marc Hanauer",
   "sc:additionalType": [
-    "Database portal",
+    "SPARQL endpoint",
     "Web API",
-    "SPARQL endpoint"
+    "Database portal"
   ],
   "sc:contributor": [
     "Céline Rousselot",
@@ -24,9 +24,9 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "Orphadata",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "Inserm US14",

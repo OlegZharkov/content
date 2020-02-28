@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/nar/gkm218",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/inforna",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -45,10 +49,10 @@
       ],
       "sc:citation": [
         "pubmed:17452349",
-        "pmcid:PMC1933236",
         {
           "@id": "https://doi.org/10.1093/nar/gkm218"
-        }
+        },
+        "pmcid:PMC1933236"
       ],
       "sc:description": "RNA sequence design by inverse folding.",
       "sc:featureList": {
@@ -58,8 +62,8 @@
       "sc:name": "INFORNA Sequence Design",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
         "University Freiburg",
@@ -70,10 +74,6 @@
       },
       "sc:url": "http://rna.informatik.uni-freiburg.de/INFORNA/",
       "sc:version": "2.2.0"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkm218",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

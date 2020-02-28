@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/featurecounts",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Wei Shi",
     "Gordon K Smyth",
+    "Wei Shi",
     "Yang Liao"
   ],
   "sc:additionalType": "Command-line tool",

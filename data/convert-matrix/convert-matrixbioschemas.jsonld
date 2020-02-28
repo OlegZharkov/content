@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkn304",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-8799-8584",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkn304",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/convert-matrix",
@@ -31,8 +31,8 @@
       },
       "sc:additionalType": [
         "Web service",
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3511"
@@ -53,8 +53,8 @@
       "sc:name": "convert-matrix",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "RSAT",
       "sc:softwareHelp": {

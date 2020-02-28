@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s13059-019-1641-3",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/dStruct",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -39,15 +43,11 @@
       "sc:license": "BSD-2-Clause",
       "sc:name": "dStruct",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://github.com/AviranLab/dStruct"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s13059-019-1641-3",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

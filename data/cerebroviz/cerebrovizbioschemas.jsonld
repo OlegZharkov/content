@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Ethan Bahl",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC5870797",
         "pubmed:28011779",
+        "pmcid:PMC5870797",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btw726"
         }

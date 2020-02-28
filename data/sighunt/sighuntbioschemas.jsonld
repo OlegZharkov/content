@@ -16,8 +16,8 @@
   "sc:name": "SigHunt",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.iba.muni.cz/index-en.php?pg=research--data-analysis-tools--sighunt"
 }

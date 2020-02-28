@@ -31,10 +31,10 @@
       "sc:description": "Python Package for Predicting Functional Non-coding Mutations in Cancer Patient Cohorts.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3202"
+          "@id": "edam:operation_0477"
         },
         {
-          "@id": "edam:operation_0477"
+          "@id": "edam:operation_3202"
         }
       ],
       "sc:name": "BayesPI-BAR2",

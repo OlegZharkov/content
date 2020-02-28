@@ -29,8 +29,8 @@
       "sc:name": "chngpt",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/chngpt/",
       "sc:version": "2018.6-2"

@@ -27,8 +27,8 @@
       },
       "sc:name": "TANRIC",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioinformatics.mdanderson.org/main/TANRIC:Overview"

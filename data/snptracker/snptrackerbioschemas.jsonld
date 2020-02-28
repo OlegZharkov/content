@@ -19,8 +19,8 @@
   "sc:name": "SnpTracker",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://statgenpro.psychiatry.hku.hk/limx/snptracker/"
 }

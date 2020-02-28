@@ -21,9 +21,9 @@
     "Linux"
   ],
   "sc:provider": [
+    "UniProt Consortium",
     "EMBL-EBI",
-    "NCBI",
-    "UniProt Consortium"
+    "NCBI"
   ],
   "sc:url": "http://www.uniprot.org/blast/",
   "sc:version": "1"

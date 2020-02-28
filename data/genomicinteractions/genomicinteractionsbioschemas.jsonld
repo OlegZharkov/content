@@ -23,8 +23,8 @@
   "sc:name": "GenomicInteractions",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/GenomicInteractions.html",
   "sc:version": "1.8.1"

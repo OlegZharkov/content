@@ -24,8 +24,8 @@
   "sc:name": "KinVis",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://shiny-vis.qcri.org/public/kinvis/"
 }

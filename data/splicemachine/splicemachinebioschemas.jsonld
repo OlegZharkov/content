@@ -14,8 +14,8 @@
   "sc:description": "Splice site prediction.",
   "sc:name": "SpliceMachine",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "ugent.be",

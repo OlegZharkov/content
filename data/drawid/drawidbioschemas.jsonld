@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.3897/CompCytogen.v11i4.20830",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/drawid",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Ilya Kirov",
@@ -29,14 +33,10 @@
       "sc:name": "DRAWID",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.drawid.xyz/"
-    },
-    {
-      "@id": "https://doi.org/10.3897/CompCytogen.v11i4.20830",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

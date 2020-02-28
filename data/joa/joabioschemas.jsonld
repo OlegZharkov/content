@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Burcak Otlu",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:30849961",
         "pmcid:PMC6408804",
+        "pubmed:30849961",
         {
           "@id": "https://doi.org/10.1186/s12859-019-2698-4"
         }
@@ -32,8 +32,8 @@
       ],
       "sc:name": "JOA",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://joa.readthedocs.org"
     },

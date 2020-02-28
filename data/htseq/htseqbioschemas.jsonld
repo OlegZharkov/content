@@ -17,8 +17,8 @@
   "sc:name": "HTSeq",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://htseq.readthedocs.io/en/release_0.9.1/"
 }

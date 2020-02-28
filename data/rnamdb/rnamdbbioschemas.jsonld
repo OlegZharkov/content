@@ -17,8 +17,8 @@
   "sc:name": "The RNA Modification Database (RNAMDB)",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://mods.rna.albany.edu/"
 }

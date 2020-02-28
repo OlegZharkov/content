@@ -16,8 +16,8 @@
   "sc:name": "GenomeD3Plot",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/brinkmanlab/GenomeD3Plot"
 }

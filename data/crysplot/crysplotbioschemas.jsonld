@@ -17,8 +17,8 @@
   "sc:name": "CRYSPLOT",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://crysplot.crystalsolutions.eu"
 }

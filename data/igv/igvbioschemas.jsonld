@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/igv",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "IGV GitHub issues",
     "IGV support",
+    "IGV GitHub issues",
     "IGV help group"
   ],
   "sc:additionalType": "Desktop application",
@@ -21,8 +21,8 @@
   "sc:name": "IGV",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.broadinstitute.org/igv/"
 }

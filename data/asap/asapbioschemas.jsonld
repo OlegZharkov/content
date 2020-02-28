@@ -20,8 +20,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "ASAP",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "binf.ku.dk",

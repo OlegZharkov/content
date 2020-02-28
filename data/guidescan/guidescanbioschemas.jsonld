@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/guidescan",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Developers",
     "Andrea Ventura",
+    "Developers",
     "Christina Leslie"
   ],
   "sc:additionalType": "Web application",

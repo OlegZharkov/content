@@ -17,8 +17,8 @@
   "sc:name": "metano",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://metano.tu-bs.de/",
   "sc:version": "1.0"

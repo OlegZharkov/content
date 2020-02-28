@@ -18,8 +18,8 @@
   "sc:license": "Other",
   "sc:name": "fineSTRUCTURE",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://paintmychromosomes.com/"

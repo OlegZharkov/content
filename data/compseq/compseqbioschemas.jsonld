@@ -12,27 +12,27 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust",
-    "EMBOSS Contributors"
-  ],
-  "sc:description": "Calculate the composition of unique words in sequences.",
-  "sc:funder": [
+    "EMBOSS Contributors",
     "Wellcome Trust",
     "UK MRC",
     "UK BBSRC"
+  ],
+  "sc:description": "Calculate the composition of unique words in sequences.",
+  "sc:funder": [
+    "UK MRC",
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "compseq",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/compseq.html",
   "sc:version": "r6"

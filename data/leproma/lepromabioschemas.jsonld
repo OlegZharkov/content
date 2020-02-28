@@ -15,8 +15,8 @@
   "sc:name": "Mycobacterium leprae genome database",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://genolist.pasteur.fr/Leproma/"
 }

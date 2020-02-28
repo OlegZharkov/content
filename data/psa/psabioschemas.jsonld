@@ -15,8 +15,8 @@
   "sc:name": "PSA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bmerc-www.bu.edu/psa/request.htm"
 }

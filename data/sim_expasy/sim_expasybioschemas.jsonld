@@ -16,8 +16,8 @@
   "sc:name": "SIM (ExPASy)",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://web.expasy.org/sim/"
 }

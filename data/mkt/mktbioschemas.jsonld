@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mkt",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Raquel Egea",
     "Antonio Barbadilla",
+    "Raquel Egea",
     "Sonia Casillas"
   ],
   "sc:additionalType": "Web application",
@@ -21,8 +21,8 @@
   "sc:name": "MKT",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://mkt.uab.es"
 }

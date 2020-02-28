@@ -16,8 +16,8 @@
   "sc:name": "protr",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://cran.r-project.org/web/packages/protr/index.html"
 }

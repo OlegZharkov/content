@@ -21,16 +21,16 @@
         "Command-line tool"
       ],
       "sc:author": [
-        "Andrej Čopar",
         "Tomaž Curk",
         "Jernej Kernc",
-        "Janez Demšar",
         "Lan Žagar",
+        "Janez Demšar",
         "Anže Starič",
+        "Vesna Tanko",
         "Marko Toplak",
-        "Aleš Erjavec",
         "Martin Stražar",
-        "Vesna Tanko"
+        "Aleš Erjavec",
+        "Andrej Čopar"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -40,9 +40,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Orange",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:provider": [
         "Faculty of Computer and Information Science, University of Ljubljana, Slovenia",

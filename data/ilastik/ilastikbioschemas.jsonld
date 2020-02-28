@@ -16,8 +16,8 @@
   "sc:name": "ilastik",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.ilastik.org/index.html"
 }

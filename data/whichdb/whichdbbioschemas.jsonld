@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC",
-    "EMBOSS Contributors",
-    "UK MRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Search all sequence databases for an entry and retrieve it.",
   "sc:funder": [
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "whichdb",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

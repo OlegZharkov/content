@@ -19,8 +19,8 @@
         "@id": "edam:data_1255"
       },
       "sc:additionalType": [
-        "Workflow",
-        "Command-line tool"
+        "Command-line tool",
+        "Workflow"
       ],
       "sc:applicationSubCategory": [
         {
@@ -43,20 +43,20 @@
       "sc:description": "Self-Estimation Based Novel lincRNA Filter. Discovery of bona fide novel lincRNAs that are suitable for further functional characterization. Specifically, it implements an algorithm for identifying high-quality single-exonic lincRNAs that were often omitted in many studies.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
-        },
-        {
           "@id": "edam:operation_0314"
         },
         {
           "@id": "edam:operation_3192"
+        },
+        {
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:license": "BSL-1.0",
       "sc:name": "Sebnif",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://sunlab.lihs.cuhk.edu.hk/sebnif/",
       "sc:version": "1.3rc"

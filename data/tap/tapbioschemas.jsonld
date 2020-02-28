@@ -15,8 +15,8 @@
   "sc:description": "Validate the local torsion angles of a protein structure.",
   "sc:name": "TAP",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-PADOVA",

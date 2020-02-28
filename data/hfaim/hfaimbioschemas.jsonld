@@ -58,8 +58,8 @@
       "sc:name": "hfAIM",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "PSB",
       "sc:url": "http://bioinformatics.psb.ugent.be/hfAIM/",

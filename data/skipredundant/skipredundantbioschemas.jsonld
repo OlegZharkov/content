@@ -12,22 +12,22 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust",
-    "EMBOSS Contributors"
-  ],
-  "sc:description": "Remove redundant sequences from an input set.",
-  "sc:funder": [
+    "EMBOSS Contributors",
     "Wellcome Trust",
     "UK BBSRC",
     "UK MRC"
   ],
+  "sc:description": "Remove redundant sequences from an input set.",
+  "sc:funder": [
+    "UK MRC",
+    "UK BBSRC",
+    "Wellcome Trust"
+  ],
   "sc:license": "GPL-3.0",
   "sc:name": "skipredundant",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

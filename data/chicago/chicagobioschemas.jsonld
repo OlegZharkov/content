@@ -14,18 +14,14 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1186/s13059-016-0992-2",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/chicago",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-0383-3943"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4908757",
@@ -47,6 +43,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Chicago.html",
       "sc:version": "1.2.0"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s13059-016-0992-2",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

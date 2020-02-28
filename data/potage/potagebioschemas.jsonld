@@ -24,8 +24,8 @@
   "sc:name": "POTAGE",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "University of Adelaide",
   "sc:url": "https://github.com/CroBiA/potage"

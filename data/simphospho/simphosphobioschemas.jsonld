@@ -11,16 +11,16 @@
   "@id": "https://bio.tools/SimPhospho",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Garry L Corthals",
-    "Veronika Suni"
+    "Veronika Suni",
+    "Garry L Corthals"
   ],
   "sc:additionalType": "Desktop application",
   "sc:description": "Software tool enabling confident phosphosite assignment.",
   "sc:license": "Unlicense",
   "sc:name": "SimPhospho",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://sourceforge.net/projects/simphospho/"

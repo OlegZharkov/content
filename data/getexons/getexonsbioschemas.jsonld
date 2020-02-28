@@ -15,8 +15,8 @@
   "sc:description": "Get the exons of a set of transcripts.",
   "sc:name": "getexons",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://urgi.versailles.inra.fr/Tools/REPET",

@@ -17,8 +17,8 @@
   "sc:name": "PaPI",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://papi.unipv.it/"
 }

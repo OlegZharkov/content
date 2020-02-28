@@ -17,8 +17,8 @@
   "sc:name": "FlyBase",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://flybase.org/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "AgBase",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.agbase.msstate.edu/"
 }

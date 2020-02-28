@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1038/nprot.2015.124",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/exomiser",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -33,10 +37,10 @@
           "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_2403"
+          "@id": "edam:operation_3695"
         },
         {
-          "@id": "edam:operation_3695"
+          "@id": "edam:operation_2403"
         }
       ],
       "sc:license": "GPL-3.0",
@@ -47,10 +51,6 @@
         "Mac"
       ],
       "sc:url": "http://www.sanger.ac.uk/science/tools/exomiser"
-    },
-    {
-      "@id": "https://doi.org/10.1038/nprot.2015.124",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

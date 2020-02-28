@@ -23,14 +23,14 @@
       "sc:citation": "pubmed:22804825",
       "sc:contributor": [
         "Marta Iannuccelli",
-        "Francesca Sacco",
-        "Livia Perfetto"
+        "Livia Perfetto",
+        "Francesca Sacco"
       ],
       "sc:description": "Online web resource for recovering information about human phosphatases.",
       "sc:name": "Hupho",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:provider": [

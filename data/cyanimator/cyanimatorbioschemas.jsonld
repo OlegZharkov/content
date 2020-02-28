@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-0290-7979",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.12688/F1000RESEARCH.6852.2",
       "@type": "sc:CreativeWork"
     },
@@ -25,10 +21,10 @@
       },
       "sc:additionalType": "Plug-in",
       "sc:citation": [
+        "pmcid:PMC4752027",
         {
           "@id": "https://doi.org/10.12688/F1000RESEARCH.6852.2"
         },
-        "pmcid:PMC4752027",
         "pubmed:26937268"
       ],
       "sc:description": "Simple animations of Cytoscape networks.",
@@ -38,12 +34,16 @@
       "sc:license": "GPL-3.0",
       "sc:name": "CyAnimator",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.cgl.ucsf.edu/cytoscape/CyAnimator/index.shtml",
       "sc:version": "2.1.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-0290-7979",
+      "@type": "schema:Person"
     }
   ]
 }

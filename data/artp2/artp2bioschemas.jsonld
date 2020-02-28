@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Division of Cancer Epidemiology and Genetics (DCEG), NCI",
-    "Han Zhang",
-    "Kai Yu"
+    "Kai Yu",
+    "Han Zhang"
   ],
   "sc:additionalType": [
     "Web application",
@@ -23,8 +23,8 @@
   "sc:description": "Adaptive Rank Truncated Product is an R package for analyzing pre-defined genetic pathway based on a genetic association study.",
   "sc:name": "ARTP2",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://dceg.cancer.gov/tools/analysis/artp"

@@ -20,8 +20,8 @@
   "sc:name": "SOM",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/bougui505/SOM"
 }

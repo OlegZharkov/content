@@ -23,8 +23,8 @@
   "sc:name": "eDGAR",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://edgar.biocomp.unibo.it"
 }

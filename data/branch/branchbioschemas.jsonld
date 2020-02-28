@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "Branch",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "https://bitbucket.org/sulab/biobranch/src/default/"

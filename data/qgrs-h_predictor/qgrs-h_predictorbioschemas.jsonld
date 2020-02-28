@@ -17,8 +17,8 @@
   "sc:name": "QGRS-H Predictor",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://quadruplex.ramapo.edu/qgrs/app/start"
 }

@@ -17,8 +17,8 @@
   "sc:name": "E-scape",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://www.nature.com/articles/nmeth.4303"
 }

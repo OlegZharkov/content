@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-1959-8199",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/narrowpeaks",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -33,16 +37,12 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "NarrowPeaks",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/NarrowPeaks.html",
       "sc:version": "1.18.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-1959-8199",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1186/s13059-015-0597-1",

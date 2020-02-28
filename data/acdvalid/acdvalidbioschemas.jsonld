@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:description": "Validate an application ACD file.",
   "sc:funder": [

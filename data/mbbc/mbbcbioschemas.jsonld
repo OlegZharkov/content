@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/mbbc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Haiyan Hu",
         "Ying Wang",
+        "Haiyan Hu",
         "Xiaoman Li"
       ],
       "sc:additionalType": "Desktop application",

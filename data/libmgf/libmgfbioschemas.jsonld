@@ -16,8 +16,8 @@
   "sc:name": "libmgf",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://kirchnerlab.github.io/libmgf/"
 }

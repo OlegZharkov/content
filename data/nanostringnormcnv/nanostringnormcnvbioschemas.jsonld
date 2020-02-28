@@ -16,8 +16,8 @@
   "sc:name": "NanoStringNormCNV",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://labs.oicr.on.ca/boutros-lab/software/nanostringnormcnv"
 }

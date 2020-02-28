@@ -16,8 +16,8 @@
   "sc:name": "shinyGEO",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://gdancik.github.io/shinyGEO/"
 }

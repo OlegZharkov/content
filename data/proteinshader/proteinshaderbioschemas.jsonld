@@ -15,8 +15,8 @@
   "sc:name": "ProteinShader beta",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://proteinshader.sourceforge.net/",
   "sc:version": "0.9.4"

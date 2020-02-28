@@ -28,18 +28,18 @@
       "sc:description": "Animal Social Networks Repository - repository of interaction data from published studies of wild, captive, and domesticated animals.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3562"
+          "@id": "edam:operation_3766"
         },
         {
-          "@id": "edam:operation_3766"
+          "@id": "edam:operation_3562"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "ASNR",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://bansallab.github.io/asnr/"
     }

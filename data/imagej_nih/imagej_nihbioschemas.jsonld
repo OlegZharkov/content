@@ -17,8 +17,8 @@
   "sc:description": "Public domain Java image processing program inspired by NIH Image for the Macintosh. It was designed with an open architecture that provides extensibility via Java plugins.",
   "sc:name": "ImageJ (NIH)",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "IFB ELIXIR-FR",

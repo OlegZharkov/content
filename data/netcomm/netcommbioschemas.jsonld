@@ -16,8 +16,8 @@
   "sc:name": "NetComm",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.shawlab.org/NetComm/"
 }

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1101/GR.247353.118",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/EpiProfileLite",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -47,6 +43,10 @@
     {
       "@id": "https://orcid.org/0000-0001-9073-6641",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1101/GR.247353.118",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

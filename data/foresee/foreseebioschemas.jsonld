@@ -18,8 +18,8 @@
   "sc:name": "FORESEE",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://osf.io/rf6qk/"
 }

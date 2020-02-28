@@ -10,20 +10,24 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-8879-3954",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/phyloseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0001-8879-3954"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
+        "pmcid:PMC3632530",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0061217"
         },
-        "pmcid:PMC3632530",
         "pubmed:23630581"
       ],
       "sc:description": "Provides a set of classes and tools to facilitate the import, storage, analysis, and graphical display of microbiome census data.",
@@ -42,15 +46,11 @@
       "sc:name": "phyloseq",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/phyloseq.html",
       "sc:version": "1.19.1"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-8879-3954",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1371/journal.pone.0061217",

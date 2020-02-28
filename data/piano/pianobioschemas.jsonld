@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-4153-5354",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/piano",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0003-4153-5354"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC3632109",
@@ -37,12 +33,16 @@
       "sc:license": "GPL-2.0",
       "sc:name": "piano",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/piano.html",
       "sc:version": "1.14.4"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-4153-5354",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/nar/gkt111",

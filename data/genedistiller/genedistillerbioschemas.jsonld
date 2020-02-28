@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/journal.pone.0003874",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/genedistiller",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:19057649",
         "pmcid:PMC2587712",
+        "pubmed:19057649",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0003874"
         }
@@ -31,15 +35,11 @@
       ],
       "sc:name": "GeneDistiller",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.genedistiller.org"
-    },
-    {
-      "@id": "https://doi.org/10.1371/journal.pone.0003874",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

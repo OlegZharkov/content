@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/dominoeffect",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Peter Blattmann",
-    "Marija Buljan"
+    "Marija Buljan",
+    "Peter Blattmann"
   ],
   "sc:additionalType": "Library",
   "sc:description": "The functions support identification and annotation of hotspot residues in proteins. These are individual amino acids that accumulate mutations at a much higher rate than their surrounding regions.",

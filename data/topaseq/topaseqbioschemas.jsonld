@@ -15,10 +15,10 @@
       "biotools:primaryContact": "Ivana Ihnatova",
       "edam:has_input": [
         {
-          "@id": "edam:data_2600"
+          "@id": "edam:data_2603"
         },
         {
-          "@id": "edam:data_2603"
+          "@id": "edam:data_2600"
         }
       ],
       "edam:has_output": [
@@ -35,13 +35,13 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0602"
-        },
-        {
           "@id": "edam:topic_3170"
         },
         {
           "@id": "edam:topic_3308"
+        },
+        {
+          "@id": "edam:topic_0602"
         }
       ],
       "sc:citation": [

@@ -16,13 +16,13 @@
     "Milos Musil"
   ],
   "sc:contributor": [
-    "Jiri Damborsky",
-    "David Bednar",
     "Tomas Martinek",
-    "Jaroslav Bendl",
-    "Jan Brezovsky",
     "Zbynek Prokop",
-    "Jaroslav Zendulka"
+    "Jan Brezovsky",
+    "Jaroslav Zendulka",
+    "Jiri Damborsky",
+    "Jaroslav Bendl",
+    "David Bednar"
   ],
   "sc:description": "FireProt is a web server for an automated design of thermostable mutants. The design of thermostable mutants is based on the integration of structural and evolutionary information obtained from several bioinformatics databases and computational tools.",
   "sc:license": "Proprietary",

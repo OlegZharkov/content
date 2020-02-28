@@ -22,13 +22,13 @@
   "sc:description": "Analysis of surfaces of protein structures.",
   "sc:name": "arDock",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
-    "CNRS",
-    "UCBL"
+    "UCBL",
+    "CNRS"
   ],
   "sc:url": "http://ardock.ibcp.fr",
   "sc:version": "0.9"

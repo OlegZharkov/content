@@ -28,10 +28,10 @@
       "sc:description": "R package for the quantitative exploration of elastic net families for generalized linear models.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_3659"
         },
         {
-          "@id": "edam:operation_3659"
+          "@id": "edam:operation_3799"
         }
       ],
       "sc:license": "GPL-3.0",

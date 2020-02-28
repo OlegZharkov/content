@@ -20,8 +20,8 @@
   "sc:name": "Wave-Crest",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/lengning/WaveCrest"
 }

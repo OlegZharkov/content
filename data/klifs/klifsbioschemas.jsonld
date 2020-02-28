@@ -15,21 +15,21 @@
     "Dr. Albert J. Kooistra"
   ],
   "sc:additionalType": [
-    "Web API",
+    "Database portal",
     "Command-line tool",
-    "Web application",
-    "Database portal"
+    "Web API",
+    "Web application"
   ],
   "sc:author": [
-    "Chris de Graaf",
     "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
-    "Albert J. Kooistra",
+    "Georgi K. Kanev",
     "Oscar P.J. van Linden",
-    "Georgi K. Kanev"
+    "Chris de Graaf",
+    "Albert J. Kooistra"
   ],
   "sc:contributor": [
-    "Netherlands eScience Center (NLeSC)",
     "Iwan J.P. de Esch",
+    "Netherlands eScience Center (NLeSC)",
     "Rob Leurs",
     "Amsterdam Academic Alliance"
   ],
@@ -40,9 +40,9 @@
   ],
   "sc:name": "KLIFS",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "Vrije Universiteit Amsterdam",

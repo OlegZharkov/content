@@ -17,8 +17,8 @@
   "sc:name": "SparseSignatures",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/SparseSignatures.html",
   "sc:version": "1.0.0"

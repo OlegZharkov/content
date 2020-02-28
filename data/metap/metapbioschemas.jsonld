@@ -12,14 +12,14 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Support",
   "sc:additionalType": [
-    "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:description": "The server automates data analysis for the processing of metabolomics experiments.",
   "sc:name": "metaP",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://metap.helmholtz-muenchen.de/metap2/",

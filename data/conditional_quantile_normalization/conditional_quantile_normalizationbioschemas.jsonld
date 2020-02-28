@@ -19,8 +19,8 @@
   "sc:description": "A normalization tool for RNA-Seq data, implementing the conditional quantile normalization method.",
   "sc:name": "Conditional quantile normalization",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "sanger.ac.uk",

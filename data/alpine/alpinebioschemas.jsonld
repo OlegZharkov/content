@@ -42,8 +42,8 @@
       "sc:name": "alpine",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/alpine.html",
       "sc:version": "1.0.0"

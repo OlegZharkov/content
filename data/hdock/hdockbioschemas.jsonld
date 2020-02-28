@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkx407",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/hdock",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
@@ -34,10 +38,6 @@
       ],
       "sc:name": "HDOCK",
       "sc:url": "http://hdock.phys.hust.edu.cn/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkx407",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

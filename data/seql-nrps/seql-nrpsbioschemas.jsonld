@@ -28,8 +28,8 @@
       "sc:name": "SEQL-NRPS",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://services.birc.au.dk/seql-nrps/",
       "sc:version": "1.0"

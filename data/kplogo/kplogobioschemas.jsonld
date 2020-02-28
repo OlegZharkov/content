@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-0369-5269",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1093/nar/gkx323",
       "@type": "sc:CreativeWork"
     },
@@ -37,15 +41,11 @@
       "sc:license": "MIT",
       "sc:name": "kpLogo",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://kplogo.wi.mit.edu/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-0369-5269",
-      "@type": "schema:Person"
     }
   ]
 }

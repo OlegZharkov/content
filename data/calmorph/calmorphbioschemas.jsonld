@@ -17,8 +17,8 @@
   "sc:name": "CalMorph",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://scmd.gi.k.u-tokyo.ac.jp/datamine/calmorph/"
 }

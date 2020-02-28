@@ -17,8 +17,8 @@
   "sc:name": "cohorts",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.github.com/ngiangre/cohorts"
 }

@@ -20,8 +20,8 @@
   "sc:name": "The Arabidopsis information resource (TAIR)",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://arabidopsis.org/"
 }

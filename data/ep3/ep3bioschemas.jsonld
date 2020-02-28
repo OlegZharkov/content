@@ -17,8 +17,8 @@
   "sc:description": "Identification of the core region of a eukaryotic gene promoter.",
   "sc:name": "EP3",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "ugent.be",
