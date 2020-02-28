@@ -21,8 +21,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "FeatureCounts",
   "sc:operatingSystem": [
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/Rsubread.html"
 }

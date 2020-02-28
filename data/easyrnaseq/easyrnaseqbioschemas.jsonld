@@ -14,12 +14,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Nicolas Delhomme",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
-        "pubmed:22847932",
         "pmcid:PMC3463124",
+        "pubmed:22847932",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/bts477"
         }
@@ -31,8 +31,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "easyRNASeq",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/easyRNASeq.html",

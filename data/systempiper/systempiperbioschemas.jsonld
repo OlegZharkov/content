@@ -22,15 +22,15 @@
         "@id": "edam:data_1383"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_3169"
         },
         {
-          "@id": "edam:topic_3169"
+          "@id": "edam:topic_3170"
         }
       ],
       "sc:citation": [
@@ -52,9 +52,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "systemPipeR",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/systemPipeR.html",
       "sc:version": "1.8.1"

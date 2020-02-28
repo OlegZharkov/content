@@ -19,8 +19,8 @@
   "sc:name": "K-Fold",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",
   "sc:url": "http://folding.biofold.org/k-fold/",

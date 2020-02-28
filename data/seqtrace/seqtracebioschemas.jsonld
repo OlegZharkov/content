@@ -16,8 +16,8 @@
   "sc:name": "SeqTrace",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://code.google.com/p/seqtrace/"
 }

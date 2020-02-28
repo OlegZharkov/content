@@ -15,8 +15,8 @@
   "sc:name": "ClustalO UniProt",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.uniprot.org/align"
 }

@@ -16,8 +16,8 @@
   "sc:name": "GHOST",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.cs.cmu.edu/~ckingsf/software/ghost/index.html"
 }

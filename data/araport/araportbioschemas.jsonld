@@ -19,8 +19,8 @@
   "sc:license": "Not licensed",
   "sc:name": "Araport",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://www.araport.org/"

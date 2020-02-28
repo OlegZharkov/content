@@ -16,8 +16,8 @@
   "sc:name": "Pepper",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.issb.genopole.fr/Technology/pepper-cytoscape-app"
 }

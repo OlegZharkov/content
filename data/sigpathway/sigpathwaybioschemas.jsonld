@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Weil Lai",
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "Conducts pathway analysis by calculating the NT_k and NE_k statistics.",
   "sc:license": "GPL-2.0",

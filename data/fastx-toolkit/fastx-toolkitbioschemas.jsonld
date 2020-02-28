@@ -18,8 +18,8 @@
   "sc:license": "AGPL-3.0",
   "sc:name": "FASTX-Toolkit",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://hannonlab.cshl.edu/fastx_toolkit/"

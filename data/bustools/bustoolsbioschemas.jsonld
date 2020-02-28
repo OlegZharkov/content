@@ -22,8 +22,8 @@
   "sc:name": "BUStools",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://BUStools.github.io/"
 }

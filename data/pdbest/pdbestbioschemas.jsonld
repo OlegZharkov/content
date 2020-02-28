@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Gonçalves WR",
-    "Pires DE",
-    "de Melo-Minardi RC"
+    "de Melo-Minardi RC",
+    "Pires DE"
   ],
   "sc:additionalType": "Desktop application",
   "sc:citation": "pubmed:25910698",

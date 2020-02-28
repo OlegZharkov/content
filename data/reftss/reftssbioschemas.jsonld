@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "refTSS",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://reftss.clst.riken.jp/"

@@ -17,8 +17,8 @@
   "sc:name": "MetaBridge",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.metabridge.org/"
 }

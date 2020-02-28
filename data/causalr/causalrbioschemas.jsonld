@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Steven Barrett",
-    "Bhushan Bonde",
-    "Glyn Bradley"
+    "Glyn Bradley",
+    "Bhushan Bonde"
   ],
   "sc:additionalType": [
     "Command-line tool",

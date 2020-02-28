@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-9034-8902",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1186/s12864-016-3426-3",
       "@type": "sc:CreativeWork"
     },
@@ -28,33 +24,33 @@
       },
       "edam:has_output": [
         {
+          "@id": "edam:data_3117"
+        },
+        {
           "@id": "edam:data_2884"
         },
         {
           "@id": "edam:data_2048"
-        },
-        {
-          "@id": "edam:data_3117"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
           "@id": "edam:topic_3572"
         },
         {
-          "@id": "edam:topic_3295"
+          "@id": "edam:topic_3518"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_3295"
         }
       ],
       "sc:citation": [
-        "pmcid:PMC5209853",
         "pubmed:28049437",
+        "pmcid:PMC5209853",
         {
           "@id": "https://doi.org/10.1186/s12864-016-3426-3"
         }
@@ -72,11 +68,15 @@
       "sc:name": "ENmix",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ENmix.html",
       "sc:version": "1.10.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-9034-8902",
+      "@type": "schema:Person"
     }
   ]
 }

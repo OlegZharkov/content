@@ -15,8 +15,8 @@
   "sc:name": "FlowAnd",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://csbi.ltdk.helsinki.fi/flowand/",
   "sc:version": "1.0"

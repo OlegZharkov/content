@@ -17,8 +17,8 @@
   "sc:name": "Spritz",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://distill.ucd.ie/spritz/"
 }

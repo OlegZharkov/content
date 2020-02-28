@@ -47,8 +47,8 @@
       },
       "sc:name": "PseudoCAP pseudomonas genome database",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://www.pseudomonas.com/"

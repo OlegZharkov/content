@@ -27,8 +27,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "UCBL",
-    "CNRS"
+    "CNRS",
+    "UCBL"
   ],
   "sc:url": "http://ardock.ibcp.fr",
   "sc:version": "0.9"

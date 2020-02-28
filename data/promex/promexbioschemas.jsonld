@@ -16,8 +16,8 @@
   "sc:name": "ProMEX protein mass spectral library",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://promex.pph.univie.ac.at/promex/"
 }

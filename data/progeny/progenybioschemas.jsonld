@@ -10,12 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-8552-8976",
+      "@id": "https://orcid.org/0000-0002-6862-5221",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1038/s41467-017-02391-6",
-      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/progeny",
@@ -49,8 +45,12 @@
       "sc:version": "1.2.0"
     },
     {
-      "@id": "https://orcid.org/0000-0002-6862-5221",
+      "@id": "https://orcid.org/0000-0002-8552-8976",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1038/s41467-017-02391-6",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

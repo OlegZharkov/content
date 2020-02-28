@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/ancorr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Vladimir Chechetkin",
     "Youri Kravatsky",
-    "Galina Kravatskaya",
-    "Vladimir Chechetkin"
+    "Galina Kravatskaya"
   ],
   "sc:additionalType": "Web service",
   "sc:citation": "pubmed:25627242",

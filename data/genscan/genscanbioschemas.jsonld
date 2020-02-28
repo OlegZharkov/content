@@ -16,8 +16,8 @@
   "sc:name": "GENSCAN",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://genes.mit.edu/GENSCANinfo.html"
 }

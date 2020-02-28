@@ -23,8 +23,8 @@
   "sc:name": "HMMcopy",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/HMMcopy.html",
   "sc:version": "1.16.0"

@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/2049-2618-2-15",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0001-5803-3380",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/aldex2",
@@ -50,16 +50,16 @@
       },
       "sc:name": "ALDEx2",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ALDEx2.html",
       "sc:version": "1.6.0"
     },
     {
-      "@id": "http://orcid.org/0000-0001-5803-3380",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1186/2049-2618-2-15",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -16,8 +16,8 @@
   "sc:name": "PPTM",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioinformatics.ustc.edu.cn/pptm/"
 }

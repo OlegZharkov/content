@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/G-OnRamp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jeremy Goecks",
     "Wilson Leung",
     "Luke Sargent",
+    "Jeremy Goecks",
     "Sarah C.R. Elgin"
   ],
   "sc:additionalType": "Web application",

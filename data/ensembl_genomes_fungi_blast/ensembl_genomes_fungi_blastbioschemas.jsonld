@@ -16,8 +16,8 @@
   "sc:description": "Searches Ensembl Fungi sequences using Exonerate.",
   "sc:name": "Ensembl Genomes Fungi Blast",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "EMBL-EBI",

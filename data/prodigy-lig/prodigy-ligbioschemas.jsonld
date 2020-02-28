@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-7369-1322",
-      "@type": "schema:Organization"
-    },
-    {
       "@id": "https://bio.tools/PRODIGY-LIG",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web service",
         "Command-line tool",
+        "Web service",
         "Web application"
       ],
       "sc:author": {
@@ -39,6 +35,10 @@
         }
       ],
       "sc:url": "http://milou.science.uu.nl/services/PRODIGY-LIG"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-7369-1322",
+      "@type": "schema:Organization"
     }
   ]
 }

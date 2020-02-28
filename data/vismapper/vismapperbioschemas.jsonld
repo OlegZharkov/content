@@ -16,8 +16,8 @@
   "sc:name": "VISMapper",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://vismapper.babelomics.org/"
 }

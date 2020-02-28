@@ -16,8 +16,8 @@
   "sc:name": "WebPrInSeS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://updeplasrv1.epfl.ch/prinses/"
 }

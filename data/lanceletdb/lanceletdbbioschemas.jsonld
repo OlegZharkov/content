@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "LanceletDB",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://genome.bucm.edu.cn/lancelet/"

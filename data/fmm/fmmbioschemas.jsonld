@@ -17,8 +17,8 @@
   "sc:name": "FMM",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://FMM.mbc.nctu.edu.tw/"
 }

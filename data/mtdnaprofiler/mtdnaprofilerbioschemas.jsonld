@@ -16,8 +16,8 @@
   "sc:name": "mtDNAprofiler",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://mtprofiler.yonsei.ac.kr/"
 }

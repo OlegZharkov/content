@@ -17,8 +17,8 @@
       },
       "sc:additionalType": [
         "Web application",
-        "Command-line tool",
-        "Web service"
+        "Web service",
+        "Command-line tool"
       ],
       "sc:citation": "pubmed:9719638",
       "sc:description": "Compute k-mer frequencies (oligonucleotides or oligopeptides) and various statistics to discover exceptional motifs (over-represented or under-represented). Typical applications include discovery of transcription factor binding motifs, restriction sites in bacterial genomes, RNA termination and polyadenylation signals, detection of motifs associated with replication origins, analysis of oligopeptide frequencies in protein sequences.",

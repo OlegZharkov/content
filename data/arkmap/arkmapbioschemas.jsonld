@@ -15,8 +15,8 @@
   "sc:description": "Desktop application that allows users to draw and align genetic maps.",
   "sc:name": "ArkMAP",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.bioinformatics.roslin.ed.ac.uk/arkmap/"

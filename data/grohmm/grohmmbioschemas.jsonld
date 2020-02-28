@@ -13,31 +13,31 @@
       "@id": "https://bio.tools/grohmm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "W. Lee Kraus",
+        "Tulip Nandu",
         "Anusha Nagari",
-        "Venkat Malladi",
-        "Tulip Nandu"
+        "W. Lee Kraus",
+        "Venkat Malladi"
       ],
       "edam:has_input": [
         {
-          "@id": "edam:data_3002"
+          "@id": "edam:data_0863"
         },
         {
-          "@id": "edam:data_0863"
+          "@id": "edam:data_3002"
         }
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_2048"
-        },
-        {
-          "@id": "edam:data_2884"
-        },
-        {
           "@id": "edam:data_3002"
         },
         {
+          "@id": "edam:data_2048"
+        },
+        {
           "@id": "edam:data_1017"
+        },
+        {
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [

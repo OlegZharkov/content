@@ -12,23 +12,23 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "UK BBSRC",
+    "EMBOSS Contributors",
+    "UK MRC"
   ],
   "sc:description": "Mask all ambiguity characters in protein sequences with X.",
   "sc:funder": [
-    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "maskambigprot",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

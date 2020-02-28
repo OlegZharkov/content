@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Allysha Winburn",
-    "Marta San-Millán",
-    "Carme Rissech Badallo"
+    "Carme Rissech Badallo",
+    "Marta San-Millán"
   ],
   "sc:additionalType": [
     "Web service",

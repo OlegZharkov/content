@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkt1178",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/cazy",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "CAZy Support",
@@ -24,8 +28,8 @@
         "@id": "edam:topic_0821"
       },
       "sc:citation": [
-        "pmcid:PMC3965031",
         "pubmed:24270786",
+        "pmcid:PMC3965031",
         {
           "@id": "https://doi.org/10.1093/nar/gkt1178"
         }
@@ -36,16 +40,12 @@
       },
       "sc:name": "Carbohydrate-active enzymes database (CAZy)",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": "AFMB",
       "sc:url": "http://www.cazy.org/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkt1178",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

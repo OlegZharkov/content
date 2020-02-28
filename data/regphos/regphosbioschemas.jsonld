@@ -21,8 +21,8 @@
   "sc:name": "RegPhos",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://regphos.mbc.nctu.edu.tw/"
 }

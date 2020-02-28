@@ -15,8 +15,8 @@
   "sc:name": "RONN",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "Instruct",
   "sc:url": "http://www.strubi.ox.ac.uk/RONN",

@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "https://orcid.org/0000-0002-0558-3597",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/pyfolding",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -38,10 +42,6 @@
         "Mac"
       ],
       "sc:url": "https://github.com/quantumjot/PyFolding"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-0558-3597",
-      "@type": "schema:Person"
     }
   ]
 }

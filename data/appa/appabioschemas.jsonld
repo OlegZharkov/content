@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Pingyu Zhong",
-        "Minh N Nguyen",
-        "Chandra S Verma"
+        "Chandra S Verma",
+        "Minh N Nguyen"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -32,10 +32,10 @@
       "sc:description": "Web server for analysis, comparison, and visualization of contact residues and interfacial waters of antibody-antigen structures and models.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0272"
+          "@id": "edam:operation_2950"
         },
         {
-          "@id": "edam:operation_2950"
+          "@id": "edam:operation_0272"
         },
         {
           "@id": "edam:operation_0394"
@@ -44,9 +44,9 @@
       "sc:license": "Unlicense",
       "sc:name": "AppA",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://mspc.bii.a-star.edu.sg/minhn/appa.html"
     }

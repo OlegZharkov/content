@@ -19,8 +19,8 @@
   "sc:name": "miRNAFold",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://evryrna.ibisc.univ-evry.fr/miRNAFold/"
 }

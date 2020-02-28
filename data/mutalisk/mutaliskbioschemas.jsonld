@@ -21,8 +21,8 @@
       "sc:name": "mutalisk",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://mutalisk.org"
     },

@@ -16,8 +16,8 @@
   "sc:name": "JBrowse",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://gmod.org/wiki/JBrowse"
 }

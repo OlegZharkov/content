@@ -17,8 +17,8 @@
   "sc:name": "NetAutoProbit",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://math.bu.edu/people/kolaczyk/software.html"
 }

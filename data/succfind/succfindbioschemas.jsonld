@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/succfind",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "JianDing Qiu",
-    "HaoDong Xu"
+    "HaoDong Xu",
+    "JianDing Qiu"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:26261224",

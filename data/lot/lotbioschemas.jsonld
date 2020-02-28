@@ -15,8 +15,8 @@
   "sc:name": "LOT",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://c2s2.yale.edu/software/LOT/",
   "sc:version": "1.2"

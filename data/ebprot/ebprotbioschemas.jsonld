@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ebprot",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Christine Vogel",
     "Yunbin Zhang",
+    "Christine Vogel",
     "Hiromi W.L. Koh",
     "Hyungwon Choi"
   ],

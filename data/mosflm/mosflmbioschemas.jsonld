@@ -18,8 +18,8 @@
   "sc:description": "Program for integrating single crystal diffraction data from area detectors. It is assumed that the experiment was conducted using the Arndt-Wonacott oscillation method, and also that monochromatic radiation was used.",
   "sc:name": "Mosflm",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "Instruct",

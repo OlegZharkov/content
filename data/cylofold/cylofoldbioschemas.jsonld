@@ -11,17 +11,17 @@
   "@id": "https://bio.tools/cylofold",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Wojciech Kasprzak",
     "Eckart Bindewald",
-    "Bruce A. Shapiro",
-    "Wojciech Kasprzak"
+    "Bruce A. Shapiro"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:20501603",
   "sc:description": "CyloFold is a web tool for RNA secondary structure prediction that is not restricted in terms of pseudoknot complexity.",
   "sc:name": "CyloFold",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://cylofold.ncifcrf.gov"

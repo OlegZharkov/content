@@ -15,8 +15,8 @@
   "sc:description": "Web application for rapid and quantitative analysis of specific genes in the human gut microbiome.",
   "sc:name": "MetaQuery",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://metaquery.docpollard.org/"

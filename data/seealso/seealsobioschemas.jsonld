@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "UK MRC",
     "EMBOSS Contributors",
+    "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust"
   ],
   "sc:description": "Find programs with similar function to a specified program.",
   "sc:funder": [
+    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "seealso",
@@ -31,8 +31,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/seealso.html",
   "sc:version": "r6"

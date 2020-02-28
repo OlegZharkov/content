@@ -14,16 +14,16 @@
   "sc:author": [
     "Karel Berka",
     "Michal Otyepka",
-    "Ondřej Hanák",
-    "David Sehnal"
+    "David Sehnal",
+    "Ondřej Hanák"
   ],
   "sc:contributor": [
-    "Deepti Jaiswal",
-    "Pavel Banáš",
-    "Jaroslav Koča",
     "Veronika Navrátilová",
     "Radka Svobodová Vařeková",
-    "Crina-Maria Ionescu"
+    "Jaroslav Koča",
+    "Deepti Jaiswal",
+    "Crina-Maria Ionescu",
+    "Pavel Banáš"
   ],
   "sc:description": "Provides a direct access to MOLE functionality and enables on-line and easy-to-use interactive channel analysis.",
   "sc:license": "CC-BY-NC-3.0",

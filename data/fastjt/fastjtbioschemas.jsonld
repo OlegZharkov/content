@@ -14,8 +14,8 @@
   "sc:additionalType": "Library",
   "sc:author": [
     "Alexander Sibley",
-    "Jiaxing Lin",
     "Kouros Owzar",
+    "Jiaxing Lin",
     "Ivo Shterev"
   ],
   "sc:citation": "pubmed:31195980",
@@ -23,9 +23,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "fastJT",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "https://cran.r-project.org/package=fastJT",
   "sc:version": "1.0.4"

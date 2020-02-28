@@ -15,8 +15,8 @@
   "sc:description": "Prediction of coiled-coil secondary structure elements.",
   "sc:name": "ncoils",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "RostLab",

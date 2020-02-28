@@ -15,8 +15,8 @@
   "sc:description": "A tool for fast canonical neighbor-joining tree construction.",
   "sc:name": "RapidNJ",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "birc.au.dk",

@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/plantcv_v2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Malia A. Gehan",
-        "Noah Fahlgren"
+        "Noah Fahlgren",
+        "Malia A. Gehan"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -34,8 +34,8 @@
       },
       "sc:name": "PlantCV v2",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://github.com/danforthcenter/plantcv-v2-paper"

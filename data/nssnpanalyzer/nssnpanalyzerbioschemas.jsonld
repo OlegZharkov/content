@@ -17,8 +17,8 @@
   "sc:name": "nsSNPAnalyzer",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://snpanalyzer.uthsc.edu/"
 }

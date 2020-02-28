@@ -24,10 +24,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3510"
+          "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_3510"
         }
       ],
       "sc:author": "Murat Cokol",
@@ -45,10 +45,10 @@
       "sc:description": "Prediction and analysis of nuclear localization signals.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3092"
+          "@id": "edam:operation_2489"
         },
         {
-          "@id": "edam:operation_2489"
+          "@id": "edam:operation_3092"
         }
       ],
       "sc:isAccessibleForFree": true,
@@ -56,8 +56,8 @@
       "sc:name": "PredictNLS",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "RostLab",
-        "Columbia University"
+        "Columbia University",
+        "RostLab"
       ],
       "sc:softwareHelp": {
         "@id": "https://rostlab.org/owiki/index.php/PredictNLS"

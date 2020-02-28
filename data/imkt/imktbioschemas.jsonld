@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0002-0374-1475",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/iMKT",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -43,20 +39,24 @@
           "@id": "edam:operation_0451"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_0310"
         },
         {
-          "@id": "edam:operation_0310"
+          "@id": "edam:operation_2495"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "iMKT",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://imkt.uab.cat"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-0374-1475",
+      "@type": "schema:Person"
     }
   ]
 }

@@ -19,14 +19,14 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Salmonella CRISPR typing",
   "sc:operatingSystem": [
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "Enteric Bacterial Pathogens",
     "Institut Pasteur",
-    "Bioinformatics and Biostatistics Hub",
-    "C3BI"
+    "C3BI",
+    "Bioinformatics and Biostatistics Hub"
   ],
   "sc:url": "https://research.pasteur.fr/team/enteric-bacterial-pathogens/",
   "sc:version": "v.1.0.0"

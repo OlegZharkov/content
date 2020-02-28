@@ -15,8 +15,8 @@
   "sc:description": "The tool detects significant single- and multi-locus SNP associations in case-control studies.",
   "sc:name": "hgv_beam",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "https://github.com/galaxyproject/galaxy/tree/dev/tools",

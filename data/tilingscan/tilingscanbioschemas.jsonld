@@ -16,8 +16,8 @@
   "sc:name": "TilingScan",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://tilingscan.uv.es/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "PoolHap",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/Gregor-Mendel-Institute/poolhap"
 }

@@ -17,8 +17,8 @@
   "sc:license": "Unlicense",
   "sc:name": "RSI",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://rsi.hulilab.org/"

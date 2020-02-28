@@ -17,8 +17,8 @@
   "sc:name": "MetaImprint",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://202.97.205.76:8080/MetaImprint/"
 }

@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Anna L. Tyler",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pmcid:PMC3808451",
         "pubmed:24204223",
+        "pmcid:PMC3808451",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1003270"
         }
@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "CAPE",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/cape/"
     }

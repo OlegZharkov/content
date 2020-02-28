@@ -16,8 +16,8 @@
   "sc:name": "FoCuS-point",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://dwaithe.github.io/FCS_point_correlator/"
 }

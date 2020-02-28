@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12864-017-4031-9",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/unitas",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Daniel Gebert",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC5567656",
         "pubmed:28830358",
+        "pmcid:PMC5567656",
         {
           "@id": "https://doi.org/10.1186/s12864-017-4031-9"
         }
@@ -29,14 +33,10 @@
       "sc:name": "unitas",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://sourceforge.net/projects/unitas/files/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12864-017-4031-9",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

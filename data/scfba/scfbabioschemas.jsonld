@@ -28,13 +28,13 @@
       "sc:description": "Suite of MATLAB functions to perform a single-cell Flux Balance Analysis (scFBA)",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3660"
+          "@id": "edam:operation_3803"
         },
         {
           "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_3803"
+          "@id": "edam:operation_3660"
         }
       ],
       "sc:name": "scFBA",

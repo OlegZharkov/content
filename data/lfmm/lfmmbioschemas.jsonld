@@ -20,8 +20,8 @@
   "sc:name": "LFMM",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://membres-timc.imag.fr/Eric.Frichot/lfmm/index.htm"
 }

@@ -14,12 +14,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
       "sc:additionalType": [
-        "Web application",
-        "Library"
+        "Library",
+        "Web application"
       ],
       "sc:citation": [
-        "pubmed:25208325",
         "pmcid:PMC4160258",
+        "pubmed:25208325",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0107497"
         }
@@ -32,8 +32,8 @@
       "sc:name": "visPIG",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://vispig.icr.ac.uk/"
     },

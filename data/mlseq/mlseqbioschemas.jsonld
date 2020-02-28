@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Gokmen Zararsiz",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "This package applies several machine learning methods, including SVM, bagSVM, Random Forest and CART, to RNA-Seq data.",
   "sc:license": "GPL-2.0",

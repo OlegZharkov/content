@@ -18,8 +18,8 @@
   "sc:name": "Sirius",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bio.informatik.uni-jena.de/sirius"
 }

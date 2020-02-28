@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkx420",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/genprobis",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -34,10 +38,6 @@
       ],
       "sc:name": "GenProBiS",
       "sc:url": "http://genprobis.insilab.org/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkx420",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

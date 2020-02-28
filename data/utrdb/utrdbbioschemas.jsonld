@@ -15,8 +15,8 @@
   "sc:description": "Database of Untranslated regions (UTRs).",
   "sc:name": "UTRdb",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-CNR",

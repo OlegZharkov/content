@@ -17,8 +17,8 @@
   "sc:name": "SpatialDE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/Teichlab/SpatialDE"
 }

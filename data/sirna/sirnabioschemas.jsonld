@@ -19,15 +19,15 @@
   ],
   "sc:description": "Find siRNA duplexes in mRNA.",
   "sc:funder": [
+    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "sirna",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

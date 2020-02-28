@@ -16,8 +16,8 @@
   "sc:name": "CLIMA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "IRCSS AOU San Martino IST",
   "sc:url": "http://bioinformatics.hsanmartino.it/clima/"

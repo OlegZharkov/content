@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-5210-4387",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkt1189",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/archdb",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Database portal",
@@ -29,20 +37,12 @@
       },
       "sc:name": "ArchDB14",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "upf.edu",
       "sc:url": "http://sbi.imim.es/archdb/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-5210-4387",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkt1189",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

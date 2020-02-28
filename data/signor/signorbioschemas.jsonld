@@ -13,27 +13,27 @@
   "biotools:primaryContact": "Luana Licata",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Alberto Calderone",
     "Leonardo Briganti",
-    "Prisca Lo Surdo"
+    "Prisca Lo Surdo",
+    "Alberto Calderone"
   ],
   "sc:contributor": [
-    "Gianni Cesareni",
-    "Marta Iannuccelli",
     "Livia Perfetto",
-    "Elena Santonico"
+    "Elena Santonico",
+    "Marta Iannuccelli",
+    "Gianni Cesareni"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
-    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",
-    "ELIXIR-ITA-TORVERGATA"
+    "ELIXIR-ITA-TORVERGATA",
+    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy"
   ],
   "sc:url": "http://signor.uniroma2.it/"
 }

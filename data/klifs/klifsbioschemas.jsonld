@@ -16,21 +16,21 @@
   ],
   "sc:additionalType": [
     "Command-line tool",
-    "Web API",
+    "Web application",
     "Database portal",
-    "Web application"
+    "Web API"
   ],
   "sc:author": [
     "Oscar P.J. van Linden",
     "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
+    "Georgi K. Kanev",
     "Albert J. Kooistra",
-    "Chris de Graaf",
-    "Georgi K. Kanev"
+    "Chris de Graaf"
   ],
   "sc:contributor": [
-    "Amsterdam Academic Alliance",
     "Rob Leurs",
     "Netherlands eScience Center (NLeSC)",
+    "Amsterdam Academic Alliance",
     "Iwan J.P. de Esch"
   ],
   "sc:description": "Revolves around the structure of kinases in PDB and the way kinase inhibitors can interact with them. It also features automated annotation methods for (i) the assessment of ligand-targeted subpockets; the analysis of (ii) DFG and (iii) α-helix conformations; improved and automated protocols for (iv) the generation of sequence/structure alignments; (v) the curation of ligand atom and bond typing for accurate IFP analysis and (vi) weekly database updates.",
@@ -40,13 +40,13 @@
   ],
   "sc:name": "KLIFS",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
-    "Vrije Universiteit Amsterdam",
-    "vu.nl"
+    "vu.nl",
+    "Vrije Universiteit Amsterdam"
   ],
   "sc:url": "http://klifs.vu-compmedchem.nl"
 }

@@ -16,8 +16,8 @@
   "sc:name": "RRDB",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://huanglab.phys.hust.edu.cn/RRDbenchmark/"
 }

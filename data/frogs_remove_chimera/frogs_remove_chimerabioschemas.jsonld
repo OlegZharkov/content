@@ -16,8 +16,8 @@
   "sc:name": "frogs_remove_chimera",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://frogs.toulouse.inra.fr/",
   "sc:version": "1.3.0"

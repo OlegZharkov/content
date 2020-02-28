@@ -15,8 +15,8 @@
   "sc:name": "Melanie",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "SIB Swiss Institute of Bioinformatics",
   "sc:url": "http://world-2dpage.expasy.org/melanie/",

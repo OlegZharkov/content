@@ -21,8 +21,8 @@
         "Support"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:author": "Roderic Guigo",
       "sc:citation": "pubmed:18428791",
@@ -37,8 +37,8 @@
       "sc:name": "Geneid",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "Centre for Genomic Regulation (CRG), Parc de Recerca Biomedica (PRBB)",
       "sc:url": "http://genome.crg.es/software/geneid/index.html",
