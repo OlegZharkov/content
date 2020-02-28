@@ -16,8 +16,8 @@
   "sc:name": "muts-needle-plot",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "BioJS",
   "sc:url": "https://github.com/bbglab/muts-needle-plot",

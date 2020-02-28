@@ -17,8 +17,8 @@
   "sc:name": "HSA",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://ouyanglab.jax.org/hsa/"
 }

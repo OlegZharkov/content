@@ -36,9 +36,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "bin3C",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://github.com/cerebis/bin3C"
     },

@@ -14,8 +14,8 @@
   "sc:description": "Database for Metabolomics experiments and derived information.",
   "sc:name": "MetaboLights",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "EMBL-EBI Databases",

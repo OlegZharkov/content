@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Francesco Favero",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Useful functions to merge microRNA and respective targets using differents databases.",
   "sc:license": "Artistic-2.0",
   "sc:name": "RmiR",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/RmiR.html",

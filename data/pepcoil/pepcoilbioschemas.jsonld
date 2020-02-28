@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "Wellcome Trust",
-    "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK MRC",
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Predict coiled coil regions in protein sequences.",
   "sc:funder": [
@@ -27,12 +27,12 @@
   "sc:name": "pepcoil",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/pepcoil.html",
   "sc:version": "r6"

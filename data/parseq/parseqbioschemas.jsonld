@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/parseq",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Bogdan Mirauta",
     "Hugues Richard",
+    "Bogdan Mirauta",
     "Pierre Nicolas"
   ],
   "sc:additionalType": "Command-line tool",

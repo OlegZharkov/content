@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/couger",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Couger Support",
-    "RALUCA GORDÂN"
+    "RALUCA GORDÂN",
+    "Couger Support"
   ],
   "sc:additionalType": [
     "Web application",
@@ -21,9 +21,9 @@
   "sc:description": "Framework for identifying co-factors associated with uniquely-bound genomic regions.",
   "sc:name": "COUGER",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "http://couger.oit.duke.edu"
 }

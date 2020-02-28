@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Harpreet Singh",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC6509116",
@@ -36,9 +36,9 @@
       "sc:license": "Unlicense",
       "sc:name": "SLTChemDB",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bic.icmr.org.in/sltchem"
     },

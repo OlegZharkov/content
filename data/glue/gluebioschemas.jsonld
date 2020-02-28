@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-018-2459-9",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/GLUE",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Robert Gifford",
-        "Josh Singer"
+        "Josh Singer",
+        "Robert Gifford"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -44,10 +40,14 @@
       "sc:name": "GLUE",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://tools.glue.cvr.ac.uk/#/home"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-018-2459-9",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Bent Petersen",
   "sc:additionalType": [
-    "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:description": "Protein Surface Accessibility and Secondary Structure Predictions.",
   "sc:license": "Other",

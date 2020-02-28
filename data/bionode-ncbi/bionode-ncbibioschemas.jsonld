@@ -21,8 +21,8 @@
   "sc:name": "bionode-ncbi",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://github.com/bionode/bionode-ncbi",
   "sc:version": "1.5.0"

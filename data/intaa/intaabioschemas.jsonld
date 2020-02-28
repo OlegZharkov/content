@@ -17,15 +17,15 @@
     "Jiří Vondrášek"
   ],
   "sc:contributor": [
-    "Jiří Vymětal",
-    "David Jakubec"
+    "David Jakubec",
+    "Jiří Vymětal"
   ],
   "sc:description": "Calculates the residue Interaction Energy Matrix for any protein structure and offers comprehensive analysis of the interfaces in protein–DNA complexes.",
   "sc:license": "Other",
   "sc:name": "Amino Acids Interactions Web Server",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bioinfo.uochb.cas.cz/INTAA/",

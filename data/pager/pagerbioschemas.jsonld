@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-017-1889-0",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/pager",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Zongliang Yue",
@@ -32,10 +36,6 @@
         "Windows"
       ],
       "sc:url": "http://discovery.informatics.uab.edu/PAGER/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-017-1889-0",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

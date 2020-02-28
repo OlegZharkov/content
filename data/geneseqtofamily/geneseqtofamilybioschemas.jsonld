@@ -16,8 +16,8 @@
   "sc:license": "MIT",
   "sc:name": "GeneSeqToFamily",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "https://github.com/TGAC/earlham-galaxytools/tree/master/workflows/GeneSeqToFamily",

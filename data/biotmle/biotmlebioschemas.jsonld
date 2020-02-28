@@ -17,8 +17,8 @@
   "sc:name": "biotmle",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/biotmle.html",
   "sc:version": "1.4.0"

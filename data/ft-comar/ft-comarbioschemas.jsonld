@@ -16,8 +16,8 @@
   "sc:name": "FT-COMAR",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",
   "sc:url": "http://bioinformatics.cs.unibo.it/FT-COMAR/index.html",

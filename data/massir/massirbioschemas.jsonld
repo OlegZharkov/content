@@ -28,18 +28,18 @@
       },
       "edam:has_output": [
         {
+          "@id": "edam:data_1772"
+        },
+        {
           "@id": "edam:data_1636"
         },
         {
           "@id": "edam:data_2884"
-        },
-        {
-          "@id": "edam:data_1772"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -63,9 +63,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "massiR",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/massiR.html",
       "sc:version": "1.10.0"

@@ -17,16 +17,16 @@
       },
       "sc:additionalType": [
         "Web application",
-        "Database portal",
-        "Web API"
+        "Web API",
+        "Database portal"
       ],
       "sc:description": "Database of protein disorder and mobility annotations.",
       "sc:license": "CC-BY-NC-1.0",
       "sc:name": "MobiDB",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
       "sc:url": "http://mobidb.bio.unipd.it",

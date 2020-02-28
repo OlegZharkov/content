@@ -17,8 +17,8 @@
   "sc:name": "PARS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinf.uab.cat/cgi-bin/pars-cgi/pars.pl"
 }

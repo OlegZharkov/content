@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/adsn",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jose M. Polo",
     "Owen J. L. Rackham",
+    "Jose M. Polo",
     "Enrico Petretto"
   ],
   "sc:additionalType": "Web application",
@@ -20,9 +20,9 @@
   "sc:license": "Unlicense",
   "sc:name": "adsn",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "http://adsn.ddnetbio.com"
 }

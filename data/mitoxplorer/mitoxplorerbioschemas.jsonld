@@ -17,8 +17,8 @@
   "sc:name": "mitoXplorer",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://mitoxplorer.ibdm.univ-mrs.fr"
 }

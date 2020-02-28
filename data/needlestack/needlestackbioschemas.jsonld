@@ -21,8 +21,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "needlestack",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "https://github.com/IARCbioinfo/needlestack"

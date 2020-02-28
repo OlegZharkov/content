@@ -16,8 +16,8 @@
   "sc:name": "TakeABreak",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "GenOuest",
   "sc:url": "http://colibread.inria.fr/software/takeabreak/",

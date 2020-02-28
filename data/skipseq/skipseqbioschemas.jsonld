@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK MRC"
   ],
   "sc:description": "Read and write (return) sequences, skipping first few.",
   "sc:funder": [
@@ -27,12 +27,12 @@
   "sc:name": "skipseq",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/skipseq.html",
   "sc:version": "r6"

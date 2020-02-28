@@ -22,8 +22,8 @@
   "sc:name": "DNATCO",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "Institute of Biotechnology AS CR, Prague, Czech Republic",
   "sc:url": "http://www.dnatco.org/",

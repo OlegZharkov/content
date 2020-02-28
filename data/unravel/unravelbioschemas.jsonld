@@ -17,8 +17,8 @@
   "sc:name": "UNRAVEL",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.unravelrdp.nl"
 }

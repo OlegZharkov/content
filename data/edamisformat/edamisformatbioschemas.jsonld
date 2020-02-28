@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
     "EMBOSS Contributors",
+    "UK BBSRC",
     "Wellcome Trust",
     "UK MRC"
   ],
@@ -27,8 +27,8 @@
   "sc:name": "edamisformat",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

@@ -15,8 +15,8 @@
   "sc:description": "Estimating tissue-specific effects of coding and non-coding variants.",
   "sc:name": "TiSAn",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://github.com/kevinVervier/TiSAn"

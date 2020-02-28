@@ -16,8 +16,8 @@
   "sc:name": "I-MUTANT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",
   "sc:url": "http://folding.biofold.org/i-mutant/i-mutant2.0.html",

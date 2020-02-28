@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/gatk-lodn",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Gastone Castellani",
         "Ítalo Faria do Valle",
+        "Gastone Castellani",
         {
           "@id": "http://orcid.org/0000-0003-3185-7456"
         }
@@ -30,11 +30,11 @@
         "@id": "edam:topic_2533"
       },
       "sc:citation": [
-        "pmcid:PMC5123378",
         "pubmed:28185561",
         {
           "@id": "https://doi.org/10.1186/s12859-016-1190-7"
-        }
+        },
+        "pmcid:PMC5123378"
       ],
       "sc:description": "This method increases specificity and sensitivity of GATK results for mutation detection.",
       "sc:featureList": {
@@ -50,12 +50,12 @@
       "sc:url": "https://bitbucket.org/BBDA-UNIBO/wes-pipeline"
     },
     {
-      "@id": "https://doi.org/10.1186/s12859-016-1190-7",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0003-3185-7456",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-016-1190-7",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

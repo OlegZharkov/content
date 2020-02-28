@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/tally",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Julien JORDA",
     "Christian LE PEUCH",
+    "Julien JORDA",
     "Andrey V. KAJAVA"
   ],
   "sc:additionalType": "Web application",

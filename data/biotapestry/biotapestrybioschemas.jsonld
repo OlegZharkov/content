@@ -16,8 +16,8 @@
   "sc:name": "BioTapestry",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.biotapestry.org/"
 }

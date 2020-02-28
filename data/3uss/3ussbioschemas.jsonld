@@ -17,8 +17,8 @@
   "sc:name": "3USS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://circe.med.uniroma1.it/3uss_server/"
 }

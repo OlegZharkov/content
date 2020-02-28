@@ -10,32 +10,36 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkn730",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/hypercldb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Maria Assunta Manniello",
         {
           "@id": "http://orcid.org/0000-0003-4694-3883"
-        }
+        },
+        "Maria Assunta Manniello"
       ],
       "sc:additionalType": "Web application",
       "sc:author": [
-        "Massimiliano Armento",
         "Paolo Romano",
+        "Domenico Marra",
         "Beatrice Iannotta",
-        "Domenico Marra"
+        "Massimiliano Armento"
       ],
       "sc:citation": [
+        "pmcid:PMC2686526",
         {
           "@id": "https://doi.org/10.1093/nar/gkn730"
         },
         "pubmed:7763741",
-        "pubmed:18927105",
-        "pmcid:PMC2686526"
+        "pubmed:18927105"
       ],
       "sc:contributor": [
-        "Ottavia Aresu",
         "Tiziana Ruzzon",
+        "Ottavia Aresu",
         "Barbara Parodi",
         "Leonardo Santi"
       ],
@@ -49,10 +53,6 @@
     {
       "@id": "http://orcid.org/0000-0003-4694-3883",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkn730",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

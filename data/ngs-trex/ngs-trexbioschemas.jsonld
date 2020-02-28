@@ -24,17 +24,17 @@
       "sc:description": "Next Generation Sequencing Transcriptome profile explorer.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3258"
         },
         {
-          "@id": "edam:operation_3258"
+          "@id": "edam:operation_2495"
         }
       ],
       "sc:name": "NGS-Trex",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://www.ngs-trex.disit.unipmn.it/Trex/cms/"
     },

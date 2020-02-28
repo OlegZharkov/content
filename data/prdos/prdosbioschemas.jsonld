@@ -17,8 +17,8 @@
   "sc:name": "PrDOS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://prdos.hgc.jp/cgi-bin/top.cgi"
 }

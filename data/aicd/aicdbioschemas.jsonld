@@ -23,22 +23,22 @@
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC6533287",
-        "pubmed:31123286",
         {
           "@id": "https://doi.org/10.1038/S41598-019-44227-X"
-        }
+        },
+        "pubmed:31123286",
+        "pmcid:PMC6533287"
       ],
       "sc:description": "Anti-Inflamamtory Compounds Database for drug discovery.",
       "sc:featureList": [
-        {
-          "@id": "edam:operation_3431"
-        },
         {
           "@id": "edam:operation_3891"
         },
         {
           "@id": "edam:operation_2939"
+        },
+        {
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:license": "CC-BY-4.0",

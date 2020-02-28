@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-8231-3323",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/sparse",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -46,18 +42,18 @@
         }
       ],
       "sc:author": [
-        "Rolf Backofen",
         {
           "@id": "http://orcid.org/0000-0002-0173-3009"
         },
-        "Sebastian Will"
+        "Sebastian Will",
+        "Rolf Backofen"
       ],
       "sc:citation": [
+        "pmcid:PMC4514930",
         "pubmed:25838465",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btv185"
-        },
-        "pmcid:PMC4514930"
+        }
       ],
       "sc:contributor": "Sebastian Will",
       "sc:description": "Very efficient structure-based alignment of RNAs.",
@@ -72,8 +68,8 @@
         "Mac"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.bioinf.uni-freiburg.de/Software/SPARSE/"
@@ -82,12 +78,16 @@
       "sc:version": "1.8.9"
     },
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv185",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0001-8231-3323",
+      "@type": "schema:Person"
     },
     {
       "@id": "http://orcid.org/0000-0002-0173-3009",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv185",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

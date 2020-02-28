@@ -27,9 +27,9 @@
       },
       "sc:name": "NatalieQ",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.ibi.vu.nl/programs/natalieq/"
     },

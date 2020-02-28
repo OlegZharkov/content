@@ -15,8 +15,8 @@
   "sc:description": "This page provides access to Zostera muelleri genome assembly and annotation data.",
   "sc:name": "Seagrass Zmu Genome",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "unimelb.edu.au",

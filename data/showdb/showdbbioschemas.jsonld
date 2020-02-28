@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK BBSRC",
+    "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:description": "Display information on configured databases.",
@@ -27,8 +27,8 @@
   "sc:name": "showdb",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

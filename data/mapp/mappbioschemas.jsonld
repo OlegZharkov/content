@@ -16,8 +16,8 @@
   "sc:name": "MAPP",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://mendel.stanford.edu/SidowLab/downloads/MAPP/index.html"
 }

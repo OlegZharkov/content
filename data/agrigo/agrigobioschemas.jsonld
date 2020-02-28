@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/agrigo",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Qi You (Bug report)",
+    "Qi You (Administrator)",
     "Tian Tian (Administrator)",
-    "Qi You (Administrator)"
+    "Qi You (Bug report)"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:20435677",
@@ -21,8 +21,8 @@
   "sc:name": "agriGO",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinfo.cau.edu.cn/agriGO/"
 }

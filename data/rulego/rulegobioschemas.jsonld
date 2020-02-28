@@ -17,8 +17,8 @@
   "sc:name": "RuleGO",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://rulego.polsl.pl"
 }

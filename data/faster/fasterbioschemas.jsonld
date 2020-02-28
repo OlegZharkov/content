@@ -17,8 +17,8 @@
   "sc:name": "fastER",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://bsse.ethz.ch/csd/software/faster.html"
 }

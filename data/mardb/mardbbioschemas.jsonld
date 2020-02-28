@@ -17,8 +17,8 @@
   "sc:name": "MarDB",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://mmp.sfb.uit.no/databases/mardb/",
   "sc:version": "1.0"

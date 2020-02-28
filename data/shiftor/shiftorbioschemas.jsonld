@@ -16,8 +16,8 @@
   "sc:name": "SHIFTOR",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://wishart.biology.ualberta.ca/shiftor/cgi-bin/shiftor_1f.py"
 }

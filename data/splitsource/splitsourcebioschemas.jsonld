@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "EMBOSS Contributors",
     "UK MRC",
-    "Wellcome Trust"
+    "UK BBSRC",
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Split sequence(s) into original source sequences.",
   "sc:funder": [

@@ -16,8 +16,8 @@
   "sc:name": "ballaxy",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://ball-project.org/ballaxy/"
 }

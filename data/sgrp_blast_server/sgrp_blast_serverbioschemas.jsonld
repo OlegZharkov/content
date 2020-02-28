@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/sgrp_blast_server",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Richard Durbin",
-    "Edward J. Louis"
+    "Edward J. Louis",
+    "Richard Durbin"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:19212322",

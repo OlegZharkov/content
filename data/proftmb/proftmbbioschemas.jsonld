@@ -24,19 +24,19 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0820"
+          "@id": "edam:topic_0082"
         },
         {
-          "@id": "edam:topic_0082"
+          "@id": "edam:topic_0820"
         }
       ],
       "sc:author": "Henry Bigelow",
       "sc:citation": [
-        "pmcid:PMC1538807",
         "pubmed:16844988",
         {
           "@id": "https://doi.org/10.1093/nar/gkl262"
-        }
+        },
+        "pmcid:PMC1538807"
       ],
       "sc:contributor": [
         "Burkhard Rost",
@@ -57,13 +57,13 @@
       "sc:name": "PROFtmb",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": [
-        "Irvine Cancer Center",
+        "RostLab",
         "Columbia University",
-        "RostLab"
+        "Irvine Cancer Center"
       ],
       "sc:softwareHelp": {
         "@id": "https://rostlab.org/owiki/index.php/Proftmb"

@@ -18,8 +18,8 @@
   "sc:contributor": [
     "Deepti Jaiswal",
     "Crina-Maria Ionescu",
-    "Radka Svobodová Vařeková",
-    "Lukáš Pravda"
+    "Lukáš Pravda",
+    "Radka Svobodová Vařeková"
   ],
   "sc:description": "A web application for validation of annotation of ligands and \nresidues.",
   "sc:name": "MotiveValidator",

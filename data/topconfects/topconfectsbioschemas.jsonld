@@ -27,13 +27,13 @@
       "sc:description": "R package for confident effect sizes in differential expression analysis provides a more biologically useful ranked gene list.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3223"
+          "@id": "edam:operation_3680"
         },
         {
           "@id": "edam:operation_3800"
         },
         {
-          "@id": "edam:operation_3680"
+          "@id": "edam:operation_3223"
         }
       ],
       "sc:license": "LGPL-2.1",

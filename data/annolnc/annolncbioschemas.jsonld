@@ -31,9 +31,9 @@
       },
       "sc:name": "AnnoLnc",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://annolnc.cbi.pku.edu.cn/index.jsp"
     }

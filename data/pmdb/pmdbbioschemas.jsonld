@@ -15,8 +15,8 @@
   "sc:description": "A tool collects three dimensional protein models obtained by structure prediction methods.",
   "sc:name": "PMDB",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-SAPIENZA",

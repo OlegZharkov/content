@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/1471-2105-15-136",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/meigo",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Julio Saez-Rodríguez",
-        "Julio R. Banga"
+        "Julio R. Banga",
+        "Julio Saez-Rodríguez"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -31,14 +35,10 @@
       "sc:name": "MEIGO",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://nautilus.iim.csic.es/~gingproc/meigo.html"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1471-2105-15-136",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -24,8 +24,8 @@
   "sc:name": "MoonlightR",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/MoonlightR.html",
   "sc:version": "1.0.0"

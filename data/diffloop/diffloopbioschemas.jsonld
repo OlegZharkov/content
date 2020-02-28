@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Caleb Lareau",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "A suite of tools for subsetting, visualizing, annotating, and statistically analyzing the results of one or more ChIA-PET experiments or other assays that infer chromatin loops.",
   "sc:license": "MIT",
   "sc:name": "diffloop",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/diffloop.html",

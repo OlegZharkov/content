@@ -17,8 +17,8 @@
   "sc:name": "POLYVIEW-MM",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://polyview.cchmc.org/conform.html"
 }

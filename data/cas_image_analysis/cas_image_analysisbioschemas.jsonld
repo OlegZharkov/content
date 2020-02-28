@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1007/s12021-017-9340-2",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/cas_image_analysis",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Karolina Nurzynska",
@@ -31,11 +27,15 @@
       },
       "sc:name": "CAS",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://home.agh.edu.pl/~pioro/cas/"
+    },
+    {
+      "@id": "https://doi.org/10.1007/s12021-017-9340-2",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

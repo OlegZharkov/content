@@ -12,23 +12,23 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
     "Wellcome Trust",
     "UK BBSRC",
+    "EMBOSS Contributors",
     "UK MRC"
   ],
   "sc:description": "Calculate and plot enzyme reaction data.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "findkm",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

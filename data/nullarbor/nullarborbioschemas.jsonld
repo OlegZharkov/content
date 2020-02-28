@@ -11,17 +11,17 @@
   "@id": "https://bio.tools/nullarbor",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Torsten Seemann",
-    "Australia"
+    "Australia",
+    "Torsten Seemann"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:author": "Torsten Seemann",
   "sc:contributor": [
-    "MB Schultz",
     "BP Howden",
     "JC Kwong",
-    "DM Bulach",
-    "A Goncalves da Silva"
+    "MB Schultz",
+    "A Goncalves da Silva",
+    "DM Bulach"
   ],
   "sc:description": "Pipeline to generate complete public health microbiology reports from isolates sequenced with Illumina paired-end sequencing.",
   "sc:license": "GPL-2.0",

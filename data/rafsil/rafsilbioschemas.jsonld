@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/bty260",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/rafsil",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Dennis Kostka",
@@ -36,6 +32,10 @@
         "Linux"
       ],
       "sc:url": "http://www.kostkalab.net/software.html"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/bty260",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
+    "UK BBSRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Read and write (return) sequences.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "seqret",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

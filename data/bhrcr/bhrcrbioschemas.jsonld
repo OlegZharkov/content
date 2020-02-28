@@ -37,8 +37,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "bhrcr",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://cran.r-project.org/package=bhrcr",

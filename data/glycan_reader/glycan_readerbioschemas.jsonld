@@ -16,8 +16,8 @@
   "sc:name": "Glycan Reader",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.glycanstructure.org/"
 }

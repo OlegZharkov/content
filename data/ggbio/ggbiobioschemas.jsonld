@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/gb-2012-13-8-r77",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ggbio",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Michael Lawrence",
@@ -18,8 +22,8 @@
         "Library"
       ],
       "sc:citation": [
-        "pubmed:22937822",
         "pmcid:PMC4053745",
+        "pubmed:22937822",
         {
           "@id": "https://doi.org/10.1186/gb-2012-13-8-r77"
         }
@@ -31,16 +35,12 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "ggbio",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ggbio.html",
       "sc:version": "1.22.3"
-    },
-    {
-      "@id": "https://doi.org/10.1186/gb-2012-13-8-r77",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -14,25 +14,25 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC"
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Index a GCG formatted database using b+tree indices.",
   "sc:funder": [
-    "UK BBSRC",
     "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "dbxgcg",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/dbxgcg.html",
   "sc:version": "r6"

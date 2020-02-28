@@ -15,9 +15,9 @@
   "sc:license": "MIT",
   "sc:name": "LIGNIN-KMC",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:url": "https://github.com/michaelorella/lignin-kmc"
 }

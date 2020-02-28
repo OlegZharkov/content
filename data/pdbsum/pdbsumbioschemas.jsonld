@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/nar/gkt940",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/pdbsum",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -30,10 +34,10 @@
         "@id": "edam:topic_2814"
       },
       "sc:citation": [
+        "pmcid:PMC3965036",
         {
           "@id": "https://doi.org/10.1093/nar/gkt940"
         },
-        "pmcid:PMC3965036",
         "pubmed:24153109"
       ],
       "sc:description": "At-a-glance overview of every macromolecular structure deposited in the Protein Data Bank (PDB), giving schematic diagrams of the molecules in each structure and of the interactions between them.",
@@ -47,10 +51,6 @@
         "Linux"
       ],
       "sc:url": "https://www.ebi.ac.uk/pdbsum/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkt940",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

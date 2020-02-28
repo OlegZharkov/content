@@ -13,14 +13,14 @@
   "biotools:primaryContact": "Web Production",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Inge Jonassen",
-    "Web Production"
+    "Web Production",
+    "Inge Jonassen"
   ],
   "sc:description": "Discover patterns in unaligned protein sequences.",
   "sc:name": "Pratt",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

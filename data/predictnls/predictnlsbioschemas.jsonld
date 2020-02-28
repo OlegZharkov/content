@@ -28,10 +28,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3510"
+          "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_3510"
         }
       ],
       "sc:author": "Murat Cokol",
@@ -43,8 +43,8 @@
         "pubmed:11258480"
       ],
       "sc:contributor": [
-        "Rajesh Nair",
-        "Burkhard Rost"
+        "Burkhard Rost",
+        "Rajesh Nair"
       ],
       "sc:description": "Prediction and analysis of nuclear localization signals.",
       "sc:featureList": [
@@ -60,8 +60,8 @@
       "sc:name": "PredictNLS",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "RostLab",
-        "Columbia University"
+        "Columbia University",
+        "RostLab"
       ],
       "sc:softwareHelp": {
         "@id": "https://rostlab.org/owiki/index.php/PredictNLS"

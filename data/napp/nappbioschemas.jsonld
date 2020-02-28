@@ -17,8 +17,8 @@
   "sc:name": "NAPP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://napp.u-psud.fr/"
 }

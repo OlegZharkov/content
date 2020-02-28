@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-4525-7793",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/pasta",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -31,8 +35,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC4086119",
         "pubmed:24848016",
+        "pmcid:PMC4086119",
         {
           "@id": "https://doi.org/10.1093/nar/gku399"
         }
@@ -53,10 +57,6 @@
       ],
       "sc:url": "http://protein.bio.unipd.it/pasta2/index.html",
       "sc:version": "2.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-4525-7793",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/nar/gku399",

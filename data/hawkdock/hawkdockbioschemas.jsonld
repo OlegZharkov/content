@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ397",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/HawkDock",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -33,24 +37,20 @@
           "@id": "edam:operation_3899"
         },
         {
-          "@id": "edam:operation_2492"
+          "@id": "edam:operation_0482"
         },
         {
-          "@id": "edam:operation_0482"
+          "@id": "edam:operation_2492"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "HawkDock",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://cadd.zju.edu.cn/hawkdock/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ397",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

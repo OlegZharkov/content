@@ -37,9 +37,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "CSAR",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/CSAR.html",
       "sc:version": "1.26.0"

@@ -17,8 +17,8 @@
   "sc:name": "ONCOCNV",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://oncocnv.curie.fr/"
 }

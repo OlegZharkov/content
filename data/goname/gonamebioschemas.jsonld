@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC"
+    "Wellcome Trust",
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Find GO ontology terms by name.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "goname",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

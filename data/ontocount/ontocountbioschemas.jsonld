@@ -19,15 +19,15 @@
   ],
   "sc:description": "Count ontology term(s).",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "ontocount",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

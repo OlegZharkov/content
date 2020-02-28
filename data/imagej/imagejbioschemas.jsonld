@@ -15,8 +15,8 @@
   "sc:name": "ImageJ2",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://imagej.net/"
 }

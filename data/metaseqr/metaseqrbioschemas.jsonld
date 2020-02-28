@@ -18,8 +18,8 @@
   "sc:name": "metaseqR",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://www.bioconductor.org/packages/release/bioc/html/metaseqR.html",
   "sc:version": "1.16.0"

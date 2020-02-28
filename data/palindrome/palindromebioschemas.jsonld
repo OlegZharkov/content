@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK BBSRC",
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC",
     "UK MRC"
   ],
   "sc:description": "Find inverted repeats in nucleotide sequence(s).",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "palindrome",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

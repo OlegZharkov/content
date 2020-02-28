@@ -17,8 +17,8 @@
   "sc:name": "Kinefold",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://kinefold.curie.fr/"
 }

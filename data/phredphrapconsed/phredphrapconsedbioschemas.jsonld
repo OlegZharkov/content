@@ -16,8 +16,8 @@
   "sc:name": "Phred Phrap Consed Cross match",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.phrap.org/phredphrapconsed.html"
 }
