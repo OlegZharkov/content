@@ -20,8 +20,8 @@
   "sc:description": "Multiple sequence alignment tool.",
   "sc:name": "webPRANK",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "EMBL-EBI",

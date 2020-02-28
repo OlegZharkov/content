@@ -18,8 +18,8 @@
   "sc:name": "PAML",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://abacus.gene.ucl.ac.uk/software/paml.html"
 }

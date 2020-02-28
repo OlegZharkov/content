@@ -27,9 +27,9 @@
       },
       "sc:name": "REDHORSE",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://redhorse.sourceforge.net/"
     },

@@ -16,8 +16,8 @@
   "sc:name": "modlAMP",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://rossa-prod-ap11.ethz.ch/delivery/DeliveryManagerServlet?dps_pid=IE4903447"
 }

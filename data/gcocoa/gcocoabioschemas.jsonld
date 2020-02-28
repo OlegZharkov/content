@@ -16,8 +16,8 @@
   "sc:license": "Freeware",
   "sc:name": "gCocoa",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ELIXIR-EE",

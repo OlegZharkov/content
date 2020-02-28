@@ -17,8 +17,8 @@
   "sc:name": "CaSiAn",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://r3lab.uni.lu/web/casa"
 }

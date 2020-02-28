@@ -13,17 +13,17 @@
       "@id": "https://bio.tools/HNCDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Ankui Yang",
         "Zhixiang Zuo",
-        "Xiaoqing Pei",
-        "Ankui Yang"
+        "Xiaoqing Pei"
       ],
       "sc:additionalType": [
         "Database portal",
         "Web application"
       ],
       "sc:citation": [
-        "pubmed:31139565",
         "pmcid:PMC6527845",
+        "pubmed:31139565",
         {
           "@id": "https://doi.org/10.3389/FONC.2019.00371"
         }

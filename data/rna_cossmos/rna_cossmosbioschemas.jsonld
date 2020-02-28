@@ -17,8 +17,8 @@
   "sc:name": "RNA CoSSMos",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://cossmos.slu.edu/"
 }

@@ -15,8 +15,8 @@
   "sc:name": "SLPFA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://sunflower.kuicr.kyoto-u.ac.jp/~tamura/slpfa.html"
 }

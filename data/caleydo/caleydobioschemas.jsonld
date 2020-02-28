@@ -16,8 +16,8 @@
   "sc:name": "Caleydo",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.caleydo.org/"
 }

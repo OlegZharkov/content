@@ -36,8 +36,8 @@
       ],
       "sc:name": "DeCoaD",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://www.ncbi.nlm.nih.gov/CBBresearch/Yu/mn/DeCoaD/"

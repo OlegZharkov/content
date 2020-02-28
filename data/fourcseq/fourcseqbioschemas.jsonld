@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv335",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/fourcseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Felix A. Klein",
@@ -30,10 +26,10 @@
           "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_1017"
+          "@id": "edam:data_2955"
         },
         {
-          "@id": "edam:data_2955"
+          "@id": "edam:data_1017"
         }
       ],
       "sc:additionalType": [
@@ -63,6 +59,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/FourCSeq.html",
       "sc:version": "1.8.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv335",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

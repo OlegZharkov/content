@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-2323-0963",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1186/1471-2105-12-S4-S3",
       "@type": "sc:CreativeWork"
     },
@@ -49,10 +45,14 @@
       "sc:name": "WS-SNPs and GO",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://snps.biofold.org/snps-and-go"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-2323-0963",
+      "@type": "schema:Person"
     }
   ]
 }

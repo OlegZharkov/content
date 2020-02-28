@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv470",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/motifbreakr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Simon Gert Coetzee",
@@ -18,8 +22,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:26272984",
         "pmcid:PMC4653394",
+        "pubmed:26272984",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btv470"
         }
@@ -32,15 +36,11 @@
       "sc:name": "motifbreakR",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/motifbreakR.html",
       "sc:version": "1.4.0"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv470",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

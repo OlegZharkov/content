@@ -16,8 +16,8 @@
   "sc:name": "IntPred",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.bioinf.org.uk/intpred/"
 }

@@ -26,15 +26,15 @@
       ],
       "sc:citation": [
         "pubmed:21609959",
-        "pubmed:16845018",
-        "pmcid:PMC3125735",
-        "pmcid:PMC1538821",
         "pubmed:27742592",
-        {
-          "@id": "https://doi.org/10.1093/nar/gkl305"
-        },
+        "pubmed:16845018",
         {
           "@id": "https://doi.org/10.1093/nar/gkr284"
+        },
+        "pmcid:PMC1538821",
+        "pmcid:PMC3125735",
+        {
+          "@id": "https://doi.org/10.1093/nar/gkl305"
         }
       ],
       "sc:description": "Tool for computing commonly-used structural and physicochemical features of proteins and peptides from amino acid sequence. New functions include computation of protein-protein and protein-small molecule interactions, topological descriptors for peptide sequences and small molecule structures. New feature groups of descriptors have also been added.",

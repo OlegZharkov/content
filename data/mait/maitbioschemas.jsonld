@@ -25,22 +25,22 @@
           "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_1636"
         },
         {
-          "@id": "edam:data_1636"
+          "@id": "edam:data_2048"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3172"
+          "@id": "edam:topic_3361"
         },
         {
-          "@id": "edam:topic_3361"
+          "@id": "edam:topic_3172"
         }
       ],
       "sc:citation": [
@@ -53,10 +53,10 @@
       "sc:description": "This package contains functions to perform end-to-end statistical analysis of LC/MS Metabolomic Data. Special emphasis is put on peak annotation and in modular function design of the functions.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2238"
+          "@id": "edam:operation_3215"
         },
         {
-          "@id": "edam:operation_3215"
+          "@id": "edam:operation_2238"
         }
       ],
       "sc:license": "GPL-2.0",

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-2140-7590",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1186/s12864-016-2389-8",
       "@type": "sc:CreativeWork"
     },
@@ -25,10 +21,10 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
+        "pubmed:26810393",
         {
           "@id": "https://doi.org/10.1186/s12864-016-2389-8"
         },
-        "pubmed:26810393",
         "pmcid:PMC4727405"
       ],
       "sc:description": "Cascade is a web based tool for the intuitive 3D visualization of RNA-seq data from cancer genomics experiments.",
@@ -38,11 +34,15 @@
       "sc:license": "GPL-2.0",
       "sc:name": "Cascade",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioinfo.iric.ca/~shifmana/Cascade/"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-2140-7590",
+      "@type": "schema:Person"
     }
   ]
 }

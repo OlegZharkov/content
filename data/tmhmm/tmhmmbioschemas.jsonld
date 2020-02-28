@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Command-line tool",
-    "Web service",
-    "Web application"
+    "Web application",
+    "Web service"
   ],
   "sc:description": "Prediction of transmembrane helices in proteins.",
   "sc:license": "Other",

@@ -16,8 +16,8 @@
   "sc:name": "Metastats",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://metastats.cbcb.umd.edu/detection.html"
 }

@@ -16,8 +16,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "I-AbACUS",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://www.marilisacortesi.com/"

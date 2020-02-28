@@ -17,8 +17,8 @@
   "sc:name": "CAS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://radiobiology.math.berkeley.edu/CAS/index.html"
 }

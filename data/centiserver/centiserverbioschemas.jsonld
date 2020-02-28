@@ -18,9 +18,9 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mahdi Jalili",
       "sc:additionalType": [
+        "Library",
         "Command-line tool",
-        "Web application",
-        "Library"
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC4646361",
@@ -36,8 +36,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "CentiServer",
       "sc:operatingSystem": [
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://www.centiserver.org/",
       "sc:version": "1.0.0"

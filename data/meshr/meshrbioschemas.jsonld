@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1111/age.12307",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/meshr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -25,30 +29,30 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_3509"
+          "@id": "edam:data_2048"
         },
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_3509"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3063"
+          "@id": "edam:topic_3572"
         },
         {
-          "@id": "edam:topic_3572"
+          "@id": "edam:topic_3063"
         }
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1111/age.12307"
         },
-        "pubmed:26036323",
-        "pmcid:PMC5032990"
+        "pmcid:PMC5032990",
+        "pubmed:26036323"
       ],
       "sc:description": "A set of annotation maps describing the entire MeSH assembled using data from MeSH.",
       "sc:featureList": {
@@ -57,8 +61,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "meshr",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/meshr.html",
@@ -67,10 +71,6 @@
     {
       "@id": "http://orcid.org/0000-0003-3797-2148",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1111/age.12307",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

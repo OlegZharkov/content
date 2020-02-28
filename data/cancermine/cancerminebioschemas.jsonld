@@ -21,8 +21,8 @@
   "sc:name": "CancerMine",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bionlp.bcgsc.ca/cancermine/"
 }

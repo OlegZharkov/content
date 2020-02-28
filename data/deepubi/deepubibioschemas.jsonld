@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "DeepUbi",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "https://github.com/Sunmile/DeepUbi"

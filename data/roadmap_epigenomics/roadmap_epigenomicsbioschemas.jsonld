@@ -32,8 +32,8 @@
       "sc:license": "Unlicense",
       "sc:name": "ROADMAP epigenomics",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://egg2.wustl.edu/roadmap/web_portal/index.html"

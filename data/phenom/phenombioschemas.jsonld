@@ -17,8 +17,8 @@
   "sc:name": "PhenoM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://phenom.ccbr.utoronto.ca/"
 }

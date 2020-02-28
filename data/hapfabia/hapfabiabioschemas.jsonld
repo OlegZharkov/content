@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkt1013",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0001-7449-2528",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkt1013",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/hapfabia",
@@ -46,10 +46,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0625"
+          "@id": "edam:topic_0102"
         },
         {
-          "@id": "edam:topic_0102"
+          "@id": "edam:topic_0625"
         }
       ],
       "sc:citation": [
@@ -66,8 +66,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "hapFabia",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/hapFabia.html",

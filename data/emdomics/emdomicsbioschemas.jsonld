@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/emdomics",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Daniel Schmolze",
-    "Sadhika Malladi"
+    "Sadhika Malladi",
+    "Daniel Schmolze"
   ],
   "sc:additionalType": [
     "Library",
@@ -22,9 +22,9 @@
   "sc:license": "MIT",
   "sc:name": "EMDomics",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/EMDomics.html",
   "sc:version": "2.4.0"

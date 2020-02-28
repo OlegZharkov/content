@@ -18,8 +18,8 @@
   "sc:name": "Molecular clock",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/ugobas/Molecular_clock"
 }

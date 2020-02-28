@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0002-6245-8071"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": "pubmed:15585527",
       "sc:description": "Functions for normalisation of two-color microarrays by optimised local regression and for detection of artefacts in microarray data.",

@@ -16,8 +16,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "BMGE",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "Institut Pasteur",

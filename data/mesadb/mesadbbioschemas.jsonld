@@ -11,11 +11,11 @@
   "@id": "https://bio.tools/mesadb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Gökhan Karakülah",
+    "Özlen Konu",
     "Aybar C. Acar",
-    "Cengiz Yakicier",
     "Koray D. Kaya",
-    "Özlen Konu"
+    "Gökhan Karakülah",
+    "Cengiz Yakicier"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:21177657",
@@ -23,8 +23,8 @@
   "sc:name": "mESAdb",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://konulab.fen.bilkent.edu.tr/mirna/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "CaSNP",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://cistrome.dfci.harvard.edu/CaSNP/"
 }

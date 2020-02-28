@@ -28,8 +28,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "R453Plus1Toolbox",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/R453Plus1Toolbox.html",

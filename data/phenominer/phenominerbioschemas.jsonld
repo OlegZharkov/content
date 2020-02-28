@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/DATABASE/BAV104",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-7230-4164",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/phenominer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -29,19 +37,11 @@
       },
       "sc:name": "PhenoMiner",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://phenominer.mml.cam.ac.uk/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-7230-4164",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/DATABASE/BAV104",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

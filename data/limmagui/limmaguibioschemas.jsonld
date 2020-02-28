@@ -17,15 +17,15 @@
       "@id": "https://bio.tools/limmagui",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Yifang Hu",
+        "Keith Satterley",
         {
           "@id": "http://orcid.org/0000-0001-9221-2892"
         },
-        "Keith Satterley"
+        "Yifang Hu"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": "pubmed:15297296",
       "sc:description": "A Graphical User Interface for differential expression analysis of two-color microarray data using the limma package.",

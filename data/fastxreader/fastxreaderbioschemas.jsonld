@@ -16,8 +16,8 @@
   "sc:name": "FASTX::Reader",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://metacpan.org/pod/FASTX::Reader",
   "sc:version": "0.6"

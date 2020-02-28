@@ -33,8 +33,8 @@
       "sc:name": "Neopeptide Analyser",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/PGB-LIV/neo-pep-tool/releases/"
     }

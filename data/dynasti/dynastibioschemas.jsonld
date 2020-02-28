@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.3390/METABO9050085",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://orcid.org/0000-0003-3669-6313",
       "@type": "schema:Person"
     },
@@ -30,24 +34,20 @@
       "sc:description": "Dynamic Retention Time Database for Steroidomics.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3633"
+          "@id": "edam:operation_3454"
         },
         {
-          "@id": "edam:operation_3454"
+          "@id": "edam:operation_3633"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "DynaStI",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://dynasti.vital-it.ch"
-    },
-    {
-      "@id": "https://doi.org/10.3390/METABO9050085",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

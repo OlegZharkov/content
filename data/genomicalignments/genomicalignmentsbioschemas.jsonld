@@ -30,8 +30,8 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0080"
@@ -46,21 +46,21 @@
       "sc:description": "Provides efficient containers for storing and manipulating short genomic alignments (typically obtained by aligning short reads to a reference genome). This includes read counting, computing the coverage, junction detection, and working with the nucleotide content of the alignments.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3230"
+          "@id": "edam:operation_3563"
         },
         {
           "@id": "edam:operation_2478"
         },
         {
-          "@id": "edam:operation_3563"
+          "@id": "edam:operation_3230"
         }
       ],
       "sc:license": "Artistic-2.0",
       "sc:name": "GenomicAlignments",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GenomicAlignments.html",
       "sc:version": "1.10.0"

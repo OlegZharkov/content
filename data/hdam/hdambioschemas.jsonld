@@ -31,9 +31,9 @@
       },
       "sc:name": "HDAM",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.megabionet.org/HDAM/"
     }

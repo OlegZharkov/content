@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/journal.pone.0065390",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/organisms",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Lars Juhl Jensen",
@@ -28,8 +24,8 @@
         "@id": "edam:topic_0218"
       },
       "sc:citation": [
-        "pmcid:PMC3688812",
         "pubmed:23823062",
+        "pmcid:PMC3688812",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0065390"
         }
@@ -42,11 +38,15 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "ORGANISMS",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://organisms.jensenlab.org/"
+    },
+    {
+      "@id": "https://doi.org/10.1371/journal.pone.0065390",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

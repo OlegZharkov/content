@@ -17,8 +17,8 @@
   "sc:name": "rapier",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.hpcf.upr.edu/~humberto/cmb/microarray/spatial/index.html"
 }

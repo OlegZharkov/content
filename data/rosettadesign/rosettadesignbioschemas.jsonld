@@ -17,8 +17,8 @@
   "sc:name": "RosettaDesign",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://rosettadesign.med.unc.edu"
 }

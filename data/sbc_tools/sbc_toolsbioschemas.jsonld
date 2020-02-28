@@ -17,8 +17,8 @@
   "sc:name": "SBC tools",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://msa.cgb.ki.se/cgi-bin/msa.cgi"
 }

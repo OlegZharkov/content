@@ -17,9 +17,9 @@
       "@id": "https://bio.tools/mirtar2go",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Gaurav Sablok",
         "Gyorgy Hutvagner",
-        "Support"
+        "Support",
+        "Gaurav Sablok"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [

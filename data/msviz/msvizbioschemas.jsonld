@@ -21,8 +21,8 @@
   "sc:name": "MsViz",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://msviz-public.vital-it.ch",
   "sc:version": "1.0.1"

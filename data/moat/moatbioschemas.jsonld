@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "MOAT",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://moat.gersteinlab.org/"

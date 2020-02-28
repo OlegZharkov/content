@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/hubba",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Chia-Hao Chin",
-    "Hsin-Hung Wu",
     "Chung-Yen Lin",
+    "Hsin-Hung Wu",
     "Chin-Wen Ho",
+    "Chia-Hao Chin",
     "Shu-Hwa Chen"
   ],
   "sc:additionalType": "Web application",

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Command-line tool",
-    "Web service",
-    "Web application"
+    "Web application",
+    "Web service"
   ],
   "sc:description": "Neural network predictions for serine, threonine and tyrosine phosphorylation sites in eukaryotic proteins.",
   "sc:license": "Other",

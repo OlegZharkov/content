@@ -22,8 +22,8 @@
   "sc:name": "SHOREmap",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://1001genomes.org/software/shoremap.html"
 }

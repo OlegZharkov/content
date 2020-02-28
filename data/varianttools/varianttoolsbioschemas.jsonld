@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Michael Lawrence",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Tools for detecting, filtering, calling, comparing and plotting variants.",
   "sc:license": "Artistic-2.0",
   "sc:name": "VariantTools",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/VariantTools.html",

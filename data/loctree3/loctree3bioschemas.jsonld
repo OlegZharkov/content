@@ -15,16 +15,16 @@
     "Command-line tool"
   ],
   "sc:author": [
+    "Tatyana Goldberg",
+    "Guy Yachdav",
     "Tobias Hamp",
     "Timothy Karl",
-    "Tatyana Goldberg",
-    "Maximilian Hecht",
-    "Guy Yachdav"
+    "Maximilian Hecht"
   ],
   "sc:contributor": [
     "Ernst Ludwig Ehrlich Studienwerk",
-    "Alexander von Humboldt Foundation through German Federal Ministry for Education and Research",
     "Henrik Nielsen",
+    "Alexander von Humboldt Foundation through German Federal Ministry for Education and Research",
     "Burkhard Rost"
   ],
   "sc:description": "Prediction of protein subcellular localization in 18 classes for eukaryota, 6 for bacteria and 3 for archaea.",

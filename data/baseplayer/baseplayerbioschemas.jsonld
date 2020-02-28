@@ -19,8 +19,8 @@
   "sc:name": "BasePlayer",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://baseplayer.fi/"
 }

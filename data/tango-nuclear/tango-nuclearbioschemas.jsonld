@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/BIOINFORMATICS/BTT276",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/tango-nuclear",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Thomas Boudier",
-        "Julien Cochennec",
-        "Jean Ollion"
+        "Jean Ollion",
+        "Julien Cochennec"
       ],
       "sc:additionalType": [
         "Plug-in",
@@ -39,11 +35,15 @@
       "sc:license": "GPL-3.0",
       "sc:name": "TANGO",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://biophysique.mnhn.fr/tango/HomePage"
+    },
+    {
+      "@id": "https://doi.org/10.1093/BIOINFORMATICS/BTT276",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -15,8 +15,8 @@
   "sc:name": "MaLTA",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://alan.cs.gsu.edu/NGS/?q=malta"
 }

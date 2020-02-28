@@ -15,8 +15,8 @@
   "sc:name": "SHELX",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "Instruct",
   "sc:url": "http://shelx.uni-ac.gwdg.de/SHELX/",

@@ -27,9 +27,9 @@
       },
       "sc:name": "UFBoot2",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.iqtree.org/"
     },

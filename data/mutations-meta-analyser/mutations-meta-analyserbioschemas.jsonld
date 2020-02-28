@@ -20,8 +20,8 @@
       "sc:name": "Mutations-Meta-Analyser",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/BioDAG/Mutations-Meta-Analyser",
       "sc:version": "1.0"

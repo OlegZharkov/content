@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/2StrucCompare",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Robert W. Janes",
-        "Elliot Drew"
+        "Elliot Drew",
+        "Robert W. Janes"
       ],
       "sc:additionalType": [
-        "Web service",
-        "Web application"
+        "Web application",
+        "Web service"
       ],
       "sc:citation": [
         "pmcid:PMC6602421",
@@ -42,9 +42,9 @@
       "sc:license": "Unlicense",
       "sc:name": "2StrucCompare",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://2struccompare.cryst.bbk.ac.uk/index.php"
     },

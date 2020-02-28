@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/HawkDock",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Gaoqi Weng",
-        "Tingjun Hou"
+        "Tingjun Hou",
+        "Gaoqi Weng"
       ],
       "sc:additionalType": [
         "Web service",
@@ -33,17 +33,17 @@
           "@id": "edam:operation_2492"
         },
         {
-          "@id": "edam:operation_3899"
+          "@id": "edam:operation_0482"
         },
         {
-          "@id": "edam:operation_0482"
+          "@id": "edam:operation_3899"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "HawkDock",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://cadd.zju.edu.cn/hawkdock/"

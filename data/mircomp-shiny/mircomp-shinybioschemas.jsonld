@@ -17,8 +17,8 @@
   "sc:name": "miRcomp-Shiny",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://laurenkemperman.shinyapps.io/mircomp/",
   "sc:version": "1.10.0"

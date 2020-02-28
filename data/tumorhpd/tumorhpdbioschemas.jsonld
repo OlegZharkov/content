@@ -16,8 +16,8 @@
   "sc:name": "TumorHPD",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://crdd.osdd.net/raghava/tumorhpd/"
 }

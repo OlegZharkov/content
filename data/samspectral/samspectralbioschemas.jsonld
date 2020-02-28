@@ -38,8 +38,8 @@
       "sc:name": "SamSPECTRAL",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SamSPECTRAL.html",
       "sc:version": "1.28.0"

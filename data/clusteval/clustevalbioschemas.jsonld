@@ -25,16 +25,16 @@
         }
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:author": "Jan Baumbach",
       "sc:citation": "pubmed:26389570",
       "sc:description": "Free and extendable opensource platform for objective performance comparison of arbitrary Clustering Methods on different datasets.",
       "sc:name": "Clusteval",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "bmb.sdu.dk",

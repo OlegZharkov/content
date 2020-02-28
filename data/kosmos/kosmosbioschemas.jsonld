@@ -17,8 +17,8 @@
   "sc:name": "KOSMOS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioengineering.skku.ac.kr/kosmos"
 }

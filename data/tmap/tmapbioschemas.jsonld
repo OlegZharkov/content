@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1471-2164-15-264",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/tmap",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "GitHub Issues",
@@ -31,10 +27,14 @@
       },
       "sc:name": "TMAP",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/iontorrent/TS/tree/master/Analysis/TMAP"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2164-15-264",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

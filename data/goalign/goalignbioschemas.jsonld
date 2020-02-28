@@ -18,9 +18,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "goalign",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "https://github.com/fredericlemoine/goalign"
 }

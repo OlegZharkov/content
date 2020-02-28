@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/dsk",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Rayan Chikhi",
     "Dominique Lavenier",
+    "Rayan Chikhi",
     "Guillaume Rizk"
   ],
   "sc:additionalType": "Command-line tool",

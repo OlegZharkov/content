@@ -14,15 +14,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mariano J Alvarez",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1038/ng.3593"
         },
-        "pubmed:27322546",
-        "pmcid:PMC5040167"
+        "pmcid:PMC5040167",
+        "pubmed:27322546"
       ],
       "sc:description": "The package uses gene expression data to Infer protein activity. The package uses VIPER and msVIPER algorithms.",
       "sc:featureList": [
