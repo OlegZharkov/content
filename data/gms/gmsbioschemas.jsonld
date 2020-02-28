@@ -16,8 +16,8 @@
   "sc:name": "Genomatix Mining Station (GMS)",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.genomatix.de/en/index.html"
 }

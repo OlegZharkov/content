@@ -13,9 +13,9 @@
   "biotools:primaryContact": [
     "Mathias Dunkel",
     "Daniel Kuzmann",
-    "Saskia Preissner",
     "Katharina Kroll",
-    "Stefan Guenther"
+    "Stefan Guenther",
+    "Saskia Preissner"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19934256",

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-017-1914-3",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/bcrocsurface",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Khanh To Duc",
@@ -35,11 +31,15 @@
       "sc:license": "GPL-2.0",
       "sc:name": "bcROCsurface",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://khanhtoduc.shinyapps.io/bcROCsurface_shiny/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-017-1914-3",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

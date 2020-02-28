@@ -14,8 +14,8 @@
   "sc:contributor": [
     "UK BBSRC",
     "EMBOSS Contributors",
-    "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Get ontology root terms by child identifier.",
   "sc:funder": [

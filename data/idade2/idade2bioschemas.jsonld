@@ -12,12 +12,12 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Allysha Winburn",
-    "Marta San-Millán",
-    "Carme Rissech Badallo"
+    "Carme Rissech Badallo",
+    "Marta San-Millán"
   ],
   "sc:additionalType": [
-    "Web application",
-    "Web service"
+    "Web service",
+    "Web application"
   ],
   "sc:citation": "pubmed:31087665",
   "sc:description": "Web server for adult age estimation of human skeletal remains.",

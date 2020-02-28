@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Sander Bollen",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Detection and visualizations of gross chromosomal aberrations using Affymetrix expression microarrays as input.",
   "sc:license": "GPL-3.0",

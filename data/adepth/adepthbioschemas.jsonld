@@ -17,8 +17,8 @@
   "sc:name": "Adepth",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://biodev.cea.fr/adepth"
 }

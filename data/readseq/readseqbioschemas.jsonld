@@ -20,12 +20,12 @@
   "sc:name": "Readseq",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBL-EBI",
-    "Indiana University"
+    "Indiana University",
+    "EMBL-EBI"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/sfc/readseq/",
   "sc:version": "1"

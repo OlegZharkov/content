@@ -17,8 +17,8 @@
   "sc:name": "IntFOLD",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.reading.ac.uk/bioinf/IntFOLD/"
 }

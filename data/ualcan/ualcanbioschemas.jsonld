@@ -19,8 +19,8 @@
   "sc:name": "UALCAN",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://ualcan.path.uab.edu/analysis.html"
 }

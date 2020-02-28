@@ -20,9 +20,9 @@
     "Windows"
   ],
   "sc:provider": [
-    "ELIXIR-ES",
     "cnb.csic.es",
-    "INB"
+    "INB",
+    "ELIXIR-ES"
   ],
   "sc:url": "http://scipion.cnb.csic.es/m/services/",
   "sc:version": "1"

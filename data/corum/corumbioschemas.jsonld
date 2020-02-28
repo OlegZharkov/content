@@ -26,10 +26,10 @@
       "sc:additionalType": "Database portal",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0140"
+          "@id": "edam:topic_0128"
         },
         {
-          "@id": "edam:topic_0128"
+          "@id": "edam:topic_0140"
         }
       ],
       "sc:citation": [
@@ -45,8 +45,8 @@
       },
       "sc:name": "CORUM",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:provider": "Helmholtz Zentrum München-German Research Center for Environmental Health",

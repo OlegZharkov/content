@@ -17,8 +17,8 @@
   "sc:name": "Database for Bacterial Group 2 Introns",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://webapps2.ucalgary.ca/~groupii/"
 }

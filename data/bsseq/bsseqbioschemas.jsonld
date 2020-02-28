@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0003-0086-0687"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:23034175",
@@ -41,9 +41,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "bsseq",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/bsseq.html",
       "sc:version": "1.10.0"

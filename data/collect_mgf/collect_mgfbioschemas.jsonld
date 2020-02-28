@@ -16,8 +16,8 @@
   "sc:name": "collect_mgf",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.ms-utils.org/collect_mgf.c"
 }

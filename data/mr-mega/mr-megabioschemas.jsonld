@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "MR-MEGA",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://www.geenivaramu.ee/en/tools/mr-mega",

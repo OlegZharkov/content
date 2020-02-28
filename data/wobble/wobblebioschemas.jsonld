@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
-    "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Plot third base position variability in a nucleotide sequence.",
   "sc:funder": [

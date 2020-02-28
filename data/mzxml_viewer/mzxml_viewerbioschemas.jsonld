@@ -15,8 +15,8 @@
   "sc:name": "mzXML Viewer",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://tools.proteomecenter.org/mzXMLViewer.php"
 }

@@ -28,10 +28,10 @@
       "sc:description": "Web server to prepare and run coarse-grained membrane protein dynamics.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2476"
+          "@id": "edam:operation_0244"
         },
         {
-          "@id": "edam:operation_0244"
+          "@id": "edam:operation_2476"
         },
         {
           "@id": "edam:operation_3431"
@@ -40,9 +40,9 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "MERMAID",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://molsim.sci.univr.it/mermaid/"
     }

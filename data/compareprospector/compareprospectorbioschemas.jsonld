@@ -17,8 +17,8 @@
   "sc:name": "CompareProspector",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://compareprospector.stanford.edu/"
 }

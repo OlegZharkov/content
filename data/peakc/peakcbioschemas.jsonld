@@ -18,8 +18,8 @@
   "sc:name": "peakC",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/deWitLab/peakC"
 }

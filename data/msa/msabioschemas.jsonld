@@ -12,14 +12,14 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Ulrich Bodenhofer",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:author": "Sebastian Wilzbach",
   "sc:contributor": [
+    "Ian Sillitoe",
     "Tatyana Goldberg",
     "Google Summer of Code (GSoC) 2014",
-    "Ian Sillitoe",
     "Benedikt Rauscher",
     "Guy Yachdav"
   ],
@@ -29,8 +29,8 @@
   "sc:name": "msa",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "Technische Universität München",

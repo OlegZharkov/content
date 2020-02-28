@@ -31,13 +31,13 @@
       "sc:description": "Quantitatively predict the effects of mutations in protein coding regions on nucleic acid binding affinities.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0420"
+          "@id": "edam:operation_0331"
         },
         {
           "@id": "edam:operation_0279"
         },
         {
-          "@id": "edam:operation_0331"
+          "@id": "edam:operation_0420"
         }
       ],
       "sc:name": "mCSM_NA",

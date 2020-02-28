@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/mitogenesisdb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jean-Christophe GELLY",
+    "Claude JACQ",
     "Gaelle LELANDAIS",
     "Mickael ORGEUR",
-    "Claude JACQ"
+    "Jean-Christophe GELLY"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20833631",

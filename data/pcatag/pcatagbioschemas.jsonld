@@ -16,8 +16,8 @@
   "sc:name": "PCAtag",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www-genepi.med.utah.edu/PCAtag/index.html"
 }

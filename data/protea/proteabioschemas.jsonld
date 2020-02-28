@@ -19,8 +19,8 @@
   "sc:name": "protea",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioinfo.lifl.fr/protea/index.php"
 }

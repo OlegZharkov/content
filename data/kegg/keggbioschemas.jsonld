@@ -17,8 +17,8 @@
   "sc:name": "Kyoto encyclopedia of genes and genomes (KEGG)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.genome.ad.jp/kegg/"
 }

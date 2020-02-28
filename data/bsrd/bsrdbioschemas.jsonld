@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKS1264",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/bsrd",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -31,14 +35,10 @@
       "sc:name": "BSRD",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://kwanlab.bio.cuhk.edu.hk/BSRD/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKS1264",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-6687-7169",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/ODAM",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -31,12 +27,16 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ODAM",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://pmb-bordeaux.fr/dataexplorer/",
       "sc:version": "1.1"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-6687-7169",
+      "@type": "schema:Person"
     }
   ]
 }

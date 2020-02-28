@@ -16,8 +16,8 @@
   "sc:name": "GDDP",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://gddp.research.cchmc.org/"
 }

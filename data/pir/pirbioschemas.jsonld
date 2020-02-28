@@ -15,8 +15,8 @@
   "sc:name": "PIR",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://pir.georgetown.edu/"
 }

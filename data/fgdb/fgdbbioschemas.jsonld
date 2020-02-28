@@ -17,8 +17,8 @@
   "sc:name": "FGDB",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://mips.gsf.de/genre/proj/FGDB/"
 }

@@ -15,8 +15,8 @@
   "sc:name": "PCI-SS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinf.sce.carleton.ca/PCISS/start.php"
 }

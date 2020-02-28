@@ -19,8 +19,8 @@
   "sc:license": "Other",
   "sc:name": "ICD-10",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.icd10data.com"

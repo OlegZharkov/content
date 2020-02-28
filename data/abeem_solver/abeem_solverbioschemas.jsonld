@@ -16,8 +16,8 @@
   "sc:name": "ABEEM Solver",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "ELIXIR-CZ",
   "sc:url": "http://ncbr.muni.cz/~svobodova/eem_abeem",

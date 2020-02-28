@@ -13,24 +13,24 @@
       "@id": "https://bio.tools/pathvisio",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Martina Kutmon",
-        "Chris T. Evelo"
+        "Chris T. Evelo",
+        "Martina Kutmon"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1004085"
         },
-        "pmcid:PMC4338111",
-        "pubmed:25706687"
+        "pubmed:25706687",
+        "pmcid:PMC4338111"
       ],
       "sc:description": "Free open-source biological pathway analysis software that allows you to draw, edit and analyze biological pathways.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3083"
+          "@id": "edam:operation_2497"
         },
         {
-          "@id": "edam:operation_2497"
+          "@id": "edam:operation_3083"
         },
         {
           "@id": "edam:operation_3096"

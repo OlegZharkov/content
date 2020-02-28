@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Christine Pourcel",
-    "Marie Touchon",
-    "David Couvin"
+    "David Couvin",
+    "Marie Touchon"
   ],
   "sc:additionalType": [
     "Web application",

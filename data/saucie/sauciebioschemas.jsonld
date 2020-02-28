@@ -18,9 +18,9 @@
   "sc:license": "Not licensed",
   "sc:name": "SAUCIE",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/KrishnaswamyLab/SAUCIE/"
 }

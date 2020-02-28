@@ -16,8 +16,8 @@
   "sc:license": "AGPL-3.0",
   "sc:name": "MGX",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "bigi",

@@ -17,8 +17,8 @@
   "sc:name": "DAVID Bioinformatics Resources",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://david.abcc.ncifcrf.gov/home.jsp"
 }

@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0002-1541-9627",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/CoralTBase",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -27,8 +23,8 @@
         "Jianliang Xu"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC6525400",
@@ -53,10 +49,14 @@
       "sc:name": "CoralTBase",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.comp.hkbu.edu.hk/~db/CoralTBase"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-1541-9627",
+      "@type": "schema:Person"
     }
   ]
 }

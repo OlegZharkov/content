@@ -17,8 +17,8 @@
   "sc:name": "Footer",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://biodev.hgen.pitt.edu/Footer/"
 }

@@ -47,8 +47,8 @@
       "sc:name": "PureCN",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PureCN.html",
       "sc:version": "1.2.3"

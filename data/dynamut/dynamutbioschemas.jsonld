@@ -20,8 +20,8 @@
   "sc:name": "DynaMut",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://biosig.unimelb.edu.au/dynamut/"
 }

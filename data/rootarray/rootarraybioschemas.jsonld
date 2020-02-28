@@ -15,8 +15,8 @@
   "sc:name": "RootArray",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://ohlerlab.mdc-berlin.de/software/Imaging_pipeline_106/"
 }

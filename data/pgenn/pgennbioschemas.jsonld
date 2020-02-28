@@ -17,8 +17,8 @@
   "sc:name": "pGenN",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://biotm.cis.udel.edu/gn/"
 }

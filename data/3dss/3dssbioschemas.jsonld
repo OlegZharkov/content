@@ -17,8 +17,8 @@
   "sc:name": "3DSS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://cluster.physics.iisc.ernet.in/3dss/options.html"
 }

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/ClinPred",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Najmeh Alirezaie",
-        "Jacek Majewski"
+        "Jacek Majewski",
+        "Najmeh Alirezaie"
       ],
       "sc:citation": [
         "pubmed:30220433",

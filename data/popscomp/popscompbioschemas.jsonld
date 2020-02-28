@@ -20,8 +20,8 @@
   "sc:name": "POPSCOMP",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://mathbio.crick.ac.uk/wiki/POPSCOMP"
 }

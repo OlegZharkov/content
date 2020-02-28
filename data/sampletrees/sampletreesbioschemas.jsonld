@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv763",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/sampletrees",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Kelly Burkett",
@@ -33,15 +37,11 @@
       "sc:license": "GPL-3.0",
       "sc:name": "sampletrees",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://stat.sfu.ca/statgen/research/sampletrees.html"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv763",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

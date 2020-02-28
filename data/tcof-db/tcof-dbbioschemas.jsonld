@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/tcof-db",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Vladimir B. Bajic",
     "Ulf Schaefer",
+    "Vladimir B. Bajic",
     "Sebastian Schmeier"
   ],
   "sc:additionalType": "Database portal",
@@ -21,8 +21,8 @@
   "sc:name": "TcoF-DB",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://cbrc.kaust.edu.sa/tcof/"
 }

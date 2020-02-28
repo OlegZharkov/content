@@ -15,8 +15,8 @@
   "sc:name": "American Type Culture Collection (ATCC)",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "ATCC",
   "sc:url": "http://www.lgcstandards-atcc.org/"

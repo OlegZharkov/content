@@ -17,8 +17,8 @@
   "sc:name": "AmyCo",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.biol.uoa.gr/amyco"
 }

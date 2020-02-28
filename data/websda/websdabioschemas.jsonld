@@ -27,8 +27,8 @@
       },
       "sc:name": "webSDA",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://mcm.h-its.org/webSDA"

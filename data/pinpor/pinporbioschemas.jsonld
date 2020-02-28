@@ -20,8 +20,8 @@
   "sc:name": "PinPor",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://watson.compbio.iupui.edu/pinpor/"
 }

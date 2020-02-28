@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Alexandre Bureau",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pubmed:28186960",
         "pmcid:PMC5576982",
+        "pubmed:28186960",
         {
           "@id": "https://doi.org/10.1515/sagmb-2016-0035"
         }

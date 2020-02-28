@@ -15,8 +15,8 @@
   "sc:name": "DIMA domain interaction map",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "Technische Universität München",
   "sc:url": "http://webclu.bio.wzw.tum.de/dima2/",

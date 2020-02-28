@@ -16,8 +16,8 @@
   "sc:name": "Primer",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bclab.inha.ac.kr/primer/"
 }

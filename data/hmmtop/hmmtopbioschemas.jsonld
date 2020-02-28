@@ -21,8 +21,8 @@
       "sc:name": "HMMTOP",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.enzim.hu/hmmtop/"
     },

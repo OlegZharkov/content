@@ -16,10 +16,10 @@
       "sc:additionalType": "Web application",
       "sc:citation": [
         "pubmed:27131362",
-        "pmcid:PMC4987907",
         {
           "@id": "https://doi.org/10.1093/NAR/GKW345"
-        }
+        },
+        "pmcid:PMC4987907"
       ],
       "sc:description": "MicroRNA enrichment analysis and annotation.",
       "sc:featureList": [
@@ -32,9 +32,9 @@
       ],
       "sc:name": "miEAA",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://ccb-compute2.cs.uni-saarland.de/mieaa_tool/"
     },

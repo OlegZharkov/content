@@ -21,8 +21,8 @@
   ],
   "sc:provider": [
     "BiBiServ",
-    "CeBiTec",
-    "Bielefeld University"
+    "Bielefeld University",
+    "CeBiTec"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/libfid",
   "sc:version": "1"

@@ -16,8 +16,8 @@
   "sc:name": "pyTARG",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/SergioBordel/pyTARG"
 }

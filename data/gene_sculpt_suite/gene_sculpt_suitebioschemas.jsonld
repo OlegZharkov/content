@@ -17,11 +17,11 @@
       "@id": "https://bio.tools/Gene_Sculpt_Suite",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Jeffrey J. Essner",
+        "Stephen C. Ekker",
         {
           "@id": "https://orcid.org/0000-0001-5930-4111"
-        },
-        "Stephen C. Ekker",
-        "Jeffrey J. Essner"
+        }
       ],
       "sc:additionalType": [
         "Suite",

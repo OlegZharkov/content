@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/gen3va",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Avi Ma’ayan",
-        "Gregory Gundersen"
+        "Gregory Gundersen",
+        "Avi Ma’ayan"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -31,18 +31,18 @@
       "sc:description": "Aggregation and analysis of gene expression signatures from related studies.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0338"
+          "@id": "edam:operation_0315"
         },
         {
-          "@id": "edam:operation_0315"
+          "@id": "edam:operation_0338"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "GEN3VA",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://amp.pharm.mssm.edu/gen3va/"
     }

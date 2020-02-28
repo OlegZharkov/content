@@ -17,10 +17,10 @@
       "@id": "https://bio.tools/ranacapa",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Mahendra Mariadassou",
-        "Gaurav Kandlikar",
         "Martinez Arbizu",
-        "Madeline Cowen"
+        "Gaurav Kandlikar",
+        "Madeline Cowen",
+        "Mahendra Mariadassou"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -33,20 +33,20 @@
       "sc:description": "R package and Shiny web app to explore environmental DNA data with exploratory statistics and interactive visualizations.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3797"
+        },
+        {
           "@id": "edam:operation_3359"
         },
         {
           "@id": "edam:operation_3501"
-        },
-        {
-          "@id": "edam:operation_3797"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "ranacapa",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/gauravsk/ranacapa"

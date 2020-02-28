@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/iLearn",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jiangning Song",
-    "Zhen Chen"
+    "Zhen Chen",
+    "Jiangning Song"
   ],
   "sc:additionalType": [
     "Web application",
@@ -23,9 +23,9 @@
   "sc:license": "Unlicense",
   "sc:name": "iLearn",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://ilearn.erc.monash.edu/"
 }

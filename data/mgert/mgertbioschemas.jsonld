@@ -17,8 +17,8 @@
       },
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC6515669",
         "pubmed:31114637",
+        "pmcid:PMC6515669",
         {
           "@id": "https://doi.org/10.1186/S13100-019-0163-6"
         }
@@ -38,8 +38,8 @@
       "sc:license": "Unlicense",
       "sc:name": "MGERT",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/andrewgull/MGERT"

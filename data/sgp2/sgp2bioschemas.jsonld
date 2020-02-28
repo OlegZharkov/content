@@ -24,9 +24,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "SGP2",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "crg.eu",

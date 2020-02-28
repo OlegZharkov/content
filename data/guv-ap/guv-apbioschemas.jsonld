@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "GUV-AP",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "https://github.com/AG-Roemer/GUV-AP",

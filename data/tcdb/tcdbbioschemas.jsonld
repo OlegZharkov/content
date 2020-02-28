@@ -45,8 +45,8 @@
       },
       "sc:name": "Transport classification database (TCDB)",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://www.tcdb.org/"

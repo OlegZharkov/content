@@ -15,8 +15,8 @@
   "sc:name": "UniTrap gene trap clones",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://unitrap.crg.es/about.php"
 }

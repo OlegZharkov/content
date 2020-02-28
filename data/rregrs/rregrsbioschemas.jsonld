@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s13321-015-0094-2",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0001-7209-3670",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s13321-015-0094-2",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/rregrs",
@@ -38,8 +38,8 @@
       "sc:license": "BSD-2-Clause",
       "sc:name": "RRegrs",
       "sc:operatingSystem": [
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/enanomapper/RRegrs",
       "sc:version": "0.0.5"

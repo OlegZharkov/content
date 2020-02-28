@@ -23,8 +23,8 @@
       "sc:name": "neXtProt",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",
       "sc:url": "https://www.nextprot.org"
