@@ -20,8 +20,8 @@
   "sc:name": "EpiAnnotator",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://computational-epigenomics.com/en/epiannotator"
 }

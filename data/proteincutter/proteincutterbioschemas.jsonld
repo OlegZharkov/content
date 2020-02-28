@@ -17,8 +17,8 @@
   "sc:description": "Protein mass spectroscopy cleavage prediction.",
   "sc:name": "ProteinCutter",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "Palacky University Olomouc, Czech Republic",

@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/seqvista",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Zhenjun Hu",
     "Martin Frith",
     "Zhiping Weng",
-    "Tianhua Niu",
-    "Zhenjun Hu"
+    "Tianhua Niu"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:12513700",

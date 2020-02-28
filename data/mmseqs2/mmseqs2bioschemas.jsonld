@@ -16,8 +16,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "MMseqs2",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://mmseqs.com"

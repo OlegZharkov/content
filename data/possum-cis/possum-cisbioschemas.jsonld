@@ -16,8 +16,8 @@
   "sc:name": "Possum",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://zlab.bu.edu/~mfrith/possum/"
 }

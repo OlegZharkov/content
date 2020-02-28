@@ -17,8 +17,8 @@
   "sc:name": "aPPRove",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://www.cs.colostate.edu/~approve/"
 }

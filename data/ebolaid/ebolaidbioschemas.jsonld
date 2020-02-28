@@ -30,8 +30,8 @@
       "sc:name": "EbolaID",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://ebolaid.portugene.com"
     },

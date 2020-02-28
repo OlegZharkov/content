@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Till Soerensen",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Model based clustering and meta-clustering of Flow Cytometry Data.",
   "sc:license": "Artistic-2.0",
   "sc:name": "immunoClust",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/immunoClust.html",

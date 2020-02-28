@@ -19,8 +19,8 @@
   "sc:name": "SeqSIMLA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://seqsimla.sourceforge.net/"
 }

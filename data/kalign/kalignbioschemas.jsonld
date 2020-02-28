@@ -13,14 +13,14 @@
   "biotools:primaryContact": "Web Production",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Erik Sonnhammer",
-    "Web Production"
+    "Web Production",
+    "Erik Sonnhammer"
   ],
   "sc:description": "Fast and accurate multiple sequence alignment which handles large sequences.",
   "sc:name": "Kalign",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

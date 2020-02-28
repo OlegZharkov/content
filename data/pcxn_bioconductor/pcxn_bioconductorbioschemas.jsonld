@@ -17,8 +17,8 @@
   "sc:name": "pcxn",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/pcxn.html",
   "sc:version": "2.2.0"

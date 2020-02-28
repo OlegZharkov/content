@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/mircomb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Maria Vila Casadesús",
-        "Juanjo Lozano"
+        "Juanjo Lozano",
+        "Maria Vila Casadesús"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -27,17 +27,17 @@
       "sc:description": "Analyse miRNA-mRNA Interactions. Examples across Five Digestive Cancers.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2497"
+          "@id": "edam:operation_2478"
         },
         {
-          "@id": "edam:operation_2478"
+          "@id": "edam:operation_2497"
         }
       ],
       "sc:name": "MiRComb",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://mircomb.sourceforge.net/"
     },

@@ -21,8 +21,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ActiveDriver",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://reimandlab.org/software/activedriver/",

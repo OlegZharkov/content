@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-9795-9610",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1371/journal.pone.0167570",
       "@type": "sc:CreativeWork"
     },
@@ -42,10 +46,6 @@
       ],
       "sc:url": "https://cran.r-project.org/web/packages/GWRM/",
       "sc:version": "2.1.0.3"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-9795-9610",
-      "@type": "schema:Person"
     }
   ]
 }

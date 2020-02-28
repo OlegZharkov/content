@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/scsr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Roger Meier",
     "Andrea Franceschini",
+    "Roger Meier",
     "Christian von Mering"
   ],
   "sc:additionalType": [
@@ -24,8 +24,8 @@
   "sc:name": "scsR",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/scsR.html",
   "sc:version": "1.10.0"

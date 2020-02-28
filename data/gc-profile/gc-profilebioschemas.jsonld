@@ -17,8 +17,8 @@
   "sc:name": "GC-Profile",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://tubic.tju.edu.cn/GC-Profile/"
 }

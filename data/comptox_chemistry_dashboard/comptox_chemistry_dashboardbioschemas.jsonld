@@ -16,8 +16,8 @@
   "sc:name": "CompTox Chemistry Dashboard",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://comptox.epa.gov/dashboard"
 }

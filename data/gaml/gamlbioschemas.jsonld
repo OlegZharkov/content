@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/gaml",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Broňa Brejová",
-    "Tomáš Vinař"
+    "Tomáš Vinař",
+    "Broňa Brejová"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:26042154",

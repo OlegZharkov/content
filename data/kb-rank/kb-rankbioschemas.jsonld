@@ -36,8 +36,8 @@
       "sc:funder": "5U01 GM093324-02",
       "sc:name": "KB-Rank",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "The Commonwealth Medical College",

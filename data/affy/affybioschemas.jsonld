@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-5282-3250",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.3390/microarrays3010001",
       "@type": "sc:CreativeWork"
     },
@@ -43,10 +39,10 @@
         }
       ],
       "sc:citation": [
+        "pubmed:27605027",
         {
           "@id": "https://doi.org/10.3390/microarrays3010001"
         },
-        "pubmed:27605027",
         "pmcid:PMC5003452"
       ],
       "sc:contributor": {
@@ -59,12 +55,16 @@
       "sc:license": "GPL-2.0",
       "sc:name": "affy",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/affy.html",
       "sc:version": "1.52.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-5282-3250",
+      "@type": "schema:Person"
     }
   ]
 }

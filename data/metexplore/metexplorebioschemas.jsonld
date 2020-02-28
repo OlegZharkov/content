@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0001-9401-2894",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/metexplore",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -17,22 +21,18 @@
       },
       "sc:additionalType": [
         "Workbench",
-        "Web service",
-        "Web application"
+        "Web application",
+        "Web service"
       ],
       "sc:description": "Metabolic network curation, visualisation and omics data analysis. It is possible to curate and annotate metabolic networks in a collaborative environment. Several tools are available for metabolomics data mapping in networks and visualisation.",
       "sc:name": "MetExplore",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.metexplore.fr/",
       "sc:version": "2.23.14"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-9401-2894",
-      "@type": "schema:Person"
     }
   ]
 }

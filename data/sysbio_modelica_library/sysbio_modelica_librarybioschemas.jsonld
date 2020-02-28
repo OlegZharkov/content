@@ -14,9 +14,9 @@
   "sc:additionalType": "Library",
   "sc:author": [
     "Miha Moškon",
-    "Tanja Cvitanović",
     "Miha Mraz",
-    "Damjana Rozman"
+    "Damjana Rozman",
+    "Tanja Cvitanović"
   ],
   "sc:contributor": [
     "Adviti Naik",
@@ -30,8 +30,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "Faculty of Computer and Information Science, University of Ljubljana",
-    "ELIXIR-SI-hackathon"
+    "ELIXIR-SI-hackathon",
+    "Faculty of Computer and Information Science, University of Ljubljana"
   ],
   "sc:url": "http://lrss.fri.uni-lj.si/bio/sysbio",
   "sc:version": "1"

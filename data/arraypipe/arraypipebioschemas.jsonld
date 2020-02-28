@@ -17,8 +17,8 @@
   "sc:name": "ArrayPipe",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://koch.pathogenomics.ca/cgi-bin/pub/arraypipe.pl"
 }

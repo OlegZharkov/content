@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/Chickspress",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Shane C Burgess",
     "Fiona M McCarthy",
-    "Eric H Lyons",
-    "Shane C Burgess"
+    "Eric H Lyons"
   ],
   "sc:additionalType": "Web application",
   "sc:description": "Chickspress Genome Browser.",

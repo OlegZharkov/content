@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "EVlncRNA-pred",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://biophy.dzu.edu.cn/lncrnapred/index.html"

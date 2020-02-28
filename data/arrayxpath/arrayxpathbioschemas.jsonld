@@ -17,8 +17,8 @@
   "sc:name": "ArrayXPath",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.snubi.org/software/ArrayXPath/"
 }

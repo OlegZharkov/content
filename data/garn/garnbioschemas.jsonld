@@ -18,8 +18,8 @@
   "sc:description": "Coarse-grained prediction of 3D structure of large RNA molecules by regret minimization.",
   "sc:name": "GARN2",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://garn.lri.fr/"

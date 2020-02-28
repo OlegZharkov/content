@@ -15,9 +15,9 @@
   "sc:license": "Other",
   "sc:name": "Datacube Explorer",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.amolf.nl/download/datacubeexplorer/"
 }

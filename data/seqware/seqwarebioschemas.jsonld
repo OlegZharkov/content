@@ -20,9 +20,9 @@
     "Command-line tool"
   ],
   "sc:author": [
-    "Denis Yuen",
-    "Solomon Shorser",
     "Morgan Taschuk",
+    "Solomon Shorser",
+    "Denis Yuen",
     "Brian O'Connor"
   ],
   "sc:description": "Portable software infrastructure designed to analyze massive genomics datasets produced by contemporary and emerging technologies, in particular Next Generation Sequencing (NGS) platforms.",

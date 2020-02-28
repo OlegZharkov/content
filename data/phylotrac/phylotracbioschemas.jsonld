@@ -16,8 +16,8 @@
   "sc:name": "PhyloTrac",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.phylotrac.org/"
 }

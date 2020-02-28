@@ -21,8 +21,8 @@
       },
       "sc:additionalType": [
         "Web application",
-        "Desktop application",
-        "Web API"
+        "Web API",
+        "Desktop application"
       ],
       "sc:author": {
         "@id": "https://orcid.org/0000-0002-6687-7169"
@@ -32,8 +32,8 @@
       "sc:name": "ODAM",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://pmb-bordeaux.fr/dataexplorer/",
       "sc:version": "1.1"

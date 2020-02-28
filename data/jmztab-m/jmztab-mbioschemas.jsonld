@@ -27,9 +27,9 @@
       "sc:license": "Apache-2.0",
       "sc:name": "jmztab-m",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/lifs-tools/jmzTab-m",
       "sc:version": [

@@ -17,8 +17,8 @@
   "sc:name": "AdaptML",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://almlab.mit.edu/adaptml.html"
 }

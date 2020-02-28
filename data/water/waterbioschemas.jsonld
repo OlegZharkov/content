@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "water",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/geneclust",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Kim-Anh Do",
     "Rumiana Nikolova",
+    "Kim-Anh Do",
     "Bradley Broom",
     "Paul Roebuck"
   ],
@@ -22,8 +22,8 @@
   "sc:name": "GENECLUST",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.mdanderson.org/main/GENECLUST:Overview"
 }

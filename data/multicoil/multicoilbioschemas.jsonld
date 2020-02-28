@@ -15,8 +15,8 @@
   "sc:name": "Multicoil2",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://groups.csail.mit.edu/cb/multicoil"
 }

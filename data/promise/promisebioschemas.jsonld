@@ -15,8 +15,8 @@
     "Stan Pounds"
   ],
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "A general tool to identify genomic features with a specific biologically interesting pattern of associations with multiple endpoint variables.",
   "sc:license": "GPL-2.0",

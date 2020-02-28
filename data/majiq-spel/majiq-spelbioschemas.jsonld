@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Yoseph Barash",
   "sc:additionalType": [
     "Web API",
-    "Command-line tool",
-    "Web service"
+    "Web service",
+    "Command-line tool"
   ],
   "sc:description": "Web-tool to interrogate classical and complex splicing variations from RNA-Seq data.",
   "sc:license": "Unlicense",

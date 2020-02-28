@@ -17,8 +17,8 @@
   "sc:name": "PATBox",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://services.birc.au.dk/patbox/"
 }

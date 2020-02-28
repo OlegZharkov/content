@@ -16,8 +16,8 @@
     "Database portal"
   ],
   "sc:author": [
-    "Cesare Cugnasco",
     "Laia Codó",
+    "Cesare Cugnasco",
     "Pau Andrio",
     "Adam Hospital"
   ],
@@ -25,10 +25,10 @@
   "sc:name": "BigNASim",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "University of Barcelona",
-    "Barcelona Supercomputing Center",
     "Technic University of Catalonia",
-    "Institute of Research In Biomedicine - Barcelona"
+    "Barcelona Supercomputing Center",
+    "Institute of Research In Biomedicine - Barcelona",
+    "University of Barcelona"
   ],
   "sc:url": "http://mmb.irbbarcelona.org/BIGNASim/"
 }

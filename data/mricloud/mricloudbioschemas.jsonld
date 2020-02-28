@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/MRICloud",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Kumiko Oishi",
-        "Kenichi Oishi"
+        "Kenichi Oishi",
+        "Kumiko Oishi"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -35,9 +35,9 @@
       "sc:license": "Unlicense",
       "sc:name": "MRICloud",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://braingps.mricloud.org"
     }

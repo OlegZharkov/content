@@ -17,8 +17,8 @@
   "sc:name": "PhEVER",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://pbil.univ-lyon1.fr/databases/phever/help.html"
 }

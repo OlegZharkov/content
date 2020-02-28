@@ -20,8 +20,8 @@
   "sc:license": "Other",
   "sc:name": "MaxAlign",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.cbs.dtu.dk/services/MaxAlign/"

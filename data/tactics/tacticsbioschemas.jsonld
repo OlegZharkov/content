@@ -16,8 +16,8 @@
   "sc:name": "TACTICS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.tactics-toolbox.com/"
 }

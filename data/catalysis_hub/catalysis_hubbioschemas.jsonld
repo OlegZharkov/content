@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/Catalysis_Hub",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Thomas Bligaard",
-        "Kirsten Winther"
+        "Kirsten Winther",
+        "Thomas Bligaard"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -40,9 +40,9 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "Catalysis Hub",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://www.catalysis-hub.org"
     }

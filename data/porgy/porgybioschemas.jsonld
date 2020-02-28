@@ -21,8 +21,8 @@
   "sc:name": "PORGY",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://porgy.labri.fr/"
 }

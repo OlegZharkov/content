@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "EMBOSS Contributors",
+    "UK BBSRC"
   ],
   "sc:description": "Report whether an ontology term id is obsolete.",
   "sc:funder": [

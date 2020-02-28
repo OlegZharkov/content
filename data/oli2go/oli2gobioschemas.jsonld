@@ -15,8 +15,8 @@
   "sc:name": "Oli2go",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://oli2go.ait.ac.at/"
 }

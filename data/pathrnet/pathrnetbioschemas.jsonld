@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pathrnet",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Yidong Chen",
     "Shou-Jiang Gao",
+    "Yidong Chen",
     "yufei.huang@utsa.edu",
     "Jia Meng"
   ],

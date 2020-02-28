@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0003-1432-7461",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PGEN.1008124",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/Sci-LMM",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -25,8 +17,8 @@
       },
       "sc:additionalType": "Script",
       "sc:citation": [
-        "pmcid:PMC6529016",
         "pubmed:31071088",
+        "pmcid:PMC6529016",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PGEN.1008124"
         }
@@ -43,11 +35,19 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Sci-LMM",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://github.com/TalShor/SciLMM"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-1432-7461",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PGEN.1008124",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

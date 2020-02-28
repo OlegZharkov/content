@@ -17,8 +17,8 @@
   "sc:name": "KINARI-Web",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://kinari.cs.umass.edu/"
 }

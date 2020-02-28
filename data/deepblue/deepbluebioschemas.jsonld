@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Felipe Albrecht",
   "sc:additionalType": [
-    "Database portal",
     "Web application",
-    "Web API"
+    "Web API",
+    "Database portal"
   ],
   "sc:author": "Felipe Albrecht",
   "sc:contributor": [
@@ -34,8 +34,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "Max Planck Institute for Informatics",
-    "mpi-inf.mpg.de"
+    "mpi-inf.mpg.de",
+    "Max Planck Institute for Informatics"
   ],
   "sc:url": "http://deepblue.mpi-inf.mpg.de/"
 }

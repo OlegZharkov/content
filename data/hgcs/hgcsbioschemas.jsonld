@@ -36,8 +36,8 @@
       ],
       "sc:name": "HGCS",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://hgc.rockefeller.edu/"

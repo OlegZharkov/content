@@ -27,9 +27,9 @@
       },
       "sc:name": "InteractiVenn",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.interactivenn.net/"
     },

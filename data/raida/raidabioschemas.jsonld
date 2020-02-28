@@ -16,8 +16,8 @@
   "sc:name": "RAIDA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://cals.arizona.edu/~anling/sbg/software.htm"
 }

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-6537-3575",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/lmdme",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Cristobal Fresno",
@@ -31,10 +35,6 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/lmdme.html",
       "sc:version": "1.16.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-6537-3575",
-      "@type": "schema:Person"
     }
   ]
 }

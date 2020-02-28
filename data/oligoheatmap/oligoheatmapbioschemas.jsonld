@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "OligoHeatMap",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.bioinfomed.fr/__Tools/ohm/"

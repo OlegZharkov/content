@@ -10,22 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-4832-6101",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv368",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/sincell",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
-          "@id": "http://orcid.org/0000-0002-4403-1840"
+          "@id": "http://orcid.org/0000-0002-4832-6101"
         },
         {
-          "@id": "http://orcid.org/0000-0002-4832-6101"
+          "@id": "http://orcid.org/0000-0002-4403-1840"
         }
       ],
       "edam:has_input": [
@@ -40,21 +32,21 @@
         "@id": "edam:data_2589"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
-        {
-          "@id": "edam:topic_3170"
-        },
         {
           "@id": "edam:topic_0099"
         },
         {
-          "@id": "edam:topic_0637"
+          "@id": "edam:topic_3308"
         },
         {
-          "@id": "edam:topic_3308"
+          "@id": "edam:topic_3170"
+        },
+        {
+          "@id": "edam:topic_0637"
         }
       ],
       "sc:citation": [
@@ -71,8 +63,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "sincell",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/sincell.html",
@@ -80,6 +72,14 @@
     },
     {
       "@id": "http://orcid.org/0000-0002-4403-1840",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv368",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-4832-6101",
       "@type": "schema:Person"
     }
   ]

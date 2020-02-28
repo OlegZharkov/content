@@ -22,8 +22,8 @@
       "sc:name": "Advanced Cell Classifier",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://www.cellclassifier.org/"
     },

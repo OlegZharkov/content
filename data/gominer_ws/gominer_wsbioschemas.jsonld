@@ -15,8 +15,8 @@
   "sc:name": "GOMiner WS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://discover.nci.nih.gov/gominer/goservice.jsp",
   "sc:version": "1"

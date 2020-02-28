@@ -15,8 +15,8 @@
   "sc:name": "POTAMOS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://potamos.seas.harvard.edu"
 }

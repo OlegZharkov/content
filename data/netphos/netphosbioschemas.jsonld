@@ -11,17 +11,17 @@
   "@id": "https://bio.tools/netphos",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
+    "Web application",
     "Command-line tool",
-    "Web service",
-    "Web application"
+    "Web service"
   ],
   "sc:description": "Neural network predictions for serine, threonine and tyrosine phosphorylation sites in eukaryotic proteins.",
   "sc:license": "Other",
   "sc:name": "NetPhos",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": "CBS",
   "sc:url": "http://cbs.dtu.dk/services/NetPhos/",

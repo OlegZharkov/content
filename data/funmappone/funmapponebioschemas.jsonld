@@ -16,8 +16,8 @@
   "sc:name": "FunMappOne",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/Greco-Lab/FunMappOne"
 }

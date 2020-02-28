@@ -17,8 +17,8 @@
   "sc:name": "PlantNATsDB",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bis.zju.edu.cn/pnatdb/"
 }

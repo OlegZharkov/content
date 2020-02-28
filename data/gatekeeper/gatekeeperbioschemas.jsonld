@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/gatekeeper",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Onur Mutlu",
     "Can Alkan",
-    "Mohammed Alser",
-    "Onur Mutlu"
+    "Mohammed Alser"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Fast Alignment Filter for DNA Short Read Mapping.",

@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "EpiCompare",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://epigenome.wustl.edu/EpiCompare/"

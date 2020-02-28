@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-7496-7578",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/simap",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -21,10 +17,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1384"
+          "@id": "edam:data_1381"
         },
         {
-          "@id": "edam:data_1381"
+          "@id": "edam:data_1384"
         }
       ],
       "sc:additionalType": "Database portal",
@@ -33,10 +29,10 @@
       },
       "sc:citation": [
         "pmcid:PMC3965014",
+        "pubmed:24165881",
         {
           "@id": "https://doi.org/10.1093/nar/gkt970"
-        },
-        "pubmed:24165881"
+        }
       ],
       "sc:contributor": {
         "@id": "http://orcid.org/0000-0002-7496-7578"
@@ -49,14 +45,18 @@
       "sc:name": "SIMAP",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "AT-CUBE",
       "sc:softwareHelp": {
         "@id": "http://cube.univie.ac.at/resources/simap"
       },
       "sc:url": "http://cube.univie.ac.at/resources/simap"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-7496-7578",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/nar/gkt970",

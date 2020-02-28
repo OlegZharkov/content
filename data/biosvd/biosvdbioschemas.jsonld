@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/biosvd",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Matthew Brauer",
-    "Anneleen Daemen"
+    "Anneleen Daemen",
+    "Matthew Brauer"
   ],
   "sc:additionalType": [
     "Command-line tool",

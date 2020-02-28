@@ -15,8 +15,8 @@
   "sc:name": "ICTV",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "rki.de",
   "sc:url": "http://www.ictvonline.org/"

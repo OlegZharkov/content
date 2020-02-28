@@ -31,9 +31,9 @@
       },
       "sc:name": "GREAM",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://resource.ibab.ac.in/GREAM/"
     }

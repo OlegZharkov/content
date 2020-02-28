@@ -16,8 +16,8 @@
   "sc:name": "APECS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://trac.nbic.nl/apecs/"
 }

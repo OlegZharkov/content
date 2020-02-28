@@ -38,18 +38,18 @@
           "@id": "edam:operation_3219"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "GenePattern notebook",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.genepattern-notebook.org/"
     },

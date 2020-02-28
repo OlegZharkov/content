@@ -10,7 +10,7 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkl305",
+      "@id": "https://doi.org/10.1093/nar/gkr284",
       "@type": "sc:CreativeWork"
     },
     {
@@ -25,14 +25,14 @@
         "Web application"
       ],
       "sc:citation": [
-        "pubmed:21609959",
+        "pmcid:PMC1538821",
         "pubmed:16845018",
         "pmcid:PMC3125735",
-        "pmcid:PMC1538821",
-        "pubmed:27742592",
         {
           "@id": "https://doi.org/10.1093/nar/gkl305"
         },
+        "pubmed:21609959",
+        "pubmed:27742592",
         {
           "@id": "https://doi.org/10.1093/nar/gkr284"
         }
@@ -41,14 +41,14 @@
       "sc:license": "Unlicense",
       "sc:name": "PROFEAT",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bidd2.nus.edu.sg/cgi-bin/profeat2016/main.cgi"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gkr284",
+      "@id": "https://doi.org/10.1093/nar/gkl305",
       "@type": "sc:CreativeWork"
     }
   ]

@@ -21,8 +21,8 @@
   "sc:name": "FPbase",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.fpbase.org/",
   "sc:version": "1.2.0"

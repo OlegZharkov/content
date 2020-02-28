@@ -11,22 +11,22 @@
   "@id": "https://bio.tools/aquaria",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web API",
-    "Web application"
+    "Web application",
+    "Web API"
   ],
   "sc:author": [
-    "Andrea Schafferhans",
     "Kenneth S Sabir",
     "Seán I O'Donoghue",
-    "Christian Stolte"
+    "Christian Stolte",
+    "Andrea Schafferhans"
   ],
   "sc:contributor": [
+    "Vivian Ho",
+    "Fabian A Buske",
+    "Maria Kalemanov",
     "Benjamin Wellmann",
     "Nelson Perdigão",
     "Burkhard Rost",
-    "Maria Kalemanov",
-    "Vivian Ho",
-    "Fabian A Buske",
     "Manfred Roos",
     "Julian Heinrich"
   ],
@@ -34,15 +34,15 @@
   "sc:license": "GPL-2.0",
   "sc:name": "Aquaria",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "Division of Genomics and Epigenetics, Garvan Institute of Medical Research, Sydney",
-    "Department for Bioinformatics and Computational Biology, Technische Universität München",
     "School of Molecular Bioscience, The University of Sydney",
-    "Digital Productivity, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Sydney"
+    "Division of Genomics and Epigenetics, Garvan Institute of Medical Research, Sydney",
+    "Digital Productivity, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Sydney",
+    "Department for Bioinformatics and Computational Biology, Technische Universität München"
   ],
   "sc:url": "http://aquaria.ws",
   "sc:version": "1"

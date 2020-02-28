@@ -17,8 +17,8 @@
   "sc:name": "SCENIC",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://scenic.aertslab.org"
 }

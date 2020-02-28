@@ -13,17 +13,17 @@
       "@id": "https://bio.tools/pickle",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Nicholas Moschonas",
-        "Maria Klapa"
+        "Maria Klapa",
+        "Nicholas Moschonas"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:24088582",
-        "pubmed:29023571",
         "pmcid:PMC5638325",
+        "pubmed:29023571",
         {
           "@id": "https://doi.org/10.1186/1752-0509-7-96"
         }

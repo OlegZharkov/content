@@ -21,8 +21,8 @@
   "sc:name": "Rescue-ESE",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://genes.mit.edu/burgelab/rescue-ese/"
 }

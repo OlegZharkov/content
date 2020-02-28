@@ -13,10 +13,10 @@
       "@id": "https://bio.tools/trapp",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Daria Kokh",
         {
           "@id": "http://orcid.org/0000-0001-5951-8670"
-        }
+        },
+        "Daria Kokh"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -32,8 +32,8 @@
       },
       "sc:name": "TRAPP",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://trapp.h-its.org/"

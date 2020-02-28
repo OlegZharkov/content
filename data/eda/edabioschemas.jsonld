@@ -16,8 +16,8 @@
   "sc:name": "Experimental Design Assistant (EDA)",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://eda.nc3rs.org.uk/"
 }

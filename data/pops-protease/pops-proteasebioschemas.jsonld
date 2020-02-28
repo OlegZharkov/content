@@ -16,8 +16,8 @@
   "sc:name": "PoPS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://pops.csse.monash.edu.au/"
 }

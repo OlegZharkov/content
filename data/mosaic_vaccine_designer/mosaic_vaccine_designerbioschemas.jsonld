@@ -16,8 +16,8 @@
   "sc:name": "Mosaic Vaccine Designer",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.hiv.lanl.gov/content/sequence/MOSAIC/makeVaccine.html"
 }

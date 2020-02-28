@@ -30,9 +30,9 @@
       },
       "sc:name": "mlegp",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://gdancik.github.io/bioinformatics/software.html",
       "sc:version": "3.1.4"

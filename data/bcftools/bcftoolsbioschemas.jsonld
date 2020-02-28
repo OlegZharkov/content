@@ -17,8 +17,8 @@
   "sc:name": "bcftools",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "sanger.ac.uk",
   "sc:url": "http://www.htslib.org/",

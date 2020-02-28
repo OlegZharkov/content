@@ -15,9 +15,9 @@
   "sc:description": "Provides a list of groups of co-located and duplicated genes.",
   "sc:name": "DGD",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": "GenOuest",
   "sc:url": "http://dgd.genouest.org/"
