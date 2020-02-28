@@ -18,8 +18,8 @@
   "sc:name": "SLiMFinder",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.slimsuite.unsw.edu.au/servers/slimfinder.php"
 }

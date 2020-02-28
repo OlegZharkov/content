@@ -31,8 +31,8 @@
       "sc:license": "Not licensed",
       "sc:name": "MALDsoft",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://web.stanford.edu/group/pritchardlab/software/maldsoft_download.html"

@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-3729-8176",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/jd2stat",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -62,6 +58,10 @@
         "@id": "http://bioinformatics.org.au/tools/jD2Stat/jD2Stat_User_manual.pdf"
       },
       "sc:url": "http://bioinformatics.org.au/tools/jD2Stat/"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-3729-8176",
+      "@type": "schema:Person"
     }
   ]
 }

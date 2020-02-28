@@ -24,10 +24,10 @@
       "sc:description": "Collaboration of deep neural networks for biomedical named entity recognition.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3625"
+          "@id": "edam:operation_3280"
         },
         {
-          "@id": "edam:operation_3280"
+          "@id": "edam:operation_3625"
         }
       ],
       "sc:license": "MIT",

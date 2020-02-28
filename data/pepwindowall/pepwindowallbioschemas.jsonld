@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK MRC",
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Draw Kyte-Doolittle hydropathy plot for a protein alignment.",
   "sc:funder": [
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "pepwindowall",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

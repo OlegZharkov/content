@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-4927-5123",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1186/s12864-015-1346-2",
       "@type": "sc:CreativeWork"
     },
@@ -33,16 +37,12 @@
       },
       "sc:name": "RNASeqBrowser",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://www.australianprostatecentre.org/research/software/rnaseqbrowser",
       "sc:version": "V2"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4927-5123",
-      "@type": "schema:Person"
     }
   ]
 }

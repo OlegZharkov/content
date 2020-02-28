@@ -15,11 +15,11 @@
     "Morten Lindow"
   ],
   "sc:additionalType": [
-    "Database portal",
-    "Library",
-    "Web application",
     "Command-line tool",
-    "Web API"
+    "Library",
+    "Database portal",
+    "Web API",
+    "Web application"
   ],
   "sc:description": "Intuitive and modular software platform designed to unify miRBase and independent miRNA data resources. It enables miRNA researchers to computationally address complex questions involving the multitude of miRNA data resources.",
   "sc:license": "LGPL-2.1",

@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "Wellcome Trust",
     "UK MRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Identify nucleic acid-binding motifs in protein sequences.",
   "sc:funder": [

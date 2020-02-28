@@ -10,22 +10,18 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-019-2679-7",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/Monoallelic_Gene_Inference_from_Chromatin",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Henry Ward",
         "Svetlana Vinogradova",
-        "Sachit Saksena",
-        "Alexander Gimelbrant",
         "Sébastien Vigneau",
-        "Henry Ward"
+        "Sachit Saksena",
+        "Alexander Gimelbrant"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:30819107",
@@ -37,10 +33,10 @@
       "sc:description": "Monoallelic Gene Inference from Chromatin (MaGIC) - tool to classify genes into monoallelically expressed (MAE) and biallelically expressed (BAE) using chromatin mark enrichment data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3227"
         },
         {
-          "@id": "edam:operation_3227"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:license": "MIT",
@@ -51,6 +47,10 @@
         "Linux"
       ],
       "sc:url": "https://github.com/gimelbrantlab/magic"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-019-2679-7",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

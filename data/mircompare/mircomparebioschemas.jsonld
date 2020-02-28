@@ -19,8 +19,8 @@
   "sc:description": "Innovative algorithm developed to compare sets of microRNAs belonging to different kingdoms, for their capacity to bind host mRNAs.",
   "sc:name": "MirCompare",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://160.80.35.140/MirCompare/"

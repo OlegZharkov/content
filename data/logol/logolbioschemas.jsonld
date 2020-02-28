@@ -20,8 +20,8 @@
   "sc:name": "Logol",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "GenOuest",
   "sc:url": "http://logol.genouest.org",

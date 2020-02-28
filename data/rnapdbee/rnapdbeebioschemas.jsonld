@@ -16,8 +16,8 @@
   "sc:name": "RNApdbee",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://rnapdbee.cs.put.poznan.pl/"
 }

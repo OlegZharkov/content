@@ -21,8 +21,8 @@
   "sc:name": "methylGSA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://bioconductor.org/packages/methylGSA"
 }

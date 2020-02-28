@@ -15,8 +15,8 @@
   "sc:name": "PhpLabWare",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://phplabware.sourceforge.net/",
   "sc:version": "0.63"

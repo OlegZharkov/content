@@ -17,8 +17,8 @@
   "sc:name": "Multifit",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://modbase.compbio.ucsf.edu/multifit/"
 }

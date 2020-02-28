@@ -20,8 +20,8 @@
   "sc:license": "Unlicense",
   "sc:name": "HIVCoR",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://codes.bio/hivcor/"

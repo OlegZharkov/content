@@ -35,8 +35,8 @@
       "sc:name": "ACE",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://genome.zju.edu.cn/software/ace/"
     }

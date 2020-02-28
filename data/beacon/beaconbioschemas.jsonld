@@ -32,8 +32,8 @@
       ],
       "sc:name": "BEACON",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://www.cbrc.kaust.edu.sa/BEACON/"

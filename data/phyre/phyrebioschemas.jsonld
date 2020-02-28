@@ -16,8 +16,8 @@
   "sc:name": "Phyre",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi?id=index"
 }

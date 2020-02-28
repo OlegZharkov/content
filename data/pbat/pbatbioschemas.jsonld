@@ -19,9 +19,9 @@
   "sc:license": "Not licensed",
   "sc:name": "PBAT",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://www.hsph.harvard.edu/pbat"
 }

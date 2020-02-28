@@ -14,8 +14,8 @@
   "sc:description": "Automated analysis for cytometry data.",
   "sc:name": "FloReMi",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "ugent.be",

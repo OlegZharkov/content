@@ -35,9 +35,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "RTCGAToolbox",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RTCGAToolbox.html",
       "sc:version": "2.4.0"

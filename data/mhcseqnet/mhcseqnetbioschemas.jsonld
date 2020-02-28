@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-019-2892-4",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/MHCSeqNet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Computational Molecular Biology Group, Chulalongkorn University",
@@ -27,10 +31,10 @@
           "@id": "edam:operation_0252"
         },
         {
-          "@id": "edam:operation_3227"
+          "@id": "edam:operation_3631"
         },
         {
-          "@id": "edam:operation_3631"
+          "@id": "edam:operation_3227"
         }
       ],
       "sc:license": "Apache-2.0",
@@ -40,10 +44,6 @@
         "Mac"
       ],
       "sc:url": "https://github.com/cmbcu/MHCSeqNet"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-019-2892-4",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

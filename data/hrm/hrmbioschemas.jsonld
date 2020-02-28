@@ -17,8 +17,8 @@
   "sc:name": "HRM",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://homepages.inf.ed.ac.uk/gsanguin/software.html"
 }

@@ -10,16 +10,20 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkt1026",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/hpo",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Melissa Haendel",
-        "Sebastian Köhler",
-        "Peter Robinson"
+        "Peter Robinson",
+        "Sebastian Köhler"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Ontology"
+        "Ontology",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC3965098",
@@ -42,15 +46,11 @@
       ],
       "sc:name": "HPO",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://hpo.jax.org/app/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkt1026",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -15,8 +15,8 @@
   "sc:name": "ColorDecontmas",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://colordecontmas.sourceforge.net/",
   "sc:version": "1.00"

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/nadfinder",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Lihua Julie Zhu",
-    "Jianhong Ou"
+    "Jianhong Ou",
+    "Lihua Julie Zhu"
   ],
   "sc:additionalType": "Library",
   "sc:description": "This Bioconductor package has been developed for bioinformatic analysis of the NAD-seq data, including normalization, smoothing, peak calling, peak trimming and annotation.",
@@ -20,8 +20,8 @@
   "sc:name": "NADfinder",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/NADfinder.html",
   "sc:version": "1.4.0"

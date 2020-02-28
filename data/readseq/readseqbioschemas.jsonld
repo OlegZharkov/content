@@ -19,9 +19,9 @@
   "sc:description": "Convert biosequences between a selection of common biological sequence formats.",
   "sc:name": "Readseq",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "Indiana University",

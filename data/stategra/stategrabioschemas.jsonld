@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Patricia Sebastián-León",
-    "David Gomez-Cabrero",
-    "Gordon Ball"
+    "Gordon Ball",
+    "David Gomez-Cabrero"
   ],
   "sc:additionalType": [
     "Command-line tool",
@@ -23,9 +23,9 @@
   "sc:license": "GPL-2.0",
   "sc:name": "STATegRa",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/STATegRa.html",
   "sc:version": "1.8.0"

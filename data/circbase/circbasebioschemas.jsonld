@@ -15,8 +15,8 @@
   "sc:name": "circBase",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.circbase.org/"
 }

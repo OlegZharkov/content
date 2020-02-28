@@ -22,8 +22,8 @@
   "sc:license": "MIT",
   "sc:name": "bionode",
   "sc:operatingSystem": [
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bionode.io",
   "sc:version": "4.0.1"

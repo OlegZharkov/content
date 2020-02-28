@@ -17,8 +17,8 @@
   "sc:name": "MicrobesOnline",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.MicrobesOnline.org"
 }

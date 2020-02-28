@@ -39,8 +39,8 @@
       "sc:name": "GIDB",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bmtongji.cn/GIDB/index.html"
     }

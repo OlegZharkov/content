@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/Monoallelic_gene_inference_from_chromatin_MaGIC",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Sébastien Vigneau",
         "Sachit Saksena",
         "Svetlana Vinogradova",
-        "Sébastien Vigneau",
         "Alexander Gimelbrant",
         "Henry Ward"
       ],

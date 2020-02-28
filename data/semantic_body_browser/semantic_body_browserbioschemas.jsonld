@@ -16,8 +16,8 @@
   "sc:name": "Semantic Body Browser",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://sbb.cellfinder.org/"
 }

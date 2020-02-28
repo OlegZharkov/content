@@ -17,8 +17,8 @@
   "sc:name": "npSeq",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www3.nd.edu/~jli9/research.html#npseq"
 }

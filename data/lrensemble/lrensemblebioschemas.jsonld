@@ -15,8 +15,8 @@
   "sc:name": "LRensemble",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://mleg.cse.sc.edu/LRensemble/cgi-bin/index.html"
 }

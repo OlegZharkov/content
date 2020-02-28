@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-6476-7206",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-7032-5220",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/Bioinformatics_Docker_Images_Project",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -25,9 +17,9 @@
       },
       "sc:additionalType": [
         "Command-line tool",
-        "Suite",
         "Desktop application",
-        "Workflow"
+        "Workflow",
+        "Suite"
       ],
       "sc:author": [
         {
@@ -43,13 +35,21 @@
       "sc:description": "A collection of 40+ well-documented Docker images of commonly used bioinformatics applications and pipelines.",
       "sc:name": "Bioinformatics Docker Images Project",
       "sc:operatingSystem": [
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://pegi3s.github.io/dockerfiles/"
     },
     {
+      "@id": "https://orcid.org/0000-0001-7032-5220",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://orcid.org/0000-0002-7139-2107",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-6476-7206",
       "@type": "schema:Person"
     },
     {

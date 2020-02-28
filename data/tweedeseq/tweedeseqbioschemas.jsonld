@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/1471-2105-14-254",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/tweedeseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Juan R Gonzalez",
@@ -18,8 +22,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:23965047",
         "pmcid:PMC3849762",
+        "pubmed:23965047",
         {
           "@id": "https://doi.org/10.1186/1471-2105-14-254"
         }
@@ -43,15 +47,11 @@
       "sc:name": "tweeDEseq",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/tweeDEseq.html",
       "sc:version": "1.24.0"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1471-2105-14-254",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

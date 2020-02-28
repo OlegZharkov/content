@@ -16,8 +16,8 @@
   "sc:name": "SiTaR",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://sbi.hki-jena.de/sitar/index.php"
 }

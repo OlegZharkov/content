@@ -32,8 +32,8 @@
       "sc:license": "Other",
       "sc:name": "FACETS",
       "sc:operatingSystem": [
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://sites.google.com/site/mskfacets/"
     }

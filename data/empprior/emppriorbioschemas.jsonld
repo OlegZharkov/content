@@ -17,10 +17,10 @@
       "@id": "https://bio.tools/empprior",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "John J. Andersen",
         {
           "@id": "http://orcid.org/0000-0002-1447-8633"
-        }
+        },
+        "John J. Andersen"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
@@ -37,9 +37,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "EmpPrior",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/jembrown/EmpPrior",
       "sc:version": "0.21"

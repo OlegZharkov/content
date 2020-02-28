@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/database/baz006",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ZincBind",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Sam Ireland",
       "sc:additionalType": [
         "Web API",
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:30722040",
@@ -39,15 +43,11 @@
       ],
       "sc:name": "ZincBind",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://zincbind.bioinf.org.uk/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/database/baz006",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -12,32 +12,32 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:author": [
+    "Lada Biedermannova",
     "Jiri Sochor",
+    "Petr Benes",
+    "Jan Brezovsky",
+    "Artur Gora",
+    "Petr Medek",
+    "Ondrej Strnad",
+    "Vilem Sustr",
     "Eva Chovancova",
     "Jiri Damborsky",
-    "Artur Gora",
-    "Lada Biedermannova",
-    "Ondrej Strnad",
-    "Jan Brezovsky",
-    "Barbora Kozlikova",
-    "Petr Medek",
-    "Vilem Sustr",
-    "Petr Benes",
+    "Antonin Pavelka",
     "Martin Klvana",
-    "Antonin Pavelka"
+    "Barbora Kozlikova"
   ],
   "sc:description": "A tool for identification and analysis of tunnels and channels in static and dynamic protein structures.",
   "sc:license": "GPL-3.0",
   "sc:name": "CAVER",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "International Centre for Clinical Research, Brno, Czech Republic",
-    "Masaryk University, Brno, Czech Republic",
-    "Loschmidt Laboratories"
+    "Loschmidt Laboratories",
+    "Masaryk University, Brno, Czech Republic"
   ],
   "sc:url": "http://www.caver.cz",
   "sc:version": "3.02"

@@ -15,8 +15,8 @@
   "sc:description": "Protein similarity network generation method for Cytoscape.",
   "sc:name": "PANADA",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-PADOVA",

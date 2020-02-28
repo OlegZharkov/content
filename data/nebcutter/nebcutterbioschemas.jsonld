@@ -17,8 +17,8 @@
   "sc:name": "NEBcutter",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://tools.neb.com/NEBcutter/index.php3"
 }

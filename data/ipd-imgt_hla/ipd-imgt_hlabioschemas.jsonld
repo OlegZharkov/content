@@ -17,8 +17,8 @@
   "sc:name": "IMGT HLA database",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.ebi.ac.uk/imgt/hla/"
 }

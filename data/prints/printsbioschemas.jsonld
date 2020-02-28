@@ -16,8 +16,8 @@
   "sc:name": "PRINTS protein motif fingerprint database",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://umber.sbs.man.ac.uk/dbbrowser/PRINTS/"
 }

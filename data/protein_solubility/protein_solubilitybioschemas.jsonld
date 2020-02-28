@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/protein_solubility",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Xiaonan Wang",
-    "Kang Zhou"
+    "Kang Zhou",
+    "Xiaonan Wang"
   ],
   "sc:additionalType": "Workflow",
   "sc:citation": "pubmed:31038685",

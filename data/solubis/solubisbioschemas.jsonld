@@ -16,8 +16,8 @@
   "sc:name": "SolubiS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://solubis.switchlab.org/"
 }

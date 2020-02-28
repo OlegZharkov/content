@@ -38,9 +38,9 @@
       ],
       "sc:name": "MyproteinNet",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://netbio.bgu.ac.il/myproteinnet/"
     },

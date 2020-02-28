@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/mitogenesisdb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Mickael ORGEUR",
     "Claude JACQ",
     "Gaelle LELANDAIS",
-    "Mickael ORGEUR",
     "Jean-Christophe GELLY"
   ],
   "sc:additionalType": "Database portal",

@@ -16,8 +16,8 @@
   "sc:description": "BLAST search of against GPCR domains stored in GPCR SARfari.",
   "sc:name": "GPCR SARfari  BLAST Search",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "EMBL-EBI",

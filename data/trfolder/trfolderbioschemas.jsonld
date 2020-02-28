@@ -15,8 +15,8 @@
   "sc:name": "TRFolder",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://rna-informatics.uga.edu/?f=software&p=TRFolder"
 }

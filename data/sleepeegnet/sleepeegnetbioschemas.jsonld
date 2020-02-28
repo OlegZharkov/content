@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0002-3806-8487",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/SleepEEGNet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,11 +31,15 @@
       "sc:license": "Unlicense",
       "sc:name": "SleepEEGNet",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/SajadMo/SleepEEGNet"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-3806-8487",
+      "@type": "schema:Person"
     }
   ]
 }

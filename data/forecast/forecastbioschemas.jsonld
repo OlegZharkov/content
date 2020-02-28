@@ -19,8 +19,8 @@
   "sc:name": "FORECasT",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://partslab.sanger.ac.uk/FORECasT"
 }

@@ -19,8 +19,8 @@
   "sc:description": "R client for Seven Bridges Genomics API.",
   "sc:name": "sbgr",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "BioConductor",

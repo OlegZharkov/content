@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "ImmClass2019",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "https://github.com/KlinkeLab/ImmClass2019"

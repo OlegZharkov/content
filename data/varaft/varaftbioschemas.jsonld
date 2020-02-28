@@ -17,8 +17,8 @@
   "sc:name": "VarAFT",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://varaft.eu",
   "sc:version": "2.x"

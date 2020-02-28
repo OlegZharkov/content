@@ -21,8 +21,8 @@
       "sc:name": "ProteoWorker",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://www.proteoworker.com"
     },

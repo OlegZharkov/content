@@ -37,9 +37,9 @@
       "sc:description": "ZOOMA 2 is a search engine for automatic curation and a repository of annotation knowledge. It facilitates automated data annotation against a variety of ontologies by exploring context and previous annotation efforts as well as lexical matching",
       "sc:name": "Zooma",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "EMBL-EBI",
       "sc:url": "http://wwwdev.ebi.ac.uk/fgpt/zooma/",

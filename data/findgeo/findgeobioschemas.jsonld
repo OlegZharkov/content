@@ -16,8 +16,8 @@
   "sc:name": "FindGeo",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "CERM",
   "sc:url": "http://metalweb.cerm.unifi.it/tools/findgeo/",

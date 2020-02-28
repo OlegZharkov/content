@@ -14,15 +14,15 @@
   "sc:additionalType": "Web application",
   "sc:author": [
     "Literature Services",
-    "Johanna McEntyre",
     "Dietrich Rebholz-Schuhmann",
+    "Johanna McEntyre",
     "Jee-Hyub Kim"
   ],
   "sc:description": "A text processing system that allows you to do textmining tasks on text. It is great at identifying molecular biology terms and linking them to publicly available databases.",
   "sc:name": "Whatizit",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "EMBL-EBI",

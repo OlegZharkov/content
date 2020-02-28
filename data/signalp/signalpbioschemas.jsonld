@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0002-9412-9643"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:author": [
         "Henrik Nielsen",

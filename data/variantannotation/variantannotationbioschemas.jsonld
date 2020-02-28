@@ -38,18 +38,18 @@
           "@id": "edam:operation_3661"
         },
         {
-          "@id": "edam:operation_3202"
+          "@id": "edam:operation_3225"
         },
         {
-          "@id": "edam:operation_3225"
+          "@id": "edam:operation_3202"
         }
       ],
       "sc:license": "Artistic-2.0",
       "sc:name": "VariantAnnotation",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/VariantAnnotation.html",
       "sc:version": "1.20.2"

@@ -17,8 +17,8 @@
   "sc:name": "SWAKK",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://oxytricha.princeton.edu/SWAKK/"
 }

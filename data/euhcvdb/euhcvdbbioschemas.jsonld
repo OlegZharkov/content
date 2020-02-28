@@ -15,8 +15,8 @@
   "sc:name": "European Hepatitis C virus database (euHCVdb)",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://euhcvdb.ibcp.fr/euHCVdb/"
 }

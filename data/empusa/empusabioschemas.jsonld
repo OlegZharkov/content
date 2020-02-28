@@ -30,11 +30,11 @@
       "sc:version": "1"
     },
     {
-      "@id": "https://orcid.org/0000-0001-8172-8981",
+      "@id": "https://orcid.org/0000-0001-9395-5559",
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0001-9395-5559",
+      "@id": "https://orcid.org/0000-0001-8172-8981",
       "@type": "schema:Person"
     }
   ]

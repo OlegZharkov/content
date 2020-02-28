@@ -31,8 +31,8 @@
       },
       "sc:name": "DOCKSCORE",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://caps.ncbs.res.in/dockscore/"

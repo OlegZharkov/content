@@ -17,8 +17,8 @@
   "sc:name": "PathBLAST",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.pathblast.org/"
 }

@@ -20,8 +20,8 @@
   "sc:name": "SuccFind",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinfo.ncu.edu.cn/SuccFind.aspx"
 }

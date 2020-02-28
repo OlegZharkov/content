@@ -29,10 +29,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3473"
+          "@id": "edam:topic_0602"
         },
         {
-          "@id": "edam:topic_0602"
+          "@id": "edam:topic_3473"
         }
       ],
       "sc:citation": [
@@ -50,8 +50,8 @@
       "sc:name": "bioassayR",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/bioassayR.html",
       "sc:version": "1.12.1"

@@ -15,8 +15,8 @@
   "sc:name": "HTPheno",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://htpheno.ipk-gatersleben.de/"
 }

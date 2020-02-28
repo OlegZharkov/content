@@ -16,8 +16,8 @@
   "sc:name": "Crispi",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "GenOuest",
   "sc:url": "http://crispi.genouest.org/"

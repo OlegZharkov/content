@@ -16,8 +16,8 @@
   "sc:name": "BETASEQ",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://yunliweb.its.unc.edu/betaseq/"
 }

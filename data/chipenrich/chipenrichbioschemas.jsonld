@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0001-6155-5702",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/chipenrich",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Raymond G. Cavalcante",
@@ -29,8 +33,8 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -58,15 +62,11 @@
       "sc:name": "chipenrich",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/chipenrich.html",
       "sc:version": "1.12.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-6155-5702",
-      "@type": "schema:Person"
     }
   ]
 }

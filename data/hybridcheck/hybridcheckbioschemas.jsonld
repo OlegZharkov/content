@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/hybridcheck",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ben J. Ward",
-    "Dr. Cock van Oosterhout"
+    "Dr. Cock van Oosterhout",
+    "Ben J. Ward"
   ],
   "sc:additionalType": "Library",
   "sc:citation": "pubmed:26394708",
@@ -20,8 +20,8 @@
   "sc:name": "HybridCheck",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/BenJWard/HybridCheck"
 }

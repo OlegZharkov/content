@@ -16,8 +16,8 @@
   "sc:name": "MIfold",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.uea.ac.uk/computing/mifold"
 }

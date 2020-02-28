@@ -13,15 +13,15 @@
   "sc:additionalType": [
     "Web application",
     "Database portal",
-    "Command-line tool",
-    "Web API"
+    "Web API",
+    "Command-line tool"
   ],
   "sc:description": "Database of human genotype-phenotype associations.",
   "sc:license": "Unlicense",
   "sc:name": "PhenoScanner",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.phenoscanner.medschl.cam.ac.uk/",

@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "AmyCo",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bioinformatics.biol.uoa.gr/amyco"

@@ -21,8 +21,8 @@
   "sc:name": "Frog",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioserv.rpbs.jussieu.fr/cgi-bin/Frog"
 }

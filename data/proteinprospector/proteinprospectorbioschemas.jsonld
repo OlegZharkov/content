@@ -15,8 +15,8 @@
   "sc:name": "ProteinProspector",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://prospector.ucsf.edu"
 }

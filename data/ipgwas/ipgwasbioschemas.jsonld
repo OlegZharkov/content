@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ipgwas",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "You-QiangSong",
-    "Yan-HuiFan"
+    "Yan-HuiFan",
+    "You-QiangSong"
   ],
   "sc:additionalType": "Desktop application",
   "sc:citation": "pubmed:22564732",
@@ -20,8 +20,8 @@
   "sc:name": "IPGWAS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://sourceforge.net/projects/ipgwas/"
 }

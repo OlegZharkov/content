@@ -18,8 +18,8 @@
   "sc:description": "Single-cell regulome data analysis.",
   "sc:name": "SCRAT",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://zhiji.shinyapps.io/scrat/"

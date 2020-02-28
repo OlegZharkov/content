@@ -29,8 +29,8 @@
         "Linux"
       ],
       "sc:provider": [
-        "European Molecular Biology Laboratory (EMBL)",
-        "HD-HuB"
+        "HD-HuB",
+        "European Molecular Biology Laboratory (EMBL)"
       ],
       "sc:url": "http://www.bork.embl.de/software/mOTU/",
       "sc:version": "1.0"

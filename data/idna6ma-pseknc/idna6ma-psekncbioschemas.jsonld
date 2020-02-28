@@ -17,8 +17,8 @@
   "sc:license": "Unlicense",
   "sc:name": "iDNA6mA-PseKNC",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://lin-group.cn/server/iDNA6mA-PseKNC"

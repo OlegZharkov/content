@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/hmrfbayeshic",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Zheng Xu",
     "Yun Li",
+    "Zheng Xu",
     "Ming Hu"
   ],
   "sc:additionalType": "Command-line tool",
@@ -20,8 +20,8 @@
   "sc:description": "Hidden Markov random field based Bayesian peak caller to identify long range chromatin interactions from Hi-C data.",
   "sc:name": "HMRFBayesHiC",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.unc.edu/~yunmli/HMRFBayesHiC/"

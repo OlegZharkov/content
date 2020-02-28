@@ -17,8 +17,8 @@
   "sc:name": "GeneSilico",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://genesilico.pl/meta2/"
 }

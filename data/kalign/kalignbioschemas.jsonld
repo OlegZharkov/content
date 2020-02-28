@@ -19,8 +19,8 @@
   "sc:description": "Fast and accurate multiple sequence alignment which handles large sequences.",
   "sc:name": "Kalign",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

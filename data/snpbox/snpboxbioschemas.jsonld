@@ -15,8 +15,8 @@
   "sc:name": "SNPbox",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.SNPbox.org"
 }

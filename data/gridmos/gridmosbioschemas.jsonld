@@ -11,20 +11,20 @@
   "@id": "https://bio.tools/gridmos",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "AlessandroBevilacqua",
-    "WainerZoli",
-    "AnnaTesei",
     "FilippoPiccinini",
-    "GiuliaPaganelli"
+    "AlessandroBevilacqua",
+    "GiuliaPaganelli",
+    "WainerZoli",
+    "AnnaTesei"
   ],
   "sc:additionalType": "Desktop application",
   "sc:citation": "pubmed:25438936",
   "sc:description": "Open-source software tool conceived to build an image mosaic of a hemocytometer’s grid.",
   "sc:name": "GridMos",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "http://sourceforge.net/projects/gridmos/"
 }

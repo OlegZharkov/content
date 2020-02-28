@@ -17,8 +17,8 @@
   "sc:name": "CATALYST",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/CATALYST.html",
   "sc:version": "1.4.2"

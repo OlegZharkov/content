@@ -16,8 +16,8 @@
   "sc:name": "Genome Classifier",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://sandberg.cmb.ki.se/genomeclass/"
 }

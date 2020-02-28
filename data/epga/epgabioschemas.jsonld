@@ -17,9 +17,9 @@
         "George Patrinos"
       ],
       "sc:additionalType": [
+        "Web API",
         "Web application",
-        "Web service",
-        "Web API"
+        "Web service"
       ],
       "sc:citation": [
         {
@@ -40,9 +40,9 @@
       "sc:license": "Other",
       "sc:name": "ePGA",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.epga.gr"
     },

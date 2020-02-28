@@ -14,8 +14,8 @@
   "sc:description": "Free and open source workbench for the life sciences.",
   "sc:name": "Bioclipse",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "bils.se",

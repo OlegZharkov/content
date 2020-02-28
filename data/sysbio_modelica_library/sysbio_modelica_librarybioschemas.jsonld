@@ -13,20 +13,20 @@
   "biotools:primaryContact": "Miha Moškon",
   "sc:additionalType": "Library",
   "sc:author": [
-    "Miha Mraz",
-    "Tanja Cvitanović",
     "Miha Moškon",
-    "Damjana Rozman"
+    "Damjana Rozman",
+    "Miha Mraz",
+    "Tanja Cvitanović"
   ],
   "sc:contributor": [
-    "Aleš Belič",
-    "Adviti Naik"
+    "Adviti Naik",
+    "Aleš Belič"
   ],
   "sc:description": "Library which implements basic systems biology objects within the modelica environment.",
   "sc:name": "SysBio modelica library",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

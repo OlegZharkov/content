@@ -19,8 +19,8 @@
   "sc:name": "Bat Detective",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://www.batdetective.org/"
 }

@@ -16,8 +16,8 @@
   "sc:name": "SigMod",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/YuanlongLiu/SigMod"
 }

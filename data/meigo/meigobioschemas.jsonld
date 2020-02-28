@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/meigo",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Julio Saez-Rodríguez",
-        "Julio R. Banga"
+        "Julio R. Banga",
+        "Julio Saez-Rodríguez"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [

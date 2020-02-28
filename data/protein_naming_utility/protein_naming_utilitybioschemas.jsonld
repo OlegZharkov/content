@@ -17,8 +17,8 @@
   "sc:name": "Protein Naming Utility",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.jcvi.org/pn-utility"
 }

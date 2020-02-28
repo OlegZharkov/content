@@ -17,8 +17,8 @@
   "sc:name": "ATIVS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://influenza.nhri.org.tw/ATIVS/"
 }

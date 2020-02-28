@@ -15,8 +15,8 @@
   "sc:name": "ExPA",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://gcrg.ucsd.edu/Downloads/ExtremePathwayAnalysis",
   "sc:version": "50216"

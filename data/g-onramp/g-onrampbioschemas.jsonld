@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/G-OnRamp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Sarah C.R. Elgin",
     "Jeremy Goecks",
     "Luke Sargent",
-    "Wilson Leung"
+    "Wilson Leung",
+    "Sarah C.R. Elgin"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:31070714",

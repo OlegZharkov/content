@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Marek L. Borowiec",
       "sc:additionalType": [
-        "Plug-in",
-        "Command-line tool"
+        "Command-line tool",
+        "Plug-in"
       ],
       "sc:citation": [
         {
@@ -31,17 +31,17 @@
       "sc:description": "AMAS (Alignment Manipulation And Summary), a tool that works on amino acid and nucleotide alignments and combines capabilities of sequence manipulation with a function that calculates basic statistics.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2478"
+          "@id": "edam:operation_2479"
         },
         {
-          "@id": "edam:operation_2479"
+          "@id": "edam:operation_2478"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "AMAS",
       "sc:operatingSystem": [
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/marekborowiec/AMAS"
     }

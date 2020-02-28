@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/rnablueprint",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ivo L. Hofacker",
     "Stefan Hammer",
+    "Ivo L. Hofacker",
     "Sven Findeiß"
   ],
   "sc:additionalType": "Command-line tool",
