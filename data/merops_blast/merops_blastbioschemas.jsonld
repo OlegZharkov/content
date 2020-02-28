@@ -21,8 +21,8 @@
   "sc:name": "MEROPS Blast",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "Sanger Institute",

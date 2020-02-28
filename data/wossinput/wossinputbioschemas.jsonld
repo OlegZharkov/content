@@ -14,25 +14,25 @@
   "sc:contributor": [
     "UK MRC",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Find programs by EDAM input data.",
   "sc:funder": [
     "UK BBSRC",
-    "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "wossinput",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/wossinput.html",
   "sc:version": "r6"

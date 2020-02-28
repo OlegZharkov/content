@@ -11,24 +11,24 @@
   "@id": "https://bio.tools/aquaria",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web API",
-    "Web application"
+    "Web application",
+    "Web API"
   ],
   "sc:author": [
+    "Christian Stolte",
     "Kenneth S Sabir",
     "Seán I O'Donoghue",
-    "Christian Stolte",
     "Andrea Schafferhans"
   ],
   "sc:contributor": [
-    "Nelson Perdigão",
-    "Burkhard Rost",
     "Manfred Roos",
-    "Julian Heinrich",
-    "Benjamin Wellmann",
+    "Maria Kalemanov",
     "Fabian A Buske",
+    "Nelson Perdigão",
     "Vivian Ho",
-    "Maria Kalemanov"
+    "Julian Heinrich",
+    "Burkhard Rost",
+    "Benjamin Wellmann"
   ],
   "sc:description": "Simplifying the generation of insight from protein structures through structure visualisation, annotated with protein features; loads sequence-to-structure alignments from the PSSH2 database, sequence features from UniProt and Interpro and user defined features on demand from JSON files; there is also a WebAPI (see ...).",
   "sc:license": "GPL-2.0",

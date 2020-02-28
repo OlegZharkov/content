@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/gatekeeper",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Mohammed Alser",
     "Onur Mutlu",
+    "Mohammed Alser",
     "Can Alkan"
   ],
   "sc:additionalType": "Command-line tool",

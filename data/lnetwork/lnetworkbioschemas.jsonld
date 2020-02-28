@@ -17,8 +17,8 @@
   "sc:name": "LNETWORK",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://nclab.hit.edu.cn/~wangjuan/LNETWORK/"
 }

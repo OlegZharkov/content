@@ -23,8 +23,8 @@
   "sc:name": "Exalign",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-MILANO",
   "sc:url": "http://www.beaconlab.it/exalign",

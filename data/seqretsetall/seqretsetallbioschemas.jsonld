@@ -12,23 +12,23 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "Wellcome Trust",
     "EMBOSS Contributors",
+    "UK BBSRC",
+    "UK MRC"
+  ],
+  "sc:description": "Read and write (return) many sets of sequences.",
+  "sc:funder": [
     "UK BBSRC",
     "UK MRC",
     "Wellcome Trust"
   ],
-  "sc:description": "Read and write (return) many sets of sequences.",
-  "sc:funder": [
-    "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
-  ],
   "sc:license": "GPL-3.0",
   "sc:name": "seqretsetall",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

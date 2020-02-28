@@ -15,8 +15,8 @@
   "sc:name": "GGB",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://gaggle.systemsbiology.net/docs/geese/genomebrowser/",
   "sc:version": "1.0"

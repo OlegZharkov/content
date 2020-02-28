@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-4694-3883",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkn730",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/hypercldb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -20,22 +28,22 @@
       ],
       "sc:additionalType": "Web application",
       "sc:author": [
+        "Paolo Romano",
         "Domenico Marra",
-        "Beatrice Iannotta",
         "Massimiliano Armento",
-        "Paolo Romano"
+        "Beatrice Iannotta"
       ],
       "sc:citation": [
+        "pubmed:18927105",
+        "pmcid:PMC2686526",
         {
           "@id": "https://doi.org/10.1093/nar/gkn730"
         },
-        "pubmed:7763741",
-        "pmcid:PMC2686526",
-        "pubmed:18927105"
+        "pubmed:7763741"
       ],
       "sc:contributor": [
-        "Ottavia Aresu",
         "Barbara Parodi",
+        "Ottavia Aresu",
         "Tiziana Ruzzon",
         "Leonardo Santi"
       ],
@@ -45,14 +53,6 @@
       "sc:provider": "USMI",
       "sc:url": "http://bioinformatics.hsanmartino.it/hypercldb/",
       "sc:version": "4.0.201503"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-4694-3883",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkn730",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

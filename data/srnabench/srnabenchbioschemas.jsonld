@@ -40,9 +40,9 @@
       "sc:license": "Unlicense",
       "sc:name": "sRNAbench",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://bioinfo5.ugr.es/srnatoolbox/srnabench/"
     }

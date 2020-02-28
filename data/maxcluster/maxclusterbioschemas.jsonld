@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1110/ps.0215902",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/maxcluster",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -31,10 +35,6 @@
         "Linux"
       ],
       "sc:url": "http://www.sbg.bio.ic.ac.uk/~maxcluster"
-    },
-    {
-      "@id": "https://doi.org/10.1110/ps.0215902",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1155/2017/8327980",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/Linked_Registries",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
@@ -31,15 +35,11 @@
       ],
       "sc:name": "Linked Registries",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioinformatics.ua.pt/linked-registries-app/#"
-    },
-    {
-      "@id": "https://doi.org/10.1155/2017/8327980",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Liangde Xu",
-    "Yongshuai Jiang",
-    "Fanwu Kong"
+    "Fanwu Kong",
+    "Yongshuai Jiang"
   ],
   "sc:additionalType": [
     "Desktop application",

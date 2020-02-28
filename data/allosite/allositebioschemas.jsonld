@@ -15,8 +15,8 @@
   "sc:description": "Tool for the prediction of allosteric sites in proteins.",
   "sc:name": "Allosite",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://mdl.shsmu.edu.cn/AST/"

@@ -16,8 +16,8 @@
   "sc:name": "iNitro-Tyr",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://app.aporc.org/iNitro-Tyr/"
 }

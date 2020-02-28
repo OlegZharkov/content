@@ -15,8 +15,8 @@
   "sc:name": "introgress",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.uwyo.edu/buerkle/software/introgress/",
   "sc:version": "1.23"

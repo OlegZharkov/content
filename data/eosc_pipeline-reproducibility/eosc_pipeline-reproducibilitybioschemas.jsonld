@@ -23,8 +23,8 @@
   "sc:license": "Apache-1.0",
   "sc:name": "EOSC pipeline-Reproducibility",
   "sc:operatingSystem": [
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/CRG-CNAG/EOSC-Pilot"
 }

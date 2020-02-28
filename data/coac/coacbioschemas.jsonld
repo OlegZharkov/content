@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/journal.pcbi.1006772",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/COAC",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "ChengF-Lab",
@@ -40,11 +36,15 @@
       "sc:license": "MPL-2.0",
       "sc:name": "COAC",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://github.com/ChengF-Lab/COAC"
+    },
+    {
+      "@id": "https://doi.org/10.1371/journal.pcbi.1006772",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -20,19 +20,19 @@
   "sc:description": "Extract regions from a sequence alignment.",
   "sc:funder": [
     "Wellcome Trust",
-    "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "extractalign",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/extractalign.html",
   "sc:version": "r6"

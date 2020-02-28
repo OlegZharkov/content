@@ -15,8 +15,8 @@
   "sc:name": "PIRSF whole-protein classification database",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://pir.georgetown.edu/pirwww/dbinfo/pirsf.shtml"
 }

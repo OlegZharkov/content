@@ -24,8 +24,8 @@
       "sc:license": "BSD-2-Clause",
       "sc:name": "MULTOVL",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://www.interquadrat.eu/aa/software.php",

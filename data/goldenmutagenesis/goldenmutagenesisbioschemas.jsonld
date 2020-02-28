@@ -21,8 +21,8 @@
       "@id": "https://bio.tools/GoldenMutagenesis",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Library",
-        "Web application"
+        "Web application",
+        "Library"
       ],
       "sc:author": {
         "@id": "https://orcid.org/0000-0001-5444-9282"

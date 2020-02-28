@@ -17,8 +17,8 @@
   "sc:name": "Patch-Surfer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://kiharalab.org/patchsurfer2.0/"
 }

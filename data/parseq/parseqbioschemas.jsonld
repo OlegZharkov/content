@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Hugues Richard",
-    "Pierre Nicolas",
-    "Bogdan Mirauta"
+    "Bogdan Mirauta",
+    "Pierre Nicolas"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:24470570",

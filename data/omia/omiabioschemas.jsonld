@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gkj152",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/omia",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -43,6 +39,10 @@
         "Mac"
       ],
       "sc:url": "http://omia.angis.org.au/home/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkj152",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

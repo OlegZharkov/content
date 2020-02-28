@@ -25,8 +25,8 @@
       "sc:license": "AFL-3.0",
       "sc:name": "RSAT oligo-analysis",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "RSAT",
       "sc:url": "http://teaching.rsat.eu/oligo-analysis_form.cgi",

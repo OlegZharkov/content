@@ -21,8 +21,8 @@
   "sc:name": "BayesCall",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bayescall.sourceforge.net/"
 }

@@ -14,21 +14,21 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK BBSRC",
-    "EMBOSS Contributors",
-    "UK MRC"
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Retrieve information from REBASE restriction enzyme database.",
   "sc:funder": [
-    "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "redata",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

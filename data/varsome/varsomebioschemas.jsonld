@@ -13,15 +13,15 @@
   "biotools:primaryContact": "Saphetor SA",
   "sc:additionalType": [
     "Web application",
-    "Web API",
-    "Database portal"
+    "Database portal",
+    "Web API"
   ],
   "sc:description": "A search engine for human genomic variants.",
   "sc:name": "VarSome",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:url": "https://varsome.com/"
 }

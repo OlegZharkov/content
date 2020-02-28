@@ -16,9 +16,9 @@
   "sc:license": "Unlicense",
   "sc:name": "ChIPSummitDB",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:url": "http://summit.med.unideb.hu/summitdb/"
 }

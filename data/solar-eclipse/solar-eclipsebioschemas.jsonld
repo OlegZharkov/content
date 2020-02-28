@@ -27,8 +27,8 @@
       "sc:license": "Other",
       "sc:name": "SOLAR-eclipse",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://solar-eclipse-genetics.org/"

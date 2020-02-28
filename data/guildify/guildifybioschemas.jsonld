@@ -26,12 +26,12 @@
       "sc:name": "GUILDify",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
-        "upf.edu",
-        "UPF"
+        "UPF",
+        "upf.edu"
       ],
       "sc:url": "http://sbi.imim.es/web/GUILDify.php",
       "sc:version": "1.0"

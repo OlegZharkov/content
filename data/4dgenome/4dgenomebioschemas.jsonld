@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv158",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/4DGenome",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
@@ -34,11 +30,15 @@
       "sc:license": "CC-BY-NC-3.0",
       "sc:name": "4DGenome",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://4dgenome.research.chop.edu"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv158",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

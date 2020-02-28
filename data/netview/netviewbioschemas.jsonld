@@ -16,8 +16,8 @@
   "sc:name": "Netview",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://netview.tigem.it/netview_project/netview_tools.html"
 }

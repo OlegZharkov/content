@@ -17,10 +17,10 @@
       "@id": "https://bio.tools/localcider",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Rohit V. Pappu",
         {
           "@id": "http://orcid.org/0000-0002-4155-5729"
-        },
-        "Rohit V. Pappu"
+        }
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -37,8 +37,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "localCIDER",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/Pappulab/localCIDER"

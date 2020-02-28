@@ -30,8 +30,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "free.fr",
-    "http://opensource.nibr.com"
+    "http://opensource.nibr.com",
+    "free.fr"
   ],
   "sc:url": "https://github.com/Novartis/ontobrowser",
   "sc:version": "1"

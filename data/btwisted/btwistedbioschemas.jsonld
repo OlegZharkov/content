@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK BBSRC",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:description": "Calculate the twisting in a B-DNA sequence.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "btwisted",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

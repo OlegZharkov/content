@@ -31,9 +31,9 @@
       },
       "sc:name": "CERENA",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://cerenadevelopers.github.io/CERENA/"
     }

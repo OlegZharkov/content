@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ccrepe",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Emma Schwager",
     "Craig Bielski",
+    "Emma Schwager",
     "George Weingart"
   ],
   "sc:additionalType": [
@@ -24,8 +24,8 @@
   "sc:name": "ccrepe",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/ccrepe.html",
   "sc:version": "1.10.0"

@@ -23,10 +23,10 @@
     "Linux"
   ],
   "sc:provider": [
-    "Institut Pasteur",
-    "C3BI",
     "Enteric Bacterial Pathogens",
-    "Bioinformatics and Biostatistics Hub"
+    "Bioinformatics and Biostatistics Hub",
+    "C3BI",
+    "Institut Pasteur"
   ],
   "sc:url": "https://research.pasteur.fr/team/enteric-bacterial-pathogens/",
   "sc:version": "v.1.0.0"

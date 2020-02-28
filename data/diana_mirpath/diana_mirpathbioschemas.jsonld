@@ -17,8 +17,8 @@
   "sc:name": "DIANA miRPath",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://snf-515788.vm.okeanos.grnet.gr/"
 }

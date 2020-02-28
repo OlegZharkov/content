@@ -24,8 +24,8 @@
       "sc:description": "A software to cluster expression data by Gibbs sampling procedure.",
       "sc:name": "GaneSh",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": "ugent.be",

@@ -17,8 +17,8 @@
   "sc:name": "eNet",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://ecoli.med.utoronto.ca/"
 }

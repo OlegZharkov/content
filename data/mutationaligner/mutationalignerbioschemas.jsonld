@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
       "sc:additionalType": [
-        "Database portal",
-        "Web API"
+        "Web API",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC4702822",
@@ -34,9 +34,9 @@
       },
       "sc:name": "MutationAligner",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://www.mutationaligner.org/"
     }

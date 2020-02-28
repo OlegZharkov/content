@@ -16,8 +16,8 @@
   "sc:description": "A method for the identification of dynamic domains, hinges and interfacial regions in proteins",
   "sc:name": "ResiCon",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://dworkowa.imdik.pan.pl/EP/ResiCon/"

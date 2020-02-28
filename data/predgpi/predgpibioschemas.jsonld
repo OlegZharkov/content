@@ -19,8 +19,8 @@
   "sc:description": "Prediction system for GPI-anchored proteins.",
   "sc:name": "PredGPI",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",

@@ -27,9 +27,9 @@
       },
       "sc:name": "lakemorpho",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://github.com/usepa/lakemorpho"
     },

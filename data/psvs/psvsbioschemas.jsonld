@@ -16,8 +16,8 @@
   "sc:name": "PSVS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://psvs-1_5-dev.nesg.org/"
 }

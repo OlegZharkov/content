@@ -16,8 +16,8 @@
   "sc:name": "Warpgroup",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/nathaniel-mahieu/warpgroup"
 }

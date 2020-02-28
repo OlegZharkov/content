@@ -17,8 +17,8 @@
   "sc:name": "CytoPacq",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://cbia.fi.muni.cz/simulator"
 }

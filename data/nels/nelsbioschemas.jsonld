@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Help (Support)",
   "sc:additionalType": [
     "Command-line tool",
-    "Web service",
     "Workbench",
+    "Web service",
     "Web API"
   ],
   "sc:author": "ELIXIR Norway",

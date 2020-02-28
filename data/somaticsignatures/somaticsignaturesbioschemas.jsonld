@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv408",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/somaticsignatures",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0003-0070-4975"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:26163694",
@@ -38,11 +34,15 @@
       "sc:name": "SomaticSignatures",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SomaticSignatures.html",
       "sc:version": "2.10.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv408",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "http://orcid.org/0000-0003-0070-4975",

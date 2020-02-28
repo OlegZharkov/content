@@ -17,8 +17,8 @@
   "sc:name": "BIDCHIPS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://www.perkinslab.ca/software"
 }

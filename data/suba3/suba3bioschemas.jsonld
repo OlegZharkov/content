@@ -17,17 +17,17 @@
   ],
   "sc:additionalType": "Database portal",
   "sc:contributor": [
-    "Harvey Millar",
     "Ian Castleden",
     "Sandra Tanz",
+    "Harvey Millar",
     "Cornelia Hooper"
   ],
   "sc:description": "A subcellular localisation database for Arabidopsis proteins, with online search interface.",
   "sc:name": "SUBA3",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "ARC Centre of Excellence in Plant Energy Biology",

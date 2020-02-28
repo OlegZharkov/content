@@ -14,8 +14,8 @@
   "sc:description": "A Local Structural Comparison Program That Allows for User-Defined Structure Representations.",
   "sc:name": "Superpose3D",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "ELIXIR-ITA-TORVERGATA",

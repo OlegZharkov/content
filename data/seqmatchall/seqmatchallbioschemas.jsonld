@@ -14,8 +14,8 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC"
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:description": "All-against-all word comparison of a sequence set.",
   "sc:funder": [
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "seqmatchall",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

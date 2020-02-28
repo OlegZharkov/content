@@ -17,8 +17,8 @@
   "sc:name": "Satellog",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://satellog.bcgsc.ca/"
 }

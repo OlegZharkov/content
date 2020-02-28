@@ -12,23 +12,23 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Split sequence(s) into smaller sequences.",
   "sc:funder": [
-    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "splitter",
   "sc:operatingSystem": [
-    "Windows",
+    "Mac",
     "Linux",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

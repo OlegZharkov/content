@@ -15,8 +15,8 @@
   "sc:name": "PDART",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://cmb.bnu.edu.cn/pdart/"
 }

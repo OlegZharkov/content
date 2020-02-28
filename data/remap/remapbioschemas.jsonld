@@ -14,25 +14,25 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK MRC",
-    "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Display restriction enzyme binding sites in a nucleotide sequence.",
   "sc:funder": [
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "remap",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/remap.html",
   "sc:version": "r6"

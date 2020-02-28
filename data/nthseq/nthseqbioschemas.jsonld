@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust"
+    "UK MRC",
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Write to file a single sequence from an input stream of sequences.",
   "sc:funder": [
@@ -31,8 +31,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/nthseq.html",
   "sc:version": "r6"

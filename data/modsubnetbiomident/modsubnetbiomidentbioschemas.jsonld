@@ -17,8 +17,8 @@
   "sc:name": "Modular Subnetwork Biomarker Identification",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.cs.utoronto.ca/~juris/data/GB10/"
 }

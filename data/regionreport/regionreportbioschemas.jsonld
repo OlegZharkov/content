@@ -45,8 +45,8 @@
       "sc:name": "regionReport",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/regionReport.html",
       "sc:version": "1.8.0"

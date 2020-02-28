@@ -18,8 +18,8 @@
   "sc:license": "Unlicense",
   "sc:name": "pATsi",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://cab.unina.it/athparalog/main2.html",

@@ -13,17 +13,17 @@
   "sc:additionalType": "Database portal",
   "sc:author": "David Sehnal",
   "sc:contributor": [
-    "Lukáš Pravda",
     "Crina-Maria Ionescu",
-    "Radka Svobodová Vařeková",
-    "Deepti Jaiswal"
+    "Deepti Jaiswal",
+    "Lukáš Pravda",
+    "Radka Svobodová Vařeková"
   ],
   "sc:description": "Database of validation results for ligands and non-standard residues in the Protein Data Bank.",
   "sc:name": "ValidatorDB",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": "Masaryk University, Brno, Czech Republic",
   "sc:url": "http://webchem.ncbr.muni.cz/Platform/ValidatorDB"

@@ -20,8 +20,8 @@
   "sc:name": "T1DBase",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.t1dbase.org"
 }

@@ -16,8 +16,8 @@
   "sc:name": "iPARTS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://genome.cs.nthu.edu.tw/iPARTS/"
 }

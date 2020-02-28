@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Marlon E. Cobos",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pmcid:PMC6368831",
         "pubmed:30755826",
+        "pmcid:PMC6368831",
         {
           "@id": "https://doi.org/10.7717/peerj.6281"
         }
@@ -24,9 +24,9 @@
       "sc:description": "R package for detailed development of Maxent Ecological Niche Models.",
       "sc:name": "kuenm",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/marlonecobos/kuenm"
     },

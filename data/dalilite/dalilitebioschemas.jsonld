@@ -19,9 +19,9 @@
   "sc:description": "Pairwise structure alignment.",
   "sc:name": "DaliLite",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "University of Helsinki",

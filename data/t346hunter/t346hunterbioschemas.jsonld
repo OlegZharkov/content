@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/t346hunter",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Cayo Ramos Rodríguez",
     "Pedro M. Martínez García",
+    "Cayo Ramos Rodríguez",
     "Pablo Rodríguez-Palenzuela"
   ],
   "sc:additionalType": "Web application",
@@ -21,8 +21,8 @@
   "sc:name": "T346Hunter",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bacterial-virulence-factors.cbgp.upm.es/T346Hunter"
 }

@@ -11,13 +11,13 @@
   "@id": "https://bio.tools/wikipathways",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Alexander R. Pico",
-    "Martina Kutmon"
+    "Martina Kutmon",
+    "Alexander R. Pico"
   ],
   "sc:additionalType": [
-    "Database portal",
     "Web API",
     "Web application",
+    "Database portal",
     "Web service"
   ],
   "sc:description": "WikiPathways is a database of biological pathways maintained by and for the scientific community.",

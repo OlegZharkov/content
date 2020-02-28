@@ -29,8 +29,8 @@
       "sc:name": "TRAPR",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.snubi.org/software/trapr/",
       "sc:version": "1.0"

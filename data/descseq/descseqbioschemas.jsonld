@@ -20,19 +20,19 @@
   "sc:description": "Alter the name or description of a sequence.",
   "sc:funder": [
     "Wellcome Trust",
-    "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "descseq",
   "sc:operatingSystem": [
-    "Windows",
+    "Linux",
     "Mac",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/descseq.html",
   "sc:version": "r6"

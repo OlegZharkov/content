@@ -27,8 +27,8 @@
       "sc:description": "Legionella pneumophila genome database.",
       "sc:name": "Legionella pneumophila genome database",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "Institut Pasteur",

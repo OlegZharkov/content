@@ -19,8 +19,8 @@
   "sc:description": "High-throughput profiling experiments based on for example microarrays or proteomics yield genes potentially important for a given biological process.",
   "sc:name": "GPSy",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://gpsy.genouest.org/"

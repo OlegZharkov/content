@@ -18,24 +18,24 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Michael Kuhn",
       "sc:additionalType": [
-        "Command-line tool",
         "Web application",
-        "Database portal"
+        "Database portal",
+        "Command-line tool"
       ],
       "sc:author": "Michael Kuhn",
       "sc:citation": [
-        "pmcid:PMC2238848",
         "pubmed:18084021",
+        "pmcid:PMC2238848",
         "pubmed:19897548",
         {
           "@id": "https://doi.org/10.1093/nar/gkm795"
         }
       ],
       "sc:contributor": [
-        "CPR",
         "EMBO",
         "SUND-KU",
         "EC FP6",
+        "CPR",
         "EMBL",
         "TUD",
         "BMBF"
@@ -44,17 +44,17 @@
       "sc:funder": [
         "EMBO",
         "CPR",
-        "TUD",
+        "EMBL",
         "BMBF",
         "EC FP6",
-        "EMBL",
+        "TUD",
         "SUND-KU"
       ],
       "sc:name": "STITCH",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "HD-HuB",
       "sc:url": "http://stitch.embl.de/"

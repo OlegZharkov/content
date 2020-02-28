@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Malgorzata Nowicka",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC5200948",
@@ -31,8 +31,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "DRIMSeq",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DRIMSeq.html",

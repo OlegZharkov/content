@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1002567",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/proteinhistorian",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
@@ -17,8 +21,8 @@
         "Script"
       ],
       "sc:citation": [
-        "pubmed:22761559",
         "pmcid:PMC3386163",
+        "pubmed:22761559",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1002567"
         }
@@ -35,10 +39,6 @@
       "sc:license": "GPL-1.0",
       "sc:name": "ProteinHistorian",
       "sc:url": "http://lighthouse.ucsf.edu/ProteinHistorian/"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1002567",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

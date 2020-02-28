@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gku1071",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-8380-5247",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/hgnc",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -51,14 +59,6 @@
         "Linux"
       ],
       "sc:url": "http://www.genenames.org/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gku1071",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-8380-5247",
-      "@type": "schema:Person"
     }
   ]
 }

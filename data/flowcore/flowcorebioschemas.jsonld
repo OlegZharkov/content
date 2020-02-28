@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "M.Jiang",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Provides S4 data structures and basic functions to deal with flow cytometry data.",
   "sc:license": "Artistic-2.0",

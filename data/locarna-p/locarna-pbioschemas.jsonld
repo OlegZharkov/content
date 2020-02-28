@@ -27,10 +27,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1465"
+          "@id": "edam:data_1916"
         },
         {
-          "@id": "edam:data_1916"
+          "@id": "edam:data_1465"
         },
         {
           "@id": "edam:data_0872"
@@ -46,10 +46,10 @@
         }
       ],
       "sc:author": [
-        "Sebastian Will",
         {
           "@id": "http://orcid.org/0000-0001-8231-3323"
-        }
+        },
+        "Sebastian Will"
       ],
       "sc:citation": [
         "pmcid:PMC3334699",
@@ -65,8 +65,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "LocARNA-P",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
         "rnateam",

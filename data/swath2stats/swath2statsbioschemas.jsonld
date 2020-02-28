@@ -22,8 +22,8 @@
         "@id": "edam:data_3111"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3520"
@@ -43,8 +43,8 @@
       "sc:name": "SWATH2stats",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SWATH2stats.html",
       "sc:version": "1.4.1"

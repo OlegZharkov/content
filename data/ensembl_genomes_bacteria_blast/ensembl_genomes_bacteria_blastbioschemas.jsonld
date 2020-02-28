@@ -16,8 +16,8 @@
   "sc:description": "Searches Ensembl Bacteria sequences using WU-BLAST.",
   "sc:name": "Ensembl Genomes Bacteria Blast",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "EMBL-EBI",

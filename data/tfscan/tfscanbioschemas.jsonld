@@ -14,8 +14,8 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:description": "Identify transcription factor binding sites in DNA sequences.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "tfscan",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

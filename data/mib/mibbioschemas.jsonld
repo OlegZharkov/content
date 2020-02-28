@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-2190-4909",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1371/journal.pbio.1002340",
       "@type": "sc:CreativeWork"
     },
@@ -35,14 +39,10 @@
       "sc:name": "MIB",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://mib.helsinki.fi/index.html"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-2190-4909",
-      "@type": "schema:Person"
     }
   ]
 }

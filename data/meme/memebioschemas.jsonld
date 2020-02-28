@@ -17,8 +17,8 @@
   "sc:name": "MEME",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://meme-suite.org/tools/meme"
 }

@@ -31,10 +31,10 @@
         }
       ],
       "sc:citation": [
-        "pubmed:24848016",
         {
           "@id": "https://doi.org/10.1093/nar/gku399"
         },
+        "pubmed:24848016",
         "pmcid:PMC4086119"
       ],
       "sc:description": "A web server predictor for amyloid aggregation propensity from protein sequences.",
@@ -43,9 +43,9 @@
       },
       "sc:name": "PASTA",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": [
         "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",

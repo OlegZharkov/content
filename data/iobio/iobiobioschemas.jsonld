@@ -28,8 +28,8 @@
       "sc:name": "Iobio",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://iobio.io/"
     },

@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/geneid",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Francisco Camara",
-        "Support"
+        "Support",
+        "Francisco Camara"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:author": "Roderic Guigo",
       "sc:citation": "pubmed:18428791",
@@ -33,8 +33,8 @@
       "sc:name": "Geneid",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "Centre for Genomic Regulation (CRG), Parc de Recerca Biomedica (PRBB)",
       "sc:url": "http://genome.crg.es/software/geneid/index.html",

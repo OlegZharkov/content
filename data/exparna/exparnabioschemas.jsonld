@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/btp065",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/exparna",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -35,15 +39,15 @@
         "@id": "edam:topic_0080"
       },
       "sc:author": [
-        "Steffen Heyne",
-        "Rolf Backofen"
+        "Rolf Backofen",
+        "Steffen Heyne"
       ],
       "sc:citation": [
         "pmcid:PMC2722993",
+        "pubmed:19189979",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btp065"
-        },
-        "pubmed:19189979"
+        }
       ],
       "sc:description": "Structure motif based alignment generation.",
       "sc:featureList": {
@@ -53,18 +57,14 @@
       "sc:name": "ExpaRNA",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "University Freiburg",
-        "rnateam"
+        "rnateam",
+        "University Freiburg"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.bioinf.uni-freiburg.de/Software/#ExpaRNA-download"
       },
       "sc:url": "http://www.bioinf.uni-freiburg.de/Software/#ExpaRNA-download",
       "sc:version": "1.0.0"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btp065",
-      "@type": "sc:CreativeWork"
     },
     {
       "@id": "http://orcid.org/0000-0002-9497-7538",

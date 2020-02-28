@@ -38,13 +38,13 @@
       "sc:description": "Package for the analysis and manipulation of transcription factor binding sites. It includes a matrix conversion system between Position Frequency Matrix (PFM), Position Weight Matrix (PWM) and Information Content Matrix (ICM). It can also scan putative TFBS from sequence/alignment, query the JASPAR database and provide a wrapper of de novo motif discovery software.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_0239"
+        },
+        {
           "@id": "edam:operation_0438"
         },
         {
           "@id": "edam:operation_0445"
-        },
-        {
-          "@id": "edam:operation_0239"
         }
       ],
       "sc:license": "GPL-2.0",

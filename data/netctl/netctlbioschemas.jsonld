@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Mette Voldby Larsen",
       "sc:additionalType": [
         "Web service",
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         {

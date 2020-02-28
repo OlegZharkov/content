@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC",
-    "EMBOSS Contributors",
-    "Wellcome Trust"
+    "EMBOSS Contributors"
   ],
   "sc:description": "An Emboss tool that reads a reference sequence and returns the data in one of the EMBOSS reference sequence formats.",
   "sc:funder": [
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "refseqget",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://www.bioinformatics.nl/cgi-bin/emboss/refseqget",
   "sc:version": "r6"

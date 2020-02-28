@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/BIOINFORMATICS/BTS705",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/rs-webpredictor",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Curt M. Breneman",
@@ -36,11 +32,15 @@
       ],
       "sc:name": "RS-WebPredictor",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://reccr.chem.rpi.edu/Software/RS-WebPredictor/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/BIOINFORMATICS/BTS705",
+      "@type": "sc:CreativeWork"
     }
   ]
 }
