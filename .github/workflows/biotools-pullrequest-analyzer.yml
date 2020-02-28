@@ -38,8 +38,8 @@ jobs:
           name: output
       - name: copy output to workflow dir
         run:
-         ls /home/runner/work/content/content/.github/workflows/output.txt
-         cp /home/runner/work/content/content/.github/workflows/output.txt .github/workflows/output.txt 
+         ls /home/runner/work/content/.github/workflows/output.txt
+         cp /home/runner/work/content/.github/workflows/output.txt .github/workflows/output.txt 
       - name: comment under pr  
         uses: harupy/comment-on-pr@master
         env:
