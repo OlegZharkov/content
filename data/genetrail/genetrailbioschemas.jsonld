@@ -17,8 +17,8 @@
   "sc:name": "GeneTrail",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://genetrail.bioinf.uni-sb.de/index.php"
 }

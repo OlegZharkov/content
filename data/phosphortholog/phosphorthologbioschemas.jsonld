@@ -28,9 +28,9 @@
       "sc:license": "GPL-1.0",
       "sc:name": "PhosphOrtholog",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://www.phosphortholog.com/"
     },

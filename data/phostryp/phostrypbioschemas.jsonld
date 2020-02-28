@@ -14,8 +14,8 @@
   "sc:description": "A phosphorylation site predictor specific for parasitic protozoa of the family trypanosomatidae.",
   "sc:name": "PhosTryp",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-TORVERGATA",

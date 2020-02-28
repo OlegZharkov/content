@@ -37,20 +37,20 @@
       "sc:description": "Web application for efficient and accurate Human Phenotype Ontology (HPO) concept curation.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3280"
-        },
-        {
           "@id": "edam:operation_1812"
         },
         {
           "@id": "edam:operation_3559"
+        },
+        {
+          "@id": "edam:operation_3280"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "Doc2Hpo",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://impact2.dbmi.columbia.edu/doc2hpo/"

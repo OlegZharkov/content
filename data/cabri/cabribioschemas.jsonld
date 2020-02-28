@@ -14,18 +14,18 @@
   "sc:additionalType": "Database portal",
   "sc:author": [
     "Domenico Marra",
-    "Francesca Piersigilli",
-    "Brendan Vaughan"
+    "Brendan Vaughan",
+    "Francesca Piersigilli"
   ],
   "sc:contributor": [
-    "Herbert Milch",
-    "Gerrit Stegehuis",
     "Manfred Kracht",
+    "Common Access to Biological Resources and Information (CABRI), EU 5th FP (1996-1999)",
     "Louis Jones",
     "Louis Rechaussat",
-    "Common Access to Biological Resources and Information (CABRI), EU 5th FP (1996-1999)",
+    "Herbert Milch",
     "Francois Guissart",
-    "Beatrice Dutertre"
+    "Beatrice Dutertre",
+    "Gerrit Stegehuis"
   ],
   "sc:description": "Common Access to Biological Resources and Information - A collection of European Biological Resource Centre catalogues.",
   "sc:funder": "Common Access to Biological Resources and Information (CABRI), EU 5th FP (1996-1999)",

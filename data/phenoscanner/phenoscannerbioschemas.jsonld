@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/PhenoScanner",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Database portal",
     "Command-line tool",
+    "Database portal",
     "Web application",
     "Web API"
   ],
@@ -20,8 +20,8 @@
   "sc:license": "Unlicense",
   "sc:name": "PhenoScanner",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://www.phenoscanner.medschl.cam.ac.uk/",

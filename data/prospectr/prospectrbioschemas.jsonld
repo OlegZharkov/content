@@ -17,8 +17,8 @@
   "sc:name": "Prospectr",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.genetics.med.ed.ac.uk/prospectr/"
 }

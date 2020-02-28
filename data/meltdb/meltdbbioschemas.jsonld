@@ -16,8 +16,8 @@
   "sc:name": "MeltDB",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "CeBiTec",

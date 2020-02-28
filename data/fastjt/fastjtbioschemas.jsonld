@@ -14,9 +14,9 @@
   "sc:additionalType": "Library",
   "sc:author": [
     "Kouros Owzar",
+    "Alexander Sibley",
     "Ivo Shterev",
-    "Jiaxing Lin",
-    "Alexander Sibley"
+    "Jiaxing Lin"
   ],
   "sc:citation": "pubmed:31195980",
   "sc:description": "R package for robust and efficient feature selection for machine learning and genome-wide association studies.",

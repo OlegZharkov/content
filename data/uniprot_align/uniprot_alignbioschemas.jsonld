@@ -16,9 +16,9 @@
   "sc:license": "CC-BY-ND-3.0",
   "sc:name": "UniProt Align",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "UniProt Consortium",

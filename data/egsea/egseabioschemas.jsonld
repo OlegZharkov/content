@@ -22,8 +22,8 @@
         "@id": "edam:data_2093"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_2259"
@@ -42,8 +42,8 @@
       "sc:name": "EGSEA",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/EGSEA.html",
       "sc:version": "1.2.0"

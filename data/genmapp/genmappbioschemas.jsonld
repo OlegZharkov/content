@@ -17,8 +17,8 @@
   "sc:name": "GenMAPP",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.genmapp.org/"
 }

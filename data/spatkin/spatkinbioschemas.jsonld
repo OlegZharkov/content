@@ -17,8 +17,8 @@
   "sc:name": "SPATKIN",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://pmbm.ippt.pan.pl/web/Spatkin"
 }

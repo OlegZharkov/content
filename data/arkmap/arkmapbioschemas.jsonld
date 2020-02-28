@@ -16,8 +16,8 @@
   "sc:name": "ArkMAP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.bioinformatics.roslin.ed.ac.uk/arkmap/"
 }

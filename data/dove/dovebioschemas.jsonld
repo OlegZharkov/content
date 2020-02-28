@@ -37,8 +37,8 @@
       "sc:license": "Unlicense",
       "sc:name": "DOVE",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.dmd.nl/DOVE"
     }

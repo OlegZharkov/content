@@ -17,8 +17,8 @@
   "sc:name": "GWIDD",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://gwidd.bioinformatics.ku.edu"
 }

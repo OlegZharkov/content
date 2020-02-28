@@ -27,9 +27,9 @@
       },
       "sc:name": "PSIONplus",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/psion/"
     },

@@ -17,8 +17,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "LAST",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://last.cbrc.jp/"

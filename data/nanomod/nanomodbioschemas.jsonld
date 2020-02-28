@@ -24,20 +24,20 @@
       "sc:description": "Computational tool to detect DNA modifications using Nanopore long-read sequencing data.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3185"
+        },
+        {
           "@id": "edam:operation_0417"
         },
         {
           "@id": "edam:operation_0452"
-        },
-        {
-          "@id": "edam:operation_3185"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "NanoMod",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/WGLab/NanoMod",
       "sc:version": "0.1.0"

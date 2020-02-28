@@ -13,10 +13,10 @@
       "@id": "https://bio.tools/seql-nrps",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Dan Søndergaard",
         {
           "@id": "http://orcid.org/0000-0002-6294-2517"
-        },
-        "Dan Søndergaard"
+        }
       ],
       "sc:additionalType": "Web service",
       "sc:citation": "pubmed:26471456",

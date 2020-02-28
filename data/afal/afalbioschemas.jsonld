@@ -27,8 +27,8 @@
       },
       "sc:name": "AFAL",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://structuralbio.utalca.cl/AFAL/index.html"

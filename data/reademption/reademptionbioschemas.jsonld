@@ -16,9 +16,9 @@
   "sc:license": "ISC",
   "sc:name": "READemption",
   "sc:operatingSystem": [
-    "Windows",
+    "Linux",
     "Mac",
-    "Linux"
+    "Windows"
   ],
   "sc:url": "https://pythonhosted.org/READemption/"
 }

@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.15252/msb.20145654",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-8924-8365",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/stan",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Benedikt Zacher",
@@ -40,14 +48,6 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/STAN.html",
       "sc:version": "2.2.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-8924-8365",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.15252/msb.20145654",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

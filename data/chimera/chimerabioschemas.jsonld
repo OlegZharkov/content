@@ -15,8 +15,8 @@
   "sc:name": "Chimera",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "Instruct",
   "sc:url": "http://www.cgl.ucsf.edu/chimera/",

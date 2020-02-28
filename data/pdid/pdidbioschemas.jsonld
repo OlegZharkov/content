@@ -20,8 +20,8 @@
   "sc:license": "Other",
   "sc:name": "PDID",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://biomine.cs.vcu.edu/servers/PDID/index.php"

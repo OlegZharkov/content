@@ -15,8 +15,8 @@
   "sc:name": "NeoBio 1.0 pre-alpha",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://neobio.sourceforge.net/"
 }

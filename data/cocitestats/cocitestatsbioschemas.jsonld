@@ -19,8 +19,8 @@
   "sc:license": "CPL-1.0",
   "sc:name": "CoCiteStats",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/CoCiteStats.html",

@@ -17,8 +17,8 @@
   "sc:name": "R.E.D.",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://q4md-forcefieldtools.org/REDS/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "VADAR",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://redpoll.pharmacy.ualberta.ca/vadar/"
 }

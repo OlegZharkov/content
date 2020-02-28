@@ -17,8 +17,8 @@
   "sc:name": "pairheatmap",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://cran.r-project.org/web/packages/pairheatmap/index.html"
 }

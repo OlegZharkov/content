@@ -17,8 +17,8 @@
   "sc:name": "POTAGE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://crobiad.agwine.adelaide.edu.au/potage/"
 }

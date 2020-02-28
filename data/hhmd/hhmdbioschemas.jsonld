@@ -21,8 +21,8 @@
   "sc:name": "HHMD",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinfo.hrbmu.edu.cn/hhmd"
 }

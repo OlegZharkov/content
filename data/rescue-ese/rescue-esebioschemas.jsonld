@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Will Fairbrother",
-    "Ru-Fang Yeh",
-    "Gene Yeo"
+    "Gene Yeo",
+    "Ru-Fang Yeh"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:12114529",
@@ -21,8 +21,8 @@
   "sc:name": "Rescue-ESE",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://genes.mit.edu/burgelab/rescue-ese/"
 }

@@ -32,10 +32,10 @@
       "sc:description": "Peptide feature detector for LC-MS data",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3634"
+          "@id": "edam:operation_3704"
         },
         {
-          "@id": "edam:operation_3704"
+          "@id": "edam:operation_3634"
         }
       ],
       "sc:isAccessibleForFree": true,
@@ -43,8 +43,8 @@
       "sc:name": "Dinosaur",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/fickludd/dinosaur/",
       "sc:version": "1.1.4"

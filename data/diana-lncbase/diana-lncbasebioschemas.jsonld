@@ -10,22 +10,18 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkv1270",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/diana-lncbase",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
       "sc:citation": [
         "pubmed:26612864",
         "pmcid:PMC3531175",
+        {
+          "@id": "https://doi.org/10.1093/nar/gkv1270"
+        },
         "pmcid:PMC4702897",
         {
           "@id": "https://doi.org/10.1093/nar/gks1246"
-        },
-        {
-          "@id": "https://doi.org/10.1093/nar/gkv1270"
         },
         "pubmed:23193281"
       ],
@@ -36,10 +32,14 @@
       "sc:name": "DIANA-LNCBase",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.microrna.gr/LncBase/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkv1270",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://doi.org/10.1093/nar/gks1246",

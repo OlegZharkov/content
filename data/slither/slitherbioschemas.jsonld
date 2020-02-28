@@ -17,8 +17,8 @@
   "sc:name": "SLITHER",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinfo.mc.ntu.edu.tw/slither/"
 }

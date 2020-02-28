@@ -20,8 +20,8 @@
   "sc:name": "GEOsubmission",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/GEOsubmission.html",
   "sc:version": "1.26.0"

@@ -33,9 +33,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Impact framework",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/lmse/impact",
       "sc:version": "0.5.0"

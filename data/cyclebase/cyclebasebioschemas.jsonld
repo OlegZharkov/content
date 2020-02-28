@@ -21,8 +21,8 @@
   "sc:name": "Cyclebase",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.cyclebase.org/"
 }

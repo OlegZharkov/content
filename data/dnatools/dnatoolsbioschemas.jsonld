@@ -18,8 +18,8 @@
   "sc:name": "DNAtools",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://pongor.itk.ppke.hu/?q=bioinfoservices"
 }

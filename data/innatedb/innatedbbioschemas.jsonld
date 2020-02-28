@@ -15,8 +15,8 @@
   "sc:name": "InnateDB",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.innatedb.com/",
   "sc:version": "1"

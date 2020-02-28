@@ -21,8 +21,8 @@
   "sc:name": "DO-MS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://do-ms.slavovlab.net"
 }

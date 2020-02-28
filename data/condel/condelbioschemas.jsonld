@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1016/j.ajhg.2011.03.004",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/condel",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Abel González-Pérez",
@@ -34,19 +30,23 @@
           "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3225"
+          "@id": "edam:operation_3226"
         },
         {
-          "@id": "edam:operation_3226"
+          "@id": "edam:operation_3225"
         }
       ],
       "sc:name": "Condel",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bbglab.irbbarcelona.org/fannsdb/"
+    },
+    {
+      "@id": "https://doi.org/10.1016/j.ajhg.2011.03.004",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

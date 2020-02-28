@@ -17,8 +17,8 @@
   "sc:name": "Cytoscape Web",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://cytoscapeweb.cytoscape.org/"
 }

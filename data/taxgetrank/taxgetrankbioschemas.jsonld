@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "Wellcome Trust",
     "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Get parents of taxon(s).",
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "taxgetrank",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

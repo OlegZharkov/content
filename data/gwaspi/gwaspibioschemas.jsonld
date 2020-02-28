@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Desktop application",
   "sc:author": [
-    "Arcadi Navarro Cuartiellas",
-    "Fernando Muñiz Fernando"
+    "Fernando Muñiz Fernando",
+    "Arcadi Navarro Cuartiellas"
   ],
   "sc:citation": "pubmed:21586520",
   "sc:contributor": [
@@ -28,8 +28,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "upf.edu",
-    "UPF"
+    "UPF",
+    "upf.edu"
   ],
   "sc:url": "http://www.gwaspi.org/",
   "sc:version": "1"

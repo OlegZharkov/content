@@ -16,8 +16,8 @@
   "sc:name": "SeattleSNPs variation discovery resource",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://pga.gs.washington.edu/"
 }

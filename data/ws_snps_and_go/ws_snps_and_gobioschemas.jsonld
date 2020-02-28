@@ -27,8 +27,8 @@
         }
       ],
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:author": [
         {
@@ -37,20 +37,20 @@
         "ELIXIR-ITA-BOLOGNA"
       ],
       "sc:citation": [
-        "pmcid:PMC3194195",
+        "pubmed:19514061",
         {
           "@id": "https://doi.org/10.1186/1471-2105-12-S4-S3"
         },
         "pubmed:21992054",
-        "pubmed:19514061",
+        "pmcid:PMC3194195",
         "pubmed:23819482"
       ],
       "sc:description": "A web server for predicting disease associated variations from protein sequence and structure.",
       "sc:name": "WS-SNPs and GO",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://snps.biofold.org/snps-and-go"
     }

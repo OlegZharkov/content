@@ -19,8 +19,8 @@
   "sc:name": "iRNAD",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://lin-group.cn/server/iRNAD"
 }

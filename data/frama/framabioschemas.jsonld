@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/frama",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Szafranski K",
-        "Bens M"
+        "Bens M",
+        "Szafranski K"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -35,8 +35,8 @@
       ],
       "sc:name": "FRAMA",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/gengit/FRAMA"
     },

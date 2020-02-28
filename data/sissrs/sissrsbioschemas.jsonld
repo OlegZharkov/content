@@ -17,8 +17,8 @@
   "sc:name": "SISSRs",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://sissrs.rajajothi.com/"
 }

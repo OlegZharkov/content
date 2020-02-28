@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/S12859-015-0477-4",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/baca",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Vittorio Fortino",
@@ -33,15 +37,11 @@
       "sc:license": "GPL-3.0",
       "sc:name": "BACA",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/BACA/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/S12859-015-0477-4",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

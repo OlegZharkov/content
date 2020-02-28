@@ -31,9 +31,9 @@
       },
       "sc:name": "CoDP",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://cib.cf.ocha.ac.jp/CoDP/"
     }

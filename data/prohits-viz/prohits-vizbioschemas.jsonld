@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "James D R Knight",
   "sc:additionalType": [
-    "Web application",
-    "Suite"
+    "Suite",
+    "Web application"
   ],
   "sc:description": "A suite of web-based tools for visualizing and analyzing protein interaction data.",
   "sc:name": "ProHits-viz",

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkx410",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/threadom_ex",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -37,10 +41,6 @@
       ],
       "sc:name": "ThreaDomEx",
       "sc:url": "http://zhanglab.ccmb.med.umich.edu/ThreaDomEx"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkx410",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

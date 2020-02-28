@@ -29,16 +29,16 @@
       "sc:description": "Alignment-based bioinformatic tool for comparing chromatin state sequences.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3891"
         },
         {
-          "@id": "edam:operation_3891"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:name": "EpiAlign",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/zzz3639/EpiAlign"

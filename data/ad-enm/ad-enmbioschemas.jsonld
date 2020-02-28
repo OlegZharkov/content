@@ -17,8 +17,8 @@
   "sc:name": "AD-ENM",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://enm.lobos.nih.gov"
 }

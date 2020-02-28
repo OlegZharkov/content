@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/S12859-016-1321-1",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/gen3va",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Avi Ma’ayan",
-        "Gregory Gundersen"
+        "Gregory Gundersen",
+        "Avi Ma’ayan"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -40,11 +36,15 @@
       "sc:license": "GPL-3.0",
       "sc:name": "GEN3VA",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://amp.pharm.mssm.edu/gen3va/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12859-016-1321-1",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

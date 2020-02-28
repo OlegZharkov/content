@@ -11,28 +11,28 @@
   "@id": "https://bio.tools/RERconverge",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Wynn Meyer",
     "Maria Chikina",
-    "Nathan Clark",
+    "Wynn Meyer",
+    "Weiguang (Wayne) Mao",
     "Raghavendran Partha",
-    "Weiguang (Wayne) Mao"
+    "Nathan Clark"
   ],
   "sc:additionalType": "Library",
   "sc:author": [
-    "Maria Chikina",
-    "Weiguang (Wayne) Mao",
-    "Wynn Meyer",
     "Amanda Kowalczyk",
     "Raghavendran Partha",
-    "Nathan Clark"
+    "Maria Chikina",
+    "Nathan Clark",
+    "Weiguang (Wayne) Mao",
+    "Wynn Meyer"
   ],
   "sc:citation": "pubmed:31192356",
   "sc:description": "R package for associating evolutionary rates with convergent traits.",
   "sc:license": "GPL-3.0",
   "sc:name": "RERconverge",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "https://github.com/nclark-lab/RERconverge"

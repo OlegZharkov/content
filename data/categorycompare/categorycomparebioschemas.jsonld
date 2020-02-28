@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-8141-7788",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.3389/fgene.2014.00098",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/categorycompare",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -20,10 +28,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2600"
+          "@id": "edam:data_1669"
         },
         {
-          "@id": "edam:data_1669"
+          "@id": "edam:data_2600"
         }
       ],
       "sc:additionalType": [
@@ -32,10 +40,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3047"
+          "@id": "edam:topic_0203"
         },
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_3047"
         }
       ],
       "sc:citation": [
@@ -52,20 +60,12 @@
       "sc:license": "GPL-2.0",
       "sc:name": "categoryCompare",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/categoryCompare.html",
       "sc:version": "1.18.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-8141-7788",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.3389/fgene.2014.00098",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

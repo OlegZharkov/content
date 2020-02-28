@@ -17,8 +17,8 @@
   "sc:name": "NsRRR",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www2.imperial.ac.uk/~gmontana/nsrrr.htm"
 }

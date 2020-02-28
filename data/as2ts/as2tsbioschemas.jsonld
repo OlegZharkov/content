@@ -17,8 +17,8 @@
   "sc:license": "Unlicense",
   "sc:name": "AS2TS",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://proteinmodel.org/"

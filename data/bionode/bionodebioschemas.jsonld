@@ -13,9 +13,9 @@
   "biotools:primaryContact": "Bionode Team",
   "sc:additionalType": [
     "Library",
-    "Command-line tool",
+    "Workflow",
     "Web application",
-    "Workflow"
+    "Command-line tool"
   ],
   "sc:author": "Bionode Team",
   "sc:description": "Highly reusable code and tools for bioinformatics by leveraging the Node.JS ecosystem.",

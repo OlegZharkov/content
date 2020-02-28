@@ -15,8 +15,8 @@
   "sc:description": "RNA editing database in organelles.",
   "sc:name": "RNA editing database (REDIdb)",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-CNR",

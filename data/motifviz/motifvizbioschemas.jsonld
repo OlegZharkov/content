@@ -17,8 +17,8 @@
   "sc:name": "MotifViz",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://biowulf.bu.edu/MotifViz/"
 }

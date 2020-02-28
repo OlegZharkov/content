@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/DrugR",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Yadollah Omidi",
     "Ali Masoudi-Nejad",
     "Yosef Masoudi-Sobhanzadeh",
-    "Massoud Amanlou",
-    "Yadollah Omidi"
+    "Massoud Amanlou"
   ],
   "sc:additionalType": [
-    "Database portal",
-    "Web application"
+    "Web application",
+    "Database portal"
   ],
   "sc:citation": "pubmed:31096089",
   "sc:description": "Database for drug repurposing, combination therapy, and replacement therapy.",

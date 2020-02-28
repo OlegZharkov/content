@@ -22,8 +22,8 @@
         "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC4169154",
         "pubmed:25237114",
+        "pmcid:PMC4169154",
         {
           "@id": "https://doi.org/10.1534/g3.114.013748"
         }
@@ -35,9 +35,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "DOQTL",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DOQTL.html",
       "sc:version": "1.10.0"

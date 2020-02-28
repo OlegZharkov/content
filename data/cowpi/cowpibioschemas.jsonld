@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "CowPI",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://www.cowpi.org/2018/03/welcome.html"
     }
