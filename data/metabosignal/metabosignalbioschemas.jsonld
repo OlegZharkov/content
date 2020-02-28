@@ -17,8 +17,8 @@
         "Rafael Ayala"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:28011775",
@@ -34,9 +34,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "MetaboSignal",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/MetaboSignal.html",
       "sc:version": "1.4.0"

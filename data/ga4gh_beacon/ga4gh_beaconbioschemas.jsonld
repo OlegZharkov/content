@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Database portal",
-    "Web application",
-    "Web API"
+    "Web API",
+    "Web application"
   ],
   "sc:citation": "pubmed:27284183",
   "sc:description": "A global search engine for genetic mutations.",

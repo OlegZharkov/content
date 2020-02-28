@@ -20,8 +20,8 @@
       "sc:license": "Proprietary",
       "sc:name": "ProteoWorker",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://www.proteoworker.com"

@@ -28,8 +28,8 @@
       "sc:name": "cGRNB",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://www.scbit.org/cgrnb/"
     },

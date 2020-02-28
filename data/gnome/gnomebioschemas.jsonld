@@ -16,8 +16,8 @@
   "sc:name": "gNOME",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://gnome.tchlab.org/"
 }

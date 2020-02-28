@@ -16,8 +16,8 @@
   "sc:name": "WaveRead",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.fccc.edu/software/OpenSource/waveread/index.shtml"
 }

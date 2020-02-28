@@ -16,8 +16,8 @@
   "sc:name": "CytoTRACE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://cytotrace.stanford.edu"
 }

@@ -16,8 +16,8 @@
   "sc:name": "Nephele",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://nephele.niaid.nih.gov"
 }

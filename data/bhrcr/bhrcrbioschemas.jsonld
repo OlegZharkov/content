@@ -24,10 +24,10 @@
       "sc:description": "R software package for a Bayesian hierarchical regression model.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3454"
+          "@id": "edam:operation_3659"
         },
         {
-          "@id": "edam:operation_3659"
+          "@id": "edam:operation_3454"
         }
       ],
       "sc:license": "GPL-3.0",

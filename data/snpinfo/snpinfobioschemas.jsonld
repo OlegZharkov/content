@@ -17,8 +17,8 @@
   "sc:name": "SNPinfo",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://snpinfo.niehs.nih.gov/"
 }

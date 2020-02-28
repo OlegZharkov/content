@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "Plant Experimental Assay Ontology (PEAO)",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "https://bitbucket.org/PlantExpAssay/ontology"

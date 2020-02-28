@@ -16,8 +16,8 @@
   "sc:name": "European Variation Archive (EVA)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "ebi.ac.uk",
   "sc:url": "https://www.ebi.ac.uk/eva/"

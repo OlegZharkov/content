@@ -30,8 +30,8 @@
       },
       "sc:name": "COGRIM",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://www.cbil.upenn.edu/COGRIM/"

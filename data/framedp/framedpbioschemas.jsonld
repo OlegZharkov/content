@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/framedp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jérôme Gouzy",
     "Ludovic Cottret",
+    "Jérôme Gouzy",
     "Sébastien Carrere",
     "Erika Sallet"
   ],
@@ -20,9 +20,9 @@
   "sc:description": "Sensitive peptide detection on noisy matured sequences. A self-training integrative pipeline for predicting CDS in transcripts which can adapt itself to different levels of sequence qualities.",
   "sc:name": "FrameDP",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://iant.toulouse.inra.fr/FrameDP"
 }

@@ -27,8 +27,8 @@
       },
       "sc:name": "Clinical NGS DB",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://nishio470.wixsite.com/clinical-ngs-db"

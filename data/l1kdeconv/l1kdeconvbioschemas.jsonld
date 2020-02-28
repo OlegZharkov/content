@@ -16,8 +16,8 @@
   "sc:name": "l1kdeconv",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://cran.r-project.org/web/packages/l1kdeconv/index.html"
 }

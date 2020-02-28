@@ -17,8 +17,8 @@
   "sc:name": "TIARA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://tiara.gmi.ac.kr"
 }

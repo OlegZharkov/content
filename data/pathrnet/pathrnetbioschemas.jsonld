@@ -12,18 +12,18 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Yidong Chen",
-    "Jia Meng",
+    "Shou-Jiang Gao",
     "yufei.huang@utsa.edu",
-    "Shou-Jiang Gao"
+    "Jia Meng"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:21143778",
   "sc:description": "A novel network model and a reconstruction approach PATTERN are proposed for reconstructing the context specific time varying regulatory networks by integrating microarray gene expression profiles and existing knowledge of pathways and transcription factors.",
   "sc:name": "PathRNet",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://compgenomics.utsa.edu/tvnet.html"
 }

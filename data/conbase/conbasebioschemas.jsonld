@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/Conbase",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Ezeddin Al Hakim",
-        "Marie Kindblom"
+        "Marie Kindblom",
+        "Ezeddin Al Hakim"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -27,21 +27,21 @@
       "sc:description": "Software for unsupervised discovery of clonal somatic mutations in single cells through read phasing.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3454"
+          "@id": "edam:operation_3227"
         },
         {
           "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3227"
+          "@id": "edam:operation_3454"
         }
       ],
       "sc:license": "MIT",
       "sc:name": "Conbase",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://github.com/conbase/conbase"
     },

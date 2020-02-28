@@ -17,8 +17,8 @@
   "sc:name": "3DIANA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://3diana.cnb.csic.es/"
 }

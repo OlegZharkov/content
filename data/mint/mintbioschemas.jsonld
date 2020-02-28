@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/mint",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Alberto Calderone",
         "Daniele Peluso",
+        "Alberto Calderone",
         "Luana Licata"
       ],
       "edam:has_input": {
@@ -24,8 +24,8 @@
         "@id": "edam:data_0906"
       },
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:author": "Arnaud Ceol",
       "sc:citation": [
@@ -55,13 +55,13 @@
       ],
       "sc:name": "MINT",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": [
-        "Dept. of Molecular Biology, University of Rome Tor Vergata, Via della Ricerca Scientifica, Rome",
-        "ELIXIR-ITA-TORVERGATA"
+        "ELIXIR-ITA-TORVERGATA",
+        "Dept. of Molecular Biology, University of Rome Tor Vergata, Via della Ricerca Scientifica, Rome"
       ],
       "sc:url": "https://mint.bio.uniroma2.it/"
     },

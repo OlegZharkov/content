@@ -17,8 +17,8 @@
   "sc:name": "ExpressYourself",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://array.mbb.yale.edu/analysis/"
 }

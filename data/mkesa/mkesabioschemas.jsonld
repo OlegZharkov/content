@@ -21,8 +21,8 @@
   ],
   "sc:provider": [
     "BiBiServ",
-    "Bielefeld University",
-    "CeBiTec"
+    "CeBiTec",
+    "Bielefeld University"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/mkesa",
   "sc:version": "1"

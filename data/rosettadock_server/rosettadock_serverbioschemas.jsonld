@@ -17,8 +17,8 @@
   "sc:name": "RosettaDock Server",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://rosie.graylab.jhu.edu/"
 }

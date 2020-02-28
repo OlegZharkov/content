@@ -21,8 +21,8 @@
       "sc:name": "TRANSIT",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://saclab.tamu.edu/essentiality/transit/"
     },

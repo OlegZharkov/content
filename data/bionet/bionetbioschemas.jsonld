@@ -21,8 +21,8 @@
   "sc:name": "BioNet",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/BioNet.html",
   "sc:version": "1.34.0"

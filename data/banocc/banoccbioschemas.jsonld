@@ -20,8 +20,8 @@
       "sc:license": "MIT",
       "sc:name": "banocc",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/banocc.html",

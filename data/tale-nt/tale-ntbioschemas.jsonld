@@ -17,8 +17,8 @@
   "sc:name": "TALE-NT",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://boglab.plp.iastate.edu/"
 }

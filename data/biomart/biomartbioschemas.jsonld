@@ -34,8 +34,8 @@
       "sc:name": "biomaRt",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://bioconductor.org/packages/biomaRt/"
     },

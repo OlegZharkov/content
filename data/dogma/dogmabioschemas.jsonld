@@ -34,8 +34,8 @@
       "sc:name": "DOGMA",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://domainworld-services.uni-muenster.de/dogma/"
     },

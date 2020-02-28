@@ -13,9 +13,9 @@
   "biotools:primaryContact": [
     "Linglin Zhou",
     "Zhongsheng Sun",
+    "Huabin Hou",
     "Erle Zhu",
-    "Jinyu Wu",
-    "Huabin Hou"
+    "Jinyu Wu"
   ],
   "sc:additionalType": "Desktop application",
   "sc:description": "Large-scale short reads and sequencing depth visualization.",

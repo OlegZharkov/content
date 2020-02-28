@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ350",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://orcid.org/0000-0002-6558-791X",
       "@type": "schema:Person"
     },
@@ -39,15 +43,11 @@
       "sc:license": "Unlicense",
       "sc:name": "AlloDriver",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://mdl.shsmu.edu.cn/ALD"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ350",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

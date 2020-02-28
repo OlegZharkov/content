@@ -21,8 +21,8 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC6529631",
         "pubmed:31113894",
+        "pmcid:PMC6529631",
         {
           "@id": "https://doi.org/10.1128/MBIO.00392-19"
         }
@@ -40,8 +40,8 @@
       "sc:name": "AfumID",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://afumid.shinyapps.io/afumID"
     },

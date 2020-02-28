@@ -17,8 +17,8 @@
   "sc:name": "BYPASSR",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.cmt.ua.ac.be/lcovaci/lucian/ligia/bypassr.html"
 }

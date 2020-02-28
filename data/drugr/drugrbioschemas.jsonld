@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Ali Masoudi-Nejad",
-    "Yosef Masoudi-Sobhanzadeh",
     "Massoud Amanlou",
+    "Yosef Masoudi-Sobhanzadeh",
     "Yadollah Omidi"
   ],
   "sc:additionalType": [

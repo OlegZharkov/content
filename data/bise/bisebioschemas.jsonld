@@ -14,6 +14,26 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://orcid.org/0000-0002-1509-4981",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-6926-191X",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-4822-165X",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-4009-6225",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-2411-0429",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/BISE",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -30,10 +50,10 @@
         {
           "@id": "https://orcid.org/0000-0002-4009-6225"
         },
+        "Chong Zhang",
         {
           "@id": "https://orcid.org/0000-0002-3597-8557"
         },
-        "Chong Zhang",
         {
           "@id": "https://orcid.org/0000-0002-2411-0429"
         },
@@ -46,26 +66,6 @@
       "sc:name": "BISE Bioimage Informatics Search Engine",
       "sc:provider": "NEUBIAS Network of Bioimage Analyst",
       "sc:url": "https://biii.eu"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-2411-0429",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-4822-165X",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-6926-191X",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-1509-4981",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-4009-6225",
-      "@type": "schema:Person"
     }
   ]
 }

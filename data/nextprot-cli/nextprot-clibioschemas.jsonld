@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/nextprot-cli",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
     "SPARQL endpoint",
+    "Command-line tool",
     "Library",
     "Web API"
   ],

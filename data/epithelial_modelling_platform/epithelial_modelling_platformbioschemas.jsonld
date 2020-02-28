@@ -17,8 +17,8 @@
   "sc:name": "Epithelial Modelling Platform",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://epithelial-modelling-platform.nectar.auckland.ac.nz/"
 }

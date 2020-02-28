@@ -28,10 +28,10 @@
           "@id": "edam:data_2600"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2048"
         },
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_2884"
         },
         {
           "@id": "edam:data_1669"
@@ -46,10 +46,10 @@
           "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_0203"
         },
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_3518"
         },
         {
           "@id": "edam:topic_2269"
@@ -74,9 +74,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "GSAR",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GSAR.html",
       "sc:version": "1.8.0"

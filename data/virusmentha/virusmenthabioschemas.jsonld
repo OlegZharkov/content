@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/virusmentha",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Alberto Calderone",
-        "Luana Licata"
+        "Luana Licata",
+        "Alberto Calderone"
       ],
       "sc:additionalType": "Web application",
       "sc:author": "Alberto Calderone",
@@ -38,12 +38,12 @@
       "sc:name": "VirusMentha",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
-        "ELIXIR-ITA-TORVERGATA",
-        "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy"
+        "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",
+        "ELIXIR-ITA-TORVERGATA"
       ],
       "sc:url": "http://virusmentha.uniroma2.it/",
       "sc:version": "1"

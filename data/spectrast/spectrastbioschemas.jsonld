@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/spectrast",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Desktop application",
-    "Web application"
+    "Web application",
+    "Desktop application"
   ],
   "sc:description": "Matches peptide MS/MS spectra with library spectra.",
   "sc:name": "SpectraST",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.peptideatlas.org/spectrast/"

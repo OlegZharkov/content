@@ -19,8 +19,8 @@
   "sc:name": "Alamut",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.interactive-biosoftware.com/products/"
 }

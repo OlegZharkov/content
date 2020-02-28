@@ -20,8 +20,8 @@
   "sc:description": "A web interface for identification and analysis of tunnels and channels in static protein structures with automated starting point detection.",
   "sc:name": "CAVER Web",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

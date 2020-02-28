@@ -17,8 +17,8 @@
   "sc:name": "MRS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://mrs.cmbi.ru.nl/"
 }

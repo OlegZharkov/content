@@ -17,8 +17,8 @@
   "sc:name": "MemGen",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://memgen.uni-goettingen.de/"
 }

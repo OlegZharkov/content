@@ -17,8 +17,8 @@
   "sc:name": "PSSRdb",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.cdfd.org.in/PSSRdb/"
 }

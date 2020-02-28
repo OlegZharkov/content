@@ -21,8 +21,8 @@
   "sc:name": "RPA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/RPA.html",
   "sc:version": "1.30.0"

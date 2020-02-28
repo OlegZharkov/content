@@ -22,9 +22,9 @@
   "sc:license": "Unlicense",
   "sc:name": "CLiP  Chlamydomonas",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "https://www.chlamylibrary.org/"
 }

@@ -15,8 +15,8 @@
   "sc:name": "Gitools",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "upf.edu",
   "sc:url": "http://www.gitools.org/",

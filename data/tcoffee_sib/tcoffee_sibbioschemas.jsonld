@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gkr245",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/TCoffee_SIB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -30,18 +26,18 @@
         "@id": "edam:data_0863"
       },
       "sc:additionalType": [
-        "Web application",
-        "Suite"
+        "Suite",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
+        {
+          "@id": "edam:topic_0080"
+        },
         {
           "@id": "edam:topic_0622"
         },
         {
           "@id": "edam:topic_0121"
-        },
-        {
-          "@id": "edam:topic_0080"
         }
       ],
       "sc:citation": [
@@ -64,13 +60,17 @@
       "sc:name": "T-Coffee (SIB)",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.tcoffee.org/Projects/tcoffee/"
       },
       "sc:url": "http://tcoffee.vital-it.ch/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkr245",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "nthseqset",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

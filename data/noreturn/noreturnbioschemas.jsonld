@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "Wellcome Trust",
     "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:description": "Remove carriage return from ASCII files.",
@@ -27,12 +27,12 @@
   "sc:name": "noreturn",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/noreturn.html",
   "sc:version": "r6"

@@ -34,17 +34,17 @@
       "sc:description": "S4 generic functions needed by many BioConductor packages.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:license": "Artistic-2.0",
       "sc:name": "BiocGenerics",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/BiocGenerics.html",

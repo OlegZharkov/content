@@ -30,10 +30,10 @@
       "sc:additionalType": "Web application",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0121"
+          "@id": "edam:topic_0128"
         },
         {
-          "@id": "edam:topic_0128"
+          "@id": "edam:topic_0121"
         }
       ],
       "sc:citation": [
@@ -59,9 +59,9 @@
       "sc:license": "Apache-2.0",
       "sc:name": "ProXL",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:softwareHelp": {
         "@id": "https://proxl-web-app.readthedocs.io/en/latest/"

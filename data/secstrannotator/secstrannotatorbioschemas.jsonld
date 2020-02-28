@@ -15,8 +15,8 @@
   "sc:name": "SecStrAnnotator",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://webchem.ncbr.muni.cz/API/SecStr"
 }

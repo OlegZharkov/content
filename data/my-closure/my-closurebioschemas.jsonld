@@ -17,8 +17,8 @@
   "sc:name": "MY-CLOSURE",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.uea.ac.uk/computing/my-closure"
 }

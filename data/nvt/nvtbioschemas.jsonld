@@ -21,8 +21,8 @@
   "sc:description": "An R package for the assessment of RNA-Seq normalization methods.",
   "sc:name": "NVT",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://github.com/Edert/NVT",

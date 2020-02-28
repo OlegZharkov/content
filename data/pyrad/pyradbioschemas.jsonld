@@ -17,8 +17,8 @@
   "sc:name": "PyRAD",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://dereneaton.com/software/pyrad/"
 }

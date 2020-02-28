@@ -17,8 +17,8 @@
   "sc:name": "APID",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioinfow.dep.usal.es/apid/"
 }

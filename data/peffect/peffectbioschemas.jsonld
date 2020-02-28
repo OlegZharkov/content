@@ -13,10 +13,10 @@
   "sc:additionalType": "Command-line tool",
   "sc:author": "Tatyana Goldberg",
   "sc:contributor": [
-    "Burkhard Rost",
+    "Alexander von Humboldt foundation through the German Federal Ministry for Education and Research",
     "Ernst Ludwig Ehrlich Studienwerk",
     "Yana Bromberg",
-    "Alexander von Humboldt foundation through the German Federal Ministry for Education and Research"
+    "Burkhard Rost"
   ],
   "sc:description": "Prediction of type III effector proteins from protein sequence.",
   "sc:funder": [

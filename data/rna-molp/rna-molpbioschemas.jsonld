@@ -15,10 +15,10 @@
       "biotools:primaryContact": "Jérôme Waldispühl",
       "edam:has_input": [
         {
-          "@id": "edam:data_0850"
+          "@id": "edam:data_3496"
         },
         {
-          "@id": "edam:data_3496"
+          "@id": "edam:data_0850"
         }
       ],
       "sc:additionalType": "Web application",

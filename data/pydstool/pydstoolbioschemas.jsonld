@@ -35,8 +35,8 @@
       ],
       "sc:name": "PyDSTool",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://web.archive.org/web/20171201062820/http://www.ni.gsu.edu:80/~rclewley/PyDSTool/FrontPage.html",

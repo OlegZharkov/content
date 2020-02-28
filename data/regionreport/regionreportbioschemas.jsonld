@@ -24,8 +24,8 @@
         "@id": "edam:data_2048"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3170"
@@ -44,9 +44,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "regionReport",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/regionReport.html",
       "sc:version": "1.8.0"

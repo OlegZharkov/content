@@ -15,8 +15,8 @@
   "sc:name": "GOLD",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.ccdc.cam.ac.uk/solutions/csd-discovery/components/gold/"
 }

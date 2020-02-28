@@ -23,8 +23,8 @@
   "sc:name": "BayesMD",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "binf.ku.dk",
   "sc:url": "http://bayesmd.binf.ku.dk/",

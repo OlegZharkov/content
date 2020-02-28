@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pisces",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Roland Dunbrack",
-    "Qifang Xu"
+    "Qifang Xu",
+    "Roland Dunbrack"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:15980589",
@@ -20,8 +20,8 @@
   "sc:name": "PISCES",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://dunbrack.fccc.edu/pisces/"
 }

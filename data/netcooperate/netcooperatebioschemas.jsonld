@@ -18,15 +18,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Anat Kreimer",
-        "Shiri Freilich",
         "Roie Levy",
+        "Rogan Carr",
         "Elhanan Borenstein",
-        "Rogan Carr"
+        "Shiri Freilich"
       ],
       "sc:additionalType": [
+        "Web application",
         "Command-line tool",
-        "Library",
-        "Web application"
+        "Library"
       ],
       "sc:citation": [
         "pubmed:25980407",

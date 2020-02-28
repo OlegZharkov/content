@@ -24,9 +24,9 @@
       "sc:description": "Prediction of transmembranes helices and topology of proteins.",
       "sc:name": "HMMTOP",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.enzim.hu/hmmtop/"
     }

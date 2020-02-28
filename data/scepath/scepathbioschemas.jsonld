@@ -16,8 +16,8 @@
   "sc:name": "scEpath",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/sqjin/scEpath"
 }

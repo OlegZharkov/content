@@ -31,8 +31,8 @@
       },
       "sc:name": "NiftyPET",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/pjmark/NiftyPET"
     }

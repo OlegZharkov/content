@@ -20,8 +20,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Jalview",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://www.jalview.org/",

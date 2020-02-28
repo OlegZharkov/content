@@ -11,19 +11,19 @@
   "@id": "https://bio.tools/seqware",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Denis Yuen",
-    "Brian O'Connor"
+    "Brian O'Connor",
+    "Denis Yuen"
   ],
   "sc:additionalType": [
+    "Workbench",
     "Web API",
-    "Command-line tool",
-    "Workbench"
+    "Command-line tool"
   ],
   "sc:author": [
-    "Brian O'Connor",
-    "Solomon Shorser",
     "Denis Yuen",
-    "Morgan Taschuk"
+    "Solomon Shorser",
+    "Morgan Taschuk",
+    "Brian O'Connor"
   ],
   "sc:description": "Portable software infrastructure designed to analyze massive genomics datasets produced by contemporary and emerging technologies, in particular Next Generation Sequencing (NGS) platforms.",
   "sc:license": "LGPL-2.1",

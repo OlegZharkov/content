@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "L. Young",
-    "V. V. Prabhu",
-    "P. J. Munson"
+    "P. J. Munson",
+    "V. V. Prabhu"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:10820484",

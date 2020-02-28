@@ -40,9 +40,9 @@
       },
       "sc:name": "Osteogenesis imperfecta collagen mutation",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://oi.gene.le.ac.uk"
     }
