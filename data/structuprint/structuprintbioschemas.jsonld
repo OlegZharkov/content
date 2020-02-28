@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-5082-1929",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/structuprint",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -37,15 +41,11 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Structuprint",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://dgkontopoulos.io/Structuprint/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-5082-1929",
-      "@type": "schema:Person"
     }
   ]
 }

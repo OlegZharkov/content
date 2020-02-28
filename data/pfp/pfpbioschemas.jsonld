@@ -17,8 +17,8 @@
   "sc:name": "PFP",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://pfp.technion.ac.il/index.html"
 }

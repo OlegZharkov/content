@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-3798-2058",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1101/gr.111120.110",
       "@type": "sc:CreativeWork"
     },
@@ -25,10 +21,10 @@
       },
       "sc:additionalType": "Script",
       "sc:citation": [
-        "pubmed:28286147",
         {
           "@id": "https://doi.org/10.1101/gr.111120.110"
         },
+        "pubmed:28286147",
         "pmcid:PMC3106326",
         "pubmed:20980556"
       ],
@@ -36,6 +32,10 @@
       "sc:name": "Stampy",
       "sc:operatingSystem": "Linux",
       "sc:url": "http://www.well.ox.ac.uk/project-stampy"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-3798-2058",
+      "@type": "schema:Person"
     }
   ]
 }

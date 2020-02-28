@@ -17,8 +17,8 @@
   "sc:name": "PyBEL",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://github.com/pybel/pybel"
 }

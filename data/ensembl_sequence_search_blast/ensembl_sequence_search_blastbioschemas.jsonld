@@ -16,8 +16,8 @@
   "sc:name": "Ensembl Sequence Search BLAST",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "EMBL-EBI",
   "sc:url": "http://www.ensembl.org/Multi/blastview",

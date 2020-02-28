@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK MRC",
     "UK BBSRC",
     "EMBOSS Contributors",
-    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:description": "Display a wordmatch dotplot of two sequences.",
@@ -27,8 +27,8 @@
   "sc:name": "dottup",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

@@ -24,8 +24,8 @@
         "@id": "https://orcid.org/0000-0001-9713-7107"
       },
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC6625143",
@@ -49,8 +49,8 @@
       "sc:license": "Unlicense",
       "sc:name": "GPI-anchor biosynthesis",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://www.gpibiosynthesis.org"

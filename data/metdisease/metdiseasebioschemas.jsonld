@@ -17,8 +17,8 @@
   "sc:name": "MetDisease",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://metdisease.ncibi.org/"
 }

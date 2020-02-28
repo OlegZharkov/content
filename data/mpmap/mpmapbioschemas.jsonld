@@ -15,8 +15,8 @@
   "sc:name": "mpMap",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://cran.r-project.org/src/contrib/Archive/mpMap/",
   "sc:version": "1.14"

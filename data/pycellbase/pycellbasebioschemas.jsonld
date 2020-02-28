@@ -28,9 +28,9 @@
       "sc:license": "Apache-1.0",
       "sc:name": "PyCellBase",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://pypi.org/project/pycellbase/",
       "sc:version": "4.7.1"

@@ -16,8 +16,8 @@
   "sc:name": "topaln",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.bioinf.rub.de/software/topaln.html.en"
 }

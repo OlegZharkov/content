@@ -15,8 +15,8 @@
   "sc:name": "Digenome-seq web tool",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.rgenome.net/digenome-js/#!"
 }

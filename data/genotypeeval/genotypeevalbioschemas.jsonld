@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Jennifer Tom",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Takes in a gVCF or VCF and reports metrics to assess quality of calls.",
   "sc:name": "genotypeeval",

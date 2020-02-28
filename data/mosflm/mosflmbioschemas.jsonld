@@ -19,8 +19,8 @@
   "sc:name": "Mosflm",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "Instruct",
   "sc:url": "http://www.mrc-lmb.cam.ac.uk/harry/mosflm/index.html",

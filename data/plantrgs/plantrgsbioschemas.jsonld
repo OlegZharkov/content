@@ -15,8 +15,8 @@
   "sc:name": "PlantRGS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.nipgr.res.in/PlantRGS/",
   "sc:version": "1.0"

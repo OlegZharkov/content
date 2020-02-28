@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/TheoReTS",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Vladimir G. Tyuterev",
     "Michael Rey",
+    "Vladimir G. Tyuterev",
     "Andrei Nikitin"
   ],
   "sc:additionalType": "Web application",

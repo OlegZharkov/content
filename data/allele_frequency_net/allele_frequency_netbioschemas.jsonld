@@ -17,8 +17,8 @@
   "sc:name": "Allele frequency net",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.allelefrequencies.net"
 }

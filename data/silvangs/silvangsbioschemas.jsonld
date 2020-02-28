@@ -22,9 +22,9 @@
   ],
   "sc:name": "SILVAngs",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "silva",
   "sc:url": "https://www.arb-silva.de/ngs/",

@@ -16,8 +16,8 @@
   "sc:name": "SimPed",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.org/simped/"
 }

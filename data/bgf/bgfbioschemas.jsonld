@@ -14,8 +14,8 @@
   "sc:description": "Hidden Markov model (HMM) and dynamic programming based ab initio gene prediction program.",
   "sc:name": "BGF",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bgf.genomics.org.cn/",

@@ -16,8 +16,8 @@
   "sc:name": "RLooM",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://rloom.mpimp-golm.mpg.de/"
 }

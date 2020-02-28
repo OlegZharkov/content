@@ -20,8 +20,8 @@
   "sc:name": "idiogram",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/idiogram.html",
   "sc:version": "1.50.0"

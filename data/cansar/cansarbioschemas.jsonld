@@ -17,8 +17,8 @@
   "sc:name": "canSAR",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://cansar.icr.ac.uk/"
 }

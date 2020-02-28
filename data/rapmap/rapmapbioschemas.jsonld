@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-9798-2079",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1093/bioinformatics/btw277",
       "@type": "sc:CreativeWork"
     },
@@ -36,10 +40,6 @@
       "sc:name": "RapMap",
       "sc:operatingSystem": "Linux",
       "sc:url": "https://github.com/COMBINE-lab/RapMap"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-9798-2079",
-      "@type": "schema:Person"
     }
   ]
 }

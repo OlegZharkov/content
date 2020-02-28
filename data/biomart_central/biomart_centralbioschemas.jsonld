@@ -17,8 +17,8 @@
   "sc:name": "BioMart Central",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://central.biomart.org/"
 }

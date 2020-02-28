@@ -17,8 +17,8 @@
   "sc:name": "Exon Array Analyzer",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://eaa.mpi-bn.mpg.de"
 }

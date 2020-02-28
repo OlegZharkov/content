@@ -20,8 +20,8 @@
   "sc:name": "BLAST",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://blast.ncbi.nlm.nih.gov/Blast.cgi"
 }

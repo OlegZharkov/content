@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-018-2581-8",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/GOTrapper",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Hezha Hassan",
@@ -41,10 +37,14 @@
       "sc:name": "GOTrapper",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/BioGeneTools/GOTrapper"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-018-2581-8",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0003-4397-2224",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/fastbaps",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -46,11 +42,15 @@
       "sc:license": "MIT",
       "sc:name": "fastbaps",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/gtonkinhill/fastbaps"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-4397-2224",
+      "@type": "schema:Person"
     }
   ]
 }

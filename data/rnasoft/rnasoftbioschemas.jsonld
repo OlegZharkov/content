@@ -17,8 +17,8 @@
   "sc:name": "RNAsoft",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.rnasoft.ca/"
 }

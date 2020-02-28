@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/journal.pcbi.1005187",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/minepath",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Lefteris Koumakis",
@@ -31,10 +35,6 @@
       ],
       "sc:url": "http://www.minepath.org/",
       "sc:version": "1.0"
-    },
-    {
-      "@id": "https://doi.org/10.1371/journal.pcbi.1005187",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

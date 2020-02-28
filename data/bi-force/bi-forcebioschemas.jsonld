@@ -30,8 +30,8 @@
       },
       "sc:name": "Bi-Force",
       "sc:operatingSystem": [
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://biclue.mpi-inf.mpg.de/",
       "sc:version": "v2"

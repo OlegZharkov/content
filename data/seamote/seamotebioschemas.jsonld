@@ -15,8 +15,8 @@
   "sc:name": "SeAMotE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://s.tartaglialab.com/new_submission/seamote"
 }

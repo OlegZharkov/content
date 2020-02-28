@@ -17,8 +17,8 @@
   "sc:name": "HydPred",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://lishuyan.lzu.edu.cn/hydpred/"
 }

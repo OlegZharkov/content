@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mem",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jaak Vilo",
     "Priit Adler",
+    "Jaak Vilo",
     "Raivo Kolde"
   ],
   "sc:additionalType": "Database portal",
@@ -21,9 +21,9 @@
   "sc:license": "Freeware",
   "sc:name": "Multi Experiment Matrix (MEM)",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://biit.cs.ut.ee/mem/"
 }

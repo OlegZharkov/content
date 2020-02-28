@@ -28,21 +28,21 @@
       "sc:description": "Web-based resource for identifing putative ESEs (exonic splicing enhancers), cis-acting motifs responsible for enhancing splicing.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0446"
+          "@id": "edam:operation_2499"
         },
         {
           "@id": "edam:operation_0232"
         },
         {
-          "@id": "edam:operation_2499"
+          "@id": "edam:operation_0446"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "ESEfinder",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://rulai.cshl.edu/tools/ESE/",
       "sc:version": "3.0"

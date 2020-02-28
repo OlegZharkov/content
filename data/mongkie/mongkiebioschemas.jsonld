@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s13062-016-0112-y",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/mongkie",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Yeongjun Jang",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pubmed:26987515",
         "pmcid:PMC4797132",
+        "pubmed:26987515",
         {
           "@id": "https://doi.org/10.1186/s13062-016-0112-y"
         }
@@ -33,10 +37,6 @@
         "Windows"
       ],
       "sc:url": "http://yjjang.github.io/mongkie/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s13062-016-0112-y",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

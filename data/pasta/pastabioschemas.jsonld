@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-4525-7793",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/pasta",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,10 +31,10 @@
         }
       ],
       "sc:citation": [
+        "pmcid:PMC4086119",
         {
           "@id": "https://doi.org/10.1093/nar/gku399"
         },
-        "pmcid:PMC4086119",
         "pubmed:24848016"
       ],
       "sc:description": "A web server predictor for amyloid aggregation propensity from protein sequences.",
@@ -48,8 +44,8 @@
       "sc:name": "PASTA",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": [
         "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
@@ -61,6 +57,10 @@
     {
       "@id": "https://doi.org/10.1093/nar/gku399",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-4525-7793",
+      "@type": "schema:Person"
     }
   ]
 }

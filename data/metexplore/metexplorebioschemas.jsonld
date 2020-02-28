@@ -20,8 +20,8 @@
         "@id": "https://orcid.org/0000-0001-9401-2894"
       },
       "sc:additionalType": [
-        "Web service",
         "Workbench",
+        "Web service",
         "Web application"
       ],
       "sc:description": "Metabolic network curation, visualisation and omics data analysis. It is possible to curate and annotate metabolic networks in a collaborative environment. Several tools are available for metabolomics data mapping in networks and visualisation.",

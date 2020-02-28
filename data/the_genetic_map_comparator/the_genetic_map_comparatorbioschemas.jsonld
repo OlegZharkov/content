@@ -19,8 +19,8 @@
   "sc:name": "The Genetic Map Comparator",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioweb.supagro.inra.fr/geneticMapComparator/"
 }

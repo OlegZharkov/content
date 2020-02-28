@@ -16,8 +16,8 @@
   "sc:name": "mbwa_wrapper",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://bioweb.pasteur.fr/packages/pack@ptools@0.99d",
   "sc:version": "0.7.4"

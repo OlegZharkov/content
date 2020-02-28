@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/guugle",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
     "Command-line tool",
+    "Web application",
     "Web API"
   ],
   "sc:author": "Wolfgang Gerlach",
@@ -24,8 +24,8 @@
   ],
   "sc:provider": [
     "CeBiTec",
-    "Bielefeld University",
-    "BiBiServ"
+    "BiBiServ",
+    "Bielefeld University"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/guugle",
   "sc:version": "1.2"

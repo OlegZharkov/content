@@ -16,8 +16,8 @@
   "sc:name": "disentangler",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://kumasakanatsuhiko.jp/projects/disentangler/",
   "sc:version": "20111001"

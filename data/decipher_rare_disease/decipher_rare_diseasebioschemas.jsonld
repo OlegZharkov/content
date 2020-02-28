@@ -30,18 +30,18 @@
           "@id": "edam:operation_3226"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:license": "Other",
       "sc:name": "DECIPHER",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://decipher.sanger.ac.uk/",
       "sc:version": "9.29"

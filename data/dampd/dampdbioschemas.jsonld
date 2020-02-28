@@ -16,8 +16,8 @@
   "sc:description": "Manually curated database of known and putative antimicrobial peptides.",
   "sc:name": "DAMPD",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://apps.sanbi.ac.za/dampd/"

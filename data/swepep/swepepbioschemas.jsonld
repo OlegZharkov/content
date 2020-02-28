@@ -14,8 +14,8 @@
   "sc:description": "An endogenous peptide database.",
   "sc:name": "SwePep",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "bils.se",

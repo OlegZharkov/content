@@ -16,8 +16,8 @@
   "sc:name": "SimFlu",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://lcbb.snu.ac.kr/simflu/"
 }

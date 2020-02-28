@@ -17,8 +17,8 @@
   "sc:name": "RBPDB",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://rbpdb.ccbr.utoronto.ca/"
 }

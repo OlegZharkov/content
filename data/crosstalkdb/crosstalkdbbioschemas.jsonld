@@ -16,8 +16,8 @@
   ],
   "sc:additionalType": [
     "Database portal",
-    "Web API",
-    "Web application"
+    "Web application",
+    "Web API"
   ],
   "sc:description": "Repository and statistical tools for directly determined PTM crosstalk based on long peptides measured by mass spectrometry. Focus on histone proteins.",
   "sc:name": "CrosstalkDB",

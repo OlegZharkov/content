@@ -17,8 +17,8 @@
   "sc:name": "QualiMap",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://qualimap.bioinfo.cipf.es/"
 }

@@ -16,14 +16,14 @@
   ],
   "sc:author": "G.Launay",
   "sc:contributor": [
-    "R.Lavery",
-    "J.Martin"
+    "J.Martin",
+    "R.Lavery"
   ],
   "sc:description": "Analysis of surfaces of protein structures.",
   "sc:name": "arDock",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

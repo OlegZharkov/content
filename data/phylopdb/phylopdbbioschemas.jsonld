@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/phylopdb",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC4000467",

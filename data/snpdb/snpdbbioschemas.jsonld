@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/29.1.308",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/snpdb",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Database portal",
@@ -27,15 +31,11 @@
       "sc:license": "Other",
       "sc:name": "SNPdb",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://www.ncbi.nlm.nih.gov/snp"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/29.1.308",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

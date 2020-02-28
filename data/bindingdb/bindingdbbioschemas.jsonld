@@ -16,8 +16,8 @@
   "sc:name": "BindingDB database of measured binding affinities",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "Skaggs School of Pharmacy and Pharmaceutical Sciences",
   "sc:url": "http://www.bindingdb.org/"

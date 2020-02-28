@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/ccrepe",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Emma Schwager",
     "Craig Bielski",
-    "George Weingart"
+    "George Weingart",
+    "Emma Schwager"
   ],
   "sc:additionalType": [
     "Command-line tool",

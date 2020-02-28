@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1002/pmic.201500420",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/mspc-morpheus",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Richard D. Vierstra",
@@ -33,6 +29,10 @@
       "sc:name": "MSpC",
       "sc:operatingSystem": "Windows",
       "sc:url": "http://dcgemperline.github.io/Morpheus_SpC/"
+    },
+    {
+      "@id": "https://doi.org/10.1002/pmic.201500420",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

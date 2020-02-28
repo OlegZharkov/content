@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/idmappingretrieval",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Alex Lisovich",
-    "Roger Day"
+    "Roger Day",
+    "Alex Lisovich"
   ],
   "sc:additionalType": [
     "Library",
@@ -23,8 +23,8 @@
   "sc:name": "IdMappingRetrieval",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/IdMappingRetrieval.html",
   "sc:version": "1.22.0"

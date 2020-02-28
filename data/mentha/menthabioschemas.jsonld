@@ -26,8 +26,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",
-    "ELIXIR-ITA-TORVERGATA"
+    "ELIXIR-ITA-TORVERGATA",
+    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy"
   ],
   "sc:url": "http://mentha.uniroma2.it/",
   "sc:version": "1"

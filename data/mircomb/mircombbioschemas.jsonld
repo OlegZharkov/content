@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0151127",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/mircomb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Maria Vila Casadesús",
-        "Juanjo Lozano"
+        "Juanjo Lozano",
+        "Maria Vila Casadesús"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -39,11 +35,15 @@
       ],
       "sc:name": "MiRComb",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://mircomb.sourceforge.net/"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0151127",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

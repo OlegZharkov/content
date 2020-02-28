@@ -33,8 +33,8 @@
       "sc:name": "SurvivalGWAS_SV",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://www.liverpool.ac.uk/translational-medicine/research/statistical-genetics/survival-gwas-sv/"
     }

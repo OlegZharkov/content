@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Paola Galdi",
-        "Angela Serra",
-        "Roberto Tagliaferri"
+        "Roberto Tagliaferri",
+        "Angela Serra"
       ],
       "edam:has_input": {
         "@id": "edam:data_2603"

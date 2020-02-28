@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/BIOINFORMATICS/BTT295",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/tasuke",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Takeshi Itoh",
@@ -31,11 +27,15 @@
       },
       "sc:name": "TASUKE",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://tasuke.dna.affrc.go.jp/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/BIOINFORMATICS/BTT295",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

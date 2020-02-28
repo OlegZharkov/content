@@ -20,8 +20,8 @@
   "sc:name": "MRHMMs",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://sourceforge.net/projects/mrhmms/"
 }

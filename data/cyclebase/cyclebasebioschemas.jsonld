@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Rasmus Wernersson",
-    "Alberto Santos",
-    "Lars Juhl Jensen"
+    "Lars Juhl Jensen",
+    "Alberto Santos"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19934261",
@@ -21,8 +21,8 @@
   "sc:name": "Cyclebase",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.cyclebase.org/"
 }

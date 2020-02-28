@@ -19,8 +19,8 @@
   "sc:name": "OpenMS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "ETH Zürich",

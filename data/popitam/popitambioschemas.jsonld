@@ -15,8 +15,8 @@
   "sc:description": "Searches for unknown post-translational modifications.",
   "sc:name": "Popitam",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://github.com/chernan/popitam"

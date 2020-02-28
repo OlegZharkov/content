@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ggost",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jaak Vilo",
-    "Jüri Reimand"
+    "Jüri Reimand",
+    "Jaak Vilo"
   ],
   "sc:additionalType": [
     "Web application",
@@ -22,8 +22,8 @@
   "sc:license": "Freeware",
   "sc:name": "gGost",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ELIXIR-EE",

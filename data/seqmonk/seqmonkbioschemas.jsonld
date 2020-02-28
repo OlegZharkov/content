@@ -18,8 +18,8 @@
   "sc:name": "SeqMonk",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://www.bioinformatics.babraham.ac.uk/projects/seqmonk/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "ALADYN",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://aladyn.escience-lab.org"
 }

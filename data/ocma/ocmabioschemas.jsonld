@@ -32,8 +32,8 @@
       "sc:name": "OCMA",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/precisionomics/OCMA",
       "sc:version": "gamma 0.1"

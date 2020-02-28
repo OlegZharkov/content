@@ -19,8 +19,8 @@
   "sc:name": "XPRESS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://tools.proteomecenter.org/XPRESS.php"
 }

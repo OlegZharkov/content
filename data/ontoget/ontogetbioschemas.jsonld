@@ -13,14 +13,14 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
+    "EMBOSS Contributors",
     "UK MRC",
-    "Wellcome Trust",
-    "EMBOSS Contributors"
+    "Wellcome Trust"
   ],
   "sc:description": "Get ontology term(s).",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",

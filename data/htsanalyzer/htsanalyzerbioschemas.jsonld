@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/btr028",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/htsanalyzer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -20,36 +24,36 @@
           "@id": "edam:data_2872"
         },
         {
-          "@id": "edam:data_2600"
+          "@id": "edam:data_2603"
         },
         {
-          "@id": "edam:data_2603"
+          "@id": "edam:data_2600"
         }
       ],
       "edam:has_output": [
-        {
-          "@id": "edam:data_2048"
-        },
         {
           "@id": "edam:data_1669"
         },
         {
           "@id": "edam:data_2884"
+        },
+        {
+          "@id": "edam:data_2048"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
+        {
+          "@id": "edam:topic_0085"
+        },
         {
           "@id": "edam:topic_3523"
         },
         {
           "@id": "edam:topic_0602"
-        },
-        {
-          "@id": "edam:topic_0085"
         }
       ],
       "sc:citation": [
@@ -74,16 +78,12 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "HTSanalyzeR",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/HTSanalyzeR.html",
       "sc:version": "2.26.0"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btr028",
-      "@type": "sc:CreativeWork"
     },
     {
       "@id": "http://orcid.org/0000-0002-5122-2418",

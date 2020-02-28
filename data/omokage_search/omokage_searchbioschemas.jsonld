@@ -17,8 +17,8 @@
   "sc:name": "Omokage search",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://pdbj.org/emnavi/omo-search.php"
 }

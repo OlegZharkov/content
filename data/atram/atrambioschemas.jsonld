@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-1497-1284",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/atram",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -33,15 +37,11 @@
       },
       "sc:name": "aTRAM",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/juliema/aTRAM",
       "sc:version": "1.04"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-1497-1284",
-      "@type": "schema:Person"
     }
   ]
 }

@@ -16,8 +16,8 @@
   "sc:name": "Metal",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://genome.sph.umich.edu/wiki/METAL_Program"
 }

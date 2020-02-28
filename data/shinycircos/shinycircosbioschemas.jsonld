@@ -19,8 +19,8 @@
   "sc:name": "shinyCircos",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/venyao/shinyCircos"
 }
