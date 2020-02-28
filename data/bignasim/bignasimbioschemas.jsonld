@@ -17,9 +17,9 @@
   ],
   "sc:author": [
     "Adam Hospital",
-    "Laia Codó",
+    "Pau Andrio",
     "Cesare Cugnasco",
-    "Pau Andrio"
+    "Laia Codó"
   ],
   "sc:description": "Comprehensive platform including a database system and an analysis portal, aimed to be a general database for handling nucleic acids simulations.",
   "sc:name": "BigNASim",
@@ -27,8 +27,8 @@
   "sc:provider": [
     "Institute of Research In Biomedicine - Barcelona",
     "Technic University of Catalonia",
-    "Barcelona Supercomputing Center",
-    "University of Barcelona"
+    "University of Barcelona",
+    "Barcelona Supercomputing Center"
   ],
   "sc:url": "http://mmb.irbbarcelona.org/BIGNASim/"
 }

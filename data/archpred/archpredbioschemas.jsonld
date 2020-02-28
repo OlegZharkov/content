@@ -17,8 +17,8 @@
   "sc:name": "ArchPred",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.bioinsilico.org/ARCHPRED/"
 }

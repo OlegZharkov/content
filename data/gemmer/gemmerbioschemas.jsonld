@@ -17,8 +17,8 @@
   "sc:name": "GEMMER",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://gemmer.barberislab.com"
 }

@@ -37,8 +37,8 @@
       "sc:name": "Funmap2",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/wzhy2000/Funmap2",
       "sc:version": "2.4.2"

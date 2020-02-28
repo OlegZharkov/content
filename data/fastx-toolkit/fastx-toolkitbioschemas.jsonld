@@ -11,15 +11,15 @@
   "@id": "https://bio.tools/fastx-toolkit",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Suite"
+    "Suite",
+    "Web application"
   ],
   "sc:description": "Collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing.",
   "sc:license": "AGPL-3.0",
   "sc:name": "FASTX-Toolkit",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://hannonlab.cshl.edu/fastx_toolkit/"

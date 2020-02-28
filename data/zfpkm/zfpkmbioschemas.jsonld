@@ -14,17 +14,13 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-1880-3341",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/zfpkm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Ron Ammar",
         {
           "@id": "http://orcid.org/0000-0002-1880-3341"
-        }
+        },
+        "Ron Ammar"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -41,12 +37,16 @@
       "sc:license": "GPL-3.0",
       "sc:name": "zFPKM",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/zFPKM.html",
       "sc:version": "1.2.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-1880-3341",
+      "@type": "schema:Person"
     }
   ]
 }

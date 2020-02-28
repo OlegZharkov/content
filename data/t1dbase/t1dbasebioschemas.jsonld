@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/t1dbase",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Oliver S. Burren",
-    "Contact Form"
+    "Contact Form",
+    "Oliver S. Burren"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20937630",

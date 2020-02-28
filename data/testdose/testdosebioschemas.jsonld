@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/testdose",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "M. Bardies",
     "L. Ferrer",
+    "M. Bardies",
     "D. Villoing"
   ],
   "sc:additionalType": "Desktop application",

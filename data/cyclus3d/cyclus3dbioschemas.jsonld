@@ -14,8 +14,8 @@
   "sc:description": "Cytoscape plugin for identifying functional modules in integrated networks composed of multiple interaction types.",
   "sc:name": "CyClus3D",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "ugent.be",

@@ -15,8 +15,8 @@
   "sc:name": "TeraStitcher",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://abria.github.io/TeraStitcher/",
   "sc:version": "1.9.2"

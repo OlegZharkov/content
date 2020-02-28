@@ -17,8 +17,8 @@
   "sc:name": "Plant Experimental Assay Ontology (PEAO)",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://bitbucket.org/PlantExpAssay/ontology"
 }

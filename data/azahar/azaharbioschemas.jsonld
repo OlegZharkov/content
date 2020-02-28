@@ -17,8 +17,8 @@
   "sc:name": "Azahar",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://pymolwiki.org/index.php/Azahar"
 }

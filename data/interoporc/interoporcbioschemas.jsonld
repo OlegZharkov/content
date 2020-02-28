@@ -17,8 +17,8 @@
   "sc:name": "InteroPORC",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://biodev.extra.cea.fr/interoporc/"
 }

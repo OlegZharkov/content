@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK BBSRC",
+    "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:description": "Find programs by EDAM operation.",
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "wossoperation",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/wossoperation.html",
   "sc:version": "r6"

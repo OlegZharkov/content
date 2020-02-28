@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0075448",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/nessm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
@@ -28,10 +32,6 @@
       "sc:name": "NeSSM",
       "sc:operatingSystem": "Linux",
       "sc:url": "http://cbb.sjtu.edu.cn/~ccwei/pub/software/NeSSM.php"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0075448",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

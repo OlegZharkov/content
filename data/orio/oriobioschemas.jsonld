@@ -36,9 +36,9 @@
       ],
       "sc:name": "ORIO",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://orio.niehs.nih.gov/"
     }

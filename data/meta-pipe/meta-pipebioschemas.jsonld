@@ -12,11 +12,11 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Espen Robert Mikalsen",
-    "Erik Hjerde",
     "Tim Kahlke",
+    "Espen Robert Mikalsen",
+    "Edvard Pedersen",
     "Inge Alexander Raknes",
-    "Edvard Pedersen"
+    "Erik Hjerde"
   ],
   "sc:description": "Metagenome and genome annotation tool. Used for prokaryota analysis on assembled contigs. It include gene prediction and domain annotation using MGA, Glimmer, BLAST and UniProt. Output formats supported are EMBL and TSV.",
   "sc:name": "Meta-pipe",

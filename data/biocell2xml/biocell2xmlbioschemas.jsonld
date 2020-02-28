@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/BioCell2XML",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Markus Pennerstorfer",
     "Carsten Wolff",
+    "Markus Pennerstorfer",
     "Günther Loose"
   ],
   "sc:citation": "pubmed:31119364",

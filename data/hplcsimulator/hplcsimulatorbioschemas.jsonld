@@ -15,8 +15,8 @@
   "sc:name": "hplcsimulator",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.hplcsimulator.org/"
 }

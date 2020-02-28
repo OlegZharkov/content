@@ -10,17 +10,21 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s13073-016-0391-z",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/clingen_pathogenicity_calculator",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
+        "pubmed:28081714",
         {
           "@id": "https://doi.org/10.1186/s13073-016-0391-z"
         },
-        "pubmed:28081714",
         "pmcid:PMC5228115"
       ],
       "sc:description": "The tool enables to assess the pathogenity of Mendelian germline sequence variants.",
@@ -39,14 +43,10 @@
       "sc:name": "ClinGen Pathogenicity Calculator",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://calculator.clinicalgenome.org/site/cg-calculator"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s13073-016-0391-z",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

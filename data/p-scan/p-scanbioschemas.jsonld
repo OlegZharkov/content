@@ -21,8 +21,8 @@
   "sc:name": "P-SCAN",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://abs.cit.nih.gov/pscan/"
 }

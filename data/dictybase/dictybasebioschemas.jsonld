@@ -15,8 +15,8 @@
   "sc:name": "dictyBase",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "Center for Genetic Medicine, Northwestern University",
   "sc:url": "http://dictybase.org/"

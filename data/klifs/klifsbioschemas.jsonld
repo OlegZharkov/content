@@ -11,27 +11,27 @@
   "@id": "https://bio.tools/klifs",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dr. Albert J. Kooistra",
-    "Dr. Chris de Graaf"
+    "Dr. Chris de Graaf",
+    "Dr. Albert J. Kooistra"
   ],
   "sc:additionalType": [
-    "Web API",
+    "Web application",
     "Database portal",
-    "Command-line tool",
-    "Web application"
+    "Web API",
+    "Command-line tool"
   ],
   "sc:author": [
-    "Oscar P.J. van Linden",
-    "Georgi K. Kanev",
     "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
+    "Oscar P.J. van Linden",
     "Chris de Graaf",
-    "Albert J. Kooistra"
+    "Albert J. Kooistra",
+    "Georgi K. Kanev"
   ],
   "sc:contributor": [
-    "Netherlands eScience Center (NLeSC)",
+    "Rob Leurs",
     "Amsterdam Academic Alliance",
-    "Iwan J.P. de Esch",
-    "Rob Leurs"
+    "Netherlands eScience Center (NLeSC)",
+    "Iwan J.P. de Esch"
   ],
   "sc:description": "Revolves around the structure of kinases in PDB and the way kinase inhibitors can interact with them. It also features automated annotation methods for (i) the assessment of ligand-targeted subpockets; the analysis of (ii) DFG and (iii) α-helix conformations; improved and automated protocols for (iv) the generation of sequence/structure alignments; (v) the curation of ligand atom and bond typing for accurate IFP analysis and (vi) weekly database updates.",
   "sc:funder": [
@@ -40,8 +40,8 @@
   ],
   "sc:name": "KLIFS",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

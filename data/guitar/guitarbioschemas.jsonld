@@ -29,10 +29,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_3170"
         }
       ],
       "sc:citation": [
@@ -49,9 +49,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "Guitar",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Guitar.html",
       "sc:version": "1.12.0"

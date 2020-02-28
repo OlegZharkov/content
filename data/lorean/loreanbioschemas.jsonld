@@ -18,8 +18,8 @@
         {
           "@id": "https://doi.org/10.1104/pp.18.00848"
         },
-        "pubmed:30401722",
-        "pmcid:PMC6324239"
+        "pmcid:PMC6324239",
+        "pubmed:30401722"
       ],
       "sc:description": "Automated eukaryotic genome annotation based on long-read cDNA sequencing.",
       "sc:featureList": [

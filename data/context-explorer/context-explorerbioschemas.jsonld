@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Joel Ostblom",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pmcid:PMC6331134",
         "pubmed:30601802",
+        "pmcid:PMC6331134",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1006384"
         }
@@ -38,8 +38,8 @@
       "sc:name": "Context-explorer",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://contextexplorer.readthedocs.io/en/latest/"
     }

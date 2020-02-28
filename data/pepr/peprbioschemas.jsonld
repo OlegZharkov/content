@@ -17,8 +17,8 @@
   "sc:name": "PePr",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://sartorlab.ccmb.med.umich.edu/node/6"
 }

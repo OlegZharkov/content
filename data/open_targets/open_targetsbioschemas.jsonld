@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/Open_Targets",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
     "Database portal",
+    "Web application",
     "Web service"
   ],
   "sc:citation": [
@@ -23,8 +23,8 @@
   "sc:license": "Unlicense",
   "sc:name": "Open Targets",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://www.opentargets.org/"

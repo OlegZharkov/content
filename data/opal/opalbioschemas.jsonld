@@ -19,8 +19,8 @@
   "sc:name": "OPAL",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.alok-ai-lab.com/tools/opal/"
 }

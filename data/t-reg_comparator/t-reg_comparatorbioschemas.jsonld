@@ -17,8 +17,8 @@
   "sc:name": "T-Reg Comparator",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://treg.molgen.mpg.de/"
 }

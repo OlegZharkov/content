@@ -14,10 +14,10 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Jeffrey J. Essner",
-        "Stephen C. Ekker",
         {
           "@id": "https://orcid.org/0000-0001-5930-4111"
-        }
+        },
+        "Stephen C. Ekker"
       ],
       "sc:additionalType": [
         "Web application",
@@ -27,9 +27,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Gene Sculpt Suite",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://www.genesculpt.org"
     },

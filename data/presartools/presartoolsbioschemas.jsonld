@@ -16,8 +16,8 @@
   "sc:name": "presartools",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/PF2-pasteur-fr/SARTools",
   "sc:version": "0.1.0"

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/matchmaker_exchange",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Web API"
+        "Web API",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:26295439",
@@ -26,10 +26,10 @@
       "sc:description": "A platform for rare disease gene discovery. It connects databases of genotypes and rare phenotypes via a common application programming interface (API).",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_2421"
         },
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3197"
         },
         {
           "@id": "edam:operation_3760"

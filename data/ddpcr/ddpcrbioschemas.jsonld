@@ -16,15 +16,15 @@
         "@id": "http://orcid.org/0000-0002-6983-2759"
       },
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.12688/f1000research.9022.1"
         },
-        "pmcid:PMC5031129",
-        "pubmed:27703666"
+        "pubmed:27703666",
+        "pmcid:PMC5031129"
       ],
       "sc:description": "ddpcr is a R package for droplet digital polymerase chain reaction visualization and analysis.",
       "sc:featureList": {
@@ -34,8 +34,8 @@
       "sc:name": "ddpcr",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://daattali.com/shiny/ddpcr/"
     },

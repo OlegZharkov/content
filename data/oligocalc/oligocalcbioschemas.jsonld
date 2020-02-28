@@ -17,8 +17,8 @@
   "sc:name": "OligoCalc",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.basic.northwestern.edu/biotools/OligoCalc.html"
 }

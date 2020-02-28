@@ -17,8 +17,8 @@
   "sc:name": "PriFi",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://services.birc.au.dk/prifi/"
 }

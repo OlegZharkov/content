@@ -27,8 +27,8 @@
       },
       "sc:name": "cnvOffSeq",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/cnvoffseq/"
     },

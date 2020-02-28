@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "lme4qtl",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://github.com/variani/lme4qtl"
     }

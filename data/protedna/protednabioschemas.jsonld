@@ -17,8 +17,8 @@
   "sc:name": "ProteDNA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://serv.csbb.ntu.edu.tw/ProteDNA/index.php"
 }

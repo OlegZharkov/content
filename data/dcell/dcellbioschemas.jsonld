@@ -17,8 +17,8 @@
   "sc:name": "DCell",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://d-cell.ucsd.edu/"
 }

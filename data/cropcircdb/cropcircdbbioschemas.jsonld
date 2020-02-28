@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-2425-3526",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/DATABASE/BAZ053",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/CropCircDB",
@@ -38,14 +38,14 @@
       "sc:name": "CropCircDB",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://deepbiology.cn/crop/"
     },
     {
-      "@id": "https://doi.org/10.1093/DATABASE/BAZ053",
-      "@type": "sc:CreativeWork"
+      "@id": "https://orcid.org/0000-0002-2425-3526",
+      "@type": "schema:Person"
     }
   ]
 }

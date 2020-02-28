@@ -44,8 +44,8 @@
       "sc:name": "M1CR0B1AL1Z3R",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://microbializer.tau.ac.il/"
     }

@@ -17,8 +17,8 @@
   "sc:name": "GlycoViewer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.glycoviewer.babs.unsw.edu.au"
 }

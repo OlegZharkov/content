@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/rcellminer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Augustin Luna",
-        "Vinodh Rajapakse"
+        "Vinodh Rajapakse",
+        "Augustin Luna"
       ],
       "edam:has_input": {
         "@id": "edam:data_0990"
@@ -32,24 +32,24 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3366"
-        },
-        {
-          "@id": "edam:topic_0622"
+          "@id": "edam:topic_3373"
         },
         {
           "@id": "edam:topic_2640"
         },
         {
-          "@id": "edam:topic_3373"
+          "@id": "edam:topic_3365"
         },
         {
-          "@id": "edam:topic_3365"
+          "@id": "edam:topic_3366"
+        },
+        {
+          "@id": "edam:topic_0622"
         }
       ],
       "sc:citation": [
@@ -67,8 +67,8 @@
       "sc:name": "rcellminer",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/rcellminer.html",
       "sc:version": "1.6.0"

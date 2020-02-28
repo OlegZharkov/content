@@ -17,8 +17,8 @@
   "sc:name": "snoGPS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://lowelab.ucsc.edu/snoGPS/"
 }

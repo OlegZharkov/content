@@ -15,8 +15,8 @@
   "sc:name": "PON-Diso",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "bils.se",
   "sc:url": "http://structure.bmc.lu.se/PON-Diso/",

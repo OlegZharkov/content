@@ -22,8 +22,8 @@
   "sc:name": "PathRNet",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://compgenomics.utsa.edu/tvnet.html"
 }

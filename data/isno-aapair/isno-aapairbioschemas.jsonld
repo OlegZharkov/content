@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.7717/peerj.171",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/isno-aapair",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -29,10 +33,6 @@
         "Linux"
       ],
       "sc:url": "http://app.aporc.org/iSNO-AAPair/"
-    },
-    {
-      "@id": "https://doi.org/10.7717/peerj.171",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

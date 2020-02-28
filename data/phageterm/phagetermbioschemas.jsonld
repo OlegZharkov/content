@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Marc Monot",
-    "Julian Garneau",
-    "David Bikard"
+    "David Bikard",
+    "Julian Garneau"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Determining Bacteriophage Termini and Packaging using NGS data.",
   "sc:license": "CC-BY-4.0",
   "sc:name": "PhageTerm",
   "sc:operatingSystem": [
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://sourceforge.net/projects/phageterm/"
 }

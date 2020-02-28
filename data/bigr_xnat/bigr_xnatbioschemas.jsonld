@@ -18,8 +18,8 @@
   "sc:name": "BIGR XNAT",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "Erasmus MC",
   "sc:url": "https://bigr-xnat.erasmusmc.nl",

@@ -36,9 +36,9 @@
       ],
       "sc:name": "Panorama",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://panoramaweb.org/project/home/begin.view?"
     }

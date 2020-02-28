@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/adsn",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Owen J. L. Rackham",
     "Enrico Petretto",
+    "Owen J. L. Rackham",
     "Jose M. Polo"
   ],
   "sc:additionalType": "Web application",

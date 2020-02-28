@@ -17,8 +17,8 @@
   "sc:name": "EMAGE",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.emouseatlas.org/emage/"
 }

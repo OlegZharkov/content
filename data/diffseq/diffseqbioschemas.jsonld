@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "EMBOSS Contributors",
     "UK MRC",
     "UK BBSRC",
-    "EMBOSS Contributors",
     "Wellcome Trust"
   ],
   "sc:description": "Compare and report features of two similar sequences.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "diffseq",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

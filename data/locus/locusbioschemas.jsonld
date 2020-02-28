@@ -15,8 +15,8 @@
   "sc:name": "LOCUS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://stormo.wustl.edu/resources.html"
 }

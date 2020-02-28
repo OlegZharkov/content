@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/nrg-cing",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Gert Vriend",
     "Jurgen F. Doreleijers",
+    "Gert Vriend",
     "Geerten W. Vuister"
   ],
   "sc:additionalType": "Database portal",

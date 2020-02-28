@@ -20,10 +20,10 @@
         "@id": "http://orcid.org/0000-0001-7522-4007"
       },
       "sc:additionalType": [
-        "Library",
         "Web application",
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Library",
+        "Command-line tool"
       ],
       "sc:author": {
         "@id": "http://orcid.org/0000-0001-7522-4007"

@@ -17,8 +17,8 @@
   "sc:name": "CHARMM-GUI",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.charmm-gui.org"
 }

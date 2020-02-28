@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-1196-6826",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/gips",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -45,6 +41,10 @@
         "Mac"
       ],
       "sc:url": "https://github.com/synergy-zju/gips/wiki"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-1196-6826",
+      "@type": "schema:Person"
     }
   ]
 }

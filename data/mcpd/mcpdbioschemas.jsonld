@@ -17,8 +17,8 @@
   "sc:name": "MCPD",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioinformatics.rutgers.edu/Software/MCPD/"
 }

@@ -24,8 +24,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "EMBL-EBI",
-    "GIRI"
+    "GIRI",
+    "EMBL-EBI"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/so/censor/",
   "sc:version": "1"

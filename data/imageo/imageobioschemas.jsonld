@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://orcid.org/0000-0002-5186-0735",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/ImaGEO",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -33,10 +37,6 @@
         "Windows"
       ],
       "sc:url": "http://bioinfo.genyo.es/imageo/"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-5186-0735",
-      "@type": "schema:Person"
     }
   ]
 }

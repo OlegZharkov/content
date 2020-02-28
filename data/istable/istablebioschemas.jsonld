@@ -16,8 +16,8 @@
   "sc:name": "iStable",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://predictor.nchu.edu.tw/istable/"
 }

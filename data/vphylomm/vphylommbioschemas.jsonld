@@ -16,8 +16,8 @@
   "sc:name": "vPhyloMM",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://vphylomm.sourceforge.net/"
 }

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Universität Bayreuth, Department of Mycology",
   "sc:additionalType": [
-    "Web application",
-    "Desktop application"
+    "Desktop application",
+    "Web application"
   ],
   "sc:author": "Universität Bayreuth, Department of Mycology",
   "sc:contributor": "SNSB IT Center",
@@ -21,8 +21,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "NaviKey",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "SNSB IT Center",

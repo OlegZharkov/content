@@ -20,8 +20,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "cipf.es",
     "Computational Genomics Department. Prince Felipe Research Center (CIPF)",
+    "cipf.es",
     "http://bioinfo.cipf.es"
   ],
   "sc:url": "http://babelomics.bioinfo.cipf.es/",

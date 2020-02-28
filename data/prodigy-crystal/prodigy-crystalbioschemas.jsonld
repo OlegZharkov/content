@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-7369-1322",
+      "@type": "schema:Organization"
+    },
+    {
       "@id": "https://bio.tools/PRODIGY-crystal",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Anna Vangone",
         {
           "@id": "http://orcid.org/0000-0001-7369-1322"
-        }
+        },
+        "Anna Vangone"
       ],
       "sc:additionalType": [
         "Web service",
@@ -27,14 +31,10 @@
       "sc:name": "PRODIGY-CRYSTAL",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://bianca.science.uu.nl/prodigy/cryst"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-7369-1322",
-      "@type": "schema:Organization"
     }
   ]
 }

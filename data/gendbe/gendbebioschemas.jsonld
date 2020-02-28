@@ -23,8 +23,8 @@
         "@id": "edam:topic_0085"
       },
       "sc:citation": [
-        "pmcid:PMC3888431",
         "pubmed:24427317",
+        "pmcid:PMC3888431",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0085568"
         }
@@ -40,9 +40,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "GenDBE",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "bigi",
       "sc:softwareHelp": {

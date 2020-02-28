@@ -19,8 +19,8 @@
   "sc:name": "DIMM-SC",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.pitt.edu/~wec47/singlecell.html"
 }

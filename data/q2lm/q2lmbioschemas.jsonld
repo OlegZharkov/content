@@ -19,8 +19,8 @@
   "sc:name": "Q2LM",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.ebi.ac.uk/saezrodriguez/cno/matlab/"
 }

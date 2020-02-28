@@ -21,8 +21,8 @@
       },
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pubmed:31072374",
         "pmcid:PMC6509810",
+        "pubmed:31072374",
         {
           "@id": "https://doi.org/10.1186/S12915-019-0657-1"
         }
@@ -40,8 +40,8 @@
       "sc:name": "SurfCut",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/sverger/SurfCut"
     },

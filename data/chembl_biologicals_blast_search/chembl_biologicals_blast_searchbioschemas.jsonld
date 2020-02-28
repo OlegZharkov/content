@@ -16,8 +16,8 @@
   "sc:description": "BLAST search against biological molecules (e.g. mAbs) stored in ChEMBL database.",
   "sc:name": "ChEMBL API",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "EMBL-EBI",

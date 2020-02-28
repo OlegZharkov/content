@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkx1195",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/pasd-qc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Maxwell Sherman",
-        "Peter Park"
+        "Peter Park",
+        "Maxwell Sherman"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -35,10 +31,14 @@
       "sc:name": "PaSD-qc",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/parklab/PaSDqc"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkx1195",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

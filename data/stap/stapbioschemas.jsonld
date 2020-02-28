@@ -17,8 +17,8 @@
   "sc:name": "STAP",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://psb.kobic.re.kr/STAP/refinement/"
 }

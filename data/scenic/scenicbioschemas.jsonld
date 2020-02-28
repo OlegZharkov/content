@@ -16,8 +16,8 @@
   "sc:license": "Other",
   "sc:name": "SCENIC",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://scenic.aertslab.org"

@@ -15,8 +15,8 @@
   "sc:name": "MyMiner",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://myminer.armi.monash.edu.au/"
 }

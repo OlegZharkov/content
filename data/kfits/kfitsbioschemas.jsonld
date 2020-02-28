@@ -19,8 +19,8 @@
   "sc:name": "Kfits",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://kfits.reichmannlab.com/fitter/"
 }

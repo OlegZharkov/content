@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "amt",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/package=amt",
       "sc:version": "0.0.6"

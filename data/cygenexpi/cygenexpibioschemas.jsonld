@@ -24,8 +24,8 @@
       "sc:license": "LGPL-3.0",
       "sc:name": "CyGenexpi",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/cas-bioinf/genexpi/wiki/CyGenexpi",

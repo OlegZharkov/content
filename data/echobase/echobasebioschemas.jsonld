@@ -15,8 +15,8 @@
   "sc:name": "EchoBASE",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "University of York",
   "sc:url": "http://www.york.ac.uk/res/thomas/"

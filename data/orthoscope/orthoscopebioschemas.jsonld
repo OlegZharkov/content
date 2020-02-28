@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jun Inoue",
       "sc:additionalType": [
-        "Desktop application",
-        "Web service"
+        "Web service",
+        "Desktop application"
       ],
       "sc:citation": [
         "pmcid:PMC6389317",
@@ -39,9 +39,9 @@
       "sc:license": "Unlicense",
       "sc:name": "ORTHOSCOPE",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://www.orthoscope.jp"
     },
