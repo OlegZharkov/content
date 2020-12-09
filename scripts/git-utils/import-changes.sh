@@ -5,8 +5,7 @@
 git config --local user.email "tpe-bot@github.com"
 git config --local user.name "Tools Platform Ecosystem bot"
 git add .
-pwd
-git status
+
 if git commit -m "bioconda import on $(date)"; then
   if $1; then
     git push
