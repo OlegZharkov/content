@@ -1,0 +1,44 @@
+{
+    "additionDate": "2020-01-09T17:49:02Z",
+    "biotoolsCURIE": "biotools:smarts-server",
+    "biotoolsID": "smarts-server",
+    "confidence_flag": "tool",
+    "description": "SMARTS is a social media-based addiction recovery and intervention targeting server.",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Visualisation",
+                    "uri": "http://edamontology.org/operation_0337"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://haddock9.sfsu.edu/",
+    "lastUpdate": "2021-01-16T13:58:59.227988Z",
+    "name": "SMARTS",
+    "owner": "zsmag19",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ800",
+            "pmid": "31647520"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Public health and epidemiology",
+            "uri": "http://edamontology.org/topic_3305"
+        },
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Natural language processing",
+            "uri": "http://edamontology.org/topic_0218"
+        }
+    ]
+}

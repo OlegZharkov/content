@@ -1,8 +1,10 @@
 {
+    "accessibility": "Open access",
     "additionDate": "2020-01-09T17:33:30Z",
     "biotoolsCURIE": "biotools:Gall-ID",
     "biotoolsID": "Gall-ID",
-    "confidence_flag": "high",
+    "confidence_flag": "tool",
+    "cost": "Free of charge",
     "credit": [
         {
             "email": "changj@science.oregonstate.edu",
@@ -10,7 +12,7 @@
             "typeEntity": "Person"
         }
     ],
-    "description": "tools for genotyping gall-causing phytopathogenic bacteria.\n\nIdentify strains isolated from Agrobacterium or Rhodococcus-induced galls using MLSA and other methods.\n\nIdentify Agrobacterium isolates using MLSA or whole genome sequences.\n\nIdentify Rhodococcus isolates using MLSA or whole genome sequences.\n\n||| COMMON LINK WITH (PUB. & NAME DIFFERENT) bio.tools/pgd (CGRB.OREGONSTATE.EDU)",
+    "description": "Tools for genotyping gall-causing phytopathogenic bacteria and identifying strains isolated from Agrobacterium or Rhodococcus-induced galls using MLSA and other methods.",
     "editPermission": {
         "type": "public"
     },
@@ -33,15 +35,18 @@
         }
     ],
     "homepage": "http://gall-id.cgrb.oregonstate.edu/",
-    "lastUpdate": "2020-01-09T17:33:30Z",
+    "lastUpdate": "2021-01-14T19:28:46.566833Z",
     "name": "Gall-ID",
     "owner": "Pub2Tools",
     "publication": [
         {
-            "doi": "10.7287/PEERJ.PREPRINTS.1998V2",
+            "doi": "10.7717/peerj.2222",
             "pmcid": "PMC4958008",
             "pmid": "27547538"
         }
+    ],
+    "toolType": [
+        "Bioinformatics portal"
     ],
     "topic": [
         {

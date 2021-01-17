@@ -1,0 +1,57 @@
+{
+    "additionDate": "2020-01-14T20:10:10Z",
+    "biotoolsCURIE": "biotools:slnpm",
+    "biotoolsID": "slnpm",
+    "confidence_flag": "tool",
+    "credit": [
+        {
+            "email": "zhangwen@mail.hzau.edu.cn",
+            "name": "Wen Zhang",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "niuyanqing@mail.scuec.edu.cn",
+            "name": "Yanqing Niu",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "LncRNA-miRNA interaction prediction through sequence-derived linear neighborhood propagation method with information combination.",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Pathway or network prediction",
+                    "uri": "http://edamontology.org/operation_3439"
+                },
+                {
+                    "term": "miRNA target prediction",
+                    "uri": "http://edamontology.org/operation_0463"
+                },
+                {
+                    "term": "miRNA expression analysis",
+                    "uri": "http://edamontology.org/operation_3792"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/BioMedicalBigDataMiningLab/SLNPM",
+    "lastUpdate": "2021-01-16T13:56:05.352682Z",
+    "name": "SLNPM",
+    "owner": "zsmag19",
+    "publication": [
+        {
+            "doi": "10.1186/S12864-019-6284-Y",
+            "pmcid": "PMC6923828",
+            "pmid": "31856716"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        }
+    ]
+}

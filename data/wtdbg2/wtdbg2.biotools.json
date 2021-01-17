@@ -2,8 +2,8 @@
     "additionDate": "2020-01-14T19:52:56Z",
     "biotoolsCURIE": "biotools:wtdbg2",
     "biotoolsID": "wtdbg2",
-    "confidence_flag": "high",
-    "description": "Fast and accurate long-read assembly with wtdbg2.\n\nRedbean: A fuzzy Bruijn graph approach to long noisy reads assembly.\n\ngit clone https://github.com/ruanjue/wtdbg2.\n\nWtdbg2 is a de novo sequence assembler for long noisy reads produced by PacBio or Oxford Nanopore Technologies (ONT). It assembles raw reads without error correction and then builds the consensus from intermediate assembly output. Wtdbg2 is able to assemble the human and even the 32Gb Axolotl genome at a speed tens of times faster than CANU and FALCON while producing contigs of comparable base accuracy.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'wtdbg2 2-17'",
+    "confidence_flag": "tool",
+    "description": "Wtdbg2 is a de novo sequence assembler for long noisy reads produced by PacBio or Oxford Nanopore Technologies (ONT). It assembles raw reads without error correction and then builds the consensus from intermediate assembly output. Wtdbg2 is able to assemble the human and even the 32Gb Axolotl genome at a speed tens of times faster than CANU and FALCON while producing contigs of comparable base accuracy.",
     "download": [
         {
             "type": "Binaries",
@@ -39,7 +39,7 @@
     "language": [
         "C"
     ],
-    "lastUpdate": "2020-01-14T19:52:56Z",
+    "lastUpdate": "2021-01-16T18:25:45.900010Z",
     "license": "GPL-3.0",
     "name": "wtdbg2",
     "owner": "Pub2Tools",

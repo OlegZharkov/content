@@ -1,0 +1,65 @@
+{
+    "additionDate": "2020-01-14T09:00:23Z",
+    "biotoolsCURIE": "biotools:slr-scaffold",
+    "biotoolsID": "slr-scaffold",
+    "confidence_flag": "tool",
+    "credit": [
+        {
+            "email": "luojunwei@hpu.edu.cn",
+            "name": "Junwei Luo",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "SLR is a scaffolding tool based on long reads and contig classification.",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genome assembly",
+                    "uri": "http://edamontology.org/operation_0525"
+                },
+                {
+                    "term": "Read mapping",
+                    "uri": "http://edamontology.org/operation_3198"
+                },
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/luojunwei/SLR",
+    "language": [
+        "C++",
+        "C"
+    ],
+    "lastUpdate": "2021-01-16T13:56:41.300207Z",
+    "license": "GPL-3.0",
+    "name": "SLR",
+    "owner": "zsmag19",
+    "publication": [
+        {
+            "doi": "10.1186/S12859-019-3114-9",
+            "pmcid": "PMC6820941",
+            "pmid": "31666010"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        },
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        },
+        {
+            "term": "DNA binding sites",
+            "uri": "http://edamontology.org/topic_3125"
+        }
+    ]
+}
