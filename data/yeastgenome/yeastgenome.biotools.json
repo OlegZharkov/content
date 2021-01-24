@@ -2,8 +2,8 @@
     "additionDate": "2020-01-09T18:27:52Z",
     "biotoolsCURIE": "biotools:yeastgenome",
     "biotoolsID": "yeastgenome",
-    "confidence_flag": "low",
-    "description": "Transcriptome visualization and data availability at the Saccharomyces Genome Database.\n\nThe Saccharomyces Genome Database (SGD) provides comprehensive integrated biological information for the budding yeast Saccharomyces cerevisiae.\n\nHsf1p-target genes (green) coalesce into foci after heat shock (nuclear pore complex, red).\n\nA restful web service for the Saccharomyces Genome Database (SGD).\n\nImage courtesy of S. Chowdhary and A. Kainth, Gross Lab, LSU Health Sciences Center.\n\nRap1-GFP and Calcofluor White staining of stationary phase cells.\n\nsome React components for genomic data visualization.\n\nForked from edwong57/YeastGenome-app.\n\n||| COMMON LINK WITH (PUB. & NAME DIFFERENT) bio.tools/YeastMine (YEASTGENOME.ORG ; GITHUB.COM/yeastgenome), bio.tools/yeastgfp (YEASTGENOME.ORG), bio.tools/sgd (YEASTGENOME.ORG), bio.tools/pymzml (GITHUB.COM).\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'JBrowse' (bio.tools/jbrowse)",
+    "confidence_flag": "tool",
+    "description": "Transcriptome visualization and data availability at the Saccharomyces Genome Database.",
     "editPermission": {
         "type": "public"
     },
@@ -26,7 +26,7 @@
         }
     ],
     "homepage": "http://www.yeastgenome.org",
-    "lastUpdate": "2020-01-09T18:27:52Z",
+    "lastUpdate": "2021-01-17T19:10:35.999578Z",
     "link": [
         {
             "type": [

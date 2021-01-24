@@ -2,8 +2,8 @@
     "additionDate": "2020-01-09T17:49:18Z",
     "biotoolsCURIE": "biotools:VDJdb",
     "biotoolsID": "VDJdb",
-    "confidence_flag": "high",
-    "description": "database extension, new analysis infrastructure and a T-cell receptor motif compendium.\n\nCurated database of T-cell receptor (TCR) sequences with known antigen specificities.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'VDJdb 2019'",
+    "confidence_flag": "tool",
+    "description": "VDJdb is a database extension, new analysis infrastructure and a T-cell receptor motif compendium.",
     "editPermission": {
         "type": "public"
     },
@@ -26,7 +26,7 @@
         }
     ],
     "homepage": "https://vdjdb.cdr3.net",
-    "lastUpdate": "2020-01-09T17:49:18Z",
+    "lastUpdate": "2021-01-16T17:52:31.297353Z",
     "name": "VDJdb",
     "owner": "Pub2Tools",
     "publication": [
@@ -37,7 +37,7 @@
     ],
     "topic": [
         {
-            "term": "Immunoproteins, genes and antigens",
+            "term": "Immunoproteins and antigens",
             "uri": "http://edamontology.org/topic_2830"
         },
         {

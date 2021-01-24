@@ -1,0 +1,74 @@
+{
+    "additionDate": "2020-01-14T09:26:33Z",
+    "biotoolsCURIE": "biotools:ttd-bidd",
+    "biotoolsID": "ttd-bidd",
+    "confidence_flag": "tool",
+    "description": "Therapeutic Target Database (TTD) s an enriched resource for facilitating research and early development of targeted therapeutics.",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Database search",
+                    "uri": "http://edamontology.org/operation_2421"
+                },
+                {
+                    "term": "Data retrieval",
+                    "uri": "http://edamontology.org/operation_2422"
+                },
+                {
+                    "term": "miRNA target prediction",
+                    "uri": "http://edamontology.org/operation_0463"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://db.idrblab.net/ttd/",
+    "lastUpdate": "2021-01-16T17:29:36.210185Z",
+    "link": [
+        {
+            "type": [
+                "Other"
+            ],
+            "url": "http://db.idrblab.org/ttd/"
+        },
+        {
+            "type": [
+                "Other"
+            ],
+            "url": "http://db.idrblab.net/ttd/"
+        }
+    ],
+    "name": "TTD",
+    "owner": "zsmag19",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ981",
+            "pmid": "31691823"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Pharmacology",
+            "uri": "http://edamontology.org/topic_0202"
+        },
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "Drug discovery",
+            "uri": "http://edamontology.org/topic_3336"
+        },
+        {
+            "term": "Preclinical and clinical studies",
+            "uri": "http://edamontology.org/topic_3379"
+        },
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        }
+    ]
+}

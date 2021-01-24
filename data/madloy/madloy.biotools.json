@@ -2,7 +2,10 @@
     "additionDate": "2019-11-14T19:36:34Z",
     "biotoolsCURIE": "biotools:MADloy",
     "biotoolsID": "MADloy",
-    "confidence_flag": "high",
+    "collectionID": [
+        "RIS3CAT VEIS"
+    ],
+    "confidence_flag": "tool",
     "description": "Robust detection of mosaic loss of chromosome Y from genotype-array-intensity data | R package to detect mosaic loss of Y events in SNP array and NGS data | R package to detect mosaic loss of Y events (LOY) from SNP array data",
     "editPermission": {
         "type": "public"
@@ -29,13 +32,16 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2019-11-14T19:36:34Z",
+    "lastUpdate": "2021-01-11T10:34:20.567357Z",
     "name": "MADloy",
     "owner": "Pub2Tools",
     "publication": [
         {
             "doi": "10.1101/764845"
         }
+    ],
+    "toolType": [
+        "Library"
     ],
     "topic": [
         {
