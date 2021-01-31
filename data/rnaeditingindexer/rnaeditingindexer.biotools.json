@@ -1,0 +1,65 @@
+{
+    "additionDate": "2020-01-09T18:25:17Z",
+    "biotoolsCURIE": "biotools:rnaeditingindexer",
+    "biotoolsID": "rnaeditingindexer",
+    "confidence_flag": "tool",
+    "description": "A tool for the calculation of RNA-editing index for RNA seq data.",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                },
+                {
+                    "term": "Genome indexing",
+                    "uri": "http://edamontology.org/operation_3211"
+                },
+                {
+                    "term": "Editing",
+                    "uri": "http://edamontology.org/operation_3096"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/a2iEditing/RNAEditingIndexer",
+    "language": [
+        "Shell",
+        "Java",
+        "C"
+    ],
+    "lastUpdate": "2021-01-15T19:41:35.688990Z",
+    "name": "RNAEditingIndexer",
+    "owner": "zsmag19",
+    "publication": [
+        {
+            "doi": "10.1038/S41592-019-0610-9",
+            "pmid": "31636457"
+        }
+    ],
+    "topic": [
+        {
+            "term": "RNA",
+            "uri": "http://edamontology.org/topic_0099"
+        },
+        {
+            "term": "Transcriptomics",
+            "uri": "http://edamontology.org/topic_3308"
+        },
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Enzymes",
+            "uri": "http://edamontology.org/topic_0821"
+        }
+    ]
+}

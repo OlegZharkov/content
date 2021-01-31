@@ -2,8 +2,8 @@
     "additionDate": "2020-01-14T20:02:50Z",
     "biotoolsCURIE": "biotools:Transition_Scale-Spaces",
     "biotoolsID": "Transition_Scale-Spaces",
-    "confidence_flag": "medium",
-    "description": "A Computational Theory for the Discretized Entorhinal Cortex.\n\nCode accompanying the Transition-Scale Spaces paper.\n\nThe repository contains code that was used to generate data and figures for Waniek, Transition scale-spaces: A computational theory for the discretized entorhinal cortex, 2019.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'transition scale-space'",
+    "confidence_flag": "tool",
+    "description": "A Computational Theory for the Discretized Entorhinal Cortex.",
     "editPermission": {
         "type": "public"
     },
@@ -21,7 +21,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2020-01-14T20:02:50Z",
+    "lastUpdate": "2021-01-16T17:15:04.000025Z",
     "license": "MIT",
     "name": "Transition Scale-Spaces",
     "owner": "Pub2Tools",

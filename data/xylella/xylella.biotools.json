@@ -2,8 +2,8 @@
     "additionDate": "2020-01-09T18:32:06Z",
     "biotoolsCURIE": "biotools:Xylella",
     "biotoolsID": "Xylella",
-    "confidence_flag": "very low",
-    "description": "Nanopore sequencing for the detection and the identification of Xylella fastidiosa subspecies and sequence types from naturally infected plant material.\n\nscripts for Xylella paper.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'MLST' (bio.tools/mlst), 'Xylella fastidiosa', 'fastidiosa', 'Xf'",
+    "confidence_flag": "tool",
+    "description": "Nanopore sequencing for the detection and the identification of Xylella fastidiosa subspecies and sequence types from naturally infected plant material.",
     "editPermission": {
         "type": "public"
     },
@@ -26,7 +26,7 @@
         "R",
         "Python"
     ],
-    "lastUpdate": "2020-01-09T18:32:06Z",
+    "lastUpdate": "2021-01-17T19:10:07.118897Z",
     "name": "Xylella",
     "owner": "Pub2Tools",
     "publication": [
